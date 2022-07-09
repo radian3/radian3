@@ -246,3 +246,6 @@ The United States has the largest incarceration rate in the world. In addition t
  
 <h2>Reparations</h2>
 A common talking point is whether or not black Americans should get reparations for slavery. It looks to me like Japanese-Americans received reparations after WW2 due to being placed in internment camps for 4 years. I think the US Government needs to be consistent with their rulings. If Japanese-Americans are getting reparations for 4 years of internment camps, then I think black Americans ought to receive reparations for 400 years of slavery. 
+
+<h2>Dictionary definitions</h2>
+I think it is common for two people to be arguing with each other without realizing that they have different interpretations of the definition of the word they are discussing. When discussing a potentially ambiguous word with someone, I first look up the dictionary definition and read it to the person I am discussing the word with. I read this definition to the other person and ask for their opinion on if it is okay to be using this definition as we discuss the word to together. This gets us on the same page and ensures we are discussing the same thing. I don't come up with my own definitions for words. I just use the dictionary definition. I think it is odd when others have their own definition for words that conflicts with what is in the dictionary.
