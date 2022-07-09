@@ -249,3 +249,6 @@ A common talking point is whether or not black Americans should get reparations 
 
 <h2>Dictionary definitions</h2>
 I think it is common for two people to be arguing with each other without realizing that they have different interpretations of the definition of the word they are discussing. When discussing a potentially ambiguous word with someone, I first look up the dictionary definition and read it to the person I am discussing the word with. I read this definition to the other person and ask for their opinion on if it is okay to be using this definition as we discuss the word to together. This gets us on the same page and ensures we are discussing the same thing. I don't come up with my own definitions for words. I just use the dictionary definition. I think it is odd when others have their own definition for words that conflicts with what is in the dictionary.
+
+<h2>Note taking</h2>
+When I receive important information, I like to write it down so I make sure that I do not forget/can look it up as needed. I use Microsoft OneNote to store my notes. I recommend doing the same.
