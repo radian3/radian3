@@ -16,31 +16,31 @@ At the moment, I am not opposed to abortion being legal and I do not look down o
 <h2>Same-Sex marriage</h2>
 I think same-sex marriage should be legal. Having same-sex marriage being legal does not harm me in any way. In addition to that, it will help make another group of people much happier. 
  
-# Interracial Dating/Marriage</h2> 
+<h2>Interracial Dating/Marriage</h2> 
 I think that when it comes to finding a partner, you want to think about what is going to make you happiest. 
  
 Some people want their partner to have the same race as them so they can relate in certain areas and better understand each other. I don't see anything wrong with that. If that is what is going to make you happiest then you should date within your race. 
  
 Some people may happen to date outside of their race. I don't see a problem with that as long as there is no fetishization/objectification going on. You have to date whoever will make you happiest. Sometimes, that might be someone outside of their race. Sometimes, I will see people who date outside of their race bash their own race. I also think that it is important for people who date outside of their race to not be putting down their own race of men/women as they date outside of their race. 
  
-# Should you go to college? If so, how do you determine which major should you choose? 
+<h2>Should you go to college? If so, how do you determine which major should you choose? 
 I think you want to brainstorm which career will make you happiest and then do whichever college education is necessary for that career. Why not just brainstorm which field of study will be the most fun to study in college and then major in that? Well, the career you have may last you 40 years whereas college is only going to last you 2-10 years (4 years for most) depending on what you are studying in college. Wouldn't you much rather do something you love for 40 years as opposed to only 2-10 years? 
  
 Okay, I was slightly misleading there. I don't think everyone should go to college. Depending on the career that will make you happiest, it may or may not be worth it to go to college. If it is worth it to go to college, follow the advice of the previous paragraph. Otherwise, don't go to college. 
  
-# Legal/Illegal Immigration 
+<h2>Legal/Illegal Immigration 
 I don't view people who were born in a different country than me as less important. A person does not choose which country they are born in. So I think that people from other countries need to have the ability to come to my country. I think there does need to be some restrictions/vetting in order to determine who is eligible to enter our country. For example, we only have a limited number of jobs, housing, and other resources so we do have to have some limit in terms of how many people can be admitted to our country. I think that we certainly hope to be primarily admitting people who are in good standing with their country. 
  
 For the most part, I feel like I am leaning towards being more lenient about allowing others into our country. I get that certain approaches of allowing others to our country can lower the quality of life of people in our country. I hear people saying things to the effects of "they are stealing our jobs." I don't know. I want to do more research on the topic and then add more thoughts to this section later. 
  
 As far as illegal immigration goes, I also want to do more research on that too. I do not personally feel bothered by the amount of illegal immigration that our country has at the moment. 
  
-# Children born out of wedlock 
+<h2>Children born out of wedlock 
 If I have kids, I hope for them to have a very high quality of life. I hope for them to be successful. Kids who grow up in two parent households are much more likely to be successful. For this reason, I am only open to having kids if I am already married. I just want to take the steps to increase the chance that kids grow up in a two-parent household. 
  
 I think things can go unexpectedly wrong and you may end up raising a child in a one-parent household. I understand. I think you want to just give your best effort to try and take the right steps and then if you end up raising a child in a one-parent household, that's fine. 
  
-# Colorblindness and the "I don't see color" saying 
+<h2>Colorblindness and the "I don't see color" saying 
 Each person can be placed into one of three categories: 
 1) those who see race and don't discriminate 
 2) those who do not see race and don't discriminate (colorblind) 
@@ -51,26 +51,26 @@ aren't contributing to reducing racism either. So that's the problem. Maybe you 
  
 If we didn't have anyone part of 3) in the world, then I think being in 2) would be totally fine. But because we have people in 3), we need people in 1) to combat the people in 3). 
  
-# Should schools discuss slavery? Race? 
+<h2>Should schools discuss slavery? Race? 
 It seems some states are moving to ban the teaching of slavery in schools. It seems the most common reason provided for this is that discussing slavery makes students uncomfortable and makes them have less respect for their country. 
  
 I don't like the idea of "we should only teach kids the good/positive history." I think they need to know the country's history regardless of which things were good and which things were bad. When reading today's news, should you only hear about good things that happened? The reality is that if you are informed about both good and bad things about our country, it helps you with your decision making in life. If our country has a lot of bad things going on, we shouldn't suppress it. We should make it known and simply just do better. How do you address a problem if you don't know there is a problem to begin with? 
  
 I think teaching kids about slavery and discrimination based on race is a good idea. I think it is good to be objective/factual. Provide data/stats where needed. It'll make some kids uncomfortable but it's worth it. 
  
-# Should schools discuss LGBTQ? 
+<h2>Should schools discuss LGBTQ? 
 Some parents feel that schools are forcing LGBTQ beliefs down their kids' throats. I think schools should teach people what LGBTQ stands for and what each letter means. Schools can mention which % of people are LGBTQ in the United States too. I don't think schools need to do much more than that. I don't think schools need to be requiring students to attend pride marches or anything like that. 
  
 I do not identify as LGBTQ. I will state that I think there should be no discrimination against LGBTQ. 
  
-# Religion 
+<h2>Religion 
 It seems like something special has been going on because how was Earth made? How was the first person born? So maybe there is a God of some sort. But there's so many different religions and so many different interpretations that it is just tough to know which religion, if any, has the correct interpretation of the world. It just doesn't feel like there is a bunch of obvious evidence as to which one is correct. 
  
 I feel that the most important thing is to be as happy as possible and if having a religion will make you happier, then go for it. I think there should be no discrimination based on religion. 
  
 I think it is okay for places like schools to provide some basic insight into religion such as which religions are the most common in the United States/world and what are the basic differences between religions. Other than that, I think schools should keep religion out of everything else unless it is specifically a religious school. I think we want to avoid forcing religious views onto people. 
  
-# Gun Violence 
+<h2>Gun Violence 
 It seems the USA has some of the most gun violence per capita in the world. I think our politicians need to start making changes to laws as a result of this. If politicians do not change laws, then I don't think anything will happen and we will continue to have a lot of gun violence. 
  
 What should be done? I want to give a disclaimer that I haven't done much research on this topic. My thought is we need to at least do these things: 
