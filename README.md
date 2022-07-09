@@ -1,4 +1,4 @@
-# The most important thing in life 
+<h3> The most important thing in life</h3> 
 The most important thing in life is to be as happy as possible for as long as possible. Instead of viewing your happiness as 0 or 100, you should view your happiness as 0-100. So you view your happiness as a number from 0 (no happiness) to 100 (as happy as possible). Instead of saying "I just want to be happy", you should say "I want to be as happy as possible." Two people may both be happy but one might be quite a bit more happier than the other. Be as happy as possible. 
  
 This works for almost any decision in life. Which career should I go into? Go into the one that will make you as happy as possible. Which city should my family move to? Move to the city that will make your family as happy as possible. 
