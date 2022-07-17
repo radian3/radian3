@@ -10,12 +10,16 @@ Black women appear to be objectified/viewed as a sexual object at a higher rate 
 
 When a woman is speaking, do not interupt her. Let her speak and listen to her.
 
-When a woman experiences some complications, listen to her and empathize with her. Validate her emotions.
+When a woman experiences some complications, listen to her and empathize with her. Validate her emotions and thoughts.
 
 Do not raise your voice at a woman or put your hands on her.
 
 Do not use any derogatory words towards women.
 
 When in a relationship with a woman, periodically request feedback on how you can do a better job.
+
+Uplift and empower your woman.
+
+Try and take the steps necessary to ensure your children grow up in a two-parent household. This increases the chance that the child is successful. It is good to aim to only have children after marriage in order to make the child more likely to grow up in a two-parent household. If you got your woman pregnant and you are not married, really consider marrying her!
 
 When a man is degrading a woman, step up and defend the woman. Tell the man to knock it off and that their behavior is inappropriate.
