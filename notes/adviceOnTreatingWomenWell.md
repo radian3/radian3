@@ -1,8 +1,8 @@
--texturism: this is considered to be discrimination based on hair texture (straighter hair is often times viewed as more favorable as kinky hair). We should be mindful of this and support a woman's hair texture regardless of which hair texture she has. We should support her in letting her wear whichever hair style she likes.
+Texturism: this is considered to be discrimination based on hair texture (straighter hair is often times viewed as more favorable as kinky hair). We should be mindful of this and support a woman's hair texture regardless of which hair texture she has. We should support her in letting her wear whichever hair style she likes.
 
--colorism: this is discrimination based on skin tone (lighter skin is often viewed as more favorable than darker skin). We should not talk down on a woman's skin tone or request that a woman should have a certain skin tone.
+Colorism: this is discrimination based on skin tone (lighter skin is often viewed as more favorable than darker skin). We should not talk down on a woman's skin tone or request that a woman should have a certain skin tone.
 
--featurism: discrimination based on features (eurocentric features are often viewed more favorable than afrocentric features). We should not request that a woman's figure needs to look a certain way. We should support whichever figure she has.
+Featurism: discrimination based on features (eurocentric features are often viewed more favorable than afrocentric features). We should not request that a woman's figure needs to look a certain way. We should support whichever figure she has.
 
 Black women tend to be a victim of texturism/colorism/featurism at a significantly higher rate than non-black women, which makes research on the topic more important.
 
