@@ -1,6 +1,6 @@
 ## Optimal strategy for men on clubhouse to learn how to treat women better
 
-This is an article written by a man with the intent of helping other men on clubhouse by providing the optimal strategy for learning how to treat women better.  
+You know the saying about fishing. “If you give a man a fish, you feed him for a day. If you teach a man to fish, you feed him for a lifetime.” This article won't teach men how to treat women better. This article will teach men how to LEARN how to treat women better. This is an article written by a man with the intent of helping other men.    
 
 So do men or women on clubhouse generally have a better feel for how men can treat women better? Well it's not men because 90% of men on clubhouse treat women terribly. So I'm going to say that the answer is women.
 
