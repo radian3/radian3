@@ -4,7 +4,7 @@ This is an article written by a man with the intent of helping other men on club
 
 So do men or women on clubhouse generally have a better feel for how men can treat women better? Well it's not men because 90% of men on clubhouse treat women terribly. So I'm going to say that the answer is women.
 
-<ins>Item #1: Women know more than men when it comes to how men can treat women better. Thus, you want to be learning from women.</ins>  
+<b>Item #1: Women know more than men when it comes to how men can treat women better. Thus, you want to be learning from women.</b>  
 
 Cool! You have now learned something. You have now leveled up from a level 0 man to a level 1 man. Each time you learn, your level will go up.
 
@@ -12,13 +12,13 @@ So all you have to do is ask women which things men need to do better? NO!!!! Bu
 
 Here is what you want to do. Go in women-led spaces that are venting about men. Don't say anything in the chat and don't go on stage. You are a level 1 man right now. Typing something in the chat or going on stage is too risky at level 1 because you don't know what you are doing and you might say something that will get you kicked out of the room. All you have to do is listen. You learn by listening right now. At some point, there will be a conversation on stage like this:
 
-Woman #1: In my past, I have had some bad experiences with men where _____________________ happened.  
-Woman #2: *shares her story, which is similar to woman #1*  
-Woman #3: *shares her story, which is similar to woman #1*  
-Man #1: So what do men need to do? How can men do better?  
-Woman #1, 2, and 3 at the same time: It is not women's responsibility to teach men how to treat women. Go talk to other men about that.  
+<b>Woman #1:</b> In my past, I have had some bad experiences with men where _____________________ happened.  
+<b>Woman #2:</b> *shares her story, which is similar to woman #1*  
+<b>Woman #3:</b> *shares her story, which is similar to woman #1*  
+<b>Man #1:</b> So what do men need to do? How can men do better?  
+<b>Woman #1, 2, and 3 at the same time:</b> It is not women's responsibility to teach men how to treat women. Go talk to other men about that.  
 
-<ins>Item #2: Women on clubhouse tend to not be interested in teaching men how to treat women. They tend to tell you to talk to other men.</ins>  
+<b>Item #2: Women on clubhouse tend to not be interested in teaching men how to treat women. They tend to tell you to talk to other men.</b>  
 
 Now that you have learned something else, you are now level 2! Most women feel it is not their responsibility to teach men how to treat women. They are right. Why should they have to teach men how to treat women? Are they getting paid? Also, women don't need men to teach them how to treat men.  
 
@@ -28,14 +28,14 @@ Now, I know what you are thinking. Item #1 states that we want to get our advice
 
 Continue going in women-led spaces that are venting about men. Now that you are a level 2 man, you are allowed to type in the chat but only in one very specific circumstance. You are allowed to type something in chat if a woman says something on stage and every woman on stage agrees with her. Only after the last woman agrees with her are you allowed to type in the chat. The only thing you are allowed to type in the chat is that you agree with the speakers. You are still not allowed to go on stage. Other than that, you are still just listening right now. At some point, there will be a conversation on stage like this:
 
-Woman #1: In my past, I have had some bad experiences with men where _____________________ happened.  
-Woman #2: *shares her story, which is similar to woman #1*  
-Woman #3: *shares her story, which is similar to woman #1*  
-Man #1: I don't know about the men that you ladies have been in contact with but I just want to let you all know that there are good men out there. I'm a good man.  
-Woman #1: All you had to do was come up here and say 'I am sorry you had these experiences. I acknowledge how challenging it must be and I wish the best for you.' Instead, you tried to invalidate my experiences and center yourself. I don't care if you are a good man. That doesn't change the fact that I had these negative experiences and you came in here to try and gaslight me.  
-Woman #1: \*kicks Man #1 off the stage\*  
+<b>Woman #1:</b> In my past, I have had some bad experiences with men where _____________________ happened.  
+<b>Woman #2:</b> *shares her story, which is similar to woman #1*  
+<b>Woman #3:</b> *shares her story, which is similar to woman #1*  
+<b>Man #1:</b> I don't know about the men that you ladies have been in contact with but I just want to let you all know that there are good men out there. I'm a good man.   
+<b>Woman #1:</b> All you had to do was come up here and say 'I am sorry you had these experiences. I acknowledge how challenging it must be and I wish the best for you.' Instead, you tried to invalidate my experiences and center yourself. I don't care if you are a good man. That doesn't change the fact that I had these negative experiences and you came in here to try and gaslight me.  
+<b>Woman #1:</b> \*kicks Man #1 off the stage\*  
 
-<ins>Item #3: When a woman is venting or communicating current/past hardships, do not invalidate her experience. Validate her experience.</ins>  
+<b>Item #3: When a woman is venting or communicating current/past hardships, do not invalidate her experience. Validate her experience.</b>  
 
 Did you just see what happened there? Item #2 states that women tend to not want to teach men. But, you just learned Item #3 from a woman. In fact, you also learned Item #2 from a woman. Now you know why Item #2 isn't that big of a problem. Most women who say that they don't teach men will actually teach men but without realizing it! Also, see how the man who came on stage got kicked out of the room? But you, who sat silently in the room without saying anything, didn't get kicked out? This is why you are silent. You aren't a high enough level yet. The guy who came on stage wasn't a high enough level either.  
 
