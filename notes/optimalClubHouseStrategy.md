@@ -10,7 +10,7 @@ Cool! You have now learned something. You have now leveled up from a level 0 man
 
 So all you have to do is ask women which things men need to do better? NO!!!! But Item #1 says to learn from women! Yes it does. But I can't ask women? Correct. I'll clear up potential confusion soon.
 
-Here is what you want to do. Go in women-led spaces that are venting about men. Don't say anything in the chat and don't go on stage. You are a level 1 man right now. Typing something in the chat or going on stage is too risky at level 1 because you don't know what you are doing and might say something that will get you kicked out of the room. All you have to do is listen. You learn by listening right now. At some point, there will be a conversation on stage like this:
+Here is what you want to do. Go in women-led spaces that are venting about men. Don't say anything in the chat and don't go on stage. You are a level 1 man right now. Typing something in the chat or going on stage is too risky at level 1 because you don't know what you are doing and you might say something that will get you kicked out of the room. All you have to do is listen. You learn by listening right now. At some point, there will be a conversation on stage like this:
 
 Woman #1: In my past, I have had some bad experiences with men where _____________________ happened.  
 Woman #2: *shares her story, which is similar to woman #1*  
@@ -20,7 +20,7 @@ Woman #1, 2, and 3 at the same time: It is not women's responsibility to teach m
 
 <ins>Item #2: Women on clubhouse tend to not be interested in teaching men how to treat women. They tend to tell you to talk to other men.</ins>  
 
-Now that you have learned something else, you are now level 2! Most women feel it is not their responsibility to teach men how to treat women. They are right. Why should they have to teach men how to treat women? Women don't need men to teach them how to treat men.  
+Now that you have learned something else, you are now level 2! Most women feel it is not their responsibility to teach men how to treat women. They are right. Why should they have to teach men how to treat women? Are they getting paid? Also, women don't need men to teach them how to treat men.  
 
 Be careful whenever a woman tells you that you should talk to other men about how to treat women better. Do NOT fall for this trap. I know this article is about listening to women but this is the ONE area where you shouldn't listen. 99% of men on clubhouse have NO idea how to treat women. Have you not seen just how bad men treat women on clubhouse? And this is the gender of people you think you should be going to for advice on how to treat women? LOL.  
 
@@ -31,9 +31,9 @@ Continue going in women-led spaces that are venting about men. Now that you are 
 Woman #1: In my past, I have had some bad experiences with men where _____________________ happened.  
 Woman #2: *shares her story, which is similar to woman #1*  
 Woman #3: *shares her story, which is similar to woman #1*  
-Man #1: "I don't know about the men that you ladies have been in contact with but I just want to let you all know that there are good men out there. I'm a good man."  
+Man #1: I don't know about the men that you ladies have been in contact with but I just want to let you all know that there are good men out there. I'm a good man.  
 Woman #1: All you had to do was come up here and say 'I am sorry you had these experiences. I acknowledge how challenging it must be and I wish the best for you.' Instead, you tried to invalidate my experiences and center yourself. I don't care if you are a good man. That doesn't change the fact that I had these negative experiences and you came in here to try and gaslight me.  
-Women #1: \*kicks Man #1 off the stage\*  
+Woman #1: \*kicks Man #1 off the stage\*  
 
 <ins>Item #3: When a woman is venting or communicating current/past hardships, do not invalidate her experience. Validate her experience.</ins>  
 
@@ -43,4 +43,4 @@ So now you know the general strategy. Go on clubhouse, look for women-led rooms 
 
 Each time you learn, you level up. At level 10, you are now allowed to talk on stage. But it needs to be on a burner. Once you get level 15, you are now allowed to talk on stage on your main clubhouse account. At some point in your journey, you will learn that not all women are the same. I know what you are thinking now. Women are complicated. Yeah. Every woman is different. So just because one woman says something, it doesn't guarantee that another woman has that same opinion. But the more women that you hear say the same thing, the higher the chance that any other woman selected at random has that opinion. So you need to be taking notes on advice that women are giving out as well as the number of women that are giving that advice.
 
-So now you have leveled up to 50 and are an expert of understanding women. What should you do next? Well, there's something really important to do next. Let me explain. At the start of this article, you saw that this article was written by a man who had the intent of explaining the optimal strategy for men to learn how to treat women. But Item #1 says to get advice on this from women. So why did you continue to read this article, that was written by a man, after reading Item #1? Go back to school. You need to learn how to read. I am resetting your level back to 0. Have fun, level 0 man!
+You have continued following the advice from this article and now you have leveled up to a level 50 man and are an expert of understanding how to treat women with respect. What should you do next? Well, there's something really important to do next. Let me explain. At the start of this article, you saw that this article was written by a man who had the intent of explaining the optimal strategy for men to learn how to treat women. But Item #1 says to get advice on this from women. So why did you continue to read this article, that was written by a man, after reading Item #1? Go back to school. You need to learn how to read. I am resetting your level back to 0. Have fun, level 0 man!
