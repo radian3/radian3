@@ -8,4 +8,13 @@ Cool! You have now learned something. You have now leveled up from a level 0 man
 
 So all you have to do is ask women which things men need to do? NO!!!! You will learn why in around one minute from now.
 
-Here is what you want to do. Go in women-led spaces that are talking about men. Don't say anything in the chat and don't go on stage. You are a level 1 man right now. Typing something in the chat or going on stage is too risky at level 1 because you don't know what you are doing and might say something that will get you kicked out of the room.
+Here is what you want to do. Go in women-led spaces that are venting about men. Don't say anything in the chat and don't go on stage. You are a level 1 man right now. Typing something in the chat or going on stage is too risky at level 1 because you don't know what you are doing and might say something that will get you kicked out of the room. All you have to do is listen. At some point, there will be a conversation on stage like this:
+
+Woman #1: In my past, I have had some bad experiences with men where _____________________ happened.
+Woman #2: *shares her story, which is similar to woman #1*
+Woman #3: *shares her story, which is similar to woman #1*
+Man #1: So what do men need to do? How can men do better?
+Woman #1, 2, and 3 at the same time: It is not women's responsibility to teach men how to treat women. Go talk to other men about that.
+
+
+a man will come up on stage and say "well I don't know about the men that you ladies have been in contact with but I just want to let you that there are good men out there.
