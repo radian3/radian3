@@ -16,5 +16,9 @@ Woman #3: *shares her story, which is similar to woman #1*
 Man #1: So what do men need to do? How can men do better?
 Woman #1, 2, and 3 at the same time: It is not women's responsibility to teach men how to treat women. Go talk to other men about that.
 
+*Item #2: Women on clubhouse tend to not be interested in "teaching" men how to treat women*
+
+Now that you have learned something else, you are now level 2! 
+
 
 a man will come up on stage and say "well I don't know about the men that you ladies have been in contact with but I just want to let you that there are good men out there.
