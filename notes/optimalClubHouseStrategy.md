@@ -1,5 +1,7 @@
 ## Optimal strategy for men on clubhouse to learn how to treat women better
 
+This is an article written by a man with the intent of helping other men on clubhouse learn the optimal strategy for learning how to treat women better.  
+
 So do men or women on clubhouse generally have a better feel for how men can treat women with respect? Well it's not men because 90% of men on clubhouse treat women terribly. So I'm going to say that women know more about how men can treat women right. Is it because they don't like women or is it because they don't know how to treat women better? I predict it's mostly both. But this article is for the later.
 
 *Item #1: Women tend to have a better understanding of how men can treat women than men do. Thus, it is generally better to learn from women.*
