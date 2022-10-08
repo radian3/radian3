@@ -18,7 +18,7 @@ Woman #3: *shares her story, which is similar to woman #1*
 Man #1: So what do men need to do? How can men do better?  
 Woman #1, 2, and 3 at the same time: It is not women's responsibility to teach men how to treat women. Go talk to other men about that.  
 
-<ins>Item #2: Women on clubhouse tend to not be interested in teaching men how to treat women. They tend to tell you to talk to other men</ins>  
+<ins>Item #2: Women on clubhouse tend to not be interested in teaching men how to treat women. They tend to tell you to talk to other men.</ins>  
 
 Now that you have learned something else, you are now level 2! Most women feel it is not their responsibility to teach men how to treat women. They are right. Why should they have to teach men how to treat women? Women don't need men to teach them how to treat men.  
 
@@ -33,7 +33,7 @@ Woman #2: *shares her story, which is similar to woman #1*
 Woman #3: *shares her story, which is similar to woman #1*  
 Man #1: "I don't know about the men that you ladies have been in contact with but I just want to let you all know that there are good men out there. I'm a good man."  
 Woman #1: All you had to do was come up here and say 'I am sorry you had these experiences. I acknowledge how challenging it must be and I wish the best for you.' Instead, you tried to invalidate my experiences and center yourself. I don't care if you are a good man. That doesn't change the fact that I had these negative experiences and you came in here to try and gaslight me.  
-Women #1: *kicks Man #1 off the stage*  
+Women #1: \*kicks Man #1 off the stage\*  
 
 <ins>Item #3: When a woman is venting or communicating current/past hardships, do not invalidate her experience. Validate her experience.</ins>  
 
