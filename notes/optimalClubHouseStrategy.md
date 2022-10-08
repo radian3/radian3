@@ -2,13 +2,13 @@
 
 This is an article written by a man with the intent of helping other men on clubhouse by providing the optimal strategy for learning how to treat women better.  
 
-So do men or women on clubhouse generally have a better feel for how men can treat women with respect? Well it's not men because 90% of men on clubhouse treat women terribly. So I'm going to say that women know more about how men can treat women right. Is it because they don't like women or is it because they don't know how to treat women better? I predict it's mostly both. But this article is for the later.
+So do men or women on clubhouse generally have a better feel for how men can treat women better? Well it's not men because 90% of men on clubhouse treat women terribly. So I'm going to say that the answer is women.
 
-*Item #1: Women tend to have a better understanding of how men can treat women than men do. Thus, you want to be learning from women.*
+*Item #1: Women know more than men when it comes to how men can treat women better. Thus, you want to be learning from women.*
 
 Cool! You have now learned something. You have now leveled up from a level 0 man to a level 1 man. Each time you learn, your level will go up.
 
-So all you have to do is ask women which things men need to do? NO!!!! But Item #1 says to learn from women! Yes it does. But I can't ask women? Correct. I'll clear up potential confusion soon.
+So all you have to do is ask women which things men need to do better? NO!!!! But Item #1 says to learn from women! Yes it does. But I can't ask women? Correct. I'll clear up potential confusion soon.
 
 Here is what you want to do. Go in women-led spaces that are venting about men. Don't say anything in the chat and don't go on stage. You are a level 1 man right now. Typing something in the chat or going on stage is too risky at level 1 because you don't know what you are doing and might say something that will get you kicked out of the room. All you have to do is listen. You learn by listening right now. At some point, there will be a conversation on stage like this:
 
@@ -18,9 +18,13 @@ Woman #3: *shares her story, which is similar to woman #1*
 Man #1: So what do men need to do? How can men do better?  
 Woman #1, 2, and 3 at the same time: It is not women's responsibility to teach men how to treat women. Go talk to other men about that.  
 
-*Item #2: Women on clubhouse tend to not be interested in teaching men how to treat women*
+*Item #2: Women on clubhouse tend to not be interested in teaching men how to treat women. They tend to tell you to talk to other men*  
 
-Now that you have learned something else, you are now level 2! Most women don't feel it is not their responsibility to teach men how to treat women. I agree with them. Now, I know what you are thinking. Item #1 states that women know better about how men can treat women with respect but Item #2 states that women don't want to teach men. Aren't we in a bit of a predicament here? The answer is no. We can still get all of the information we need from women. But how? You'll see in a moment.
+Now that you have learned something else, you are now level 2! Most women feel it is not their responsibility to teach men how to treat women. They are right. Why should they have to teach men how to treat women? Women don't need men to teach them how to treat men.  
+
+Be careful because some women might tell you that you should talk to other men about how to treat women better. Do NOT fall for this trap. I know this article is about listening to women but this is the ONE area where you shouldn't listen. 99% of men on clubhouse have NO idea how to treat women. Have you not seen just how bad men treat women on clubhouse? And this is the gender of people you think you should be going to for advice on how to treat women? LOL.  
+
+Now, I know what you are thinking. Item #1 states that we want to get our advice from women but Item #2 states that women don't want to teach men. Aren't we in a bit of a predicament here? The answer is no. We can still get all of the information we need from women. But how? You'll see in a moment.  
 
 Continue going in women-led spaces that are venting about men. Now that you are a level 2 man, you are allowed to type in the chat but only in one very specific circumstance. You are allowed to type something in chat if a woman says something on stage and every woman on stage agrees with her. Only after the last woman agrees with her are you allowed to type in the chat. The only thing you are allowed to type in the chat is that you agree with the speakers. You are still not allowed to go on stage. Other than that, you are still just listening right now. At some point, there will be a conversation on stage like this:
 
