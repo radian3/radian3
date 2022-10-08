@@ -8,19 +8,29 @@ Cool! You have now learned something. You have now leveled up from a level 0 man
 
 So all you have to do is ask women which things men need to do? NO!!!! You will learn why in around one minute from now.
 
-Here is what you want to do. Go in women-led spaces that are venting about men. Don't say anything in the chat and don't go on stage. You are a level 1 man right now. Typing something in the chat or going on stage is too risky at level 1 because you don't know what you are doing and might say something that will get you kicked out of the room. All you have to do is listen. At some point, there will be a conversation on stage like this:
+Here is what you want to do. Go in women-led spaces that are venting about men. Don't say anything in the chat and don't go on stage. You are a level 1 man right now. Typing something in the chat or going on stage is too risky at level 1 because you don't know what you are doing and might say something that will get you kicked out of the room. All you have to do is listen. You learn by listening right now. At some point, there will be a conversation on stage like this:
 
-Woman #1: In my past, I have had some bad experiences with men where _____________________ happened.
-Woman #2: *shares her story, which is similar to woman #1*
-Woman #3: *shares her story, which is similar to woman #1*
-Man #1: So what do men need to do? How can men do better?
-Woman #1, 2, and 3 at the same time: It is not women's responsibility to teach men how to treat women. Go talk to other men about that.
+Woman #1: In my past, I have had some bad experiences with men where _____________________ happened.  
+Woman #2: *shares her story, which is similar to woman #1*  
+Woman #3: *shares her story, which is similar to woman #1*  
+Man #1: So what do men need to do? How can men do better?  
+Woman #1, 2, and 3 at the same time: It is not women's responsibility to teach men how to treat women. Go talk to other men about that.  
 
-*Item #2: Women on clubhouse tend to not be interested in "teaching" men how to treat women*
+*Item #2: Women on clubhouse tend to not be interested in teaching men how to treat women*
 
-Now that you have learned something else, you are now level 2! Now, I know what you are thinking. Item #1 states that women know better about how men can treat women with respect but Item #2 states that women don't want to teach men. Aren't we in a bit of a predicament here? The answer is no. But how? You'll see in a moment.
+Now that you have learned something else, you are now level 2! Most women don't feel it is not their responsibility to teach men how to treat women. I agree with them. Now, I know what you are thinking. Item #1 states that women know better about how men can treat women with respect but Item #2 states that women don't want to teach men. Aren't we in a bit of a predicament here? The answer is no. We can still get all of the information we need from women. But how? You'll see in a moment.
 
-Most women who say that they don't "teach" men will actually "teach" men but without realizing it. We can still get all of the information we need from women.
+Continue going in women-led spaces that are venting about men. Now that you are a level 2 man, you are allowed to type in the chat but only in one very specific circumstance. You are allowed to type something in chat if a woman says something on stage and every woman on stage agrees with her. Only after the last woman agrees with her are you allowed to type in the chat. The only thing you are allowed to type in the chat is that you agree with the speakers. You are still not allowed to go on stage. Other than that, you are still just listening right now. At some point, there will be a conversation on stage like this:
 
+Woman #1: In my past, I have had some bad experiences with men where _____________________ happened.  
+Woman #2: *shares her story, which is similar to woman #1*  
+Woman #3: *shares her story, which is similar to woman #1*  
+Man #1: "I don't know about the men that you ladies have been in contact with but I just want to let you all know that there are good men out there. I'm a good man."  
+Woman #1: All you had to do was come up here and say 'I am sorry you had these experiences. I acknowledge how challenging it must be and I wish the best for you.' Instead, you tried to invalidate my experiences and center yourself. I don't care if you are a good man. That doesn't change the fact that I had these negative experiences and you came in here to try and gaslight me.  
+Women #1: *kicks Man #1 off the stage*  
 
-a man will come up on stage and say "well I don't know about the men that you ladies have been in contact with but I just want to let you that there are good men out there.
+*Item #3: When a woman is venting or communicating current/past hardships, do not invalidate her experience. Validate her experience.*
+
+Did you just see what happened there? Item #2 states that women tend to not want to teach men. But, you just learned Item #3 from a woman. In fact, you also learned Item #2 from a woman. Now you know why Item #2 isn't that big of a problem. Most women who say that they don't teach men will actually "teach" men but without realizing it! Also, see how the man who came on stage got kicked out of the room? But you, who is sitting silently in the room without saying anything, didn't get kicked out? This is why you are silent. You aren't a high enough level yet. The guy who came on stage wasn't a high enough level either but he didn't know what he was doing.
+
+So now you know the general strategy. Go on clubhouse, look for women-led rooms that vent about men, and just listen. Half of the things you learn will just be from women venting about their experience with men because this teaches you what not to do. In the scenario in which the woman also adds on what the man should have done, now you have also learned about what to do. The other half of the things that you are going to learn will be when level 0-1 men come up on stage and embarass themselves. It'll be pretty obvious that the man has said something he shouldn't have said when every single woman on stage has an issue with him. Trust me, there is no shortage of level 0-1 men on clubhouse. At least 90% of men on clubhouse are level 0-1.
