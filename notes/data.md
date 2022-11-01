@@ -46,7 +46,8 @@ from https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispan
 2) Non-Hispanic White: $187k<br>
 3) Hispanic: $32k<br>
 4) Black: $14k<br>
-
+from https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html
+</details>
 <details>
 <summary>Unemployment rates by race/gender/ethnicity</summary>
 1) White Women: 7.6%<br>
