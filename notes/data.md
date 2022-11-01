@@ -69,4 +69,14 @@ from https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates
 4) Black: 18.8%<br>
 from: https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html
 </details>
-  
+
+<details>
+<summary>Chance of being a murder victim by race/gender in any given year (based on 2020 data)</summary>
+White women: 1 in 50000<br>
+Hispanic women: 1 in 47619<br>
+White men: 1 in 21277<br>
+Black women: 1 in 12500<br>
+Hispanic men: 1 in 9009<br>
+Black men: 1 in 1745<br>
+from https://www.theguardian.com/us-news/2022/jun/30/black-women-murder-rate-data-stats-study
+</details>
