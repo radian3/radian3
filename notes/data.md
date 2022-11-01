@@ -50,4 +50,14 @@ from https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispan
 6) Hispanic Women: 11.4%<br>
 7) Black Men: 12.1%<br>
 from https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates
+</details>
  
+<details>
+<summary>Poverty rate by race</summary>
+1) Non-Hispanic White: 7.3%<br>
+1) Asian: 7.3%<br>
+3) Hispanic (any race): 15.7%<br>
+4) Black: 18.8%<br>
+from: https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html
+</details>
+  
