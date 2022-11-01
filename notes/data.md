@@ -41,6 +41,13 @@ from https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispan
 </details>
 
 <details>
+  <summary>Median household networth by race/ethnicityh</summary>
+1) Asian: $206k<br> 
+2) Non-Hispanic White: $187k<br>
+3) Hispanic: $32k<br>
+4) Black: $14k<br>
+
+<details>
 <summary>Unemployment rates by race/gender/ethnicity</summary>
 1) White Women: 7.6%<br>
 2) Asian Men: 7.8%<br>
