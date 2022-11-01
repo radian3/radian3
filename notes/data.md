@@ -23,3 +23,19 @@ Source: https://www.census.gov/topics/population/race/about.html
 
 from https://www.census.gov/quickfacts/fact/table/US/PST045221
 </details>
+
+<details>
+<summary>median annual earnings by race/gender/ethnicity</summary>
+1) asian men: $81,794<br>
+2) non-hispanic white men: $69,235<br>
+3) asian women: $63,867<br>
+4) white men: $61,740<br>
+5) non-hispanic white women: $55,320<br>
+6) white women: $51,451<br>
+7) black men: $50,187<br>
+8) black women: $46,543<br>
+9) hispanic men: $45,822<br>
+10) hispanic women: $39,511<br>
+  
+from https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispanic-ethnicity
+</details>
