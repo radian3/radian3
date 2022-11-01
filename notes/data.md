@@ -39,3 +39,15 @@ from https://www.census.gov/quickfacts/fact/table/US/PST045221
   
 from https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispanic-ethnicity
 </details>
+
+<details>
+<summary>Unemployment rates by race/gender/ethnicity</summary>
+1) White Women: 7.6%<br>
+2) Asian Men: 7.8%<br>
+3) Asian Women: 9.6%<br>
+4) Hispanic Men: 9.7%<br>
+5) Black Women: 10.9%<br>
+6) Hispanic Women: 11.4%<br>
+7) Black Men: 12.1%<br>
+from https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates
+ 
