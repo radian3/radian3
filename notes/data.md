@@ -41,7 +41,7 @@ from https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispan
 </details>
 
 <details>
-  <summary>Median household networth by race/ethnicityh</summary>
+  <summary>Median household networth by race/ethnicity</summary>
 1) Asian: $206k<br> 
 2) Non-Hispanic White: $187k<br>
 3) Hispanic: $32k<br>
