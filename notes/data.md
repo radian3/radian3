@@ -72,11 +72,44 @@ from: https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-an
 
 <details>
 <summary>Chance of being a murder victim by race/gender in any given year (based on 2020 data)</summary>
-White women: 1 in 50000<br>
-Hispanic women: 1 in 47619<br>
-White men: 1 in 21277<br>
-Black women: 1 in 12500<br>
-Hispanic men: 1 in 9009<br>
-Black men: 1 in 1745<br>
+
+<table>
+  <tr>
+    <th>Demographic</th>
+    <th>Homicides per 100k in 2020</th>
+    <th>Chance of being a homicide victim in 1 year time-frame (1 in ...)</th>
+  </tr>
+  <tr>
+    <td>White women</td>
+    <td>2</td>
+    <td>1 in 50,000</td>
+  </tr>
+  <tr>
+    <td>Hispanic women</td>
+    <td>2.1</td>
+    <td>1 in 47,619</td>
+  </tr>
+  <tr>
+    <td>White men</td>
+    <td>4.7</td>
+    <td>1 in 21,277</td>
+  </tr>
+  <tr>
+    <td>Black women</td>
+    <td>8</td>
+    <td>1 in 12,500</td>
+  </tr>
+  <tr>
+    <td>Hispanic men</td>
+    <td>11.1</td>
+    <td>1 in 9,009</td>
+  </tr>
+  <tr>
+    <td>Black men</td>
+    <td>57.3</td>
+    <td>1 in 1,745</td>
+  </tr>
+</table>
+
 from https://www.theguardian.com/us-news/2022/jun/30/black-women-murder-rate-data-stats-study
 </details>
