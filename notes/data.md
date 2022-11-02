@@ -148,3 +148,19 @@ Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(co
     <td>63%</td>
   </tr>
 </table>
+ 
+<table>
+  <th>Gender of murder victim</th>
+  <th>% deaths by Male offender</th>
+  <th>% deaths by Female offender</th>
+  <tr>
+    <td>Male</td>
+    <td>90%</td>
+    <td>10%</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>89%</td>
+    <td>11%</td>
+  </tr>
+</table>
