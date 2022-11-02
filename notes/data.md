@@ -121,5 +121,4 @@ from: https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-an
 Column 2 (Homicides per 100k in 2020) source: https://www.theguardian.com/us-news/2022/jun/30/black-women-murder-rate-data-stats-study<br>
 Column 3 (Chance of being a victim in 1 year) is 100k divided by the value in column 2<br>
 Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(column_3_value))^70))
-
 </details>
