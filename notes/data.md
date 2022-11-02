@@ -122,3 +122,29 @@ Column 2 (Homicides per 100k in 2020) source: https://www.theguardian.com/us-new
 Column 3 (Chance of being a victim in 1 year) is 100k divided by the value in column 2<br>
 Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(column_3_value))^70))
 </details>
+<details>
+<summary>Which demographic is murdering which demographic</summary>
+<table>
+  <th>Race/Ethnicity of murder victim</th>
+  <th>% deaths by White offender</th>
+  <th>% deaths by Black offender</th>
+  <th>% deaths by Hispanic/Latino offender</th>
+  <tr>
+    <td>White</td>
+    <td>81%</td>
+    <td>18%</td>
+    <td>23%</td>
+  </tr>
+  <tr>
+    <td>Black</td>
+    <td>9%</td>
+    <td>91%</td>
+    <td>3%</td>
+  </tr>
+  <tr>
+    <td>Hispanic</td>
+    <td>80%</td>
+    <td>19%</td>
+    <td>63%</td>
+  </tr>
+</table>
