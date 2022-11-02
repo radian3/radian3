@@ -148,7 +148,7 @@ Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(co
     <td>63%</td>
   </tr>
 </table>
- 
+Note: The above percentages will not add up to 100% because someone who is Hispanic/Latino may be of any race
 <table>
   <th>Gender of murder victim</th>
   <th>% deaths by Male offender</th>
@@ -164,3 +164,4 @@ Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(co
     <td>11%</td>
   </tr>
 </table>
+Source: https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/expanded-homicide-data-table-6.xls
