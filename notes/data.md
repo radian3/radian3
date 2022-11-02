@@ -76,7 +76,7 @@ from: https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-an
 <table>
   <tr>
     <th>Demographic</th>
-    <th>Homicides per 100k in 2020</th>
+    <th>Homicide victims per 100k in 2020</th>
     <th>Chance of being a victim in 1 year</th>
     <th>Chance of being a victim in 70 years</th>
   </tr>
