@@ -168,9 +168,18 @@ Source: https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/
 </details>
 <details>
   <summary>Percent of births to unmarried women</summary>
-Asian: 12.2%<br>
-White: 28.4%<br>
-Native Hawaiian or Other Pacific Islander: 52%<br>
-American Indian or Alaska Native: 69.6%<br>
-Black: 70.4%<br>
+<table>
+<tr>
+  <th>Race</th>
+  <th>Percent of births to unmarried women</th>
+  </tr>
+  <tr>
+  <td>Asian</td>
+  <td>12.2%</td>
+  </tr>
+  <tr><td>White</td><td>28.4%</td></tr>
+  <tr><td>Native Hawaiian or Other Pacific Islander</td><td>52%</td></tr>
+  <tr><td>American Indian or Alaska Native</td><td>69.6%</td></tr>
+  <tr><td>Black</td><td>70.4%</td></tr>
+  </table>
 Source: CDC NCHS. Table 11 in https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf
