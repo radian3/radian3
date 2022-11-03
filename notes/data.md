@@ -13,15 +13,17 @@ Source: https://www.census.gov/topics/population/race/about.html
 
 <details>
 <summary>Percent of people of each race/ethnicity in the USA</summary>
-  <b>White:</b> 75.8%<br>
-<b>Black or African American:</b> 13.6%<br>
-<b>American Indian and Alaska Native:</b> 1.3%<br>
-<b>Asian:</b> 6.1%<br>
-<b>Native Hawaiian and Other Pacific Islander:</b> 0.3%<br>
-<b>Two or More Races:</b> 2.9%<br>
-<b>Hispanic or Latino:</b> 18.9%<br>
-<b>White (not Hispanic or Latino):</b> 59.3%<br>  
-
+<table>
+  <tr><th>Demographic</th><th>Percent</th></tr>
+  <tr><td>White</td><td>75.8%</td></tr>
+  <tr><td>Black or African American</td><td>13.6%</td></tr>
+  <tr><td>Americian Indian and Alaska Native</td><td>1.3%</td></tr>
+  <tr><td>Asian</td><td>6.1%</td></tr>
+  <tr><td>Native Hawaiian and Other Pacific Islander</td><td>0.3%</td></tr>
+  <tr><td>Two or More Races</td><td>2.9%</td></tr>
+  <tr><td>Hispanic or Latino</td><td>18.9%</td></tr>
+  <tr><td>White (not Hispanic or Latino)</td><td>59.3%</td></tr>
+</table>
 from https://www.census.gov/quickfacts/fact/table/US/PST045221
 </details>
 
