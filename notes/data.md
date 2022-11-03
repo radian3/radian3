@@ -63,10 +63,13 @@ from https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates
  
 <details>
 <summary>Poverty rate by race</summary>
-1) Non-Hispanic White: 7.3%<br>
-1) Asian: 7.3%<br>
-3) Hispanic (any race): 15.7%<br>
-4) Black: 18.8%<br>
+<table>
+  <tr><th>Demographic</th><th>Poverty rate</th></tr>
+  <tr><td>Non-Hispanic White</td><td>7.3%</td></tr>
+  <tr><td>Asian</td><td>7.3%</td></tr>
+  <tr><td>Hispanic (any race)</td><td>15.7%</td></tr>
+  <tr><td>Black</td><td>18.8%</td></tr>
+</table>
 from: https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html
 </details>
 
