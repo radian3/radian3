@@ -165,3 +165,12 @@ Note: The above percentages will not add up to 100% because someone who is Hispa
   </tr>
 </table>
 Source: https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/expanded-homicide-data-table-6.xls
+</details>
+<details>
+  <summary>Percent of births to unmarried women</summary>
+Asian: 12.2%<br>
+White: 28.4%<br>
+Native Hawaiian or Other Pacific Islander: 52%<br>
+American Indian or Alaska Native: 69.6%<br>
+Black: 70.4%<br>
+Source: CDC NCHS. Table 11 in https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf
