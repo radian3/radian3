@@ -69,6 +69,7 @@ Source: [https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hi
 Source: [https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html](https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html)
 
 ### Unemployment rates by race/gender/ethnicity <a name="unemployment_rate"></a>
+
 |Demographic|Unemployment Rate|
 |---|---|
 |White Men|7.0%|
