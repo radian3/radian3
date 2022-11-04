@@ -85,7 +85,7 @@ Source: [https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rate
   <tr><td>Black</td><td>18.8%</td></tr>
 </table>
 
-Source: https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html(https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html)
+Source: https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html](https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html)
 
 ### Chance of being a murder victim by race/ethnicity/gender <a name = "chance_of_being_murder_victim"></a>
 
