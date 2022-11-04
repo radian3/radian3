@@ -65,14 +65,16 @@ Source: [https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hi
 Source: [https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html](https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html)
 
 ### Unemployment rates by race/gender/ethnicity <a name="unemployment_rate"></a>
-1) White Men: 7.0%<br>
-2) White Women: 7.6%<br>
-3) Asian Men: 7.8%<br>
-4) Asian Women: 9.6%<br>
-5) Hispanic Men: 9.7%<br>
-6) Black Women: 10.9%<br>
-7) Hispanic Women: 11.4%<br>
-8) Black Men: 12.1%<br>
+|Demographic|Unemployment Rate|
+|---|---|
+|White Men|7.0%|
+|White Women|7.6%|
+|Asian Men|7.8%|
+|Asian Women|9.6%|
+|Hispanic Men|9.7%|
+|Black Women|10.9%|
+|Hispanic Women|11.4%|
+|Black Men|12.1%|
 
 Source: [https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates](https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates)
  
