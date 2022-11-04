@@ -2,7 +2,7 @@
 
 ## Table of contents
 1. [Race/Ethnicity definitions](#race_ethnicity_definitions)
-2. [Percent of people of each race/ethnicity in the USA](#percent_of_each_race)
+2. [Percent of people of each race/ethnicity](#percent_of_each_race)
 3. [Median annual earnings by race/gender/ethnicity](#median_annual_earnings)
 4. [Median household net worth by race/ethnicity](#median_household_net_worth)
 5. [Unemployment rates by race/gender/ethnicity](#unemployment_rate)
@@ -21,7 +21,7 @@ People who identify their origin as Hispanic, Latino, or Spanish may be of any r
 
 Source: [https://www.census.gov/topics/population/race/about.html](https://www.census.gov/topics/population/race/about.html)
 
-### Percent of people of each race/ethnicity in the USA <a name="percent_of_each_race"></a>
+### Percent of people of each race/ethnicity <a name="percent_of_each_race"></a>
 <table>
   <tr><th>Demographic</th><th>Percent</th></tr>
   <tr><td>White</td><td>75.8%</td></tr>
