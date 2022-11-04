@@ -1,6 +1,9 @@
-## USA Race/Ethnicity/Gender data
-<details>  
-<summary>Race/Ethnicity definitions</summary>
+# USA Race/Ethnicity/Gender data
+
+## Table of contents
+1. [Race/Ethnicity definitions](#race_ethnicity_definitions)
+
+### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
 <b>Black or African American</b> – A person having origins in any of the Black racial groups of Africa.<br>
 <b>American Indian or Alaska Native</b> – A person having origins in any of the original peoples of North and South America (including Central America) and who maintains tribal affiliation or community attachment.<br>
@@ -9,7 +12,7 @@
 People who identify their origin as Hispanic, Latino, or Spanish may be of any race.
 
 Source: https://www.census.gov/topics/population/race/about.html
-</details>
+
 
 <details>
 <summary>Percent of people of each race/ethnicity in the USA</summary>
