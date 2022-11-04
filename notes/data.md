@@ -13,6 +13,7 @@
 10. [Obesity rate among adults by race/ethnicity/gender](#obesity_rate)
 11. [Life Expectancy at birth by race/ethnicity/gender](#life_expectancy)
 12. [Educational attainment by race/ethnicity/gender](#educational_attainment)
+13. [Incarceration Rate by race/ethnicity/gender](#incarceration_rate)
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
@@ -257,3 +258,20 @@ Source: [https://edtrust.org/resource/national-and-state-degree-attainment-for-b
 Using Non-Hispanic White Women as an example, this table is saying "for every 1000 non-hispanic white women alive in the USA, 6.8 of them earned a bachelors degree from 2018-2019."
 
 Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts/display.asp?id=72](https://nces.ed.gov/fastfacts/display.asp?id=72)
+
+### Incarceration Rate by race/ethnicity/gender <a name = "incarceration_rate"></a>
+|Demographic|People in prison in 2020 (per 100k)|1 in ...|
+|---|---|---|
+|Asian Women|6|1 in 16,667|
+|Non-Hispanic White Women|39|1 in 2,564|
+|Hispanic Women|48|1 in 2083|
+|Non-Hispanic Black Women|71|1 in 1408|
+|Non-Hispanic Asian Men|142|1 in 704|
+|Non-Hispanic White Men|336|1 in 298|
+|Hispanic Men|840|1 in 119|
+|Non-Hispanic Black Men|1877|1 in 53|
+
+Note 1: Column 2 includes state and federal prisons
+Note 2: Column 3 is column 2 divided by 100,000
+
+Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.gov/content/pub/pdf/p20st.pdf)
