@@ -15,6 +15,7 @@
 12. [Educational attainment by race/ethnicity/gender](#educational_attainment)
 13. [Incarceration Rate by race/ethnicity/gender](#incarceration_rate)
 14. [Maternal mortality rates by race/ethnicity](#maternal_mortality_rate)
+15. [Political Affiliation](#political_affiliation)
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
@@ -290,3 +291,17 @@ Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.
 The maternal mortality rate here is defined as the number of deaths per 100,000 live births.
 
 Source: CDC. [https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2020/maternal-mortality-rates-2020.htm](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2020/maternal-mortality-rates-2020.htm)
+
+### Political Affiliation <a name = "political_affiliation"></a>
+
+Share of votes in 2020 presidential election by demographic
+|Demographic|Voted Dem|Voted Rep|
+|---|---|---|
+|White Men|40|57|
+|White Women|46|53|
+|Black Men|87|12|
+|Black Women|95|5|
+|Hispanic Men|57|40|
+|Hispanic Women|61|37|
+
+Source: Pew Research Center. [https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/pp_2021-06-30_validated-voters_00-02/](https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/pp_2021-06-30_validated-voters_00-02/)
