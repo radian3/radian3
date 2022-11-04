@@ -179,6 +179,7 @@ Note: The above percentages will not add up to 100% because someone who is Hispa
     <td>11%</td>
   </tr>
 </table>
+
 Source: [https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/expanded-homicide-data-table-6.xls](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/expanded-homicide-data-table-6.xls)
 
 
@@ -197,4 +198,5 @@ Source: [https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables
   <tr><td>American Indian or Alaska Native</td><td>69.6%</td></tr>
   <tr><td>Black</td><td>70.4%</td></tr>
   </table>
+  
 Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf)
