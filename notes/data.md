@@ -261,6 +261,7 @@ Using Non-Hispanic White Women as an example, this table is saying "for every 10
 Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts/display.asp?id=72](https://nces.ed.gov/fastfacts/display.asp?id=72)
 
 ### Incarceration Rate by race/ethnicity/gender <a name = "incarceration_rate"></a>
+
 |Demographic|People in prison in 2020 (per 100k)|1 in ...|
 |---|---|---|
 |Non-Hispanic Asian Women|6|1 in 16,667|
