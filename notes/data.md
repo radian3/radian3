@@ -235,7 +235,18 @@ Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https
 Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf)
 
 ### Educational attainment by race/ethnicity/gender <a name = "educational_attainment"> </a>
+
+|Demographic|Percent with a college Degree (of people ages 25-64)|
+|---|---|
+|White Women|51.4%|
+|White Men|44.3%|
+|Black Women|36.1%|
+|Black Men|26.5%|
+
+Source: [https://edtrust.org/resource/national-and-state-degree-attainment-for-black-women-and-men/](https://edtrust.org/resource/national-and-state-degree-attainment-for-black-women-and-men/)
+
 |Demographic|Degrees awarded from 2018-2019 (per 1k people)|
+|---|---|
 |Non-Hispanic White Women|6.8|
 |Non-Hispanic Black Women|6.1|
 |Hispanic Women|5.6|
