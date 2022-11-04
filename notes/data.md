@@ -2,14 +2,14 @@
 
 ## Table of contents
 1. [Race/Ethnicity definitions](#race_ethnicity_definitions)
-2. [Percent of people of each race/ethnicity in the USA](#percent_of_race)
-3. [Median annual earnings by race/gender/ethnicity](#earnings)
-4. [Median household net worth by race/ethnicity](#networth)
-5. [Unemployment rates by race/gender/ethnicity](#unemployment)
-6. [Poverty rate by race](#poverty)
-7. [Chance of being a murder victim by race/ethnicity/gender](#victim)
-8. [Which demographic is murdering which demographic](#offender)
-9. [Percent of births to unmarried women](#births)
+2. [Percent of people of each race/ethnicity in the USA](#percent_of_each_race)
+3. [Median annual earnings by race/gender/ethnicity](#median_annual_earnings)
+4. [Median household net worth by race/ethnicity](#median_household_net_worth)
+5. [Unemployment rates by race/gender/ethnicity](#unemployment_rate)
+6. [Poverty rate by race](#poverty_rate)
+7. [Chance of being a murder victim by race/ethnicity/gender](#chance_of_being_murder_victim)
+8. [Which demographic is murdering which demographic](#which_demographic_is_murdering_which_demographic)
+9. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
@@ -22,7 +22,7 @@ People who identify their origin as Hispanic, Latino, or Spanish may be of any r
 Source: https://www.census.gov/topics/population/race/about.html
 
 
-### Percent of people of each race/ethnicity in the USA <a name="percent_of_race"></a>
+### Percent of people of each race/ethnicity in the USA <a name="percent_of_each_race"></a>
 <table>
   <tr><th>Demographic</th><th>Percent</th></tr>
   <tr><td>White</td><td>75.8%</td></tr>
@@ -36,7 +36,7 @@ Source: https://www.census.gov/topics/population/race/about.html
 </table>
 from https://www.census.gov/quickfacts/fact/table/US/PST045221
 
-### Median annual earnings by race/gender/ethnicity <a name="earnings"></a>
+### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
   <tr><th>Demographic</th><th>Median annual earnings</th></tr>
   <tr><td>Asian men</td><td>$81,794</td></tr>
@@ -53,7 +53,7 @@ from https://www.census.gov/quickfacts/fact/table/US/PST045221
   
 from https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispanic-ethnicity
 
-### Median household net worth by race/ethnicity <a name = "networth"></a>
+### Median household net worth by race/ethnicity <a name = "median_household_net_worth"></a>
 <table>
   <tr><th>Demographic</th><th>Median household net worth</th></tr>
   <tr><td>Asian</td><td>$206k</td></tr>
@@ -63,7 +63,7 @@ from https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispan
 </table>
 source: https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html
 
-### Unemployment rates by race/gender/ethnicity <a name="unemployment"></a>
+### Unemployment rates by race/gender/ethnicity <a name="unemployment_rate"></a>
 1) White Women: 7.6%<br>
 2) Asian Men: 7.8%<br>
 3) Asian Women: 9.6%<br>
@@ -73,7 +73,7 @@ source: https://www.census.gov/library/stories/2022/08/wealth-inequality-by-hous
 7) Black Men: 12.1%<br>
 from https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates
  
-### Poverty rate by race <a name="poverty"></a>
+### Poverty rate by race <a name="poverty_rate"></a>
 <table>
   <tr><th>Demographic</th><th>Poverty rate</th></tr>
   <tr><td>Non-Hispanic White</td><td>7.3%</td></tr>
@@ -83,7 +83,7 @@ from https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates
 </table>
 from: https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html
 
-### Chance of being a murder victim by race/ethnicity/gender <a name = "victim"></a>
+### Chance of being a murder victim by race/ethnicity/gender <a name = "chance_of_being_murder_victim"></a>
 
 <table>
   <tr>
@@ -134,7 +134,7 @@ Column 2 (Homicides per 100k in 2020) source: https://www.theguardian.com/us-new
 Column 3 (Chance of being a victim in 1 year) is 100k divided by the value in column 2<br>
 Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(column_3_value))^70))
 
-### Which demographic is murdering which demographic <a name = "offender"></a>
+### Which demographic is murdering which demographic <a name = "which_demographic_is_murdering_which_demographic"></a>
 <table>
   <th>Race/Ethnicity of murder victim</th>
   <th>% deaths by White offender</th>
@@ -178,7 +178,7 @@ Note: The above percentages will not add up to 100% because someone who is Hispa
 Source: https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/expanded-homicide-data-table-6.xls
 
 
-### Percent of births to unmarried women <a name = "births"></a>
+### Percent of births to unmarried women <a name = "percent_of_births_to_unmarried_women"></a>
 <table>
 <tr>
   <th>Race</th>
