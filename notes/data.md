@@ -19,8 +19,7 @@
 <b>Native Hawaiian or Other Pacific Islander</b> – A person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands.<br>
 People who identify their origin as Hispanic, Latino, or Spanish may be of any race.
 
-Source: https://www.census.gov/topics/population/race/about.html
-
+Source: [https://www.census.gov/topics/population/race/about.html](https://www.census.gov/topics/population/race/about.html)
 
 ### Percent of people of each race/ethnicity in the USA <a name="percent_of_each_race"></a>
 <table>
@@ -34,9 +33,8 @@ Source: https://www.census.gov/topics/population/race/about.html
   <tr><td>Hispanic or Latino</td><td>18.9%</td></tr>
   <tr><td>White (not Hispanic or Latino)</td><td>59.3%</td></tr>
 </table>
-[source](https://www.census.gov/quickfacts/fact/table/US/PST045221)
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+Source: [https://www.census.gov/quickfacts/fact/table/US/PST045221](https://www.census.gov/quickfacts/fact/table/US/PST045221)
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
@@ -53,7 +51,7 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
   <tr><td>Hispanic women</td><td>$39,511</td></tr>
 </table>
   
-from https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispanic-ethnicity
+Source: [https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispanic-ethnicity](https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispanic-ethnicity)
 
 ### Median household net worth by race/ethnicity <a name = "median_household_net_worth"></a>
 <table>
@@ -63,17 +61,20 @@ from https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispan
   <tr><td>Hispanic</td><td>$32k</td></tr>
   <tr><td>Black</td><td>$14k</td></tr>
 </table>
-source: https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html
+
+Source: [https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html](https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html
 
 ### Unemployment rates by race/gender/ethnicity <a name="unemployment_rate"></a>
-1) White Women: 7.6%<br>
-2) Asian Men: 7.8%<br>
-3) Asian Women: 9.6%<br>
-4) Hispanic Men: 9.7%<br>
-5) Black Women: 10.9%<br>
-6) Hispanic Women: 11.4%<br>
-7) Black Men: 12.1%<br>
-from https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates
+1) White Men: 7.0%<br>
+2) White Women: 7.6%<br>
+3) Asian Men: 7.8%<br>
+4) Asian Women: 9.6%<br>
+5) Hispanic Men: 9.7%<br>
+6) Black Women: 10.9%<br>
+7) Hispanic Women: 11.4%<br>
+8) Black Men: 12.1%<br>
+
+Source: [https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates](https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates)
  
 ### Poverty rate by race <a name="poverty_rate"></a>
 <table>
@@ -83,7 +84,8 @@ from https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates
   <tr><td>Hispanic (any race)</td><td>15.7%</td></tr>
   <tr><td>Black</td><td>18.8%</td></tr>
 </table>
-from: https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html
+
+Source: https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html(https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html)
 
 ### Chance of being a murder victim by race/ethnicity/gender <a name = "chance_of_being_murder_victim"></a>
 
@@ -132,7 +134,7 @@ from: https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-an
   </tr>
 </table>
 
-Column 2 (Homicides per 100k in 2020) source: https://www.theguardian.com/us-news/2022/jun/30/black-women-murder-rate-data-stats-study<br>
+Column 2 (Homicides per 100k in 2020) source: [https://www.theguardian.com/us-news/2022/jun/30/black-women-murder-rate-data-stats-study](https://www.theguardian.com/us-news/2022/jun/30/black-women-murder-rate-data-stats-study)<br>
 Column 3 (Chance of being a victim in 1 year) is 100k divided by the value in column 2<br>
 Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(column_3_value))^70))
 
@@ -177,7 +179,7 @@ Note: The above percentages will not add up to 100% because someone who is Hispa
     <td>11%</td>
   </tr>
 </table>
-Source: https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/expanded-homicide-data-table-6.xls
+Source: [https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/expanded-homicide-data-table-6.xls](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/expanded-homicide-data-table-6.xls)
 
 
 ### Percent of births to unmarried women <a name = "percent_of_births_to_unmarried_women"></a>
@@ -195,4 +197,4 @@ Source: https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/
   <tr><td>American Indian or Alaska Native</td><td>69.6%</td></tr>
   <tr><td>Black</td><td>70.4%</td></tr>
   </table>
-Source: CDC NCHS. Table 11 in https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf
+Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf)
