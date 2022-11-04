@@ -16,6 +16,7 @@
 13. [Incarceration Rate by race/ethnicity/gender](#incarceration_rate)
 14. [Maternal mortality rates by race/ethnicity](#maternal_mortality_rate)
 15. [Political Affiliation](#political_affiliation)
+16. [Homeownership rate by race/ethnicity](#homeownership_rate)
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
@@ -305,3 +306,14 @@ Share of votes in 2020 presidential election by demographic
 |Hispanic Women|61|37|
 
 Source: Pew Research Center. [https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/pp_2021-06-30_validated-voters_00-02/](https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/pp_2021-06-30_validated-voters_00-02/)
+
+### Homeownership rate by race/ethnicity <a name = "homeownership_rate"></a>
+
+|Demographic|Homeownership Rate (2020)|
+|---|---|
+|White|72.1%|
+|Asian|61.7%|
+|Hispanic|51.1%|
+|Black|43.4%|
+
+Source: NAR. [https://www.nar.realtor/research-and-statistics/research-reports/a-snapshot-of-race-and-home-buying-in-america](https://www.nar.realtor/research-and-statistics/research-reports/a-snapshot-of-race-and-home-buying-in-america)
