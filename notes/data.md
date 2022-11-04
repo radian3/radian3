@@ -2,6 +2,8 @@
 
 ## Table of contents
 1. [Race/Ethnicity definitions](#race_ethnicity_definitions)
+2. [Percent of people of each race/ethnicity in the USA](#percent_of_race)
+3. [Median annual earnings by race/gender/ethnicity](#earnings)
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
@@ -14,8 +16,7 @@ People who identify their origin as Hispanic, Latino, or Spanish may be of any r
 Source: https://www.census.gov/topics/population/race/about.html
 
 
-<details>
-<summary>Percent of people of each race/ethnicity in the USA</summary>
+### Percent of people of each race/ethnicity in the USA <a name="percent_of_race"></a>
 <table>
   <tr><th>Demographic</th><th>Percent</th></tr>
   <tr><td>White</td><td>75.8%</td></tr>
@@ -28,10 +29,8 @@ Source: https://www.census.gov/topics/population/race/about.html
   <tr><td>White (not Hispanic or Latino)</td><td>59.3%</td></tr>
 </table>
 from https://www.census.gov/quickfacts/fact/table/US/PST045221
-</details>
 
-<details>
-<summary>Median annual earnings by race/gender/ethnicity</summary>
+### Median annual earnings by race/gender/ethnicity <a name="earnings"></a>
 <table>
   <tr><th>Demographic</th><th>Median annual earnings</th></tr>
   <tr><td>Asian men</td><td>$81,794</td></tr>
@@ -47,7 +46,6 @@ from https://www.census.gov/quickfacts/fact/table/US/PST045221
 </table>
   
 from https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispanic-ethnicity
-</details>
 
 <details>
   <summary>Median household net worth by race/ethnicity</summary>
