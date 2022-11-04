@@ -62,7 +62,7 @@ Source: [https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hi
   <tr><td>Black</td><td>$14k</td></tr>
 </table>
 
-Source: [https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html](https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html
+Source: [https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html](https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html)
 
 ### Unemployment rates by race/gender/ethnicity <a name="unemployment_rate"></a>
 1) White Men: 7.0%<br>
