@@ -11,6 +11,7 @@
 8. [Which demographic is murdering which demographic](#which_demographic_is_murdering_which_demographic)
 9. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
 10. [Obesity rate among adults by race/ethnicity/gender](#obesity_rate)
+11. [Life Expectancy at birth by race/ethnicity/gender](#life_expectancy)
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
@@ -217,3 +218,17 @@ Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-
 |Non-Hispanic Black Women|57.9%|
 
 Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https://stacks.cdc.gov/view/cdc/106273](https://stacks.cdc.gov/view/cdc/106273)
+
+### Life Expectancy at birth by race/ethnicity/gender <a name = "life_expectancy"></a>
+|Demographic|Life Expectancy|
+|---|---|
+|Non-Hispanic Asian Women|87.4|
+|Hispanic Women|84.4|
+|Non-Hispanic Asian Men|83.5|
+|Non-Hispanic White Women|81.3|
+|Hispanic Men|79.1|
+|Non-Hispanic Black Women|78.1|
+|Non-Hispanic White Men|76.3|
+|Non-Hispanic Black Men|71.3|
+
+Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf)
