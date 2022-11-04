@@ -34,7 +34,7 @@ Source: https://www.census.gov/topics/population/race/about.html
   <tr><td>Hispanic or Latino</td><td>18.9%</td></tr>
   <tr><td>White (not Hispanic or Latino)</td><td>59.3%</td></tr>
 </table>
-from https://www.census.gov/quickfacts/fact/table/US/PST045221
+source: <a href="https://www.census.gov/quickfacts/fact/table/US/PST045221" target="_blank">https://www.census.gov/quickfacts/fact/table/US/PST045221</a>
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
