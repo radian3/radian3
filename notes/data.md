@@ -12,6 +12,7 @@
 9. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
 10. [Obesity rate among adults by race/ethnicity/gender](#obesity_rate)
 11. [Life Expectancy at birth by race/ethnicity/gender](#life_expectancy)
+12. [Educational attainment by race/ethnicity/gender](#educational_attainment)
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
@@ -232,3 +233,16 @@ Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https
 |Non-Hispanic Black Men|71.3|
 
 Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf)
+
+### Educational attainment by race/ethnicity/gender <a name = "educational_attainment"> </a>
+|Demographic|Degrees awarded from 2018-2019 (per 1k people)|
+|Non-Hispanic White Women|6.8|
+|Non-Hispanic Black Women|6.1|
+|Hispanic Women|5.6|
+|Non-Hispanic White Men|5.2|
+|Hispanic Men|3.6|
+|Non-Hispanic Black Men|3.4|
+
+Using Non-Hispanic White Women as an example, this table is saying "for every 1000 non-hispanic white women alive in the USA, 6.8 of them earned a bachelors degree from 2018-2019."
+
+Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts/display.asp?id=72](https://nces.ed.gov/fastfacts/display.asp?id=72)
