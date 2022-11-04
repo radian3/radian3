@@ -262,7 +262,7 @@ Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts
 ### Incarceration Rate by race/ethnicity/gender <a name = "incarceration_rate"></a>
 |Demographic|People in prison in 2020 (per 100k)|1 in ...|
 |---|---|---|
-|Asian Women|6|1 in 16,667|
+|Non-Hispanic Asian Women|6|1 in 16,667|
 |Non-Hispanic White Women|39|1 in 2,564|
 |Hispanic Women|48|1 in 2083|
 |Non-Hispanic Black Women|71|1 in 1408|
