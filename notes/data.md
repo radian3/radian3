@@ -14,6 +14,7 @@
 11. [Life Expectancy at birth by race/ethnicity/gender](#life_expectancy)
 12. [Educational attainment by race/ethnicity/gender](#educational_attainment)
 13. [Incarceration Rate by race/ethnicity/gender](#incarceration_rate)
+14. [Maternal mortality rates by race/ethnicity](#maternal_mortality_rate)
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
@@ -277,3 +278,15 @@ Note 1: Column 2 includes state and federal prisons
 Note 2: Column 3 is column 2 divided by 100,000
 
 Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.gov/content/pub/pdf/p20st.pdf)
+
+### Maternal mortality rates by race/ethnicity <a name = "maternal_mortality_rate"></a>
+
+|Demographic|Maternal Mortality Rate (per 100k births)|
+|---|---|
+|Hispanic|18.2|
+|Non-Hispanic White|19.1|
+|Non-Hispanic Black|55.3|
+
+The maternal mortality rate here is defined as the number of deaths per 100,000 live births.
+
+Source: CDC. [https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2020/maternal-mortality-rates-2020.htm](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2020/maternal-mortality-rates-2020.htm)
