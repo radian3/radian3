@@ -232,6 +232,7 @@ Source: [https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables
 Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf)
 
 ### Obesity rate among adults by race/ethnicity/gender <a name = "obesity_rate"></a>
+
 |Demographic|Obesity Rate|
 |---|---|
 |Non-Hispanic Asian Women|14.5%|
@@ -246,6 +247,7 @@ Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-
 Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https://stacks.cdc.gov/view/cdc/106273](https://stacks.cdc.gov/view/cdc/106273)
 
 ### Life Expectancy at birth by race/ethnicity/gender <a name = "life_expectancy"></a>
+
 |Demographic|Life Expectancy|
 |---|---|
 |Non-Hispanic Asian Women|87.4|
