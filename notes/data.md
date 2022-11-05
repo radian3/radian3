@@ -47,7 +47,7 @@ Source: [https://www.census.gov/topics/population/race/about.html](https://www.c
 
 ### Percent of people of each race/ethnicity <a name="percent_of_each_race"></a>
 <table>
-  <tr><th>Demographic</th><th>Percent</th></tr>
+  <tr><th>Demographic</th><th>Percent (2021)</th></tr>
   <tr><td>White</td><td>75.8%</td></tr>
   <tr><td>NH White</td><td>59.3%</td></tr>
   <tr><td>Hispanic</td><td>18.9%</td></tr>
@@ -62,7 +62,7 @@ Source: [https://www.census.gov/quickfacts/fact/table/US/PST045221](https://www.
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
-  <tr><th>Demographic</th><th>Median annual earnings</th></tr>
+  <tr><th>Demographic</th><th>Median annual earnings (2021)</th></tr>
   <tr><td>Asian men</td><td>$81,794</td></tr>
   <tr><td>NH White men</td><td>$69,235</td></tr>
   <tr><td>Asian women</td><td>$63,867</td></tr>
@@ -79,7 +79,7 @@ Source: [https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hi
 
 ### Median household net worth by race/ethnicity <a name = "median_household_net_worth"></a>
 <table>
-  <tr><th>Demographic</th><th>Median household net worth</th></tr>
+  <tr><th>Demographic</th><th>Median household net worth (2019)</th></tr>
   <tr><td>Asian</td><td>$206k</td></tr>
   <tr><td>NH White</td><td>$187k</td></tr>
   <tr><td>Hispanic</td><td>$32k</td></tr>
@@ -90,7 +90,7 @@ Source: [https://www.census.gov/library/stories/2022/08/wealth-inequality-by-hou
 
 ### Unemployment rates by race/gender/ethnicity <a name="unemployment_rate"></a>
 
-|Demographic|Unemployment Rate|
+|Demographic|Unemployment Rate (2020)|
 |---|---|
 |White Men|7.0%|
 |White Women|7.6%|
@@ -122,7 +122,7 @@ working or actively looking for work. From [https://www.bls.gov/opub/mlr/2016/ar
 
 ### Poverty rate by race <a name="poverty_rate"></a>
 <table>
-  <tr><th>Demographic</th><th>Poverty rate</th></tr>
+  <tr><th>Demographic</th><th>Poverty rate (2019)</th></tr>
   <tr><td>NH White</td><td>7.3%</td></tr>
   <tr><td>Asian</td><td>7.3%</td></tr>
   <tr><td>Hispanic (any race)</td><td>15.7%</td></tr>
@@ -183,6 +183,9 @@ Column 3 (Chance of being a victim in 1 year) is 100k divided by the value in co
 Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(column_3_value))^70))
 
 ### Which demographic is murdering which demographic <a name = "which_demographic_is_murdering_which_demographic"></a>
+
+Data for this section is from 2019.
+
 <table>
   <th>Race/Ethnicity of murder victim</th>
   <th>% deaths by White offender</th>
@@ -231,7 +234,7 @@ Source: [https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables
 <table>
 <tr>
   <th>Race</th>
-  <th>Percent of births to unmarried women</th>
+  <th>Percent of births to unmarried women (2020)</th>
   </tr>
   <tr>
   <td>Asian</td>
@@ -247,7 +250,7 @@ Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-
 
 ### Obesity rate among adults by race/ethnicity/gender <a name = "obesity_rate"></a>
 
-|Demographic|Obesity Rate|
+|Demographic|Obesity Rate (2017-2020 data)|
 |---|---|
 |NH Asian Women|14.5%|
 |NH Asian Men|17.6%|
@@ -262,7 +265,7 @@ Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https
 
 ### Life Expectancy at birth by race/ethnicity/gender <a name = "life_expectancy"></a>
 
-|Demographic|Life Expectancy|
+|Demographic|Life Expectancy (2019 data)|
 |---|---|
 |NH Asian Women|87.4|
 |Hispanic Women|84.4|
@@ -277,7 +280,7 @@ Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nv
 
 ### Educational attainment by race/ethnicity/gender <a name = "educational_attainment"> </a>
 
-|Demographic|Percent with a college degree (of people ages 25-64)|
+|Demographic|Percent with a college degree in 2018 (of people ages 25-64)|
 |---|---|
 |White Women|51.4%|
 |White Men|44.3%|
@@ -319,7 +322,7 @@ Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.
 
 ### Maternal mortality rates by race/ethnicity <a name = "maternal_mortality_rate"></a>
 
-|Demographic|Maternal Mortality Rate (per 100k births)|1 in ...|
+|Demographic|Maternal Mortality Rate in 2020 (per 100k births)|1 in ...|
 |---|---|---|
 |Hispanic|18.2|1 in 5,495|
 |NH White|19.1|1 in 5,236|
@@ -357,7 +360,7 @@ Source: NAR. [https://www.nar.realtor/research-and-statistics/research-reports/a
 
 ### Disability rate by race/ethnicity <a name = "disability_rate"></a>
 
-|Demographic|% of adults with a disability|
+|Demographic|% of adults with a disability (2017)|
 |---|---|
 |Asian|10%|
 |Hispanic|16.6%|
@@ -369,6 +372,8 @@ Source: NAR. [https://www.nar.realtor/research-and-statistics/research-reports/a
 Source: CDC. [https://www.cdc.gov/ncbddd/disabilityandhealth/materials/infographic-disabilities-ethnicity-race.html](https://www.cdc.gov/ncbddd/disabilityandhealth/materials/infographic-disabilities-ethnicity-race.html)
 
 ### Urban vs Suburban vs Rural demographics <a name = "urban_vs_suburban_vs_rural"></a>
+
+Data in this section is from 2012-2016
 
 |County type|NH White|Hispanic|NH Black|
 |---|---|---|---|
@@ -406,7 +411,7 @@ Source: Pew Research Center. [https://www.pewresearch.org/social-trends/2018/05/
 
 ### Marriage and Divorce statistics by race/ethnicity/gender <a name = "marriage_and_divorce"></a>
 
-|Demographic|% of newlyweds who are intermarried|
+|Demographic|% of newlyweds who were intermarried (2014-2015)|
 |---|---|
 |NH White Men|12%|
 |NH White Women|10%|
