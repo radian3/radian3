@@ -413,11 +413,13 @@ Source: Pew Research Center. [https://www.pewresearch.org/social-trends/2018/05/
 
 |Demographic|% of newlyweds who were intermarried (2014-2015)|
 |---|---|
-|NH White Men|12%|
 |NH White Women|10%|
+|NH White Men|12%|
+|NH Black Women|12%|
+|NH Asian Men|21%|
+|NH Black Men|24%|
 |Hispanic Men|26%|
 |Hispanic Women|28%|
-|NH Asian Men|21%|
 |NH Asian Women|36%|
 
 Source: [https://www.pewresearch.org/social-trends/2017/05/18/1-trends-and-patterns-in-intermarriage/](https://www.pewresearch.org/social-trends/2017/05/18/1-trends-and-patterns-in-intermarriage/)
