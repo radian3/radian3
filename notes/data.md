@@ -25,10 +25,11 @@
 
 ### Conventions used in this document <a name = "conventions"></a>
 
-1. NH = Not Hispanic or Latino.
-2. If a race doesn't have NH specifically mentioned in the table, it is assumed that this statistic includes people who are Hispanic or Latino in the statistic (as well as including people who are not Hispanic or Latino). So "White" would include people who are Hispanic or Latino as well as people who are not Hispanic or Latino. "NH White" would be white people who are not Hispanic or Latino.
-3. All statistics are USA statistics on the country level unless otherwise specified.
-4. Table rows are generally sorted from most favorable to least favorable. This is for metrics where it is generally known if a higher number is considered good or bad (ex: homicide rates, educational attainment, income, etc.). Metrics that aren't generally able to be considered favorable or unfavorable are not sorted in any particular order (ex: political affiliation, interracial marriage rates, etc.).
+1. In an effort to be less verbose, the word "Hispanic" is used in place of "Hispanic or Latino". In actuality, Hispanic and Latino are different. Someone may be both Hispanic and Latino, only Hispanic, only Latino, or neither.  
+2. In an effort to be less verbose, "NH" is used to denote "Not Hispanic or Latino."  
+3. If a race doesn't have NH specifically mentioned in the table, it is assumed that this statistic includes people who are Hispanic or Latino in the statistic (as well as including people who are not Hispanic or Latino). So "White" would include people who are Hispanic or Latino as well as people who are not Hispanic or Latino. "NH White" would be white people who are not Hispanic or Latino.  
+4. All statistics are USA statistics on the country level unless otherwise specified.  
+5. Table rows are generally sorted from most favorable to least favorable. This is for metrics where it is generally known if a higher number is considered good or bad (ex: homicide rates, educational attainment, income, etc.). Metrics that aren't generally able to be considered favorable or unfavorable are not sorted in any particular order (ex: political affiliation, interracial marriage rates, etc.).  
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
