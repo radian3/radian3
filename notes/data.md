@@ -50,7 +50,7 @@ Source: [https://www.census.gov/topics/population/race/about.html](https://www.c
   <tr><td>Asian</td><td>6.1%</td></tr>
   <tr><td>Native Hawaiian and Other Pacific Islander</td><td>0.3%</td></tr>
   <tr><td>Two or More Races</td><td>2.9%</td></tr>
-  <tr><td>Hispanic or Latino</td><td>18.9%</td></tr>
+  <tr><td>Hispanic</td><td>18.9%</td></tr>
   <tr><td>NH White</td><td>59.3%</td></tr>
 </table>
 
@@ -183,7 +183,7 @@ Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(co
   <th>Race/Ethnicity of murder victim</th>
   <th>% deaths by White offender</th>
   <th>% deaths by Black offender</th>
-  <th>% deaths by Hispanic/Latino offender</th>
+  <th>% deaths by Hispanic offender</th>
   <tr>
     <td>White</td>
     <td>81%</td>
@@ -203,7 +203,7 @@ Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(co
     <td>63%</td>
   </tr>
 </table>
-Note: The above percentages will not add up to 100% because someone who is Hispanic/Latino may be of any race
+Note: The above percentages will not add up to 100% because someone who is Hispanic may be of any race
 <table>
   <th>Gender of murder victim</th>
   <th>% deaths by Male offender</th>
