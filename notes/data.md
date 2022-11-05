@@ -362,6 +362,8 @@ Source: CDC. [https://www.cdc.gov/ncbddd/disabilityandhealth/materials/infograph
 |Suburban|68%|14%|11%|
 |Rural|79%|8%|8%|
 
+Note: rows won't add to 100% because not all races are listed in the columns.
+
 |County type|Foreign Born %|
 |---|---|
 |Urban|22%|
@@ -385,7 +387,5 @@ Source: CDC. [https://www.cdc.gov/ncbddd/disabilityandhealth/materials/infograph
 |Urban|$49,515|
 |Suburban|$46,081|
 |Rural|$35,171|
-
-Note: rows won't add to 100% because not all races are listed in the columns.
 
 Source: Pew Research Center. [https://www.pewresearch.org/social-trends/2018/05/22/demographic-and-economic-trends-in-urban-suburban-and-rural-communities](https://www.pewresearch.org/social-trends/2018/05/22/demographic-and-economic-trends-in-urban-suburban-and-rural-communities)
