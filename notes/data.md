@@ -343,14 +343,14 @@ Source: NAR. [https://www.nar.realtor/research-and-statistics/research-reports/a
 
 ### Disability rate by race/ethnicity <a name = "disability_rate"></a>
 
-|Demographic|# of adults with a disability|
+|Demographic|% of adults with a disability|
 |---|---|
-|Asian|1 in 10|
-|Hispanic|1 in 6|
-|Native Hawaiian Pacific Islander|1 in 6|
-|White|1 in 5|
-|Black|1 in 4|
-|American Indian Alaska Native|3 in 10|
+|Asian|10%|
+|Hispanic|16.6%|
+|Native Hawaiian Pacific Islander|16.6%|
+|White|20%|
+|Black|25%|
+|American Indian Alaska Native|30%|
 
 Source: CDC. [https://www.cdc.gov/ncbddd/disabilityandhealth/materials/infographic-disabilities-ethnicity-race.html](https://www.cdc.gov/ncbddd/disabilityandhealth/materials/infographic-disabilities-ethnicity-race.html)
 
