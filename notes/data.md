@@ -321,12 +321,12 @@ Share of votes in 2020 presidential election by demographic
 
 |Demographic|Voted Dem|Voted Rep|
 |---|---|---|
-|White Men|40|57|
-|White Women|46|53|
-|Black Men|87|12|
-|Black Women|95|5|
-|Hispanic Men|57|40|
-|Hispanic Women|61|37|
+|White Men|40%|57%|
+|White Women|46%|53%|
+|Black Men|87%|12%|
+|Black Women|95%|5%|
+|Hispanic Men|57%|40%|
+|Hispanic Women|61%|37%|
 
 Source: Pew Research Center. [https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/pp_2021-06-30_validated-voters_00-02/](https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/pp_2021-06-30_validated-voters_00-02/)
 
