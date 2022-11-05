@@ -45,13 +45,13 @@ Source: [https://www.census.gov/topics/population/race/about.html](https://www.c
 <table>
   <tr><th>Demographic</th><th>Percent</th></tr>
   <tr><td>White</td><td>75.8%</td></tr>
-  <tr><td>Black or African American</td><td>13.6%</td></tr>
-  <tr><td>Americian Indian and Alaska Native</td><td>1.3%</td></tr>
-  <tr><td>Asian</td><td>6.1%</td></tr>
-  <tr><td>Native Hawaiian and Other Pacific Islander</td><td>0.3%</td></tr>
-  <tr><td>Two or More Races</td><td>2.9%</td></tr>
-  <tr><td>Hispanic</td><td>18.9%</td></tr>
   <tr><td>NH White</td><td>59.3%</td></tr>
+  <tr><td>Hispanic</td><td>18.9%</td></tr>
+  <tr><td>Black or African American</td><td>13.6%</td></tr>
+  <tr><td>Asian</td><td>6.1%</td></tr>
+  <tr><td>Two or More Races</td><td>2.9%</td></tr>
+  <tr><td>Americian Indian and Alaska Native</td><td>1.3%</td></tr>
+  <tr><td>Native Hawaiian and Other Pacific Islander</td><td>0.3%</td></tr>
 </table>
 
 Source: [https://www.census.gov/quickfacts/fact/table/US/PST045221](https://www.census.gov/quickfacts/fact/table/US/PST045221)
@@ -157,7 +157,7 @@ Source: [https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks
   <tr>
     <td>Black women</td>
     <td>8</td>
-    <td>1 in 12500</td>
+    <td>1 in 12,500</td>
     <td>1 in 179</td>
   </tr>
   <tr>
@@ -169,7 +169,7 @@ Source: [https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks
   <tr>
     <td>Black men</td>
     <td>57.3</td>
-    <td>1 in 1745</td>
+    <td>1 in 1,745</td>
     <td>1 in 25</td>
   </tr>
 </table>
@@ -301,8 +301,8 @@ Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts
 |---|---|---|
 |NH Asian Women|6|1 in 16,667|
 |NH White Women|39|1 in 2,564|
-|Hispanic Women|48|1 in 2083|
-|NH Black Women|71|1 in 1408|
+|Hispanic Women|48|1 in 2,083|
+|NH Black Women|71|1 in 1,408|
 |NH Asian Men|142|1 in 704|
 |NH White Men|336|1 in 298|
 |Hispanic Men|840|1 in 119|
@@ -317,9 +317,9 @@ Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.
 
 |Demographic|Maternal Mortality Rate (per 100k births)|1 in ...|
 |---|---|---|
-|Hispanic|18.2|1 in 5495|
-|NH White|19.1|1 in 5236|
-|NH Black|55.3|1 in 1808|
+|Hispanic|18.2|1 in 5,495|
+|NH White|19.1|1 in 5,236|
+|NH Black|55.3|1 in 1,808|
 
 The maternal mortality rate here is defined as the number of deaths per 100,000 live births.
 
