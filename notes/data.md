@@ -318,6 +318,7 @@ Source: CDC. [https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2020/mater
 ### Political Affiliation <a name = "political_affiliation"></a>
 
 Share of votes in 2020 presidential election by demographic
+
 |Demographic|Voted Dem|Voted Rep|
 |---|---|---|
 |White Men|40|57|
