@@ -30,6 +30,10 @@
 3. If a race doesn't have NH specifically mentioned in the table, it is assumed that this statistic includes people who are Hispanic or Latino in the statistic (as well as including people who are not Hispanic or Latino). So "White" would include people who are Hispanic or Latino as well as people who are not Hispanic or Latino. "NH White" would be white people who are not Hispanic or Latino.  
 4. All statistics are USA statistics on the country level unless otherwise specified.  
 5. Table rows are generally sorted from most favorable to least favorable. This is for metrics where it is generally known if a higher number is considered good or bad (ex: homicide rates, educational attainment, income, etc.). Metrics that aren't generally able to be considered favorable or unfavorable are not sorted in any particular order (ex: political affiliation, interracial marriage rates, etc.).  
+6. This document does not tend to communicate trends or how numbers have changed over time. This document tends to only communicate a snapshot of the present day situation. Some sources linked in the document may include additional information, including trends.  
+7. I try to use the most reliable source at all times. I tend to favor government sources over non-government sources.  
+8. I try to use the most recent source when possible. If a source is from a few years ago, that means that this was the most recent reliable source that I was able to locate.  
+9. I do not attempt to explain the reason why some numbers are what they are. I simply just report the numbers that I found.  
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
