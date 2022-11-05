@@ -19,6 +19,7 @@
 16. [Political Affiliation](#political_affiliation)
 17. [Homeownership rate by race/ethnicity](#homeownership_rate)
 18. [Disability rate by race/ethnicity](#disability_rate)
+19. [Urban vs Suburban vs Rural demographics](#urban_vs_suburban_vs_rural)
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
@@ -349,3 +350,39 @@ Source: NAR. [https://www.nar.realtor/research-and-statistics/research-reports/a
 |American Indian Alaska Native|3 in 10|
 
 Source: CDC. [https://www.cdc.gov/ncbddd/disabilityandhealth/materials/infographic-disabilities-ethnicity-race.html](https://www.cdc.gov/ncbddd/disabilityandhealth/materials/infographic-disabilities-ethnicity-race.html)
+
+### Urban vs Suburban vs Rural demographics <a name = "urban_vs_suburban_vs_rural"></a>
+
+|County type|Non-Hispanic White|Hispanic|Non-Hispanic Black|
+|---|---|---|---|
+|Urban|44%|27%|17%|
+|Suburban|68%|14%|11%|
+|Rural|79%|8%|8%|
+
+|County type|Foreign Born %|
+|---|---|
+|Urban|22%|
+|Suburban|11%|
+|Rural|4%|
+
+|County type|Poverty Rate|
+|---|---|
+|Urban|16%|
+|Suburban|23%|
+|Rural|8%|
+
+|County type|% of residents with a bachelors' degree|
+|---|---|
+|Urban|35%|
+|Suburban|31%|
+|Rural|19%|
+
+|County type|Median earnings per worker|
+|---|---|
+|Urban|$49,515|
+|Suburban|$46,081|
+|Rural|$35,171|
+
+Note: rows won't add to 100% because not all races are listed in the columns.
+
+Source: Pew Research Center. [https://www.pewresearch.org/social-trends/2018/05/22/demographic-and-economic-trends-in-urban-suburban-and-rural-communities](https://www.pewresearch.org/social-trends/2018/05/22/demographic-and-economic-trends-in-urban-suburban-and-rural-communities)
