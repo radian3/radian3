@@ -21,7 +21,7 @@
 18. [Homeownership rate by race/ethnicity](#homeownership_rate)
 19. [Disability rate by race/ethnicity](#disability_rate)
 20. [Urban vs Suburban vs Rural demographics](#urban_vs_suburban_vs_rural)
-21. [Marriage and Dirvorce statistics by race/ethnicity/gender](#marriage_and_divorce)
+21. [Marriage and Divorce statistics by race/ethnicity/gender](#marriage_and_divorce)
 
 ### Conventions used in this document <a name = "conventions"></a>
 
@@ -404,7 +404,7 @@ Note: rows won't add to 100% because not all races are listed in the columns.
 
 Source: Pew Research Center. [https://www.pewresearch.org/social-trends/2018/05/22/demographic-and-economic-trends-in-urban-suburban-and-rural-communities](https://www.pewresearch.org/social-trends/2018/05/22/demographic-and-economic-trends-in-urban-suburban-and-rural-communities)
 
-### Marriage and Dirvorce statistics by race/ethnicity/gender <a name = "marriage_and_divorce"></a>
+### Marriage and Divorce statistics by race/ethnicity/gender <a name = "marriage_and_divorce"></a>
 
 |Demographic|% of newlyweds who are intermarried|
 |---|---|
