@@ -6,17 +6,18 @@
 3. [Median annual earnings by race/gender/ethnicity](#median_annual_earnings)
 4. [Median household net worth by race/ethnicity](#median_household_net_worth)
 5. [Unemployment rates by race/gender/ethnicity](#unemployment_rate)
-6. [Poverty rate by race](#poverty_rate)
-7. [Chance of being a murder victim by race/ethnicity/gender](#chance_of_being_murder_victim)
-8. [Which demographic is murdering which demographic](#which_demographic_is_murdering_which_demographic)
-9. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
-10. [Obesity rate among adults by race/ethnicity/gender](#obesity_rate)
-11. [Life Expectancy at birth by race/ethnicity/gender](#life_expectancy)
-12. [Educational attainment by race/ethnicity/gender](#educational_attainment)
-13. [Incarceration Rate by race/ethnicity/gender](#incarceration_rate)
-14. [Maternal mortality rates by race/ethnicity](#maternal_mortality_rate)
-15. [Political Affiliation](#political_affiliation)
-16. [Homeownership rate by race/ethnicity](#homeownership_rate)
+6. [Labor force participation rate by race/ethnicity/gender](#labor_force_participation)
+7. [Poverty rate by race](#poverty_rate)
+8. [Chance of being a murder victim by race/ethnicity/gender](#chance_of_being_murder_victim)
+9. [Which demographic is murdering which demographic](#which_demographic_is_murdering_which_demographic)
+10. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
+11. [Obesity rate among adults by race/ethnicity/gender](#obesity_rate)
+12. [Life Expectancy at birth by race/ethnicity/gender](#life_expectancy)
+13. [Educational attainment by race/ethnicity/gender](#educational_attainment)
+14. [Incarceration Rate by race/ethnicity/gender](#incarceration_rate)
+15. [Maternal mortality rates by race/ethnicity](#maternal_mortality_rate)
+16. [Political Affiliation](#political_affiliation)
+17. [Homeownership rate by race/ethnicity](#homeownership_rate)
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
@@ -85,7 +86,24 @@ Source: [https://www.census.gov/library/stories/2022/08/wealth-inequality-by-hou
 |Black Men|12.1%|
 
 Source: [https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates](https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates)
- 
+
+### Labor force participation rate by race/ethnicity/gender <a name = "labor_force_participation"></a>
+
+|Demographic|Labor Force Participation Rate (2020)|
+|---|---|
+|Hispanic Men|75.4%|
+|White Men|67.9%|
+|Black Men|63.5%|
+|Black Women|58.8%|
+|Hispanic Women|55.8%|
+|White Women|55.4%|
+
+Source for the table: US BLS. [https://www.bls.gov/emp/tables/civilian-labor-force-participation-rate.htm](https://www.bls.gov/emp/tables/civilian-labor-force-participation-rate.htm)
+
+US BLS labor force participation rate definition: the percentage of the
+civilian noninstitutional population 16 years and older that is
+working or actively looking for work. From [https://www.bls.gov/opub/mlr/2016/article/pdf/labor-force-participation-what-has-happened-since-the-peak.pdf](https://www.bls.gov/opub/mlr/2016/article/pdf/labor-force-participation-what-has-happened-since-the-peak.pdf)
+
 ### Poverty rate by race <a name="poverty_rate"></a>
 <table>
   <tr><th>Demographic</th><th>Poverty rate</th></tr>
