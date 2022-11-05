@@ -305,11 +305,11 @@ Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.
 
 ### Maternal mortality rates by race/ethnicity <a name = "maternal_mortality_rate"></a>
 
-|Demographic|Maternal Mortality Rate (per 100k births)|
-|---|---|
-|Hispanic|18.2|
-|Non-Hispanic White|19.1|
-|Non-Hispanic Black|55.3|
+|Demographic|Maternal Mortality Rate (per 100k births)|1 in ...|
+|---|---|---|
+|Hispanic|18.2|1 in 5495|
+|Non-Hispanic White|19.1|1 in 5236|
+|Non-Hispanic Black|55.3|1 in 1808|
 
 The maternal mortality rate here is defined as the number of deaths per 100,000 live births.
 
