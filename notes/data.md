@@ -18,6 +18,7 @@
 15. [Maternal mortality rates by race/ethnicity](#maternal_mortality_rate)
 16. [Political Affiliation](#political_affiliation)
 17. [Homeownership rate by race/ethnicity](#homeownership_rate)
+18. [Disability rate by race/ethnicity](#disability_rate)
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
@@ -335,3 +336,16 @@ Source: Pew Research Center. [https://www.pewresearch.org/politics/2021/06/30/be
 |Black|43.4%|
 
 Source: NAR. [https://www.nar.realtor/research-and-statistics/research-reports/a-snapshot-of-race-and-home-buying-in-america](https://www.nar.realtor/research-and-statistics/research-reports/a-snapshot-of-race-and-home-buying-in-america)
+
+### Disability rate by race/ethnicity <a name = "disability_rate"></a>
+
+|Demographic|# of adults with a disability|
+|---|---|
+|Asian|1 in 10|
+|Hispanic|1 in 6|
+|Native Hawaiian Pacific Islander|1 in 6|
+|White|1 in 5|
+|Black|1 in 4|
+|American Indian Alaska Native|3 in 10|
+
+Source: CDC. [https://www.cdc.gov/ncbddd/disabilityandhealth/materials/infographic-disabilities-ethnicity-race.html](https://www.cdc.gov/ncbddd/disabilityandhealth/materials/infographic-disabilities-ethnicity-race.html)
