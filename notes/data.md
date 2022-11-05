@@ -1,25 +1,34 @@
 # USA Race/Ethnicity/Gender data
 
 ## Table of contents
-1. [Race/Ethnicity definitions](#race_ethnicity_definitions)
-2. [Percent of people of each race/ethnicity](#percent_of_each_race)
-3. [Median annual earnings by race/gender/ethnicity](#median_annual_earnings)
-4. [Median household net worth by race/ethnicity](#median_household_net_worth)
-5. [Unemployment rates by race/gender/ethnicity](#unemployment_rate)
-6. [Labor force participation rate by race/ethnicity/gender](#labor_force_participation)
-7. [Poverty rate by race](#poverty_rate)
-8. [Chance of being a murder victim by race/ethnicity/gender](#chance_of_being_murder_victim)
-9. [Which demographic is murdering which demographic](#which_demographic_is_murdering_which_demographic)
-10. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
-11. [Obesity rate among adults by race/ethnicity/gender](#obesity_rate)
-12. [Life Expectancy at birth by race/ethnicity/gender](#life_expectancy)
-13. [Educational attainment by race/ethnicity/gender](#educational_attainment)
-14. [Incarceration Rate by race/ethnicity/gender](#incarceration_rate)
-15. [Maternal mortality rates by race/ethnicity](#maternal_mortality_rate)
-16. [Political Affiliation](#political_affiliation)
-17. [Homeownership rate by race/ethnicity](#homeownership_rate)
-18. [Disability rate by race/ethnicity](#disability_rate)
-19. [Urban vs Suburban vs Rural demographics](#urban_vs_suburban_vs_rural)
+1. [Conventions used in this document](#conventions)
+2. [Race/Ethnicity definitions](#race_ethnicity_definitions)
+3. [Percent of people of each race/ethnicity](#percent_of_each_race)
+4. [Median annual earnings by race/gender/ethnicity](#median_annual_earnings)
+5. [Median household net worth by race/ethnicity](#median_household_net_worth)
+6. [Unemployment rates by race/gender/ethnicity](#unemployment_rate)
+7. [Labor force participation rate by race/ethnicity/gender](#labor_force_participation)
+8. [Poverty rate by race](#poverty_rate)
+9. [Chance of being a murder victim by race/ethnicity/gender](#chance_of_being_murder_victim)
+10. [Which demographic is murdering which demographic](#which_demographic_is_murdering_which_demographic)
+11. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
+12. [Obesity rate among adults by race/ethnicity/gender](#obesity_rate)
+13. [Life Expectancy at birth by race/ethnicity/gender](#life_expectancy)
+14. [Educational attainment by race/ethnicity/gender](#educational_attainment)
+15. [Incarceration Rate by race/ethnicity/gender](#incarceration_rate)
+16. [Maternal mortality rates by race/ethnicity](#maternal_mortality_rate)
+17. [Political Affiliation](#political_affiliation)
+18. [Homeownership rate by race/ethnicity](#homeownership_rate)
+19. [Disability rate by race/ethnicity](#disability_rate)
+20. [Urban vs Suburban vs Rural demographics](#urban_vs_suburban_vs_rural)
+21. [Marriage and Dirvorce statistics by race/ethnicity/gender](#marriage_and_divorce)
+
+### Conventions used in this document <a name = "conventions"></a>
+
+1. NH = Not Hispanic or Latino.
+2. If a race doesn't have NH specifically mentioned in the table, it is assumed that this statistic includes people who are Hispanic or Latino in the statistic (as well as including people who are not Hispanic or Latino). So "White" would include people who are Hispanic or Latino as well as people who are not Hispanic or Latino. "NH White" would be white people who are not Hispanic or Latino.
+3. All statistics are USA statistics on the country level unless otherwise specified.
+4. Table rows are generally sorted from most favorable to least favorable. This is for metrics where it is generally known if a higher number is considered good or bad (ex: homicide rates, educational attainment, income, etc.). Metrics that aren't generally able to be considered favorable or unfavorable are not sorted in any particular order (ex: political affiliation, interracial marriage rates, etc.).
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
@@ -41,7 +50,7 @@ Source: [https://www.census.gov/topics/population/race/about.html](https://www.c
   <tr><td>Native Hawaiian and Other Pacific Islander</td><td>0.3%</td></tr>
   <tr><td>Two or More Races</td><td>2.9%</td></tr>
   <tr><td>Hispanic or Latino</td><td>18.9%</td></tr>
-  <tr><td>White (not Hispanic or Latino)</td><td>59.3%</td></tr>
+  <tr><td>NH White</td><td>59.3%</td></tr>
 </table>
 
 Source: [https://www.census.gov/quickfacts/fact/table/US/PST045221](https://www.census.gov/quickfacts/fact/table/US/PST045221)
@@ -50,10 +59,10 @@ Source: [https://www.census.gov/quickfacts/fact/table/US/PST045221](https://www.
 <table>
   <tr><th>Demographic</th><th>Median annual earnings</th></tr>
   <tr><td>Asian men</td><td>$81,794</td></tr>
-  <tr><td>Non-Hispanic White men</td><td>$69,235</td></tr>
+  <tr><td>NH White men</td><td>$69,235</td></tr>
   <tr><td>Asian women</td><td>$63,867</td></tr>
   <tr><td>White men</td><td>$61,740</td></tr>
-  <tr><td>Non-Hispanic White women</td><td>$55,320</td></tr>
+  <tr><td>NH White women</td><td>$55,320</td></tr>
   <tr><td>White women</td><td>$51,451</td></tr>
   <tr><td>Black men</td><td>$50,187</td></tr>
   <tr><td>Black women</td><td>$46,543</td></tr>
@@ -67,7 +76,7 @@ Source: [https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hi
 <table>
   <tr><th>Demographic</th><th>Median household net worth</th></tr>
   <tr><td>Asian</td><td>$206k</td></tr>
-  <tr><td>Non-Hispanic White</td><td>$187k</td></tr>
+  <tr><td>NH White</td><td>$187k</td></tr>
   <tr><td>Hispanic</td><td>$32k</td></tr>
   <tr><td>Black</td><td>$14k</td></tr>
 </table>
@@ -109,7 +118,7 @@ working or actively looking for work. From [https://www.bls.gov/opub/mlr/2016/ar
 ### Poverty rate by race <a name="poverty_rate"></a>
 <table>
   <tr><th>Demographic</th><th>Poverty rate</th></tr>
-  <tr><td>Non-Hispanic White</td><td>7.3%</td></tr>
+  <tr><td>NH White</td><td>7.3%</td></tr>
   <tr><td>Asian</td><td>7.3%</td></tr>
   <tr><td>Hispanic (any race)</td><td>15.7%</td></tr>
   <tr><td>Black</td><td>18.8%</td></tr>
@@ -235,14 +244,14 @@ Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-
 
 |Demographic|Obesity Rate|
 |---|---|
-|Non-Hispanic Asian Women|14.5%|
-|Non-Hispanic Asian Men|17.6%|
-|Non-Hispanic White Women|39.6%|
-|Non-Hispanic Black Men|40.4%|
-|Non-Hispanic White Men|43.1%|
+|NH Asian Women|14.5%|
+|NH Asian Men|17.6%|
+|NH White Women|39.6%|
+|NH Black Men|40.4%|
+|NH White Men|43.1%|
 |Hispanic Men|45.2%|
 |Hispanic Women|45.7%|
-|Non-Hispanic Black Women|57.9%|
+|NH Black Women|57.9%|
 
 Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https://stacks.cdc.gov/view/cdc/106273](https://stacks.cdc.gov/view/cdc/106273)
 
@@ -250,14 +259,14 @@ Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https
 
 |Demographic|Life Expectancy|
 |---|---|
-|Non-Hispanic Asian Women|87.4|
+|NH Asian Women|87.4|
 |Hispanic Women|84.4|
-|Non-Hispanic Asian Men|83.5|
-|Non-Hispanic White Women|81.3|
-|Hispanic Men|79.1|
-|Non-Hispanic Black Women|78.1|
-|Non-Hispanic White Men|76.3|
-|Non-Hispanic Black Men|71.3|
+|NH Asian Men|83.5|
+|NH White Women|81.3|
+|NH Men|79.1|
+|NH Black Women|78.1|
+|NH White Men|76.3|
+|NH Black Men|71.3|
 
 Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf)
 
@@ -274,12 +283,12 @@ Source: [https://edtrust.org/resource/national-and-state-degree-attainment-for-b
 
 |Demographic|Bachelors Degrees awarded from 2018-2019 (per 1k people)|
 |---|---|
-|Non-Hispanic White Women|6.8|
-|Non-Hispanic Black Women|6.1|
+|NH White Women|6.8|
+|NH Black Women|6.1|
 |Hispanic Women|5.6|
-|Non-Hispanic White Men|5.2|
+|NH White Men|5.2|
 |Hispanic Men|3.6|
-|Non-Hispanic Black Men|3.4|
+|NH Black Men|3.4|
 
 Using Non-Hispanic White Women as an example, this table is saying "for every 1000 non-hispanic white women alive in the USA, 6.8 of them earned a bachelors degree from 2018-2019."
 
@@ -289,14 +298,14 @@ Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts
 
 |Demographic|People in prison in 2020 (per 100k)|1 in ...|
 |---|---|---|
-|Non-Hispanic Asian Women|6|1 in 16,667|
-|Non-Hispanic White Women|39|1 in 2,564|
+|NH Asian Women|6|1 in 16,667|
+|NH White Women|39|1 in 2,564|
 |Hispanic Women|48|1 in 2083|
-|Non-Hispanic Black Women|71|1 in 1408|
-|Non-Hispanic Asian Men|142|1 in 704|
-|Non-Hispanic White Men|336|1 in 298|
+|NH Black Women|71|1 in 1408|
+|NH Asian Men|142|1 in 704|
+|NH White Men|336|1 in 298|
 |Hispanic Men|840|1 in 119|
-|Non-Hispanic Black Men|1877|1 in 53|
+|NH Black Men|1877|1 in 53|
 
 Note 1: Column 2 includes state and federal prisons
 Note 2: Column 3 is column 2 divided by 100,000
@@ -308,8 +317,8 @@ Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.
 |Demographic|Maternal Mortality Rate (per 100k births)|1 in ...|
 |---|---|---|
 |Hispanic|18.2|1 in 5495|
-|Non-Hispanic White|19.1|1 in 5236|
-|Non-Hispanic Black|55.3|1 in 1808|
+|NH White|19.1|1 in 5236|
+|NH Black|55.3|1 in 1808|
 
 The maternal mortality rate here is defined as the number of deaths per 100,000 live births.
 
@@ -356,7 +365,7 @@ Source: CDC. [https://www.cdc.gov/ncbddd/disabilityandhealth/materials/infograph
 
 ### Urban vs Suburban vs Rural demographics <a name = "urban_vs_suburban_vs_rural"></a>
 
-|County type|Non-Hispanic White|Hispanic|Non-Hispanic Black|
+|County type|NH White|Hispanic|NH Black|
 |---|---|---|---|
 |Urban|44%|27%|17%|
 |Suburban|68%|14%|11%|
@@ -389,3 +398,16 @@ Note: rows won't add to 100% because not all races are listed in the columns.
 |Rural|$35,171|
 
 Source: Pew Research Center. [https://www.pewresearch.org/social-trends/2018/05/22/demographic-and-economic-trends-in-urban-suburban-and-rural-communities](https://www.pewresearch.org/social-trends/2018/05/22/demographic-and-economic-trends-in-urban-suburban-and-rural-communities)
+
+### Marriage and Dirvorce statistics by race/ethnicity/gender <a name = "marriage_and_divorce"></a>
+
+|Demographic|% of newlyweds who are intermarried|
+|---|---|
+|NH White Men|12%|
+|NH White Women|10%|
+|Hispanic Men|26%|
+|Hispanic Women|28%|
+|NH Asian Men|21%|
+|NH Asian Women|36%|
+
+Source: [https://www.pewresearch.org/social-trends/2017/05/18/1-trends-and-patterns-in-intermarriage/](https://www.pewresearch.org/social-trends/2017/05/18/1-trends-and-patterns-in-intermarriage/)
