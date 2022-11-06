@@ -439,16 +439,6 @@ Source: [https://www.pewresearch.org/social-trends/2017/05/18/1-trends-and-patte
 
 Source: US Census ACS. B05006. PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN THE UNITED STATES. 2021 ACS 1-Year Estimate. [https://data.census.gov/cedsci/table?q=PLACE%20OF%20BIRTH&tid=ACSDT1Y2021.B05006](https://data.census.gov/cedsci/table?q=PLACE%20OF%20BIRTH&tid=ACSDT1Y2021.B05006)
 
-|Place of birth (American Indian or Alaska Native, 2021 data)|Estimate|Percent|
-|---|---|---|
-|Total|3,158,694|100%|
-|Born in state of residence|2,025,192|64.1%|
-|Born in other state in the US|558,999|17.7%|
-|Native; born outside the US|42,482|1.3%|
-|Foreign born|532,021|16.8%|
-
-Source: US Census ACS B06004C. PLACE OF BIRTH (AMERICAN INDIAN AND ALASKA NATIVE ALONE) IN THE UNITED STATES. [https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=American%20Indian%20and%20Alaska%20Native&tid=ACSDT1Y2021.B06004C](https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=American%20Indian%20and%20Alaska%20Native&tid=ACSDT1Y2021.B06004C)
-
 |Place of birth (Asian, 2021 data)|Estimate|Percent|
 |---|---|---|
 |Total|19,157,288|100%|
@@ -468,3 +458,23 @@ Source: US Census ACS B06004D. PLACE OF BIRTH (ASIAN ALONE) IN THE UNITED STATES
 |Foreign born|4,070,266|10.1%|
 
 Source: US Census ACS. B06004B. PLACE OF BIRTH (BLACK OR AFRICAN AMERICAN ALONE) IN THE UNITED STATES. 2021 ACS 1-year estimates. [https://data.census.gov/cedsci/table?t=Black%20or%20African%20American&tid=ACSDT1Y2021.B06004B](https://data.census.gov/cedsci/table?t=Black%20or%20African%20American&tid=ACSDT1Y2021.B06004B)
+
+|Place of birth (White, 2021 data)|Estimate|Percent|
+|---|---|---|
+|Total|202,981,791|100%|
+|Born in state of residence|124,894,526|62%|
+|Born in other state in the US|66,641,814|32.8%|
+|Native; born outside the US|2,016,748|1%|
+|Foreign born|9,428,703|4.6%|
+
+Source: US Census ACS B06004A. PLACE OF BIRTH (WHITE ALONE) IN THE UNITED STATES. 2021. [https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=White](https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=White)
+
+|Place of birth (Hispanic, 2021 data)|Estimate|Percent|
+|---|---|---|
+|Total|62,529,064|100%|
+|Born in state of residence|31,960,164|51%|
+|Born in other state in the US|7,965,467|12.7%|
+|Native; born outside the US|2,677,907|4.3%|
+|Foreign born|19,925,526|31.9%|
+
+Source: US Census ACS B06004. PLACE OF BIRTH (HISPANIC OR LATINO) IN THE UNITED STATES. 2021. [https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=Hispanic%20or%20Latino&tid=ACSDT1Y2021.B06004I](https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=Hispanic%20or%20Latino&tid=ACSDT1Y2021.B06004I)
