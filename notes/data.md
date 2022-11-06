@@ -449,7 +449,17 @@ Source: US Census ACS. B05006. PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN
 
 Source: US Census ACS B06004C. PLACE OF BIRTH (AMERICAN INDIAN AND ALASKA NATIVE ALONE) IN THE UNITED STATES. [https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=American%20Indian%20and%20Alaska%20Native&tid=ACSDT1Y2021.B06004C](https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=American%20Indian%20and%20Alaska%20Native&tid=ACSDT1Y2021.B06004C)
 
-|Place of birth (Black alone, 2021 data)|Estimate|Percent|
+|Place of birth (Asian, 2021 data)|Estimate|Percent|
+|---|---|---|
+|Total|19,157,288|100%|
+|Born in state of residence|4,802,441|25%|
+|Born in other state in the US|1,696,987|8.9%|
+|Native; born outside the US|388,954|2%|
+|Foreign born|12,268,906|64%|
+
+Source: US Census ACS B06004D. PLACE OF BIRTH (ASIAN ALONE) IN THE UNITED STATES. 2021. [https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=Asian](https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=Asian)
+
+|Place of birth (Black, 2021 data)|Estimate|Percent|
 |---|---|---|
 |Total|40,194,304|100%|
 |Born in state of residence|25,765,813|64.1%|
