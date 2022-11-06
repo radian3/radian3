@@ -57,7 +57,7 @@ Source: [https://www.census.gov/topics/population/race/about.html](https://www.c
   <tr><td>Black or African American</td><td>13.6%</td></tr>
   <tr><td>Asian</td><td>6.1%</td></tr>
   <tr><td>Two or More Races</td><td>2.9%</td></tr>
-  <tr><td>Americian Indian and Alaska Native</td><td>1.3%</td></tr>
+  <tr><td>American Indian and Alaska Native</td><td>1.3%</td></tr>
   <tr><td>Native Hawaiian and Other Pacific Islander</td><td>0.3%</td></tr>
 </table>
 
@@ -283,7 +283,7 @@ Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nv
 
 ### Educational attainment by race/ethnicity/gender <a name = "educational_attainment"> </a>
 
-|Demographic|Percent with a bachelors degree (of people ages 25+. 2021 data)|
+|Demographic|Percent with a Bachelor’s degree (of people ages 25+. 2021 data)|
 |---|---|
 |Asian Men|58.2%|
 |Asian Women|55%|
@@ -296,7 +296,7 @@ Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nv
 
 Source: [https://edtrust.org/resource/national-and-state-degree-attainment-for-black-women-and-men/](https://data.census.gov/cedsci/table?t=Educational%20Attainment)](https://edtrust.org/resource/national-and-state-degree-attainment-for-black-women-and-men/](https://data.census.gov/cedsci/table?t=Educational%20Attainment))
 
-|Demographic|Bachelors Degrees awarded from 2018-2019 (per 1k people)|
+|Demographic|Bachelor’s Degrees awarded from 2018-2019 (per 1k people)|
 |---|---|
 |NH White Women|6.8|
 |NH Black Women|6.1|
@@ -305,7 +305,7 @@ Source: [https://edtrust.org/resource/national-and-state-degree-attainment-for-b
 |Hispanic Men|3.6|
 |NH Black Men|3.4|
 
-Using Non-Hispanic White Women as an example, this table is saying "for every 1000 non-hispanic white women alive in the USA, 6.8 of them earned a bachelors degree from 2018-2019."
+Using Non-Hispanic White Women as an example, this table is saying "for every 1000 non-hispanic white women alive in the USA, 6.8 of them earned a Bachelor’s degree from 2018-2019."
 
 Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts/display.asp?id=72](https://nces.ed.gov/fastfacts/display.asp?id=72)
 
@@ -454,7 +454,7 @@ Source: [https://www.pewresearch.org/social-trends/2017/05/18/1-trends-and-patte
 |White Man/Black Woman|44% less likely|
 |Asian Man/White Woman|60% more likely|
 |White Man/Asian Woman|4% more likely|
-|Hispanic White Man/Hispanic White Woman|35% less likey|
+|Hispanic White Man/Hispanic White Woman|35% less likely|
 |Black Man/Black Woman|8% more likely|
 |Asian Man/Asian Woman|55% less likely|
 
