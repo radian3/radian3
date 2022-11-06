@@ -23,6 +23,7 @@
 20. [Urban vs Suburban vs Rural demographics](#urban_vs_suburban_vs_rural)
 21. [Marriage and Divorce statistics by race/ethnicity/gender](#marriage_and_divorce)
 22. [Foreign Born Data](#foreign_born_data)
+23. [Household type children are growing up in by race/ethnicity](#household_type_race_ethnicity)
 
 ### Conventions used in this document <a name = "conventions"></a>
 
@@ -482,3 +483,17 @@ Source: US Census ACS B06004A. PLACE OF BIRTH (WHITE ALONE) IN THE UNITED STATES
 |Foreign born|19,925,526|31.9%|
 
 Source: US Census ACS B06004. PLACE OF BIRTH (HISPANIC OR LATINO) IN THE UNITED STATES. 2021. [https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=Hispanic%20or%20Latino&tid=ACSDT1Y2021.B06004I](https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=Hispanic%20or%20Latino&tid=ACSDT1Y2021.B06004I)
+
+
+### Household type children are growing up in by race/ethnicity <a name = "household_type_race_ethnicity"></a>
+
+Children under 18 years of age in households
+
+|Race/Ethnicity of child|% of children in two parent household|% of children in male household, no spouse present|% of children in female household, no spouse present|
+|---|---|---|---|
+|Asian|85%|4.3%|9.6%|
+|White|75%|7.4%|16.9%|
+|Hispanic|60.3%|10.3%|28.7%|
+|Black|38%|8.4%|52.7%|
+
+Source: Us Census ACS. 2021. S0901 Children Characteristics. [https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901](https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901)
