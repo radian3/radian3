@@ -446,6 +446,20 @@ Source: US Census ACS. Table MS-1. Marital Status of the Population 15 Years Old
 
 Source: [https://www.pewresearch.org/social-trends/2017/05/18/1-trends-and-patterns-in-intermarriage/](https://www.pewresearch.org/social-trends/2017/05/18/1-trends-and-patterns-in-intermarriage/)
 
+|Demographic|Liklihood of divorce after 10th year of marriage compared to White Man/White Woman|
+|---|---|
+|White Man/Hispanic White Woman|5% less likely|
+|Hispanic White Man/White Woman|14% more likely|
+|Black Man/White Woman|108% more likely|
+|White Man/Black Woman|44% less likely|
+|Asian Man/White Woman|60% more likely|
+|White Man/Asian Woman|4% more likely|
+|Hispanic White Man/Hispanic White Woman|35% less likey|
+|Black Man/Black Woman|8% more likely|
+|Asian Man/Asian Woman|55% less likely|
+
+Source: Bratter and King. "But Will It Last?": Marital Instability Among Interracial and Same-Race Couples. 2008. Family Relations Journal. [https://www.semanticscholar.org/paper/%E2%80%9CBut-Will-It-Last%E2%80%9D%3A-Marital-Instability-Among-and-Bratter-King/06ade00f9c83af3ea434afb3e7663bc014199ae7](https://www.semanticscholar.org/paper/%E2%80%9CBut-Will-It-Last%E2%80%9D%3A-Marital-Instability-Among-and-Bratter-King/06ade00f9c83af3ea434afb3e7663bc014199ae7)
+
 ### Foreign Born Data <a name = "foreign_born_data"></a>
 
 |Region|Foreign Born Population (2021)|% of total Foreign Born Population|
