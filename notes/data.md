@@ -446,7 +446,7 @@ Source: US Census ACS. Table MS-1. Marital Status of the Population 15 Years Old
 
 Source: [https://www.pewresearch.org/social-trends/2017/05/18/1-trends-and-patterns-in-intermarriage/](https://www.pewresearch.org/social-trends/2017/05/18/1-trends-and-patterns-in-intermarriage/)
 
-|Demographic|Liklihood of divorce after 10th year of marriage compared to White Man/White Woman|
+|Demographic|Liklihood of divorce after 10th year of marriage compared to White Man/White Woman (2008 study)|
 |---|---|
 |White Man/Hispanic White Woman|5% less likely|
 |Hispanic White Man/White Woman|14% more likely|
