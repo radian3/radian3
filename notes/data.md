@@ -282,14 +282,18 @@ Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nv
 
 ### Educational attainment by race/ethnicity/gender <a name = "educational_attainment"> </a>
 
-|Demographic|Percent with a college degree in 2018 (of people ages 25-64)|
+|Demographic|Percent with a bachelors degree (of people ages 25+. 2021 data)|
 |---|---|
-|White Women|51.4%|
-|White Men|44.3%|
-|Black Women|36.1%|
-|Black Men|26.5%|
+|Asian Men|58.2%|
+|Asian Women|55%|
+|White Women|39%|
+|White Men|38%|
+|Black Women|28%|
+|Hispanic Women|21.6%|
+|Black Men|21.5%|
+|Hispanic Men|17.8%|
 
-Source: [https://edtrust.org/resource/national-and-state-degree-attainment-for-black-women-and-men/](https://edtrust.org/resource/national-and-state-degree-attainment-for-black-women-and-men/)
+Source: [https://edtrust.org/resource/national-and-state-degree-attainment-for-black-women-and-men/](https://data.census.gov/cedsci/table?t=Educational%20Attainment)](https://edtrust.org/resource/national-and-state-degree-attainment-for-black-women-and-men/](https://data.census.gov/cedsci/table?t=Educational%20Attainment))
 
 |Demographic|Bachelors Degrees awarded from 2018-2019 (per 1k people)|
 |---|---|
