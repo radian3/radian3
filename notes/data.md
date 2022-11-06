@@ -22,6 +22,7 @@
 19. [Disability rate by race/ethnicity](#disability_rate)
 20. [Urban vs Suburban vs Rural demographics](#urban_vs_suburban_vs_rural)
 21. [Marriage and Divorce statistics by race/ethnicity/gender](#marriage_and_divorce)
+22. [Foreign Born Data](#foreign_born_data)
 
 ### Conventions used in this document <a name = "conventions"></a>
 
@@ -34,6 +35,7 @@
 7. I try to use the most reliable source at all times. I tend to favor government sources over non-government sources.  
 8. I try to use the most recent source when possible. If a source is from a few years ago, that means that this was the most recent reliable source that I was able to locate.  
 9. I do not attempt to explain the reason why some numbers are what they are. I simply just report the numbers that I found.  
+10. In most scenarios in this document, ethnicity just refers to Hispanic/Non-Hispanic.
 
 ### Race/Ethnicity definitions <a name="race_ethnicity_definitions"></a>
 <b>White</b> – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.<br>
@@ -423,3 +425,16 @@ Source: Pew Research Center. [https://www.pewresearch.org/social-trends/2018/05/
 |NH Asian Women|36%|
 
 Source: [https://www.pewresearch.org/social-trends/2017/05/18/1-trends-and-patterns-in-intermarriage/](https://www.pewresearch.org/social-trends/2017/05/18/1-trends-and-patterns-in-intermarriage/)
+
+### Foreign Born Data <a name = "foreign_born_data"></a>
+
+|Region|Foreign Born Population (2021)|% of total Foreign Born Population|
+|---|---|---|
+|All|45,269,644|100%|
+|Americas|23,479,329|51.9%|
+|Asia|14,034,338|31%|
+|Europe|4,865,317|10.7%|
+|Africa|2,597,894|5.7%|
+|Oceania|292,766|0.64%|
+
+Source: US Census American Community Survey. B05006. PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN THE UNITED STATES. 2021 ACS 1-Year Estimate. [https://data.census.gov/cedsci/table?q=PLACE%20OF%20BIRTH&tid=ACSDT1Y2021.B05006](https://data.census.gov/cedsci/table?q=PLACE%20OF%20BIRTH&tid=ACSDT1Y2021.B05006)
