@@ -437,4 +437,24 @@ Source: [https://www.pewresearch.org/social-trends/2017/05/18/1-trends-and-patte
 |Africa|2,597,894|5.7%|
 |Oceania|292,766|0.64%|
 
-Source: US Census American Community Survey. B05006. PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN THE UNITED STATES. 2021 ACS 1-Year Estimate. [https://data.census.gov/cedsci/table?q=PLACE%20OF%20BIRTH&tid=ACSDT1Y2021.B05006](https://data.census.gov/cedsci/table?q=PLACE%20OF%20BIRTH&tid=ACSDT1Y2021.B05006)
+Source: US Census ACS. B05006. PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN THE UNITED STATES. 2021 ACS 1-Year Estimate. [https://data.census.gov/cedsci/table?q=PLACE%20OF%20BIRTH&tid=ACSDT1Y2021.B05006](https://data.census.gov/cedsci/table?q=PLACE%20OF%20BIRTH&tid=ACSDT1Y2021.B05006)
+
+|Place of birth (American Indian or Alaska Native, 2021 data)|Estimate|Percent|
+|---|---|---|
+|Total|3,158,694|100%|
+|Born in state of residence|2,025,192|64.1%|
+|Born in other state in the US|558,999|17.7%|
+|Native; born outside the US|42,482|1.3%|
+|Foreign born|532,021|16.8%|
+
+Source: US Census ACS B06004C. PLACE OF BIRTH (AMERICAN INDIAN AND ALASKA NATIVE ALONE) IN THE UNITED STATES. [https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=American%20Indian%20and%20Alaska%20Native&tid=ACSDT1Y2021.B06004C](https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=American%20Indian%20and%20Alaska%20Native&tid=ACSDT1Y2021.B06004C)
+
+|Place of birth (Black alone, 2021 data)|Estimate|Percent|
+|---|---|---|
+|Total|40,194,304|100%|
+|Born in state of residence|25,765,813|64.1%|
+|Born in other state in the US|9,889,051|24.6%|
+|Native; born outside the US|469,174|1.2%|
+|Foreign born|4,070,266|10.1%|
+
+Source: US Census ACS. B06004B. PLACE OF BIRTH (BLACK OR AFRICAN AMERICAN ALONE) IN THE UNITED STATES. 2021 ACS 1-year estimates. [https://data.census.gov/cedsci/table?t=Black%20or%20African%20American&tid=ACSDT1Y2021.B06004B](https://data.census.gov/cedsci/table?t=Black%20or%20African%20American&tid=ACSDT1Y2021.B06004B)
