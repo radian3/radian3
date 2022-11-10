@@ -213,7 +213,7 @@ Data for this section is from 2019.
     <td>63%</td>
   </tr>
 </table>
-Note: The above percentages will not add up to 100% because someone who is Hispanic may be of any race
+Note: The above percentages in the rows will not add up to 100% because someone who is Hispanic may be of any race
 <table>
   <th>Gender of murder victim</th>
   <th>% deaths by Male offender</th>
