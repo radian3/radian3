@@ -294,7 +294,7 @@ Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nv
 |Black Men|21.5%|
 |Hispanic Men|17.8%|
 
-Source: [https://edtrust.org/resource/national-and-state-degree-attainment-for-black-women-and-men/](https://data.census.gov/cedsci/table?t=Educational%20Attainment)](https://edtrust.org/resource/national-and-state-degree-attainment-for-black-women-and-men/](https://data.census.gov/cedsci/table?t=Educational%20Attainment))
+Source: [https://edtrust.org/resource/national-and-state-degree-attainment-for-black-women-and-men/](https://data.census.gov/cedsci/table?t=Educational%20Attainment)
 
 |Demographic|Bachelor’s Degrees awarded from 2018-2019 (per 1k people)|
 |---|---|
