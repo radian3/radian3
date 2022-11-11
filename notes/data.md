@@ -286,15 +286,19 @@ Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nv
 |Demographic|Percent with a Bachelor’s degree (of people ages 25+. 2021 data)|
 |---|---|
 |Asian Men|58.2%|
-|Asian Women|55%|
+|Asian Women|54.9%|
 |White Women|39%|
-|White Men|38%|
-|Black Women|28%|
+|White Men|37.6%|
+|Black Women|27.7%|
 |Hispanic Women|21.6%|
 |Black Men|21.5%|
+|Native Hawaiian/Pacific Islander Women|19%|
+|American Indian/Alaska Native Women|18.1%|
 |Hispanic Men|17.8%|
+|Native Hawaiian/Pacific Islander Men|17.4%|
+|American Indian/Alaska Native Men|14.1%|
 
-Source: [https://edtrust.org/resource/national-and-state-degree-attainment-for-black-women-and-men/](https://data.census.gov/cedsci/table?t=Educational%20Attainment)
+Source: [https://data.census.gov/cedsci/table?t=Educational%20Attainment&tid=ACSST1Y2021.S1501](https://data.census.gov/cedsci/table?t=Educational%20Attainment&tid=ACSST1Y2021.S1501)
 
 |Demographic|Bachelor’s Degrees awarded from 2018-2019 (per 1k people)|
 |---|---|
