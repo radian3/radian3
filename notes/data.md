@@ -530,3 +530,10 @@ Children under 18 years of age in households
 |Black|38%|8.3%|52.7%|
 
 Source: Us Census ACS. 2021. S0901 Children Characteristics. [https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901](https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901)
+
+|Race/Ethnicity of child|% of children that have a father in the household|% of children that have a mother in the household|
+|---|---|---|
+|Asian|89.3%|94.7%|
+|White|83%|92.6%|
+|Hispanic|71.1%|89.6%|
+|Black|46.3%|90.7%|
