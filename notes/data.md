@@ -524,9 +524,9 @@ Children under 18 years of age in households
 
 |Race/Ethnicity of child|% of children in two parent household|% of children in male household, no spouse present|% of children in female household, no spouse present|
 |---|---|---|---|
-|Asian|85%|4.3%|9.6%|
-|White|75%|7.4%|16.9%|
-|Hispanic|60.3%|10.3%|28.7%|
-|Black|38%|8.4%|52.7%|
+|Asian|85%|4.3%|9.7%|
+|White|75.6%|7.4%|17.0%|
+|Hispanic|60.7%|10.4%|28.9%|
+|Black|38%|8.3%|52.7%|
 
 Source: Us Census ACS. 2021. S0901 Children Characteristics. [https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901](https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901)
