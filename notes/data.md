@@ -537,3 +537,5 @@ Source: Us Census ACS. 2021. S0901 Children Characteristics. [https://data.censu
 |White|83%|92.6%|
 |Hispanic|71.1%|89.6%|
 |Black|46.3%|90.7%|
+
+This table was made from doing calculations from the table above it. The chance of having a father in the household is the chance of having a two parent household plus the chance of having a one parent household that is male-led with no spouse present. The chance of having a mother in the household is calculated similarly.
