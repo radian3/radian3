@@ -539,3 +539,12 @@ Source: Us Census ACS. 2021. S0901 Children Characteristics. [https://data.censu
 |Black|46.3%|90.7%|
 
 This table was made from doing calculations from the table above it. The chance of having a father in the household is the chance of having a two parent household plus the chance of having a one parent household that is male-led with no spouse present. The chance of having a mother in the household is calculated similarly.
+
+|Race/Ethnicity of child|% of children in a single parent household that live with the father|% of children in a single parent household that live with the mother|
+|---|---|---|
+|Asian|30.7%|69.3%|
+|White|30.3%|69.7%|
+|Hispanic|26.5%|73.5%|
+|Black|13.6%|86.4%|
+
+This table was also made from doing calculations from the first table in this section. This table is looking at all children who are growing up in a one parent household and mentioning which of these children are growing up with the mother vs the father.
