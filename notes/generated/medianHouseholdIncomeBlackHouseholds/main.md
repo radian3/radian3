@@ -9,4 +9,6 @@
 - Region: [link](region)  
 - Country: [link](country)  
 
-Note: I only included places that have at least 1000 black people
+Notes:  
+- I only included places that have at least 1000 black people  
+- Median household income is defined by the US Census as "MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS)"
