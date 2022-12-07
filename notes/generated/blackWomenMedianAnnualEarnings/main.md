@@ -9,4 +9,6 @@
 - Region: [link](region)  
 - Country: [link](country)  
 
-Note: I only included places that have at least 1000 black people
+Notes:  
+- I only included places that have at least 1000 black people  
+- Median annual earnings is defined by the US Census as "MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS) BY SEX BY WORK EXPERIENCE IN THE PAST 12 MONTHS FOR THE POPULATION 16 YEARS AND OVER WITH EARNINGS IN THE PAST 12 MONTHS"
