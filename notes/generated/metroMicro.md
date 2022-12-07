@@ -1,3 +1,5 @@
+This page is an analysis and visualization of data I queried from the US Census' American Community Survey 2020 5 year estimates API. To see the original, raw data that I retrieved from the API before analyzing it, navigate here: [&for=metropolitan%20statistical%20area/micropolitan%20statistical%20area:*](&for=metropolitan%20statistical%20area/micropolitan%20statistical%20area:*)
+
 |Metro/Micro|Population|% Black|Median income of black women|
 |---|---|---|---|
 |Napa, CA Metro Area|138572|2.07%|$46031|
