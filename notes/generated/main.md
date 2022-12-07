@@ -1,3 +1,3 @@
 0
 
-Zip code: [link](zipcode)null
+Zip code: [link](zipcode)
