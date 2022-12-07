@@ -1,6 +1,12 @@
 ### Demographics data by location
 
-Black women median annual earnings: [link](blackWomenMedianAnnualEarnings/main)  
-Black men median annual earnings: [link](blackMenMedianAnnualEarnings/main)  
-White men median annual earnings: [link](whiteMenMedianAnnualEarnings/main)  
-Median household income of black household: [link](medianHouseholdIncomeBlackHouseholds/main)
+## Median annual earnings by race/gender
+Black women: [link](blackWomenMedianAnnualEarnings/main)  
+Black men: [link](blackMenMedianAnnualEarnings/main)  
+White men: [link](whiteMenMedianAnnualEarnings/main)  
+
+## Median household income by race
+Black household: [link](medianHouseholdIncomeBlackHouseholds/main)
+
+### Notes
+All data is queried from the UC Census 2020 American Community Survey 5 year estimates API
