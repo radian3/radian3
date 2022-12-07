@@ -3,3 +3,5 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Country|Population|% Black|Median income of black women|
 |---|---|---|---|
 |United States|326569308|12.62%|$30095|
+
+(try this)[place.md]
