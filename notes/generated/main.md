@@ -1,3 +1,0 @@
-
-
-Zip code: [link](zipcode)
