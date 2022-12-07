@@ -1,6 +1,6 @@
 This page is an analysis and visualization of data I queried from the US Census' American Community Survey 2020 5 year estimates API. To see the original, raw data that I retrieved from the API before analyzing it, navigate here: <a href="https://api.census.gov/data/2020/acs/acs5?get=NAME,B19013B_001E,B02001_003E,B01003_001E&for=combined%20statistical%20area:*">https://api.census.gov/data/2020/acs/acs5?get=NAME,B19013B_001E,B02001_003E,B01003_001E&for=combined%20statistical%20area:*</a>
 
-|Combined Statistical Area|Population|% Black|Median income of black households|
+|Combined Statistical Area|Population|% Black|Median household income of black households|
 |---|---|---|---|
 |Washington-Baltimore-Arlington, DC-MD-VA-WV-PA CSA|9781219|25.07%|$70238|
 |Eau Claire-Menomonie, WI CSA|213336|1.19%|$61042|

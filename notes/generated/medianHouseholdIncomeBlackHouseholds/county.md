@@ -1,6 +1,6 @@
 This page is an analysis and visualization of data I queried from the US Census' American Community Survey 2020 5 year estimates API. To see the original, raw data that I retrieved from the API before analyzing it, navigate here: <a href="https://api.census.gov/data/2020/acs/acs5?get=NAME,B19013B_001E,B02001_003E,B01003_001E&for=county:*">https://api.census.gov/data/2020/acs/acs5?get=NAME,B19013B_001E,B02001_003E,B01003_001E&for=county:*</a>
 
-|County|Population|% Black|Median income of black households|
+|County|Population|% Black|Median household income of black households|
 |---|---|---|---|
 |Loudoun County, Virginia|405312|7.71%|$126502|
 |Wright County, Minnesota|136387|1.73%|$122539|
