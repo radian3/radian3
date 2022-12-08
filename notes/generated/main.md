@@ -47,7 +47,11 @@ Median household income: [link](medianHouseholdIncome/main)
 Percent of people with a bachelor's degree: [link](percentBachelors/main)  
 Homeownership Rate: [link](homeownershipRate/main)  
 Poverty Rate: [link](povertyRate/main)  
-Unemployment Rate: [link](unemploymentRate/main)  
+Unemployment Rate: [link](unemploymentRate/main)  		
+
+## Miscellaneous
+Median household income of white households minus the median household income of black households: [link](medianHouseholdIncomeRaceGap)			
+Median income of men minus median income of women: [link](medianIncomeGenderGap)  																																																		
 
 ### Notes
 All data is queried from the UC Census 2020 American Community Survey 5 year estimates API
