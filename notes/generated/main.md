@@ -13,5 +13,10 @@ Black household: [link](medianHouseholdIncomeBlackHouseholds/main)
 White household: [link](medianHouseholdIncomeWhiteHouseholds/main)  
 Asian household: [link](medianHouseholdIncomeAsianHouseholds/main)  
 
+## Poverty rate by race
+Black: [link](blackPeoplePovertyRate/main)  
+White: [link](whitePeoplePovertyRate/main)  
+Asian: [link](asianPeoplePovertyRate/main)  
+
 ### Notes
 All data is queried from the UC Census 2020 American Community Survey 5 year estimates API
