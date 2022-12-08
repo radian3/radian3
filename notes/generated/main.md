@@ -26,6 +26,12 @@ Black: [link](blackPeoplBachelors/main)
 White: [link](blackPeoplBachelors/main)  
 Asian: [link](blackPeoplBachelors/main)  
 
+## Homeownership Rate by race
+Black: [link](blackPeopleHomeOwnershipRate/main)  
+White: [link](whitePeopleHomeOwnershipRate/main)  
+Asian: [link](asianPeopleHomeOwnershipRate/main)  
+
+
 ## Poverty rate by race
 Black: [link](blackPeoplePovertyRate/main)  
 White: [link](whitePeoplePovertyRate/main)  
