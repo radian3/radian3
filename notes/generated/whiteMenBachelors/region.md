@@ -2,7 +2,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 
 |Region|Population|% White|% of white men with a bachelor's degree or higher|
 |---|---|---|---|
-|Midwest Region|68219726|79.47%|31.39%|
-|South Region|124605822|68.2%|32.21%|
-|West Region|77726849|65.36%|35.83%|
 |Northeast Region|56016911|71.35%|39.1%|
+|West Region|77726849|65.36%|35.83%|
+|South Region|124605822|68.2%|32.21%|
+|Midwest Region|68219726|79.47%|31.39%|
