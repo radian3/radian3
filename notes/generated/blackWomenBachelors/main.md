@@ -1,4 +1,4 @@
-### Percentage of black men over the age of 25 with a bachelor's degree or higher in the USA sorted in descending order by  
+### Percentage of black women over the age of 25 with a bachelor's degree or higher in the USA sorted in descending order by  
 - Zip Code: [link](zipcode)  
 - City/Town/CDP: [link](cityTownCDP)  
 - School District: [link](schoolDistrict)  
