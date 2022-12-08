@@ -5,6 +5,7 @@ Black women: [link](blackWomenMedianAnnualEarnings/main)
 Black men: [link](blackMenMedianAnnualEarnings/main)  
 White men: [link](whiteMenMedianAnnualEarnings/main)  
 White women: [link](whiteWomenMedianAnnualEarnings/main)  
+Asian men: [link](asianMenMedianAnnualEarnings/main)  
 
 ## Median household income by race
 Black household: [link](medianHouseholdIncomeBlackHouseholds/main)  
