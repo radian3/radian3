@@ -18,5 +18,10 @@ Black: [link](blackPeoplePovertyRate/main)
 White: [link](whitePeoplePovertyRate/main)  
 Asian: [link](asianPeoplePovertyRate/main)  
 
+## Unemployment rate by race
+Black: [link](blackPeopleUnemploymentRate/main)  
+White: [link](whitePeopleUnemploymentRate/main)  
+Asian: [link](asianPeopleUnemploymentRate/main)  
+
 ### Notes
 All data is queried from the UC Census 2020 American Community Survey 5 year estimates API
