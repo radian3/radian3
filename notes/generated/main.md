@@ -13,6 +13,14 @@ Black household: [link](medianHouseholdIncomeBlackHouseholds/main)
 White household: [link](medianHouseholdIncomeWhiteHouseholds/main)  
 Asian household: [link](medianHouseholdIncomeAsianHouseholds/main)  
 
+## Percentage of people with a bachelor's degree by race/gender
+Black men: [link](blackMenBachelors/main)  
+Black women: [link](blackWomenBachelors/main)  
+White men: [link](whiteMenBachelors/main)  
+White women: [link](whiteWomenBachelors/main)  
+Asian men: [link](asianMenBachelors/main)  
+Asian women: [link](asianWomenBachelors/main)  
+
 ## Poverty rate by race
 Black: [link](blackPeoplePovertyRate/main)  
 White: [link](whitePeoplePovertyRate/main)  
