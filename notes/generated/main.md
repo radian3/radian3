@@ -21,6 +21,11 @@ White women: [link](whiteWomenBachelors/main)
 Asian men: [link](asianMenBachelors/main)  
 Asian women: [link](asianWomenBachelors/main)  
 
+## Percentage of people with a bachelor's degree by race  
+Black: [link](blackPeoplBachelors/main)  
+White: [link](blackPeoplBachelors/main)  
+Asian: [link](blackPeoplBachelors/main)  
+
 ## Poverty rate by race
 Black: [link](blackPeoplePovertyRate/main)  
 White: [link](whitePeoplePovertyRate/main)  
