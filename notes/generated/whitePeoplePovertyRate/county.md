@@ -2,20 +2,13 @@ This page is an analysis and visualization of data I queried from the US Census'
 
 |County|Population|% White|Poverty rate of white people|
 |---|---|---|---|
-|Loving County, Texas|117|100.0%|0.0%|
-|Kusilvak Census Area, Alaska|8298|3.29%|0.75%|
 |Sterling County, Texas|1274|82.81%|1.27%|
 |Falls Church city, Virginia|14309|78.01%|1.54%|
 |Morgan County, Utah|11950|95.18%|1.68%|
-|Kalawao County, Hawaii|436|13.3%|1.72%|
-|Borden County, Texas|653|94.95%|1.77%|
-|Northwest Arctic Borough, Alaska|7709|11.64%|1.81%|
 |Nome Census Area, Alaska|10009|14.89%|1.86%|
-|Kenedy County, Texas|391|93.09%|1.92%|
 |Franklin city, Virginia|8015|37.37%|1.93%|
 |Stanley County, South Dakota|3058|91.63%|2.37%|
 |Bethel Census Area, Alaska|18263|10.27%|2.48%|
-|Bristol Bay Borough, Alaska|739|51.96%|2.67%|
 |Hamilton County, Nebraska|9219|95.5%|2.87%|
 |Loudoun County, Virginia|405312|62.42%|2.89%|
 |Monroe County, Illinois|34444|97.46%|2.94%|
@@ -28,11 +21,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Carver County, Minnesota|103561|90.85%|3.17%|
 |Howard County, Maryland|322407|54.84%|3.19%|
 |Rockwall County, Texas|101175|80.01%|3.27%|
-|Daggett County, Utah|590|97.63%|3.29%|
 |Sharkey County, Mississippi|4427|24.67%|3.36%|
 |Renville County, North Dakota|2387|95.89%|3.41%|
 |Calvert County, Maryland|92094|80.34%|3.49%|
-|Banner County, Nebraska|645|96.28%|3.56%|
 |Goochland County, Virginia|23472|79.43%|3.59%|
 |Hunterdon County, New Jersey|125063|89.08%|3.61%|
 |Kendall County, Illinois|127583|78.49%|3.7%|
@@ -49,7 +40,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Somerset County, New Jersey|330151|63.85%|3.99%|
 |North Slope Borough, Alaska|9375|28.62%|4.02%|
 |Dodge County, Minnesota|20807|93.51%|4.03%|
-|Blaine County, Nebraska|467|100.0%|4.07%|
 |Scott County, Minnesota|147201|82.85%|4.09%|
 |King and Queen County, Virginia|7011|66.81%|4.09%|
 |Arlington County, Virginia|236434|69.05%|4.13%|
@@ -63,7 +53,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Carroll County, Maryland|168233|90.46%|4.26%|
 |Oldham County, Kentucky|66508|90.5%|4.27%|
 |Chugach Census Area, Alaska|6495|75.26%|4.27%|
-|Terrell County, Texas|903|82.39%|4.3%|
 |Lincoln County, South Dakota|58887|93.94%|4.3%|
 |Greensville County, Virginia|11403|37.24%|4.31%|
 |Lyon County, Iowa|11800|96.1%|4.32%|
@@ -82,7 +71,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Sarpy County, Nebraska|183956|85.8%|4.51%|
 |Hanover County, Virginia|106538|85.16%|4.51%|
 |Morris County, New Jersey|492715|79.54%|4.52%|
-|Slope County, North Dakota|788|95.56%|4.52%|
 |Summit County, Utah|41680|91.57%|4.53%|
 |Manassas city, Virginia|41038|62.21%|4.54%|
 |Rockingham County, New Hampshire|308211|94.04%|4.54%|
@@ -158,7 +146,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Plymouth County, Massachusetts|518597|82.06%|5.43%|
 |King George County, Virginia|26679|76.72%|5.45%|
 |Garfield County, Montana|1051|99.43%|5.45%|
-|Lake and Peninsula Borough, Alaska|1156|24.31%|5.45%|
 |Frederick County, Virginia|88054|89.6%|5.46%|
 |Woodford County, Illinois|38503|96.65%|5.46%|
 |Golden Valley County, North Dakota|1796|91.54%|5.46%|
@@ -207,7 +194,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Frederick County, Maryland|255955|78.33%|5.83%|
 |Leavenworth County, Kansas|81499|81.54%|5.83%|
 |Saratoga County, New York|229313|92.13%|5.86%|
-|Alpine County, California|1159|57.2%|5.88%|
 |Anchorage Municipality, Alaska|292090|61.19%|5.89%|
 |Hancock County, Indiana|76614|93.57%|5.9%|
 |Noxubee County, Mississippi|10566|27.12%|5.9%|
@@ -354,7 +340,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Albemarle County, Virginia|108819|80.75%|6.86%|
 |Tunica County, Mississippi|9807|18.76%|6.86%|
 |Bristol County, Rhode Island|48645|93.31%|6.86%|
-|Jones County, South Dakota|873|85.11%|6.86%|
 |Caribou County, Idaho|7028|93.8%|6.87%|
 |Jackson County, Minnesota|9873|94.04%|6.87%|
 |McClain County, Oklahoma|39921|84.31%|6.92%|
@@ -376,7 +361,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Crockett County, Texas|3393|42.79%|7.06%|
 |Traverse County, Minnesota|3282|89.55%|7.07%|
 |Fillmore County, Nebraska|5542|96.23%|7.07%|
-|Keya Paha County, Nebraska|875|98.63%|7.07%|
 |Gates County, North Carolina|11519|63.03%|7.07%|
 |Denton County, Texas|861690|71.36%|7.07%|
 |Butler County, Pennsylvania|187798|95.46%|7.08%|
@@ -390,7 +374,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Daniels County, Montana|1705|93.49%|7.12%|
 |Dutchess County, New York|293524|76.84%|7.13%|
 |Dare County, North Carolina|36698|91.14%|7.14%|
-|Foard County, Texas|1207|80.12%|7.14%|
 |Marion County, Iowa|33193|95.56%|7.14%|
 |Auglaize County, Ohio|45709|96.06%|7.15%|
 |Wilson County, Tennessee|140604|86.47%|7.16%|
@@ -442,7 +425,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Roseau County, Minnesota|15259|91.49%|7.45%|
 |Platte County, Nebraska|33250|90.66%|7.46%|
 |Washington County, Rhode Island|126139|92.78%|7.46%|
-|Sioux County, North Dakota|4339|13.07%|7.46%|
 |Brown County, South Dakota|38988|88.41%|7.47%|
 |Andrew County, Missouri|17554|95.07%|7.48%|
 |York County, Nebraska|13671|93.04%|7.48%|
@@ -784,7 +766,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Butler County, Alabama|19726|51.62%|8.99%|
 |Scott County, Kentucky|55961|87.7%|8.99%|
 |Hitchcock County, Nebraska|2788|95.52%|8.99%|
-|Dillingham Census Area, Alaska|4934|16.54%|8.99%|
 |Bryan County, Georgia|38321|75.31%|8.99%|
 |Morrow County, Ohio|35148|96.04%|8.99%|
 |Rio Blanco County, Colorado|6369|91.57%|9.01%|
@@ -802,7 +783,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Smith County, Kansas|3594|96.05%|9.06%|
 |Burke County, Georgia|22567|49.36%|9.07%|
 |Highland County, Virginia|2202|95.91%|9.07%|
-|Aleutians East Borough, Alaska|3389|14.75%|9.07%|
 |Comanche County, Kansas|1759|96.59%|9.07%|
 |Madison County, Virginia|13208|86.4%|9.08%|
 |Thurston County, Washington|284698|79.54%|9.08%|
@@ -977,7 +957,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Burleson County, Texas|18237|78.87%|9.68%|
 |Union County, Mississippi|28578|78.43%|9.68%|
 |Teller County, Colorado|24981|92.28%|9.7%|
-|Loup County, Nebraska|690|91.16%|9.7%|
 |Paulding County, Ohio|18742|95.18%|9.7%|
 |St. Helena Parish, Louisiana|10227|45.93%|9.71%|
 |Polk County, North Carolina|20682|90.75%|9.71%|
@@ -990,13 +969,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Bayfield County, Wisconsin|15088|85.82%|9.73%|
 |Washington County, Vermont|58336|95.25%|9.74%|
 |Northumberland County, Virginia|12151|70.72%|9.75%|
-|Clark County, Idaho|885|84.63%|9.75%|
 |Benzie County, Michigan|17703|95.01%|9.75%|
 |Gasconade County, Missouri|14673|96.2%|9.76%|
 |Walla Walla County, Washington|60785|81.74%|9.76%|
 |Woodford County, Kentucky|26486|91.43%|9.76%|
 |Essex County, New York|37281|92.97%|9.77%|
-|Menominee County, Wisconsin|4566|10.45%|9.77%|
 |Brevard County, Florida|594001|80.92%|9.78%|
 |Henry County, Alabama|17123|70.05%|9.78%|
 |Haskell County, Kansas|3990|82.88%|9.78%|
@@ -1070,7 +1047,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Travis County, Texas|1250884|69.3%|9.99%|
 |Butler County, Ohio|382129|83.04%|9.99%|
 |Sullivan County, Pennsylvania|6038|94.35%|9.99%|
-|Yakutat City and Borough, Alaska|597|38.53%|10.0%|
 |Greene County, Ohio|167867|84.63%|10.0%|
 |Wayne County, Pennsylvania|51268|93.02%|10.0%|
 |Hancock County, Ohio|75765|92.25%|10.01%|
@@ -1216,7 +1192,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Rutland County, Vermont|58527|95.76%|10.56%|
 |Polk County, Minnesota|31384|89.41%|10.56%|
 |Hempstead County, Arkansas|21695|56.47%|10.56%|
-|Hinsdale County, Colorado|781|92.19%|10.56%|
 |Lampasas County, Texas|21152|84.73%|10.56%|
 |Sussex County, Virginia|11202|40.24%|10.56%|
 |Russell County, Kansas|6896|92.15%|10.56%|
@@ -1300,7 +1275,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Twiggs County, Georgia|8195|56.46%|10.87%|
 |Lincoln County, Minnesota|5641|97.54%|10.87%|
 |Broward County, Florida|1942273|56.83%|10.88%|
-|Thomas County, Nebraska|586|98.81%|10.88%|
 |St. Martin Parish, Louisiana|53607|66.32%|10.88%|
 |Fountain County, Indiana|16456|97.43%|10.88%|
 |Marshall County, Illinois|11562|96.29%|10.89%|
@@ -1323,7 +1297,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Bay County, Florida|180076|80.43%|10.95%|
 |Yuma County, Colorado|10013|91.03%|10.95%|
 |Macon County, Illinois|104688|77.24%|10.95%|
-|Billings County, North Dakota|886|100.0%|10.95%|
 |Ness County, Kansas|2838|92.18%|10.95%|
 |Stafford County, Kansas|4125|94.5%|10.95%|
 |Scotland County, Missouri|4923|97.24%|10.96%|
@@ -1371,7 +1344,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Dunn County, Wisconsin|45029|93.49%|11.11%|
 |Adams County, Wisconsin|20208|92.07%|11.11%|
 |Lincoln County, North Carolina|84580|88.73%|11.12%|
-|Roberts County, Texas|784|96.68%|11.13%|
 |Wilkinson County, Mississippi|8727|27.84%|11.13%|
 |Providence County, Rhode Island|636161|70.98%|11.13%|
 |Suwannee County, Florida|44290|80.27%|11.14%|
@@ -1383,13 +1355,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Morgan County, Alabama|119352|78.56%|11.17%|
 |Richland County, South Carolina|414660|44.02%|11.17%|
 |Dickson County, Tennessee|53289|92.05%|11.17%|
-|Treasure County, Montana|614|99.02%|11.18%|
 |White Pine County, Nevada|9570|84.17%|11.18%|
 |Hardin County, Texas|57356|90.32%|11.18%|
 |Rains County, Texas|12001|90.38%|11.18%|
 |Woodbury County, Iowa|102687|83.37%|11.18%|
 |Logan County, Oklahoma|47401|82.07%|11.18%|
-|Logan County, Nebraska|896|98.77%|11.19%|
 |Musselshell County, Montana|4682|93.36%|11.19%|
 |Castro County, Texas|7561|83.88%|11.19%|
 |Saluda County, South Carolina|20292|65.38%|11.19%|
@@ -1562,7 +1532,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Mahaska County, Iowa|22351|94.26%|11.8%|
 |Tom Green County, Texas|118645|81.06%|11.8%|
 |Berrien County, Michigan|153797|77.94%|11.8%|
-|Ziebach County, South Dakota|2767|23.89%|11.8%|
 |Mobile County, Alabama|413977|58.01%|11.81%|
 |Clinton County, New York|80320|90.43%|11.81%|
 |Benson County, North Dakota|6860|40.73%|11.81%|
@@ -1571,7 +1540,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Barron County, Wisconsin|45182|94.14%|11.82%|
 |Liberty County, Georgia|62039|43.72%|11.82%|
 |Noble County, Oklahoma|11263|82.03%|11.82%|
-|McMullen County, Texas|724|88.81%|11.82%|
 |Finney County, Kansas|36451|78.44%|11.82%|
 |Osage County, Oklahoma|47074|64.58%|11.83%|
 |Codington County, South Dakota|28133|93.9%|11.83%|
@@ -1684,17 +1652,14 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Randolph County, Illinois|31973|86.46%|12.21%|
 |Baraga County, Michigan|8337|73.62%|12.21%|
 |Tioga County, Pennsylvania|40759|96.86%|12.21%|
-|Greeley County, Kansas|1156|81.75%|12.21%|
 |Fredericksburg city, Virginia|29059|61.49%|12.22%|
 |Tuscaloosa County, Alabama|208854|63.34%|12.23%|
 |Washington County, Idaho|10128|86.27%|12.23%|
 |Lee County, Arkansas|8963|42.63%|12.23%|
 |Bureau County, Illinois|32878|92.9%|12.23%|
 |Phillips County, Kansas|5297|95.77%|12.23%|
-|Hooker County, Nebraska|741|90.01%|12.24%|
 |Grant Parish, Louisiana|22339|79.15%|12.24%|
 |Jasper County, Illinois|9547|97.29%|12.24%|
-|Harding County, New Mexico|432|68.06%|12.24%|
 |Gunnison County, Colorado|17119|94.35%|12.25%|
 |Tama County, Iowa|16962|86.78%|12.26%|
 |Bond County, Illinois|16520|90.39%|12.26%|
@@ -1722,7 +1687,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Crawford County, Pennsylvania|85074|95.17%|12.31%|
 |Wilson County, Kansas|8600|94.55%|12.31%|
 |Oklahoma County, Oklahoma|792668|67.01%|12.32%|
-|San Juan County, Colorado|646|94.27%|12.32%|
 |Meade County, Kentucky|28379|91.37%|12.33%|
 |Union County, Kentucky|14582|82.7%|12.33%|
 |Emery County, Utah|10099|97.16%|12.33%|
@@ -1777,7 +1741,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Harrison County, Texas|66547|71.58%|12.51%|
 |Suffolk County, Massachusetts|801162|53.83%|12.52%|
 |Penobscot County, Maine|151696|94.06%|12.53%|
-|Petroleum County, Montana|464|96.77%|12.53%|
 |Washington County, Oklahoma|51995|75.62%|12.53%|
 |Scott County, Illinois|4982|97.19%|12.53%|
 |Clay County, Alabama|13285|83.31%|12.54%|
@@ -1842,7 +1805,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Jackson County, Indiana|44077|89.44%|12.74%|
 |Muscogee County, Georgia|195418|42.47%|12.75%|
 |LaPorte County, Indiana|110026|81.91%|12.76%|
-|Wheeler County, Nebraska|689|98.98%|12.76%|
 |Erie County, Pennsylvania|272046|85.61%|12.76%|
 |Monona County, Iowa|8675|95.84%|12.76%|
 |Titus County, Texas|32709|70.4%|12.76%|
@@ -1901,14 +1863,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Dallas County, Texas|2622634|56.26%|12.93%|
 |Tillman County, Oklahoma|7347|64.86%|12.93%|
 |Missaukee County, Michigan|15075|95.66%|12.93%|
-|Todd County, South Dakota|10308|9.35%|12.94%|
 |Creek County, Oklahoma|71505|78.43%|12.95%|
 |Otsego County, Michigan|24613|95.38%|12.95%|
 |Macoupin County, Illinois|45243|96.37%|12.96%|
 |Franklin County, Mississippi|7716|62.97%|12.96%|
 |Caddo Parish, Louisiana|243243|45.44%|12.97%|
 |Rockbridge County, Virginia|22728|93.1%|12.97%|
-|Kent County, Texas|704|93.32%|12.97%|
 |LaSalle County, Illinois|108998|91.36%|12.97%|
 |Lamar County, Alabama|13854|87.43%|12.98%|
 |Yell County, Arkansas|21425|77.8%|12.98%|
@@ -1919,7 +1879,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Jones County, Mississippi|68307|68.24%|13.0%|
 |Cambria County, Pennsylvania|131611|93.15%|13.01%|
 |Woodson County, Kansas|3117|92.62%|13.01%|
-|Arthur County, Nebraska|439|96.13%|13.03%|
 |Charles City County, Virginia|6965|44.03%|13.03%|
 |Miller County, Arkansas|43515|69.64%|13.03%|
 |Iron County, Wisconsin|5679|95.95%|13.05%|
@@ -2002,7 +1961,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Hoke County, North Carolina|54590|44.07%|13.37%|
 |Wexford County, Michigan|33433|94.88%|13.37%|
 |Coffee County, Tennessee|56024|90.12%|13.37%|
-|Hayes County, Nebraska|889|97.53%|13.38%|
 |Jackson County, Oregon|218781|90.2%|13.38%|
 |Chambers County, Texas|42571|83.98%|13.39%|
 |Brewster County, Texas|9231|88.91%|13.39%|
@@ -2045,7 +2003,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lincoln County, Idaho|5342|88.56%|13.55%|
 |Harrison County, West Virginia|67620|95.08%|13.56%|
 |Gregg County, Texas|123633|71.18%|13.56%|
-|Esmeralda County, Nevada|1030|96.99%|13.57%|
 |Clark County, Ohio|134409|86.25%|13.57%|
 |Hancock County, West Virginia|29118|94.46%|13.58%|
 |Rowan County, North Carolina|140978|76.2%|13.59%|
@@ -2062,7 +2019,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Tangipahoa Parish, Louisiana|133753|65.96%|13.64%|
 |Jefferson County, Indiana|32167|94.31%|13.64%|
 |Vanderburgh County, Indiana|181548|84.71%|13.64%|
-|Mineral County, Colorado|853|82.53%|13.64%|
 |Greeley County, Nebraska|2361|97.25%|13.65%|
 |Hudson County, New Jersey|671923|50.41%|13.66%|
 |McCracken County, Kentucky|65485|84.44%|13.68%|
@@ -2080,7 +2036,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Haines Borough, Alaska|2547|77.11%|13.71%|
 |Haywood County, Tennessee|17391|45.42%|13.71%|
 |Dallas County, Alabama|38184|27.22%|13.72%|
-|McPherson County, Nebraska|420|98.81%|13.73%|
 |Mifflin County, Pennsylvania|46179|96.35%|13.73%|
 |Genesee County, Michigan|406770|73.86%|13.73%|
 |Page County, Virginia|23862|94.65%|13.74%|
@@ -2212,7 +2167,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Alleghany County, Virginia|15030|92.65%|14.3%|
 |Shasta County, California|179267|85.12%|14.3%|
 |Iberia Parish, Louisiana|70763|59.67%|14.31%|
-|Taliaferro County, Georgia|1596|37.66%|14.31%|
 |Cleburne County, Arkansas|25063|96.07%|14.31%|
 |Vernon County, Missouri|20560|95.34%|14.32%|
 |Vernon Parish, Louisiana|49315|75.38%|14.32%|
@@ -2448,7 +2402,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Marshall County, Mississippi|35502|49.44%|15.55%|
 |Douglas County, Missouri|13335|95.46%|15.57%|
 |Siskiyou County, California|43516|83.18%|15.57%|
-|Buffalo County, South Dakota|2005|13.97%|15.58%|
 |Surry County, North Carolina|71904|89.28%|15.59%|
 |Halifax County, North Carolina|50678|39.62%|15.6%|
 |Lyon County, Kansas|33237|86.89%|15.6%|
@@ -2556,7 +2509,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Greenup County, Kentucky|35359|96.87%|16.24%|
 |Seward County, Kansas|21902|57.45%|16.25%|
 |Iron County, Utah|53148|90.74%|16.26%|
-|Golden Valley County, Montana|814|89.93%|16.26%|
 |Franklin County, Nebraska|2970|96.16%|16.26%|
 |Hale County, Texas|33463|81.29%|16.26%|
 |Red River County, Texas|12115|78.21%|16.26%|
@@ -2636,7 +2588,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Sumter County, Georgia|29714|43.24%|16.86%|
 |Scotland County, North Carolina|34921|43.15%|16.86%|
 |Morgan County, Ohio|14557|92.43%|16.86%|
-|De Baca County, New Mexico|1995|44.96%|16.87%|
 |Clay County, Illinois|13217|96.22%|16.88%|
 |Kearny County, Kansas|3863|90.53%|16.9%|
 |Piscataquis County, Maine|16864|95.12%|16.91%|
@@ -2644,7 +2595,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Henry County, Missouri|21854|95.45%|16.93%|
 |Nye County, Nevada|45514|80.84%|16.94%|
 |Lee County, South Carolina|17144|33.06%|16.94%|
-|Grant County, Nebraska|691|97.11%|16.95%|
 |Washington County, Maine|31378|90.41%|16.97%|
 |Coshocton County, Ohio|36558|96.68%|16.97%|
 |Walker County, Texas|72295|70.68%|16.97%|
@@ -2730,7 +2680,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Houghton County, Michigan|35890|93.04%|17.84%|
 |Liberty County, Florida|8333|77.5%|17.86%|
 |Haskell County, Oklahoma|12688|71.22%|17.88%|
-|Mellette County, South Dakota|2065|38.64%|17.88%|
 |Avoyelles Parish, Louisiana|40465|65.51%|17.9%|
 |New Madrid County, Missouri|17275|81.0%|17.91%|
 |Cherokee County, North Carolina|28413|93.03%|17.93%|
@@ -2782,7 +2731,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Union County, Tennessee|19678|97.01%|18.33%|
 |Crawford County, Indiana|10582|96.85%|18.34%|
 |Limestone County, Texas|23364|73.29%|18.35%|
-|Jefferson County, Mississippi|7129|13.16%|18.35%|
 |Martin County, Kentucky|11421|92.84%|18.35%|
 |Allen County, Kentucky|21065|96.71%|18.36%|
 |Stone County, Arkansas|12582|94.06%|18.38%|
@@ -2795,7 +2743,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Harrison County, Missouri|8427|96.64%|18.5%|
 |Lake County, Michigan|11805|86.81%|18.5%|
 |Tensas Parish, Louisiana|4435|43.36%|18.53%|
-|Quitman County, Georgia|2290|43.32%|18.55%|
 |Beckham County, Oklahoma|21860|83.79%|18.55%|
 |McDonald County, Missouri|22882|80.78%|18.56%|
 |Sharp County, Arkansas|17217|93.8%|18.59%|
@@ -3047,7 +2994,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Dickenson County, Virginia|14524|97.89%|23.18%|
 |Johnson County, Tennessee|17755|93.41%|23.18%|
 |San Augustine County, Texas|8260|71.68%|23.19%|
-|Issaquena County, Mississippi|1223|39.74%|23.21%|
 |Adair County, Missouri|25468|90.72%|23.23%|
 |DeSoto County, Florida|37371|81.9%|23.27%|
 |Lanier County, Georgia|10534|72.55%|23.29%|
@@ -3122,7 +3068,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Magoffin County, Kentucky|12346|98.48%|28.71%|
 |Owsley County, Kentucky|4416|92.66%|28.91%|
 |Letcher County, Kentucky|21936|97.57%|29.75%|
-|Oglala Lakota County, South Dakota|14277|4.76%|29.86%|
 |Bell County, Kentucky|26426|95.26%|30.38%|
 |Knott County, Kentucky|15041|97.29%|30.77%|
 |Hancock County, Tennessee|6568|98.36%|31.09%|
@@ -3140,7 +3085,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Starr County, Texas|64032|83.53%|34.08%|
 |Dimmit County, Texas|10232|70.19%|34.72%|
 |Wolfe County, Kentucky|7188|97.65%|35.83%|
-|King County, Texas|279|97.13%|37.27%|
 |Zavala County, Texas|11930|84.5%|37.32%|
 |Presidio County, Texas|6808|78.06%|37.39%|
 |Brooks County, Texas|7100|80.56%|37.4%|

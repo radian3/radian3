@@ -2,87 +2,26 @@ This page is an analysis and visualization of data I queried from the US Census'
 
 |School District|Population|% White|Poverty rate of white people|
 |---|---|---|---|
-|School District Not Defined, Illinois|0|0.0%|0.0%|
-|Weskan Unified School District 242, Kansas|189|91.53%|0.0%|
-|Santa Gertrudis Independent School District, Texas|37|70.27%|0.0%|
-|School District Not Defined, Michigan|0|0.0%|0.0%|
-|Boys Ranch Independent School District, Texas|250|90.0%|0.0%|
-|Spring Creek Independent School District, Texas|47|34.04%|0.0%|
-|School District Not Defined, Massachusetts|0|0.0%|0.0%|
 |Ho-Ho-Kus Borough School District, New Jersey|4096|83.35%|0.0%|
-|School District Not Defined, Kentucky|0|0.0%|0.0%|
-|West Forks Plantation, Maine|65|100.0%|0.0%|
-|Coplin Plantation, Maine|200|97.0%|0.0%|
-|School District Not Defined, Pennsylvania|0|0.0%|0.0%|
-|Cranberry Isles, Maine|116|100.0%|0.0%|
-|Dennistown Plantation, Maine|37|81.08%|0.0%|
-|Glenwood Plantation, Maine|4|100.0%|0.0%|
-|Isle au Haut, Maine|27|100.0%|0.0%|
-|Kingsbury Plantation, Maine|2|100.0%|0.0%|
-|Nashville Plantation, Maine|11|100.0%|0.0%|
-|Fishers Island Union Free School District, New York|61|83.61%|0.0%|
-|Stehekin School District, Washington|20|100.0%|0.0%|
-|Pine Valley Borough School District, New Jersey|11|100.0%|0.0%|
-|School District Not Defined, South Carolina|0|0.0%|0.0%|
-|Inlet Common School District, New York|134|100.0%|0.0%|
-|Black Butte School District 41, Oregon|504|96.83%|0.0%|
-|Grandview-Hopkins Independent School District, Texas|89|87.64%|0.0%|
-|Moro Plantation Public Schools, Maine|8|100.0%|0.0%|
-|Sagadahoc Unorganized Territory, Maine|0|0.0%|0.0%|
-|Kennebec Unorganized Territory, Maine|56|100.0%|0.0%|
-|Lincoln Unorganized Territory, Maine|0|0.0%|0.0%|
-|Knox Unorganized Territory, Maine|0|0.0%|0.0%|
-|Louds Island Unorganized Territory, Maine|0|0.0%|0.0%|
-|School District Not Defined, New Jersey|0|0.0%|0.0%|
-|Smee School District 15-3, South Dakota|445|3.15%|0.0%|
-|Peach Springs Unified District, Arizona|1631|8.4%|0.0%|
-|School District Not Defined, Oregon|0|0.0%|0.0%|
-|School District Not Defined, Rhode Island|0|0.0%|0.0%|
-|Umo N Ho N Nation Public Schools, Nebraska|1194|0.34%|0.0%|
-|Piseco Common School District, New York|142|83.8%|0.0%|
-|North Bass Local School District, Ohio|0|0.0%|0.0%|
-|School District Not Defined, Connecticut|0|0.0%|0.0%|
-|Lower Yukon School District, Alaska|6821|2.2%|0.0%|
-|Yupiit School District, Alaska|1028|4.09%|0.0%|
-|School District Not Defined, Tennessee|0|0.0%|0.0%|
-|Ellsworth School District, New Hampshire|56|100.0%|0.0%|
-|Hart's Location School District, New Hampshire|69|100.0%|0.0%|
-|School District Not Defined, Ohio|20|100.0%|0.0%|
-|School District Not Defined, Wisconsin|0|0.0%|0.0%|
-|School District Not Defined, New York|822|56.33%|0.0%|
-|Herreid School District 10-1, South Dakota|645|98.29%|0.16%|
 |Maxwell AFB School District, Alabama|2128|67.53%|0.26%|
 |Wakefield Public Schools, Nebraska|1780|81.69%|0.36%|
 |Wynantskill Union Free School District, New York|3066|96.09%|0.37%|
-|Nazareth Independent School District, Texas|835|93.05%|0.39%|
 |Berkeley Heights Township School District, New Jersey|13321|83.76%|0.44%|
-|Meadow Independent School District, Texas|1258|63.28%|0.51%|
-|Kelton Independent School District, Texas|194|100.0%|0.52%|
-|Southland Independent School District, Texas|204|88.73%|0.55%|
 |Riverton Borough School District, New Jersey|2691|86.55%|0.66%|
 |Lanesville Community School Corporation, Indiana|4148|97.35%|0.67%|
 |Milltown Borough School District, New Jersey|6973|86.0%|0.72%|
 |Windham School District, New Hampshire|14694|91.58%|0.75%|
 |Nome School District, Alaska|3869|26.78%|0.81%|
-|Whitharral Independent School District, Texas|358|68.16%|0.82%|
-|Ingalls Unified School District 477, Kansas|793|92.06%|0.84%|
 |Dell Rapids School District 49-3, South Dakota|5973|97.96%|0.88%|
 |Treynor Community School District, Iowa|3251|99.63%|0.9%|
 |Esko Public School District, Minnesota|5155|99.61%|0.92%|
-|Kashunamiut School District, Alaska|817|13.22%|0.93%|
-|Dora Consolidated Schools, New Mexico|779|73.56%|1.05%|
 |Litchfield School District, New Hampshire|8615|98.13%|1.06%|
 |Kinnelon Borough School District, New Jersey|9988|90.61%|1.07%|
-|Corona Municipal Schools, New Mexico|286|95.8%|1.09%|
 |Byram Hills Central School District, New York|11903|84.64%|1.1%|
-|Westmanland, Maine|94|100.0%|1.1%|
-|Pinon Unified District, Arizona|5375|1.69%|1.1%|
 |Park County School District 16, Wyoming|1248|85.58%|1.12%|
 |Sharon School District, Massachusetts|18666|75.37%|1.14%|
 |Tenafly Borough School District, New Jersey|14550|60.54%|1.14%|
-|Goodrich Public School District 16, North Dakota|174|100.0%|1.15%|
 |Brielle Borough School District, New Jersey|4683|97.63%|1.16%|
-|Whiting, Maine|464|90.52%|1.19%|
 |Riverdale Borough School District, New Jersey|4179|90.45%|1.19%|
 |Maypearl Independent School District, Texas|5099|86.33%|1.21%|
 |Millis School District, Massachusetts|8288|92.28%|1.22%|
@@ -99,7 +38,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Warner School District 06-5, South Dakota|1050|95.81%|1.29%|
 |Chappaqua Central School District, New York|16763|82.15%|1.3%|
 |Ottawa Hills Local School District, Ohio|4698|81.69%|1.3%|
-|Pringle-Morse Consolidated Independent School District, Texas|391|98.72%|1.3%|
 |Rochester Community Unit School District 3A, Illinois|10543|95.6%|1.31%|
 |Coldwater Exempted Village School District, Ohio|6671|98.98%|1.32%|
 |Ramsey Borough School District, New Jersey|14915|84.81%|1.32%|
@@ -110,11 +48,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Orion Community Unit School District 223, Illinois|5627|95.66%|1.4%|
 |Dayton Public Schools, Maine|2103|97.43%|1.42%|
 |Ardsley Union Free School District, New York|9277|74.44%|1.43%|
-|Valentine Independent School District, Texas|355|58.03%|1.46%|
 |Deer Creek Public Schools, Oklahoma|37568|72.76%|1.48%|
 |Peters Township School District, Pennsylvania|22034|95.04%|1.48%|
 |Byron Public School District, Minnesota|8065|96.66%|1.48%|
-|Franconia Public School District, Minnesota|210|96.19%|1.49%|
 |Ashburnham-Westminster School District, Massachusetts|14178|98.43%|1.49%|
 |Teutopolis Community Unit School District 50, Illinois|6125|97.62%|1.49%|
 |Kohler School District, Wisconsin|2139|93.64%|1.5%|
@@ -126,10 +62,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Christoval Independent School District, Texas|2596|91.14%|1.52%|
 |Kindred Public School District 2, North Dakota|3811|97.53%|1.52%|
 |Falls Church City Public Schools, Virginia|14309|78.01%|1.54%|
-|Dadeville R-II School District, Missouri|896|93.86%|1.55%|
 |Beechwood Independent School District, Kentucky|6236|96.39%|1.57%|
 |Springboro Community City School District, Ohio|32839|92.03%|1.57%|
-|School Administrative District 07, Maine|449|99.11%|1.58%|
 |St. Michael-Albertville School District, Minnesota|24391|89.23%|1.58%|
 |Springfield School District, Pennsylvania|26927|88.05%|1.61%|
 |Midland Park Borough School District, New Jersey|7230|90.89%|1.61%|
@@ -138,11 +72,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Piedmont City Unified School District, California|11479|73.66%|1.62%|
 |Livingston Township School District, New Jersey|30059|65.12%|1.65%|
 |Quantico Marine Corps Center School District, Virginia|7388|66.45%|1.65%|
-|Bynum Independent School District, Texas|1062|84.75%|1.67%|
-|Yukon-Koyukuk School District, Alaska|1909|21.9%|1.67%|
 |Morgan School District, Utah|11950|95.18%|1.68%|
 |Chisholm Public Schools, Oklahoma|5188|85.85%|1.71%|
-|Lomega Public Schools, Oklahoma|830|98.67%|1.71%|
 |Greenwich Township School District (Warren County), New Jersey|5473|81.93%|1.72%|
 |Edgemont Union Free School District, New York|7197|66.11%|1.72%|
 |Glen Ridge Borough School District, New Jersey|7583|79.34%|1.73%|
@@ -154,15 +85,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Madeira City School District, Ohio|9261|93.95%|1.78%|
 |Parker School District 60-4, South Dakota|2302|97.44%|1.79%|
 |Johnstown-Milliken School District RE-5J, Colorado|20833|92.68%|1.8%|
-|Sargent School District RE-33J, Colorado|1122|83.87%|1.81%|
-|Northwest Arctic Borough School District, Alaska|7709|11.64%|1.81%|
-|Wing Public School District 28, North Dakota|510|86.08%|1.82%|
-|Wainscott Common School District, New York|363|75.76%|1.82%|
-|Grinnell Public Schools Unified School District 291, Kansas|589|92.53%|1.83%|
 |Moundridge Unified School District 423, Kansas|3385|96.07%|1.83%|
 |Gilbert Community School District, Iowa|7293|86.34%|1.84%|
 |Stanton Community School District, Iowa|1111|96.13%|1.84%|
-|Sabine Pass Independent School District, Texas|287|97.21%|1.84%|
 |Manhasset Union Free School District, New York|17072|74.14%|1.85%|
 |Blair Oaks R-II School District, Missouri|7283|97.8%|1.86%|
 |Coppell Independent School District, Texas|53685|49.05%|1.86%|
@@ -178,9 +103,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Robbinsville Township School District, New Jersey|14518|64.55%|1.91%|
 |Abbott Independent School District, Texas|1072|97.67%|1.91%|
 |Westford School District, Massachusetts|24566|73.1%|1.92%|
-|Kenedy County-Wide Common School District, Texas|391|93.09%|1.92%|
 |Ridgefield School District, Connecticut|25012|91.05%|1.93%|
-|Surry School District, New Hampshire|901|97.89%|1.93%|
 |Franklin City Public Schools, Virginia|8015|37.37%|1.93%|
 |Van Meter Community School District, Iowa|3047|97.9%|1.94%|
 |Somers School District, Connecticut|10853|86.02%|1.94%|
@@ -195,9 +118,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Underwood Community School District, Iowa|4038|94.97%|1.98%|
 |De Soto Unified School District 232, Kansas|35350|91.05%|1.98%|
 |Kasson-Mantorville School District, Minnesota|10138|95.97%|1.98%|
-|Desert Center Unified School District, California|295|87.12%|1.99%|
 |Fort Huachuca Accommodation District, Arizona|5563|68.74%|1.99%|
-|Klondike Independent School District, Texas|628|87.58%|2.0%|
 |Miller City-New Cleveland Local School District, Ohio|2106|98.53%|2.0%|
 |Freeman Public Schools, Nebraska|1648|98.91%|2.01%|
 |Bedford School District, Massachusetts|14136|75.86%|2.01%|
@@ -205,21 +126,17 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Okolona Separate School District, Mississippi|5375|44.02%|2.03%|
 |Palmyra District OR-1, Nebraska|3272|95.17%|2.03%|
 |Bow School District, New Hampshire|7944|96.34%|2.03%|
-|San Vicente Independent School District, Texas|224|88.39%|2.04%|
-|White Shield Public School District 85, North Dakota|513|9.55%|2.04%|
 |Westfield Town School District, New Jersey|29690|82.29%|2.04%|
 |Pleasantville Union Free School District, New York|8075|83.2%|2.04%|
 |Harvard School District, Massachusetts|6592|83.1%|2.04%|
 |Nashoba School District, Massachusetts|20499|86.75%|2.05%|
 |Mendon-Upton School District, Massachusetts|14114|88.06%|2.06%|
 |Danbury Independent School District, Texas|4629|81.96%|2.06%|
-|St. John Public School District 3, North Dakota|1588|30.54%|2.06%|
 |Cedar Grove Township School District, New Jersey|12593|87.29%|2.07%|
 |Miller Place Union Free School District, New York|16141|91.57%|2.07%|
 |Londonderry School District, New Hampshire|26251|93.59%|2.07%|
 |New Providence Borough School District, New Jersey|13382|78.63%|2.08%|
 |Seekonk School District, Massachusetts|15613|94.08%|2.09%|
-|Kahlotus School District, Washington|317|91.48%|2.1%|
 |Pike Road City School District, Alabama|9745|63.2%|2.1%|
 |Cowan Community School Corporation, Indiana|3613|99.0%|2.1%|
 |Oceanside Union Free School District, New York|34953|88.36%|2.11%|
@@ -240,12 +157,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |East Moriches Union Free School District, New York|5387|93.67%|2.17%|
 |Skaneateles Central School District, New York|8995|98.55%|2.17%|
 |Allamuchy Township School District, New Jersey|4640|88.88%|2.18%|
-|Sawyer Public School District 16, North Dakota|807|96.16%|2.19%|
 |Germantown Municipal School District, Tennessee|39196|89.75%|2.19%|
 |Hartsburg-Emden Community Unit School District 21, Illinois|1313|93.75%|2.19%|
 |Verona Area School District, Wisconsin|28420|81.73%|2.19%|
 |Riverview School District, Washington|21513|89.53%|2.2%|
-|Beaver Cove, Maine|152|89.47%|2.21%|
 |Bondurant-Farrar Community School District, Iowa|9257|92.85%|2.22%|
 |Haddonfield Borough School District, New Jersey|11347|94.21%|2.22%|
 |Wilton Community School District, Iowa|3984|95.96%|2.22%|
@@ -258,7 +173,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |New Bremen Local School District, Ohio|4675|96.62%|2.24%|
 |Port Republic City School District, New Jersey|1127|94.85%|2.25%|
 |Adams Central Public Schools, Nebraska|5645|95.36%|2.25%|
-|Indian Lake Central School District, New York|992|93.55%|2.26%|
 |Bellbrook-Sugarcreek Local School District, Ohio|16103|90.93%|2.26%|
 |Verona Borough School District, New Jersey|13478|92.36%|2.27%|
 |Becker Public School District, Minnesota|12424|96.37%|2.27%|
@@ -270,16 +184,13 @@ This page is an analysis and visualization of data I queried from the US Census'
 |DeWitt Public Schools, Michigan|16110|88.96%|2.29%|
 |Goddard Unified School District 265, Kansas|29027|91.0%|2.3%|
 |Rye Neck Union Free School District, New York|8631|74.74%|2.31%|
-|Upton, Maine|88|97.73%|2.33%|
 |Earlham Community School District, Iowa|2924|93.4%|2.34%|
 |Cranford Township School District, New Jersey|24036|88.31%|2.34%|
 |Slinger School District, Wisconsin|15893|96.52%|2.34%|
-|Westphalia Independent School District, Texas|664|96.08%|2.35%|
 |Troy School District 287, Idaho|2224|95.86%|2.35%|
 |Point Pleasant Borough School District, New Jersey|18686|95.21%|2.35%|
 |Niskayuna Central School District, New York|23709|83.11%|2.35%|
 |Maize Unified School District 266, Kansas|40659|87.52%|2.35%|
-|Roosevelt Borough School District, New Jersey|913|88.06%|2.36%|
 |Regional School Unit 05, Maine|14049|93.99%|2.36%|
 |Mukwonago School District, Wisconsin|29658|94.26%|2.36%|
 |Freeman School District, Washington|5041|94.94%|2.37%|
@@ -288,7 +199,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Regional School District 16, Connecticut|15895|91.15%|2.37%|
 |Jennings Local School District, Ohio|1589|98.24%|2.37%|
 |Longmeadow School District, Massachusetts|15736|88.11%|2.38%|
-|Binghamton Common School District, New York|484|95.66%|2.38%|
 |Downingtown Area School District, Pennsylvania|73177|82.87%|2.38%|
 |Wilton School District, Connecticut|18405|83.88%|2.39%|
 |Half Hollow Hills Central School District, New York|44166|73.72%|2.4%|
@@ -300,21 +210,17 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Westmoreland Central School District, New York|6539|97.84%|2.43%|
 |Cache Public Schools, Oklahoma|8610|68.75%|2.43%|
 |Medfield School District, Massachusetts|12926|92.8%|2.44%|
-|Bosworth R-V School District, Missouri|461|97.83%|2.44%|
 |Moorestown Township School District, New Jersey|20474|82.89%|2.45%|
 |Aurora Public Schools, Nebraska|6945|97.34%|2.45%|
 |Royse City Independent School District, Texas|27249|81.5%|2.45%|
 |South Middleton School District, Pennsylvania|15478|94.9%|2.46%|
 |North Branford School District, Connecticut|14147|95.38%|2.46%|
-|Borden County Independent School District, Texas|641|94.85%|2.47%|
 |Menands Union Free School District, New York|3408|41.64%|2.47%|
-|Bethune School District R-5, Colorado|527|91.84%|2.48%|
 |Fairbanks Local School District, Ohio|6966|96.45%|2.48%|
 |Holmen School District, Wisconsin|20632|91.77%|2.49%|
 |Eden Prairie Public School District, Minnesota|61135|72.28%|2.49%|
 |Lower Kuskokwim School District, Alaska|15831|10.54%|2.49%|
 |Tremont Community Unit School District 702, Illinois|4894|97.04%|2.49%|
-|Colton School District, Washington|983|97.46%|2.51%|
 |Baker City School District, Louisiana|13144|13.74%|2.52%|
 |Creston School District, Washington|1196|96.15%|2.52%|
 |Mountain Lakes Borough School District, New Jersey|4249|86.04%|2.52%|
@@ -328,7 +234,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Era Independent School District, Texas|2103|97.81%|2.55%|
 |Edina Public School District, Minnesota|42945|85.9%|2.55%|
 |Garnet Valley School District, Pennsylvania|29724|81.25%|2.55%|
-|Vilas School District RE-5, Colorado|241|97.1%|2.56%|
 |Cranbury Township School District, New Jersey|3912|73.57%|2.56%|
 |Brownsburg Community School Corporation, Indiana|45992|84.66%|2.56%|
 |Carmel Clay Schools, Indiana|98431|81.93%|2.56%|
@@ -342,7 +247,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Farmington Public School District, Minnesota|37269|89.06%|2.58%|
 |Community Independent School District, Texas|11359|83.75%|2.59%|
 |New Canaan School District, Connecticut|20249|91.89%|2.59%|
-|Fairfield City School District, Alabama|10749|5.4%|2.59%|
 |Scituate School District, Massachusetts|18839|92.82%|2.6%|
 |Orrington, Maine|3674|97.74%|2.6%|
 |Eastchester Union Free School District, New York|18957|79.75%|2.6%|
@@ -351,7 +255,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Nanuet Union Free School District, New York|15206|67.22%|2.61%|
 |Madison School District, Connecticut|18065|93.5%|2.61%|
 |Hockinson School District, Washington|10417|88.19%|2.62%|
-|Carrabassett Valley, Maine|558|100.0%|2.62%|
 |Caledonia Community Schools, Michigan|26518|94.28%|2.62%|
 |Tuckahoe Union Free School District, New York|7502|81.5%|2.62%|
 |Strasburg School District 31J, Colorado|5385|79.83%|2.63%|
@@ -364,7 +267,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |North Reading School District, Massachusetts|15672|92.87%|2.64%|
 |Southwest Allen County Metropolitan School District, Indiana|41503|88.59%|2.64%|
 |Eustis-Farnam Public Schools, Nebraska|1167|98.11%|2.64%|
-|Amagansett Union Free School District, New York|638|94.67%|2.65%|
 |Leonia Borough School District, New Jersey|9059|46.56%|2.65%|
 |Union Beach Borough School District, New Jersey|5362|94.11%|2.65%|
 |Rockridge Community Unit School District 300, Illinois|6497|96.08%|2.65%|
@@ -372,13 +274,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Granby School District, Connecticut|11410|95.36%|2.66%|
 |Absecon City School District, New Jersey|8471|68.33%|2.67%|
 |Elk River School District, Minnesota|76125|92.22%|2.67%|
-|Bristol Bay Borough School District, Alaska|739|51.96%|2.67%|
 |Elwood Union Free School District, New York|14382|72.26%|2.68%|
-|Frederick Area School District 06-2, South Dakota|925|97.51%|2.68%|
 |Grosse Ile Township Schools, Michigan|10153|96.13%|2.68%|
 |Waconia Public School District, Minnesota|20722|95.93%|2.69%|
 |Brock Independent School District, Texas|4676|99.06%|2.7%|
-|Lincoln Plantation, Maine|37|100.0%|2.7%|
 |Snook Independent School District, Texas|3783|78.88%|2.71%|
 |New Berlin School District, Wisconsin|35669|91.97%|2.71%|
 |Newark Unified School District, California|48148|29.34%|2.72%|
@@ -392,10 +291,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pine Island Public School District, Minnesota|6741|96.2%|2.74%|
 |Blue Valley Unified School District 229, Kansas|131318|81.82%|2.75%|
 |Wilmington School District, Massachusetts|23390|86.96%|2.75%|
-|Dime Box Independent School District, Texas|1290|56.36%|2.75%|
 |LaFayette Central School District, New York|4770|91.4%|2.75%|
 |Cleveland Public School District, Minnesota|2535|97.71%|2.75%|
-|Copeland Unified School District 476, Kansas|936|89.21%|2.75%|
 |Shenendehowa Central School District, New York|65719|86.8%|2.76%|
 |Croton-Harmon Union Free School District, New York|9102|85.61%|2.77%|
 |Marathon City School District, Wisconsin|4307|97.47%|2.77%|
@@ -413,7 +310,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pittsford Central School District, New York|33216|86.46%|2.81%|
 |Mansfield School District, Massachusetts|24145|88.98%|2.82%|
 |Bay Village City School District, Ohio|15258|93.96%|2.82%|
-|Long Island, Maine|282|87.94%|2.82%|
 |Manasquan Borough School District, New Jersey|5837|94.74%|2.82%|
 |West Liberty Community School District, Iowa|6213|85.95%|2.82%|
 |Yutan Public Schools, Nebraska|2516|95.99%|2.82%|
@@ -427,11 +323,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Plum Borough School District, Pennsylvania|27137|93.88%|2.84%|
 |Winchester School District, Massachusetts|22760|78.77%|2.84%|
 |Pella Community School District, Iowa|14651|95.88%|2.84%|
-|Great Lake Stream Plantation, Maine|230|61.3%|2.84%|
 |Scarborough, Maine|20568|92.55%|2.84%|
 |Mount Pulaski Community Unit District 23, Illinois|3333|97.3%|2.84%|
 |Portland Public School District, Michigan|12559|94.51%|2.84%|
-|Preston Public Schools, Oklahoma|1328|63.33%|2.85%|
 |Glastonbury School District, Connecticut|34527|85.22%|2.85%|
 |Hopewell Valley Regional School District, New Jersey|22377|84.14%|2.86%|
 |Dublin Unified School District, California|63856|35.2%|2.86%|
@@ -440,13 +334,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Cold Spring Harbor Central School District, New York|8479|86.73%|2.87%|
 |Belleville School District, Wisconsin|5980|94.41%|2.87%|
 |Thompson Public School District 61, North Dakota|2498|97.76%|2.87%|
-|Mount Vernon School District 17-3, South Dakota|892|98.54%|2.87%|
 |Central Community Unit School District 301, Illinois|20034|84.17%|2.87%|
 |Rocky Hill School District, Connecticut|20147|71.37%|2.87%|
 |Carroll Independent School District, Texas|33184|76.06%|2.88%|
 |Leopold R-III School District, Missouri|1128|98.58%|2.88%|
 |Dobbs Ferry Union Free School District, New York|9636|78.31%|2.88%|
-|Kelleys Island Local School District, Ohio|283|98.23%|2.88%|
 |Pecatonica Community Unit School District 321, Illinois|5112|94.58%|2.88%|
 |Dunellen Borough School District, New Jersey|7215|52.64%|2.89%|
 |Brandon Valley School District 49-2, South Dakota|20187|91.62%|2.89%|
@@ -481,7 +373,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Monroe School District, Connecticut|19492|84.6%|2.95%|
 |North Allegheny School District, Pennsylvania|53606|86.02%|2.96%|
 |Castlewood School District 28-1, South Dakota|1252|97.28%|2.96%|
-|Iraan-Sheffield Independent School District, Texas|1542|54.8%|2.96%|
 |Elkhorn Public Schools, Nebraska|47189|91.39%|2.96%|
 |Ontario Local School District, Ohio|10609|92.73%|2.96%|
 |Ouray School District R-1, Colorado|1719|96.57%|2.96%|
@@ -514,7 +405,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Larimore Public School District 44, North Dakota|2401|92.04%|3.05%|
 |West Windsor-Plainsboro Regional School District, New Jersey|51002|36.1%|3.05%|
 |Beaver School District, Utah|6594|92.45%|3.05%|
-|Kuspuk School District, Alaska|1391|11.79%|3.05%|
 |Douglas County School District RE-1, Colorado|347241|87.48%|3.05%|
 |Bellingham School District, Massachusetts|17196|88.45%|3.05%|
 |Iroquois Central School District, New York|17957|96.2%|3.06%|
@@ -526,14 +416,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |South Windsor School District, Connecticut|25962|78.22%|3.07%|
 |Minnetonka Public School District, Minnesota|42180|90.95%|3.07%|
 |Mahomet-Seymour Community Unit School District 3, Illinois|15163|95.9%|3.07%|
-|Ramirez Common School District, Texas|375|86.93%|3.07%|
 |Lawton-Bronson Community School District, Iowa|3130|97.48%|3.08%|
-|Seboeis Plantation, Maine|65|100.0%|3.08%|
 |Bennington Public Schools, Nebraska|13209|95.31%|3.08%|
 |Sutton School District, Massachusetts|9506|92.15%|3.09%|
 |Sequoyah Public Schools, Oklahoma|5829|73.48%|3.09%|
 |Kearsarge Regional School District, New Hampshire|15336|95.74%|3.09%|
-|Bridgehampton Union Free School District, New York|1228|76.22%|3.1%|
 |New Albany-Plain Local School District, Ohio|24034|74.85%|3.1%|
 |Weston School District, Connecticut|10278|85.9%|3.1%|
 |Marshall County Central Schools, Minnesota|2111|95.36%|3.1%|
@@ -552,17 +439,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lincoln Park Borough School District, New Jersey|10220|86.39%|3.13%|
 |Petersburg Borough School District, Alaska|3278|67.33%|3.13%|
 |Remainder of New York, New York|256392|58.03%|3.13%|
-|Sierra Blanca Independent School District, Texas|1695|30.44%|3.14%|
-|Alpine Borough School District, New Jersey|1459|61.21%|3.14%|
 |Arnold Public Schools, Nebraska|1181|97.63%|3.14%|
-|Loomis Public Schools, Nebraska|902|97.12%|3.14%|
 |Brentwood School District, Missouri|8557|79.37%|3.15%|
-|Elk Mountain School District 16-2, South Dakota|337|94.07%|3.15%|
 |Western Reserve Local School District (Erie and Huron Counties), Ohio|6137|94.53%|3.15%|
 |Ellington School District, Connecticut|16348|85.69%|3.15%|
 |Pewaukee School District, Wisconsin|17993|92.23%|3.15%|
 |Killdeer Public School District 16, North Dakota|2457|88.12%|3.16%|
-|Byron Public Schools, Maine|142|66.9%|3.16%|
 |Wantagh Union Free School District, New York|16594|94.81%|3.16%|
 |Kearney R-I School District, Missouri|21065|94.26%|3.17%|
 |Piedmont Public Schools, Oklahoma|20055|74.88%|3.17%|
@@ -600,16 +482,13 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Westbrook School District, Connecticut|6885|87.2%|3.22%|
 |Menomonee Falls School District, Wisconsin|29620|87.79%|3.22%|
 |Auburn School District, Massachusetts|16692|94.14%|3.22%|
-|Delwood Community School District, Iowa|890|93.93%|3.23%|
 |Millburn Township School District, New Jersey|20174|61.69%|3.23%|
 |Washington Township School District (Gloucester County), New Jersey|47878|84.98%|3.24%|
-|Banner County Public Schools, Nebraska|645|96.28%|3.24%|
 |Valhalla Union Free School District, New York|10588|75.69%|3.24%|
 |Wrightstown Community School District, Wisconsin|7160|93.8%|3.24%|
 |Dedham, Maine|1555|98.01%|3.25%|
 |Jordan School District, Utah|291410|85.33%|3.25%|
 |Anna Local School District, Ohio|5731|97.31%|3.25%|
-|Allenhurst Borough School District, New Jersey|492|87.4%|3.26%|
 |Island Trees Union Free School District, New York|15806|79.39%|3.26%|
 |Moon Area School District, Pennsylvania|27994|85.28%|3.27%|
 |Cresskill Borough School District, New Jersey|8701|68.46%|3.27%|
@@ -627,7 +506,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Palouse School District, Washington|1266|94.15%|3.29%|
 |Barneveld School District, Wisconsin|2326|94.11%|3.29%|
 |Franklin Township Community School Corporation, Indiana|56135|85.08%|3.29%|
-|Daggett School District, Utah|590|97.63%|3.29%|
 |Mattituck-Cutchogue Union Free School District, New York|8912|98.68%|3.3%|
 |Tewksbury School District, Massachusetts|31154|91.53%|3.3%|
 |Beresford School District 61-2, South Dakota|3870|97.36%|3.3%|
@@ -644,7 +522,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lisbon Central School District, New York|4326|85.16%|3.33%|
 |Columbia Community Unit School District 4, Illinois|13690|97.53%|3.33%|
 |Heartland Community Schools, Nebraska|2127|86.69%|3.33%|
-|Bay Head Borough School District, New Jersey|1050|94.19%|3.34%|
 |Westborough School District, Massachusetts|19067|65.78%|3.34%|
 |Millstone Township School District, New Jersey|10418|85.34%|3.34%|
 |Roxbury Township School District, New Jersey|22882|80.19%|3.34%|
@@ -660,7 +537,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Syosset Central School District, New York|34954|67.9%|3.35%|
 |Aromas-San Juan Unified School District, California|9688|79.32%|3.36%|
 |Coventry School District, Connecticut|12434|92.88%|3.36%|
-|Big Pasture Public Schools, Oklahoma|991|93.74%|3.36%|
 |Shawnee Heights Unified School District 450, Kansas|19943|88.08%|3.37%|
 |Cape Elizabeth, Maine|9307|96.29%|3.39%|
 |Islip Union Free School District, New York|18205|83.4%|3.39%|
@@ -676,9 +552,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |East Granby School District, Connecticut|5370|80.97%|3.41%|
 |Northeast Dubois County School Corporation, Indiana|5666|96.15%|3.41%|
 |Nordonia Hills City School District, Ohio|32828|85.1%|3.41%|
-|Healy Public Schools Unified School District 468, Kansas|398|95.73%|3.41%|
-|Sandhills Public Schools, Nebraska|587|100.0%|3.41%|
-|Duke Public Schools, Oklahoma|563|77.98%|3.42%|
 |Bainbridge Island School District, Washington|24859|90.15%|3.42%|
 |Conway School District, Washington|3252|90.84%|3.42%|
 |Cinnaminson Township School District, New Jersey|16429|88.16%|3.42%|
@@ -732,16 +605,13 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Mount Vernon Community School Corporation, Indiana|22335|88.5%|3.52%|
 |Bryn Athyn School District, Pennsylvania|1217|94.33%|3.52%|
 |Colonial School District, Pennsylvania|43756|85.74%|3.53%|
-|Damman School District, Washington|612|97.22%|3.53%|
 |Seneca Valley School District, Pennsylvania|51054|93.97%|3.53%|
-|Montpelier Public School District 14, North Dakota|493|100.0%|3.53%|
 |Dansville Schools, Michigan|4738|94.45%|3.53%|
 |Keller Independent School District, Texas|187484|74.74%|3.53%|
 |Kimberly Area School District, Wisconsin|24293|93.72%|3.53%|
 |Southern Hancock County Community School Corporation, Indiana|18541|95.81%|3.53%|
 |Andover School District, Massachusetts|36098|78.18%|3.53%|
 |Hampton Township School District, Pennsylvania|18235|93.81%|3.53%|
-|Burlington Public Schools, Oklahoma|575|88.7%|3.53%|
 |Strongsville City School District, Ohio|45194|90.63%|3.54%|
 |Scituate School District, Rhode Island|10669|96.32%|3.54%|
 |Wolcott School District, Connecticut|16611|92.72%|3.54%|
@@ -753,7 +623,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Gorham Randolph Shelburne Cooperative School District, New Hampshire|3537|96.97%|3.55%|
 |Middletown Township School District, New Jersey|65316|90.9%|3.56%|
 |St. Paul School District 45, Oregon|1101|91.73%|3.56%|
-|Tuba City Unified District, Arizona|16041|2.98%|3.56%|
 |Fort Recovery Local School District, Ohio|4082|99.76%|3.56%|
 |South Brunswick Township School District, New Jersey|45517|38.8%|3.57%|
 |Colman-Egan School District 50-5, South Dakota|1798|95.16%|3.57%|
@@ -775,7 +644,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Cole County R-I School District, Missouri|4027|97.94%|3.6%|
 |Bluffton Exempted Village School District, Ohio|6713|96.19%|3.6%|
 |Kalida Local School District, Ohio|3376|98.1%|3.6%|
-|Hoonah City School District, Alaska|850|32.71%|3.6%|
 |Johnston Community School District, Iowa|38343|84.68%|3.61%|
 |Northshore School District, Washington|147920|70.36%|3.61%|
 |Wallingford-Swarthmore School District, Pennsylvania|22051|82.33%|3.61%|
@@ -784,7 +652,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Mill Creek Valley Unified School District 329, Kansas|3661|94.15%|3.61%|
 |Baldwin City Unified School District 348, Kansas|8182|92.86%|3.61%|
 |Lake Zurich Community Unit School District 95, Illinois|31236|89.04%|3.61%|
-|Mumford Independent School District, Texas|407|68.06%|3.61%|
 |Chittenden East Supervisory Union, Vermont|15265|94.1%|3.61%|
 |Rivendell Interstate School District, New Hampshire|1372|78.64%|3.61%|
 |Bernards Township School District, New Jersey|27114|72.43%|3.62%|
@@ -853,7 +720,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lower Merion School District, Pennsylvania|63826|81.82%|3.74%|
 |Rockwall Independent School District, Texas|81915|79.67%|3.74%|
 |Grapevine-Colleyville Independent School District, Texas|86198|76.36%|3.75%|
-|Timber Lake School District 20-3, South Dakota|1676|48.03%|3.75%|
 |Morrisville Borough School District, Pennsylvania|8540|81.74%|3.76%|
 |Lamoine Public Schools, Maine|1697|95.82%|3.76%|
 |Tuttle Public Schools, Oklahoma|9006|88.01%|3.76%|
@@ -911,8 +777,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Cornwall Central School District, New York|18221|83.15%|3.86%|
 |Beulah Public School District 27, North Dakota|4842|94.82%|3.86%|
 |Mohall-Lansford-Sherwood Public School District 1, North Dakota|2175|96.6%|3.86%|
-|High Island Independent School District, Texas|681|97.65%|3.86%|
-|New Suffolk Common School District, New York|353|95.47%|3.86%|
 |Seymour School District, Connecticut|16469|91.1%|3.86%|
 |Orange City School District, Ohio|14157|75.79%|3.86%|
 |Williamston Community Schools, Michigan|11025|93.44%|3.87%|
@@ -930,7 +794,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Webster Groves School District, Missouri|32011|85.29%|3.89%|
 |Chester School District 39-1, South Dakota|1951|97.39%|3.89%|
 |Frontier School Corporation, Indiana|3941|98.17%|3.89%|
-|Quogue Union Free School District, New York|616|91.88%|3.89%|
 |Morton Community Unit School District 709, Illinois|19701|94.85%|3.89%|
 |Valley Center Public Schools Unified School District 262, Kansas|14068|90.0%|3.9%|
 |Tomball Independent School District, Texas|84182|78.72%|3.9%|
@@ -958,13 +821,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Ar-We-Va Community School District, Iowa|2893|88.66%|3.94%|
 |North Penn School District, Pennsylvania|101581|74.26%|3.94%|
 |North Colonie Central School District, New York|41527|76.3%|3.94%|
-|Meddybemps, Maine|140|90.71%|3.94%|
 |Francis Howell R-III School District, Missouri|119399|88.97%|3.94%|
 |Jim Ned Consolidated Independent School District, Texas|5470|90.2%|3.94%|
 |Edgerton Public School District, Minnesota|2295|96.25%|3.94%|
 |Methacton School District, Pennsylvania|37232|78.3%|3.94%|
 |Swampscott School District, Massachusetts|15184|93.45%|3.95%|
-|Monhegan Plantation, Maine|119|63.87%|3.95%|
 |Clinton-Massie Local School District, Ohio|10869|97.81%|3.95%|
 |Ball-Chatham Community Unit School District 5, Illinois|27830|87.89%|3.95%|
 |Berlin-Boylston School District, Massachusetts|7978|96.5%|3.95%|
@@ -1009,7 +870,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Keystone Local School District, Ohio|11782|95.43%|4.02%|
 |Luxemburg-Casco School District, Wisconsin|11464|97.24%|4.02%|
 |North Slope Borough School District, Alaska|9375|28.62%|4.02%|
-|Rothsay Public School District, Minnesota|958|94.36%|4.02%|
 |Webster Central School District, New York|59655|91.02%|4.02%|
 |Cabrillo Unified School District, California|27408|79.89%|4.03%|
 |Adair County R-II School District, Missouri|1319|99.92%|4.03%|
@@ -1046,7 +906,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pleasant Valley Community School District, Iowa|23559|87.52%|4.08%|
 |White Township School District, New Jersey|4685|95.11%|4.08%|
 |McComb Local School District, Ohio|3392|88.12%|4.08%|
-|Sunol Glen Unified School District, California|847|83.83%|4.08%|
 |Nutley Town School District, New Jersey|28527|77.91%|4.09%|
 |Britton-Hecla School District 45-4, South Dakota|3705|96.73%|4.09%|
 |Firelands Local School District, Ohio|12787|94.19%|4.09%|
@@ -1065,7 +924,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Simsbury School District, Connecticut|25025|86.78%|4.11%|
 |Triad Community Unit School District 2, Illinois|21139|94.53%|4.11%|
 |Rochester Community School District, Michigan|95079|81.65%|4.11%|
-|Highwood K-12, Montana|568|98.24%|4.12%|
 |Palisades School District, Pennsylvania|15542|96.8%|4.12%|
 |Bronte Independent School District, Texas|1605|88.85%|4.12%|
 |Harrisburg R-VIII School District, Missouri|3082|95.75%|4.12%|
@@ -1113,7 +971,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |La Moille Community Unit School District 303, Illinois|1612|95.04%|4.19%|
 |Novato Unified School District, California|61818|72.58%|4.2%|
 |Pohatcong Township School District, New Jersey|3196|90.71%|4.21%|
-|Washington Township School District (Burlington County), New Jersey|609|93.6%|4.21%|
 |Brighton Area Schools, Michigan|38907|94.68%|4.21%|
 |Buckeye Valley Local School District, Ohio|18248|94.75%|4.21%|
 |Highland Park Independent School District (Dallas County), Texas|34855|88.21%|4.21%|
@@ -1132,7 +989,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Northridge Local School District (Delaware, Knox, and Licking Counties), Ohio|9829|98.6%|4.24%|
 |Burnsville Public School District, Minnesota|68863|71.93%|4.24%|
 |Braintree School District, Massachusetts|37196|75.08%|4.24%|
-|Lone Star School District 101, Colorado|289|98.96%|4.24%|
 |Bennett Community School District, Iowa|1301|97.62%|4.25%|
 |Honeoye Central School District, New York|5729|94.14%|4.25%|
 |Perquimans County Schools, North Carolina|13513|73.72%|4.26%|
@@ -1165,10 +1021,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Rahway City School District, New Jersey|29691|45.34%|4.29%|
 |Upper Township School District, New Jersey|11867|98.04%|4.29%|
 |Berlin School District, Connecticut|20460|91.17%|4.29%|
-|Chinle Unified District, Arizona|19302|2.35%|4.29%|
 |Leander Independent School District, Texas|206904|79.9%|4.29%|
 |Billerica School District, Massachusetts|43274|81.68%|4.29%|
-|Terrell County Independent School District, Texas|903|82.39%|4.3%|
 |Denver Community School District, Iowa|3639|99.09%|4.3%|
 |Dumont Borough School District, New Jersey|17598|68.54%|4.3%|
 |West Allegheny School District, Pennsylvania|22156|92.34%|4.3%|
@@ -1178,7 +1032,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pleasant Plains Community Unit School District 8, Illinois|7610|93.77%|4.3%|
 |Wauwatosa School District, Wisconsin|48143|84.3%|4.3%|
 |Quaker Valley School District, Pennsylvania|13807|90.04%|4.31%|
-|Nezperce Joint School District 302, Idaho|1027|86.76%|4.31%|
 |Richmond Heights Local School District, Ohio|9509|37.94%|4.31%|
 |Copley-Fairlawn City School District, Ohio|21910|80.65%|4.31%|
 |Wappingers Central School District, New York|72227|81.11%|4.31%|
@@ -1199,13 +1052,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |South Huntington Union Free School District, New York|40902|75.08%|4.34%|
 |Valley Falls Unified School District 338, Kansas|2361|93.9%|4.35%|
 |North Brookfield School District, Massachusetts|4774|97.4%|4.35%|
-|Remainder of Texas, Texas|844|92.65%|4.35%|
 |West Point Public Schools, Nebraska|5445|88.26%|4.35%|
 |Wissahickon School District, Pennsylvania|37219|77.09%|4.35%|
 |Boyertown Area School District, Pennsylvania|49728|95.59%|4.35%|
 |Victor Central School District, New York|25734|91.72%|4.35%|
 |Dedham School District, Massachusetts|25330|84.58%|4.35%|
-|Bowbells Public School District 14, North Dakota|416|93.75%|4.36%|
 |Lake Travis Independent School District, Texas|49207|85.12%|4.36%|
 |Mountain Brook City School District, Alabama|20178|98.04%|4.36%|
 |Hopewell Area School District, Pennsylvania|17857|91.45%|4.36%|
@@ -1257,8 +1108,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Regional School District 15, Connecticut|27390|89.82%|4.43%|
 |Moorpark Unified School District, California|38048|73.69%|4.44%|
 |Bogota Borough School District, New Jersey|8375|67.98%|4.44%|
-|Interlaken Borough School District, New Jersey|747|96.39%|4.44%|
-|Belcourt Public School District 7, North Dakota|6593|1.56%|4.44%|
 |Dufur School District 29, Oregon|2031|89.96%|4.44%|
 |Prairie Grove School District, Arkansas|11872|87.22%|4.44%|
 |Centerburg Local School District, Ohio|6766|96.02%|4.44%|
@@ -1266,8 +1115,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Portsmouth School District, Rhode Island|17332|94.99%|4.44%|
 |Howards Grove School District, Wisconsin|6232|94.83%|4.44%|
 |Old Saybrook School District, Connecticut|10072|96.39%|4.44%|
-|Hampton Public Schools, Nebraska|749|90.92%|4.44%|
-|Bering Strait School District, Alaska|6140|7.39%|4.44%|
 |Rye City School District, New York|14872|83.71%|4.44%|
 |Blue Springs R-IV School District, Missouri|78192|85.0%|4.44%|
 |Unalaska City School District, Alaska|4758|26.52%|4.45%|
@@ -1284,11 +1131,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Dudley-Charlton Regional School District, Massachusetts|25309|94.12%|4.46%|
 |Hamilton-Wenham School District, Massachusetts|13256|91.31%|4.46%|
 |Saddle Brook Township School District, New Jersey|13762|81.58%|4.47%|
-|Ethan School District 17-1, South Dakota|876|94.41%|4.47%|
 |Easton Unified School District 449, Kansas|3416|99.27%|4.47%|
 |York County Public Schools, Virginia|68389|73.4%|4.48%|
 |Mannington Township School District, New Jersey|1854|70.77%|4.48%|
-|Dover Public Schools, Oklahoma|817|79.07%|4.49%|
 |Sumner-Fredericksburg Community School District, Iowa|4954|97.72%|4.49%|
 |Tri-Valley School District 49-6, South Dakota|5281|95.7%|4.49%|
 |Juneau Borough School District, Alaska|32099|66.36%|4.49%|
@@ -1318,7 +1163,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lake Stevens School District, Washington|48597|83.47%|4.53%|
 |Scio School District 95, Oregon|3526|96.23%|4.53%|
 |Waverly School District 14-5, South Dakota|1299|98.61%|4.53%|
-|Lazbuddie Independent School District, Texas|634|94.01%|4.53%|
 |Lynnfield School District, Massachusetts|12968|88.65%|4.54%|
 |Brookhaven-Comsewogue Union Free School District, New York|23229|85.54%|4.54%|
 |Lincolnview Local School District, Ohio|4458|97.58%|4.54%|
@@ -1336,7 +1180,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Ankeny Community School District, Iowa|69711|93.22%|4.57%|
 |Drummond Public Schools, Oklahoma|1641|93.42%|4.57%|
 |Radnor Township School District, Pennsylvania|31833|79.86%|4.57%|
-|Newburg United Public School District 54, North Dakota|702|93.59%|4.57%|
 |Nesson Public School District 2, North Dakota|1347|89.46%|4.57%|
 |Ocean City School District, New Jersey|11065|89.32%|4.58%|
 |Berkley School District, Michigan|27472|84.19%|4.58%|
@@ -1346,7 +1189,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Genoa-Kingston Community Unit School District 424, Illinois|9443|92.27%|4.58%|
 |Kaw Valley Unified School District 321, Kansas|8158|92.74%|4.58%|
 |New Kent County Public Schools, Virginia|22310|80.6%|4.58%|
-|Bickleton School District, Washington|593|95.45%|4.59%|
 |Schuylkill Valley School District, Pennsylvania|15907|89.66%|4.59%|
 |Kootenai Joint School District 274, Idaho|2095|96.66%|4.59%|
 |Highland Falls Central School District, New York|12252|68.63%|4.59%|
@@ -1366,7 +1208,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pottsgrove School District, Pennsylvania|21692|83.66%|4.62%|
 |Bremen City School District, Georgia|7057|91.57%|4.62%|
 |Lindbergh School District, Missouri|48465|94.27%|4.62%|
-|Longport Borough School District, New Jersey|803|97.14%|4.62%|
 |Prescott School District, Washington|1512|76.59%|4.62%|
 |Eagle Mountain-Saginaw Independent School District, Texas|112740|73.36%|4.62%|
 |Anne Arundel County Public Schools, Maryland|575421|70.96%|4.62%|
@@ -1376,7 +1217,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Windsor Locks School District, Connecticut|12732|80.54%|4.62%|
 |Waubun-Ogema-White Earth Public Schools, Minnesota|3490|44.04%|4.62%|
 |Hudson School District, Massachusetts|19863|91.74%|4.63%|
-|Bridgeport School District, Washington|3198|21.61%|4.63%|
 |Empire Public Schools, Oklahoma|2132|87.1%|4.63%|
 |Shawnee Local School District, Ohio|16358|86.78%|4.63%|
 |Minisink Valley Central School District, New York|23354|80.37%|4.63%|
@@ -1388,7 +1228,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Brookville Local School District, Ohio|9525|90.15%|4.64%|
 |Fairlawn Local School District, Ohio|2401|99.96%|4.64%|
 |Onsted Community Schools, Michigan|8977|95.51%|4.64%|
-|Fremont County School District 14, Wyoming|2471|13.15%|4.64%|
 |Newcastle Public Schools, Oklahoma|10976|87.44%|4.65%|
 |Spring Grove Area School District, Pennsylvania|28656|93.21%|4.65%|
 |Franklin West Supervisory Union, Vermont|10616|94.53%|4.65%|
@@ -1410,13 +1249,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Fairfax County Public Schools, Virginia|1149439|59.0%|4.67%|
 |Rose Hill Public Schools Unified School District 394, Kansas|7966|96.72%|4.67%|
 |Bridge Creek Public Schools, Oklahoma|8046|84.35%|4.67%|
-|Geraldine K-12, Montana|625|99.04%|4.68%|
 |Central Community School District, Louisiana|31309|81.48%|4.68%|
-|Pateros School District, Washington|1636|57.7%|4.68%|
 |Regional School Unit 78, Maine|1634|99.45%|4.68%|
-|Ira Independent School District, Texas|657|94.37%|4.68%|
 |East Windsor School District, Connecticut|11502|76.47%|4.68%|
-|Lohn Independent School District, Texas|326|85.28%|4.68%|
 |New Holstein School District, Wisconsin|8738|96.81%|4.68%|
 |Highland Community Unit School District 5, Illinois|17898|95.5%|4.68%|
 |Southeast Warren Community School District, Iowa|3067|97.49%|4.69%|
@@ -1428,15 +1263,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Shiner Independent School District, Texas|3934|86.38%|4.7%|
 |Hudson Community School District, Iowa|3382|97.78%|4.7%|
 |Tahoma School District, Washington|43416|83.2%|4.7%|
-|Stone Harbor Borough School District, New Jersey|876|99.54%|4.7%|
 |Teaneck Township School District, New Jersey|40461|55.46%|4.7%|
 |Blue Mountain School District, Pennsylvania|19629|96.47%|4.7%|
 |Wethersfield Community Unit School District 230, Illinois|3850|90.73%|4.7%|
 |Averill Park Central School District, New York|18487|96.9%|4.71%|
 |Montague Township School District, New Jersey|3666|89.88%|4.71%|
-|Rockland School District 382, Idaho|409|93.4%|4.71%|
 |Big Walnut Local School District, Ohio|22313|92.98%|4.71%|
-|Lake Pleasant Central School District, New York|756|95.9%|4.71%|
 |Stanton Community Schools, Nebraska|2812|94.74%|4.71%|
 |Liberty Center Local School District, Ohio|5888|96.88%|4.71%|
 |New London School District, Wisconsin|16457|92.77%|4.71%|
@@ -1451,7 +1283,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Bartlett City School District, Tennessee|59252|73.59%|4.73%|
 |Wausa Public Schools, Nebraska|1124|97.6%|4.73%|
 |St. Clair Public School District, Minnesota|2690|96.69%|4.73%|
-|Westbrook Independent School District, Texas|867|87.89%|4.74%|
 |Great Neck Union Free School District, New York|46046|68.46%|4.74%|
 |Triopia Community Unit School District 27, Illinois|2363|98.39%|4.74%|
 |Onondaga Central School District, New York|5406|82.87%|4.74%|
@@ -1461,7 +1292,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Aubrey Independent School District, Texas|11309|93.7%|4.75%|
 |Monroe School District, Washington|40318|81.72%|4.75%|
 |Hondo Valley Public Schools, New Mexico|1171|93.42%|4.75%|
-|Fisher Public School District, Minnesota|983|94.4%|4.75%|
 |Eaton School District RE-2, Colorado|11275|92.8%|4.75%|
 |GMG Community School District, Iowa|1947|98.46%|4.76%|
 |Neshaminy School District, Pennsylvania|71286|87.65%|4.76%|
@@ -1469,10 +1299,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Hamilton Township School District, New Jersey|87258|73.91%|4.77%|
 |Tuscarora School District, Pennsylvania|18731|97.66%|4.77%|
 |MOC-Floyd Valley Community School District, Iowa|11112|96.21%|4.77%|
-|Fordville-Lankin Public School District 5, North Dakota|633|99.37%|4.77%|
 |Smithville R-II School District, Missouri|14679|93.33%|4.77%|
 |Bethel Park School District, Pennsylvania|32728|91.95%|4.77%|
-|Wallace Public School District 65 R, Nebraska|757|94.19%|4.77%|
 |West De Pere School District, Wisconsin|23870|85.07%|4.77%|
 |Sayreville Borough School District, New Jersey|44243|62.07%|4.78%|
 |Northwestern Local School District (Champaign and Clark Counties), Ohio|10646|96.48%|4.78%|
@@ -1487,7 +1315,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Campbellsport School District, Wisconsin|10909|91.81%|4.8%|
 |Roseau Public School District, Minnesota|6626|93.28%|4.8%|
 |Elbert School District 200, Colorado|1339|96.42%|4.8%|
-|Randolph Field Independent School District, Texas|1190|78.74%|4.8%|
 |Highland Community School District, Iowa|4263|95.78%|4.81%|
 |Mayfield City School District, Ohio|32496|81.24%|4.81%|
 |Sioux Center Community School District, Iowa|9555|96.63%|4.81%|
@@ -1498,7 +1325,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Shoreline Unified School District, California|5388|87.79%|4.82%|
 |Mediapolis Community School District, Iowa|5047|96.67%|4.82%|
 |South Hamilton Community School District, Iowa|3669|96.89%|4.82%|
-|Taholah School District, Washington|794|10.96%|4.82%|
 |Hamilton School District, Wisconsin|28082|88.78%|4.82%|
 |Alameda City Unified School District, California|79827|45.92%|4.82%|
 |Canton Public Schools, Oklahoma|1797|84.25%|4.82%|
@@ -1515,11 +1341,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Andover Regional School District, New Jersey|6589|90.67%|4.84%|
 |Baldwin Union Free School District, New York|33618|43.24%|4.84%|
 |Westhill Central School District, New York|12972|86.95%|4.84%|
-|Halliday Public School District 19, North Dakota|714|85.99%|4.84%|
 |Bolton School District, Connecticut|4902|94.31%|4.84%|
 |Haldane Central School District, New York|5464|92.15%|4.85%|
 |Lavaca Public Schools, Arkansas|4971|93.2%|4.85%|
-|Highland Independent School District, Texas|397|98.74%|4.85%|
 |Howell Public Schools, Michigan|57198|95.6%|4.85%|
 |Lake City Public School District, Minnesota|8668|93.59%|4.85%|
 |East Bridgewater School District, Massachusetts|14509|90.73%|4.85%|
@@ -1541,7 +1365,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Farmingdale Union Free School District, New York|40738|80.41%|4.88%|
 |Deuel School District 19-4, South Dakota|3294|99.0%|4.88%|
 |Anchor Bay School District, Michigan|35828|91.51%|4.88%|
-|Fort Totten Public School District 30, North Dakota|2252|2.0%|4.88%|
 |Avon School District, Connecticut|18302|80.52%|4.88%|
 |East Holmes Local School District, Ohio|21187|99.21%|4.88%|
 |Sevastopol School District, Wisconsin|5187|99.69%|4.88%|
@@ -1557,7 +1380,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Chesapeake City Public Schools, Virginia|242647|59.65%|4.9%|
 |Kingsley-Pierson Community School District, Iowa|2664|93.88%|4.91%|
 |Harding Township School District, New Jersey|3794|93.67%|4.91%|
-|Bowerbank, Maine|163|100.0%|4.91%|
 |Center Point-Urbana Community School District, Iowa|5556|98.92%|4.92%|
 |Nobleboro, Maine|1552|89.11%|4.92%|
 |Vermilion Local School District, Ohio|13939|97.35%|4.92%|
@@ -1577,7 +1399,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Fort Ann Central School District, New York|5615|65.31%|4.94%|
 |Springfield Township School District, New Jersey|17432|70.31%|4.94%|
 |Evergreen Local School District, Ohio|7606|94.93%|4.94%|
-|Arcadia Public Schools, Nebraska|518|97.68%|4.94%|
 |Orchard Park Central School District, New York|34081|95.72%|4.94%|
 |Davis School District, Utah|350761|89.16%|4.94%|
 |Fleetwood Area School District, Pennsylvania|17102|92.67%|4.94%|
@@ -1634,7 +1455,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Fort Thomas Independent School District, Kentucky|15529|93.54%|5.01%|
 |Upper Perkiomen School District, Pennsylvania|24091|90.35%|5.01%|
 |Monroe Township School District (Gloucester County), New Jersey|36861|81.44%|5.01%|
-|Rosholt School District 54-4, South Dakota|1142|80.82%|5.01%|
 |Pacific Grove Unified School District, California|17877|83.82%|5.02%|
 |Windthorst Independent School District, Texas|1637|92.55%|5.02%|
 |Tipton Community School District, Iowa|5548|96.74%|5.02%|
@@ -1645,7 +1465,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Seymour Community School District, Wisconsin|13352|83.31%|5.02%|
 |Westview School Corporation, Indiana|20169|98.15%|5.02%|
 |Redwater Independent School District, Texas|4914|94.12%|5.02%|
-|Wynona Public Schools, Oklahoma|526|72.43%|5.03%|
 |Park City School District, Utah|26906|91.6%|5.03%|
 |South Lyon Community Schools, Michigan|49731|89.98%|5.03%|
 |Narragansett School District, Massachusetts|10030|94.94%|5.04%|
@@ -1657,7 +1476,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Hemlock Public School District, Michigan|8751|97.29%|5.04%|
 |Susquehanna Township School District, Pennsylvania|25077|59.92%|5.05%|
 |Blissfield Community Schools, Michigan|6943|95.3%|5.05%|
-|Argonia Public Schools Unified School District 359, Kansas|926|94.06%|5.05%|
 |Haddon Heights Borough School District, New Jersey|7520|95.08%|5.06%|
 |Sumner School District, Washington|51686|86.21%|5.06%|
 |Madison Local School District (Butler County), Ohio|9077|98.3%|5.06%|
@@ -1669,7 +1487,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Fremont Unified School District, California|234829|22.24%|5.07%|
 |Geyserville Unified School District, California|1420|83.38%|5.07%|
 |Lakewood School District, Washington|15792|82.68%|5.07%|
-|Chebeague Island, Maine|515|88.54%|5.07%|
 |Buchanan Community School District, Michigan|10914|89.59%|5.07%|
 |Cornwall-Lebanon School District, Pennsylvania|36339|88.03%|5.07%|
 |Prince William County Public Schools, Virginia|461485|54.6%|5.07%|
@@ -1703,11 +1520,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Mount Greylock School District, Massachusetts|10726|87.97%|5.12%|
 |Mentor Exempted Village School District, Ohio|59956|94.28%|5.12%|
 |Fort Leavenworth Unified School District 207, Kansas|8183|68.53%|5.12%|
-|Sullivan School District, New Hampshire|696|98.13%|5.12%|
 |Mars Area School District, Pennsylvania|21538|96.18%|5.12%|
-|Stratton School District R-4, Colorado|1136|82.75%|5.13%|
 |Schertz-Cibolo-Universal City Independent School District, Texas|81884|66.48%|5.13%|
-|Hardesty Public Schools, Oklahoma|463|44.92%|5.13%|
 |North Scott Community School District, Iowa|16580|92.99%|5.13%|
 |Parkston School District 33-3, South Dakota|3038|97.89%|5.13%|
 |Clayton School District, Wisconsin|1838|98.2%|5.13%|
@@ -1726,12 +1540,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Southland Public School District, Minnesota|3724|98.01%|5.15%|
 |Berlin Township School District, New Jersey|5647|65.2%|5.16%|
 |Penn-Delco School District, Pennsylvania|26822|89.36%|5.16%|
-|Agate School District 300, Colorado|998|95.29%|5.16%|
 |Syracuse-Dunbar-Avoca Schools, Nebraska|4610|98.07%|5.16%|
 |Chesterfield County Public Schools, Virginia|348500|65.39%|5.16%|
 |Spotsylvania County Public Schools, Virginia|134683|70.92%|5.17%|
 |Evadale Independent School District, Texas|1807|88.82%|5.17%|
-|Bison School District 52-1, South Dakota|935|93.16%|5.17%|
 |Lackland Independent School District, Texas|7364|59.67%|5.17%|
 |Galena Unit School District 120, Illinois|6004|98.42%|5.17%|
 |Random Lake School District, Wisconsin|5558|96.46%|5.17%|
@@ -1779,7 +1591,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Highmore-Harrold School District 34-2, South Dakota|1738|84.87%|5.23%|
 |Arlington Public Schools, Nebraska|3463|92.52%|5.23%|
 |Timberlane Regional School District, New Hampshire|25729|96.56%|5.23%|
-|Fort Elliott Consolidated Independent School District, Texas|847|94.57%|5.24%|
 |Waterford Township School District, New Jersey|10694|85.85%|5.24%|
 |Gunter Independent School District, Texas|3572|84.55%|5.24%|
 |Byron Community Unit School District 226, Illinois|7226|93.4%|5.24%|
@@ -1845,7 +1656,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Round Top-Carmine Independent School District, Texas|1886|95.76%|5.32%|
 |Harris County School District, Georgia|34676|79.16%|5.33%|
 |Northeast Community School District, Iowa|2904|92.84%|5.33%|
-|Zephyr Independent School District, Texas|718|99.3%|5.33%|
 |Crow-Applegate-Lorane Sd 66, Oregon|2040|94.12%|5.33%|
 |Canistota School District 43-1, South Dakota|1190|93.19%|5.33%|
 |Cambridge Public Schools, Nebraska|1722|97.79%|5.33%|
@@ -1883,7 +1693,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Cave Creek Unified District, Arizona|64480|92.48%|5.39%|
 |Freeland Community School District, Michigan|12320|91.58%|5.39%|
 |Fairfield Community Schools, Indiana|12473|95.26%|5.39%|
-|Hale's Location School District, New Hampshire|254|94.88%|5.39%|
 |Wauconda Community Unit School District 118, Illinois|28770|86.52%|5.39%|
 |Brick Township School District, New Jersey|75793|88.85%|5.4%|
 |Cambridge Community Unit School District 227, Illinois|2810|96.37%|5.4%|
@@ -1902,7 +1711,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Southwick-Tolland-Granville Regional School District, Massachusetts|11892|94.82%|5.41%|
 |Merrimack Valley School District, New Hampshire|18494|96.96%|5.41%|
 |Remainder of New Hampshire, New Hampshire|352061|94.52%|5.41%|
-|Gosnold School District, Massachusetts|37|100.0%|5.41%|
 |Boyden-Hull Community School District, Iowa|4171|94.8%|5.42%|
 |Morris Township School District, New Jersey|41340|81.32%|5.42%|
 |Waynesfield-Goshen Local School District, Ohio|3208|97.26%|5.42%|
@@ -1919,13 +1727,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Warwick Valley Central School District, New York|24431|89.66%|5.44%|
 |Aquilla Independent School District, Texas|2003|97.7%|5.45%|
 |Corbett School District 39, Oregon|4154|88.08%|5.45%|
-|Hubbard Independent School District (Bowie County), Texas|690|93.04%|5.45%|
 |Community Unit School District 300, Illinois|117621|73.76%|5.45%|
 |New Lebanon Central School District, New York|3834|98.93%|5.45%|
 |Shelby Eastern Schools, Indiana|8474|96.83%|5.45%|
 |Madison City School District, Alabama|50717|76.03%|5.45%|
 |Pine-Richland School District, Pennsylvania|24794|93.52%|5.45%|
-|Lake and Peninsula Borough School District, Alaska|1156|24.31%|5.45%|
 |Wayne Central School District, New York|14891|93.03%|5.45%|
 |Wesclin Community Unit School District 3, Illinois|7279|95.07%|5.45%|
 |Zeeland Public Schools, Michigan|32214|91.16%|5.46%|
@@ -1940,7 +1746,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Owen J. Roberts School District, Pennsylvania|34411|90.95%|5.47%|
 |Cavalier Public School District 6, North Dakota|2226|97.26%|5.47%|
 |Hauppauge Union Free School District, New York|22668|84.77%|5.47%|
-|Selfridge Public School District 8, North Dakota|537|47.67%|5.47%|
 |Liberty-Benton Local School District, Ohio|7205|91.87%|5.47%|
 |New Ulm Public School District, Minnesota|19231|95.18%|5.47%|
 |Westside Community Schools, Nebraska|30351|88.78%|5.47%|
@@ -1983,7 +1788,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Waterloo Local School District, Ohio|8056|96.18%|5.52%|
 |O'Donnell Independent School District, Texas|1231|84.97%|5.52%|
 |Prince George County Public Schools, Virginia|38292|58.3%|5.52%|
-|West Hope Public School District 17, North Dakota|651|99.54%|5.53%|
 |Johnson-Brock Public Schools, Nebraska|1185|99.24%|5.53%|
 |Warrick County School Corporation, Indiana|62608|92.5%|5.53%|
 |Carmel Unified School District, California|23150|87.97%|5.54%|
@@ -1992,11 +1796,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |St. Paul Public Schools, Nebraska|4041|90.87%|5.54%|
 |Leland Public School District, Michigan|3421|97.52%|5.54%|
 |Montevideo Public School District, Minnesota|6888|88.85%|5.54%|
-|Chatham School District, New Hampshire|377|92.57%|5.54%|
 |Vicksburg Community Schools, Michigan|16247|94.27%|5.55%|
 |Saranac Central School District, New York|13467|78.18%|5.55%|
 |Lower Alloways Creek Township School District, New Jersey|1729|94.16%|5.55%|
-|Osborn R-O School District, Missouri|764|96.73%|5.55%|
 |Morgan County School District, West Virginia|17800|95.56%|5.55%|
 |Miami East Local School District, Ohio|6832|97.38%|5.55%|
 |Johnson Creek School District, Wisconsin|4780|93.83%|5.55%|
@@ -2012,9 +1814,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Bettendorf Community School District, Iowa|23020|88.09%|5.57%|
 |Mehlville R-IX School District, Missouri|95650|93.41%|5.57%|
 |Westerville City School District, Ohio|105468|74.34%|5.57%|
-|Alexander Public School District 2, North Dakota|796|91.08%|5.57%|
-|Chambers Public Schools, Nebraska|763|96.46%|5.57%|
-|Southwest Region School District, Alaska|2869|10.0%|5.57%|
 |Chisago Lakes School District, Minnesota|21372|94.51%|5.58%|
 |Greenbush-Middle River School District, Minnesota|2587|94.59%|5.58%|
 |Dawson-Boyd Public School District, Minnesota|2754|93.54%|5.58%|
@@ -2035,7 +1834,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Newfane Central School District, New York|10369|95.77%|5.6%|
 |Washington Central Supervisory Union, Vermont|9766|96.44%|5.6%|
 |Converse County School District 2, Wyoming|4235|95.7%|5.6%|
-|Big Pine Unified School District, California|1428|64.99%|5.6%|
 |Dartmouth School District, Massachusetts|34062|89.35%|5.6%|
 |Rock Valley Community School District, Iowa|5052|93.39%|5.61%|
 |East Troy Community School District, Wisconsin|12194|97.42%|5.61%|
@@ -2054,15 +1852,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Iowa Valley Community School District, Iowa|3470|97.12%|5.63%|
 |Laquey R-V School District, Missouri|3264|91.36%|5.63%|
 |Warrenton-Hammond School District 30, Oregon|6861|86.97%|5.63%|
-|Whiteriver Unified District, Arizona|15020|3.42%|5.63%|
-|Giltner Public Schools, Nebraska|698|92.12%|5.63%|
 |Huron Valley Schools, Michigan|59501|94.8%|5.63%|
 |Southern Lyon County Unified School District 252, Kansas|2816|93.32%|5.63%|
 |St. Joseph Public Schools, Michigan|19289|87.44%|5.63%|
 |Coronado Unified School District, California|24526|85.61%|5.64%|
 |Graettinger-Terril Community School District, Iowa|2797|90.78%|5.64%|
 |Frontier Central School District, New York|37161|95.36%|5.64%|
-|Oelrichs School District 23-3, South Dakota|364|92.58%|5.64%|
 |Elk Rapids Schools, Michigan|9652|94.63%|5.64%|
 |Lewisville Independent School District, Texas|314974|68.54%|5.64%|
 |Beaver Area School District, Pennsylvania|14787|95.38%|5.64%|
@@ -2072,15 +1867,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Humble Independent School District, Texas|210904|66.71%|5.65%|
 |Mount Pleasant Central School District, New York|13190|86.55%|5.65%|
 |Lorena Independent School District, Texas|7127|90.18%|5.65%|
-|Priddy Independent School District, Texas|485|98.56%|5.65%|
 |Camanche Community School District, Iowa|5269|97.89%|5.66%|
 |Comfort Independent School District, Texas|8616|87.38%|5.66%|
 |Wilmot School District 54-7, South Dakota|1487|78.01%|5.66%|
-|Hermleigh Independent School District, Texas|791|96.08%|5.66%|
 |Jarrell Independent School District, Texas|12110|88.13%|5.66%|
 |Gull Lake Community Schools, Michigan|19919|93.12%|5.66%|
 |Hopewell-Loudon Local School District, Ohio|4356|91.78%|5.66%|
-|Watersmeet Township School District, Michigan|1192|68.04%|5.67%|
 |Shenango Area School District, Pennsylvania|8090|97.78%|5.67%|
 |Shoreline School District, Washington|70195|70.24%|5.67%|
 |Dublin Independent School District, Texas|6507|87.89%|5.67%|
@@ -2100,7 +1892,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Stryker Local School District, Ohio|3490|87.31%|5.68%|
 |Haverhill Cooperative School District, New Hampshire|4597|95.61%|5.68%|
 |Renwick Unified School District 267, Kansas|9311|92.71%|5.68%|
-|Sweet Home Independent School District, Texas|859|94.06%|5.69%|
 |Grapeview School District, Washington|3036|89.33%|5.69%|
 |Linn-Mar Community School District, Iowa|39936|90.18%|5.69%|
 |Lubbock-Cooper Independent School District, Texas|34857|89.01%|5.69%|
@@ -2113,7 +1904,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Sanborn Regional School District, New Hampshire|11260|94.9%|5.69%|
 |Bellville Independent School District, Texas|13777|78.79%|5.7%|
 |Lisbon Community School District, Iowa|2949|97.25%|5.7%|
-|Shaw Island School District, Washington|181|87.29%|5.7%|
 |Amery School District, Wisconsin|9137|96.29%|5.7%|
 |Waterville-Elysian-Morristown Public School District, Minnesota|6592|96.37%|5.7%|
 |Herscher Community Unit School District 2, Illinois|10896|96.1%|5.7%|
@@ -2121,7 +1911,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lake-Lehman School District, Pennsylvania|16846|88.12%|5.7%|
 |South Pasadena Unified School District, California|25478|50.6%|5.71%|
 |Ross Local School District, Ohio|17387|96.63%|5.71%|
-|Burt Township School District, Michigan|438|92.01%|5.71%|
 |South Range Local School District, Ohio|6879|95.26%|5.71%|
 |Crestview Local School District (Van Wert County), Ohio|4496|98.27%|5.71%|
 |Park County School District 6, Wyoming|15365|95.18%|5.71%|
@@ -2136,11 +1925,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Thomasville City School District, Alabama|4998|54.0%|5.72%|
 |Northwest Area School District, Pennsylvania|8775|96.56%|5.73%|
 |Fairport Central School District, New York|40819|91.46%|5.73%|
-|Wynot Public Schools, Nebraska|699|95.28%|5.73%|
 |Springfield Public School District, Minnesota|3308|97.01%|5.73%|
-|Plateau School District RE-5, Colorado|522|97.7%|5.73%|
 |Janesville-Waldorf-Pemberton, Minnesota|5197|95.02%|5.73%|
-|School District Not Defined, Wyoming|304|91.78%|5.73%|
 |Santo Independent School District, Texas|2881|96.77%|5.74%|
 |Watertown School District, Massachusetts|35749|78.26%|5.74%|
 |Kalama School District, Washington|6860|92.48%|5.74%|
@@ -2164,7 +1950,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Rogers Independent School District, Texas|3980|88.27%|5.75%|
 |Holland Central School District, New York|6834|98.49%|5.76%|
 |Karnack Independent School District, Texas|1700|68.47%|5.76%|
-|Triplains Unified School District 275, Kansas|511|95.11%|5.76%|
 |North Posey County Schools Metropolitan School District, Indiana|9815|98.04%|5.76%|
 |Columbus Grove Local School District, Ohio|4188|97.02%|5.76%|
 |Eastern Lancaster County School District, Pennsylvania|33136|96.77%|5.76%|
@@ -2206,7 +1991,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Milbank School District 25-4, South Dakota|6237|95.25%|5.82%|
 |Groton Area School District 06-6, South Dakota|3572|96.53%|5.82%|
 |College Community School District, Iowa|28279|89.15%|5.83%|
-|Three Way Independent School District, Texas|412|100.0%|5.83%|
 |Brighton Central School District, New York|23838|79.68%|5.83%|
 |Old Bridge Township School District, New Jersey|65657|70.21%|5.83%|
 |May-Port CG Public School District 14, North Dakota|3802|91.69%|5.83%|
@@ -2246,14 +2030,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Twin Bridges K-12 Schools, Montana|1491|97.05%|5.87%|
 |Bergenfield Borough School District, New Jersey|27375|55.12%|5.87%|
 |Van Alstyne Independent School District, Texas|8601|82.53%|5.87%|
-|Owens Valley Unified School District, California|767|70.93%|5.87%|
 |Sisseton School District 54-2, South Dakota|7861|44.99%|5.87%|
 |Hudsonville Public School District, Michigan|43090|95.07%|5.87%|
 |North Jackson Unified School District 335, Kansas|1925|93.77%|5.87%|
 |Swanville Public School District, Minnesota|1579|97.47%|5.87%|
 |Contoocook Valley School District, New Hampshire|19376|97.62%|5.87%|
 |Atascadero Unified School District, California|37368|89.46%|5.87%|
-|Prairie School District RE-11, Colorado|438|97.03%|5.88%|
 |Dodd City Independent School District, Texas|1163|94.5%|5.88%|
 |Kuna Joint School District 3, Idaho|31125|94.58%|5.88%|
 |Regional School Unit 21, Maine|19501|97.0%|5.88%|
@@ -2264,13 +2046,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |New Diana Independent School District, Texas|4530|91.92%|5.88%|
 |Pierce Public Schools, Nebraska|3853|97.38%|5.88%|
 |Rocklin Unified School District, California|65331|75.35%|5.88%|
-|Alpine County Unified School District, California|1159|57.2%|5.88%|
 |Brea-Olinda Unified School District, California|40034|61.11%|5.89%|
 |Bloomfield Township School District, New Jersey|49733|58.53%|5.89%|
 |Iberia R-V School District, Missouri|3719|97.85%|5.89%|
 |Mayville School District, Wisconsin|7884|98.27%|5.89%|
 |Anchorage School District, Alaska|292090|61.19%|5.89%|
-|Chatham School District, Alaska|1228|59.45%|5.89%|
 |Addison Northwest Unified School District, Vermont|7822|97.49%|5.89%|
 |Hamburg Area School District, Pennsylvania|17610|95.63%|5.89%|
 |Lake Shore Public Schools, Michigan|22208|92.79%|5.89%|
@@ -2297,10 +2077,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Brigantine City School District, New Jersey|8725|87.03%|5.93%|
 |Anselmo-Merna Public Schools, Nebraska|1147|95.55%|5.93%|
 |Middle Country Central School District, New York|61880|80.04%|5.93%|
-|Leveretts Chapel Independent School District, Texas|896|69.64%|5.93%|
 |Lake Fenton Community Schools, Michigan|11347|95.51%|5.93%|
 |Pattonville R-III School District, Missouri|40197|68.69%|5.94%|
-|White Lake School District 01-3, South Dakota|860|96.63%|5.94%|
 |St. Vrain Valley School District RE 1J, Colorado|180889|87.64%|5.94%|
 |Holbrook School District, Massachusetts|11051|75.87%|5.94%|
 |Edmonds School District, Washington|174277|66.03%|5.95%|
@@ -2313,7 +2091,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |West Genesee Central School District, New York|30222|94.37%|5.95%|
 |White Plains City School District, New York|58171|56.78%|5.95%|
 |Claiborne County School District, Mississippi|9042|11.14%|5.96%|
-|Benjamin Independent School District, Texas|360|93.06%|5.96%|
 |Oak Ridge R-VI School District, Missouri|2249|97.11%|5.96%|
 |Greenport Union Free School District, New York|4361|84.09%|5.96%|
 |Des Arc Public Schools, Arkansas|3126|90.15%|5.96%|
@@ -2324,7 +2101,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Hampton School District, Arkansas|3825|78.25%|5.97%|
 |Doniphan-Trumbull Public Schools, Nebraska|3022|98.05%|5.97%|
 |Montgomery Independent School District, Texas|45111|89.59%|5.97%|
-|Patton Springs Independent School District, Texas|488|82.38%|5.97%|
 |Adair-Casey Community School District, Iowa|2137|93.82%|5.98%|
 |WaKeeney Unified School District 208, Kansas|2700|98.85%|5.98%|
 |Penn-Trafford School District, Pennsylvania|25769|95.83%|5.98%|
@@ -2335,12 +2111,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Oregon City School District 62, Oregon|59960|91.33%|5.98%|
 |Scappoose School District 1J, Oregon|14845|92.43%|5.98%|
 |Isle of Wight County Public Schools, Virginia|37107|71.87%|5.98%|
-|Adrian Independent School District, Texas|185|99.46%|5.98%|
 |Nine Mile Falls School District, Washington|8686|95.11%|5.99%|
 |Wall School District 51-5, South Dakota|1537|82.24%|5.99%|
 |Bucklin Unified School District 459, Kansas|1208|96.44%|5.99%|
 |Enumclaw School District, Washington|26184|89.05%|6.0%|
-|Carbonado School District, Washington|893|98.99%|6.0%|
 |Eunice Municipal Schools, New Mexico|3474|85.84%|6.0%|
 |Hoosic Valley Central School District, New York|7128|97.18%|6.0%|
 |Wishek Public School District 19, North Dakota|1443|94.46%|6.0%|
@@ -2351,7 +2125,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Benicia Unified School District, California|28297|72.5%|6.0%|
 |Bradley Beach Borough School District, New Jersey|4175|87.33%|6.01%|
 |Lynden School District, Washington|20968|80.51%|6.01%|
-|Brooksville, Maine|889|95.84%|6.01%|
 |Maywood Borough School District, New Jersey|9626|68.67%|6.01%|
 |Coal City Community Unit School District 1, Illinois|10406|97.03%|6.01%|
 |Prairie Hills Unified School District 113, Kansas|6667|95.89%|6.01%|
@@ -2364,7 +2137,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Osage Community School District, Iowa|5771|98.18%|6.02%|
 |Mariemont City School District, Ohio|8445|94.19%|6.02%|
 |Edgewood City School District, Ohio|19429|97.62%|6.02%|
-|Newcomb Central School District, New York|344|96.8%|6.02%|
 |Plymouth School District, Connecticut|11646|92.32%|6.02%|
 |Gothenburg Public Schools, Nebraska|4069|95.85%|6.02%|
 |School District 27J, Colorado|99477|81.16%|6.02%|
@@ -2377,14 +2149,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Quakertown Community School District, Pennsylvania|36253|91.18%|6.04%|
 |Oconee County School District, Georgia|39194|87.72%|6.04%|
 |Woodward-Granger Community School District, Iowa|5872|92.54%|6.04%|
-|Palmer Public Schools, Nebraska|938|98.08%|6.04%|
 |La Crescent-Hokah School District, Minnesota|8269|92.57%|6.04%|
-|Winnebago Public Schools, Nebraska|2116|7.04%|6.04%|
 |Lincoln County School District 2, Wyoming|15016|95.23%|6.04%|
 |Culver City Unified School District, California|38913|59.72%|6.05%|
 |Crystal City 47 School District, Missouri|3803|91.66%|6.05%|
 |Mulhall-Orlando Public Schools, Oklahoma|1216|88.65%|6.05%|
-|South Nodaway County R-IV School District, Missouri|912|99.23%|6.05%|
 |Woodbridge Township School District, New Jersey|99788|54.03%|6.05%|
 |Clinton Community Schools, Michigan|5808|97.68%|6.05%|
 |Harbor Springs School District, Michigan|6816|91.29%|6.05%|
@@ -2392,7 +2161,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Burrell School District, Pennsylvania|13360|98.14%|6.05%|
 |Leoti Unified School District 467, Kansas|2127|89.84%|6.05%|
 |Harpursville Central School District, New York|5384|97.23%|6.06%|
-|Wilson Public Schools (Okmulgee County), Oklahoma|1054|64.61%|6.06%|
 |School Administrative District 60, Maine|18829|97.54%|6.06%|
 |Kimball Public School District, Minnesota|4626|97.99%|6.06%|
 |Clear Creek School District RE-1, Colorado|9533|94.67%|6.06%|
@@ -2401,7 +2169,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |East Syracuse-Minoa Central School District, New York|20207|91.43%|6.07%|
 |Ashdown School District, Arkansas|8985|74.03%|6.07%|
 |Charles County Public Schools, Maryland|161448|41.63%|6.07%|
-|Drayton Public School District 19, North Dakota|992|96.37%|6.07%|
 |Birch Run Area School District, Michigan|9227|97.0%|6.07%|
 |Johnston School District, Rhode Island|29326|88.06%|6.07%|
 |Tuslaw Local School District, Ohio|10050|97.48%|6.07%|
@@ -2413,14 +2180,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |King William County Public Schools, Virginia|13688|77.59%|6.07%|
 |Wake County Schools, North Carolina|1091662|63.81%|6.08%|
 |Triton School District, Massachusetts|22946|95.45%|6.08%|
-|Walcott Independent School District, Texas|150|98.67%|6.08%|
 |Nelson County School District, Kentucky|32647|95.67%|6.08%|
 |West Linn School District 3J, Oregon|48611|85.0%|6.08%|
 |Eden Valley-Watkins School District, Minnesota|4907|97.33%|6.08%|
 |Owatonna Public School District, Minnesota|29486|90.48%|6.08%|
 |Whitesboro Central School District, New York|25541|90.81%|6.08%|
 |Cherokee County School District, Georgia|253780|85.15%|6.09%|
-|Hale R-I School District, Missouri|998|97.9%|6.09%|
 |Burleson Independent School District, Texas|66267|83.2%|6.09%|
 |South Orange-Maplewood School District, New Jersey|41769|57.9%|6.09%|
 |Abilene Unified School District 435, Kansas|8917|96.14%|6.09%|
@@ -2442,7 +2207,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |West Washington County Community Unit District 10, Illinois|4014|97.63%|6.11%|
 |West Franklin Unified School District 287, Kansas|4872|91.89%|6.11%|
 |Union County Public Schools, North Carolina|235767|79.37%|6.12%|
-|Easton School District, Washington|964|94.92%|6.12%|
 |Bridge City Independent School District, Texas|13158|93.36%|6.12%|
 |Lacey Township School District, New Jersey|29076|95.04%|6.12%|
 |Meade School District 46-1, South Dakota|19370|92.69%|6.12%|
@@ -2451,10 +2215,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Littlestown Area School District, Pennsylvania|15037|94.91%|6.12%|
 |North Andover School District, Massachusetts|31262|85.23%|6.13%|
 |Caledonia-Mumford Central School District, New York|5129|89.86%|6.13%|
-|Paterson School District, Washington|457|67.83%|6.13%|
 |Gruver Independent School District, Texas|2075|81.01%|6.13%|
 |Milford Central School District, New York|2813|96.73%|6.13%|
-|McCool Junction Public Schools, Nebraska|1016|93.5%|6.13%|
 |Fayetteville Independent School District, Texas|1735|91.12%|6.14%|
 |Buckley Community School District, Michigan|2817|95.46%|6.14%|
 |Fall Creek School District, Wisconsin|4877|94.73%|6.14%|
@@ -2470,12 +2232,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Mona Shores Public School District, Michigan|22926|90.11%|6.15%|
 |Dallastown Area School District, Pennsylvania|42980|87.47%|6.15%|
 |Portage Public Schools, Michigan|56732|85.76%|6.15%|
-|Pittsburg School District, New Hampshire|823|96.84%|6.15%|
 |Butler Borough School District, New Jersey|7669|84.89%|6.16%|
 |New Lima Public Schools, Oklahoma|1548|70.74%|6.16%|
 |Kendall Central School District, New York|4825|95.59%|6.16%|
 |El Paso-Gridley Community Unit School District 11, Illinois|6688|96.1%|6.16%|
-|West Wildwood Borough School District, New Jersey|409|87.29%|6.16%|
 |Climax-Scotts Community School District, Michigan|3921|94.24%|6.16%|
 |Wawasee Community School Corporation, Indiana|19728|96.59%|6.16%|
 |Solomon Unified School District 393, Kansas|2013|98.61%|6.17%|
@@ -2511,7 +2271,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Axtell Community Schools, Nebraska|1802|97.72%|6.2%|
 |Danvers School District, Massachusetts|27549|91.72%|6.2%|
 |Robinson Independent School District, Texas|10624|87.7%|6.2%|
-|Dodson K-12, Montana|446|72.2%|6.21%|
 |Dayton School District, Washington|3753|87.13%|6.21%|
 |Garwood Borough School District, New Jersey|4341|82.7%|6.21%|
 |Colby Public Schools Unified School District 315, Kansas|6554|93.13%|6.21%|
@@ -2565,8 +2324,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Dracut School District, Massachusetts|31458|87.82%|6.25%|
 |Rockport School District, Massachusetts|7269|96.33%|6.26%|
 |Ogden Community School District, Iowa|3455|98.52%|6.26%|
-|Swan Valley Elementary School District 92, Idaho|845|98.93%|6.26%|
-|Lakota Public School District 66, North Dakota|1103|89.94%|6.26%|
 |Joseph School District 6, Oregon|2030|95.67%|6.26%|
 |Eaton Rapids Public Schools, Michigan|17052|95.95%|6.26%|
 |Herman-Norcross School District, Minnesota|1016|99.11%|6.26%|
@@ -2577,7 +2334,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Plainfield Community School Corporation, Indiana|33420|85.38%|6.26%|
 |Randolph Public Schools, Nebraska|1840|95.16%|6.26%|
 |Elizabeth Forward School District, Pennsylvania|17721|94.95%|6.26%|
-|Cainsville R-I School District, Missouri|352|95.17%|6.27%|
 |Farmington Public School District, Michigan|85807|63.39%|6.27%|
 |Hartington Newcastle Public Schools, Nebraska|3872|99.17%|6.27%|
 |Sutton Public Schools, Nebraska|1803|99.72%|6.27%|
@@ -2590,26 +2346,22 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Barnes County North Public School District 7, North Dakota|1770|98.64%|6.29%|
 |Northeastern Local School District (Defiance County), Ohio|6716|92.12%|6.29%|
 |Bloomfield Community Schools, Nebraska|1639|95.49%|6.29%|
-|Galena City School District, Alaska|505|34.65%|6.29%|
 |Union County-College Corner Joint School District, Indiana|7264|96.88%|6.29%|
 |Jenks Public Schools, Oklahoma|74583|71.06%|6.3%|
 |Folsom Borough School District, New Jersey|1610|91.68%|6.3%|
 |Eastern Hancock County Community School Corporation, Indiana|6280|95.99%|6.3%|
 |Lena-Winslow Community Unit School District 202, Illinois|4664|97.34%|6.3%|
 |Vermillion Unified School District 380, Kansas|2518|98.05%|6.3%|
-|Macksville Unified School District 351, Kansas|1125|88.18%|6.3%|
 |Botetourt County Public Schools, Virginia|33440|93.91%|6.3%|
 |Greene County Public Schools, Virginia|19734|82.97%|6.3%|
 |Auburn School District, Washington|96289|59.26%|6.31%|
 |Fife Public Schools, Washington|22097|70.54%|6.31%|
 |San Gabriel Unified School District, California|42315|22.34%|6.31%|
-|Keene Central School District, New York|993|96.37%|6.31%|
 |Annandale Public School District, Minnesota|10841|96.0%|6.31%|
 |Easton Area School District, Pennsylvania|65108|77.2%|6.31%|
 |Jefferson County School District R-1, Colorado|584653|88.35%|6.31%|
 |Northview Public School District, Michigan|17211|91.82%|6.31%|
 |Argyle Independent School District, Texas|11936|92.81%|6.32%|
-|Higgins Independent School District, Texas|813|76.51%|6.32%|
 |East Pennsboro Area School District, Pennsylvania|21496|84.21%|6.32%|
 |Montpelier-Roxbury Supervisory Union, Vermont|8399|94.58%|6.32%|
 |Douglas County School District, Nevada|48486|86.72%|6.32%|
@@ -2649,10 +2401,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Neptune Township School District, New Jersey|27547|57.51%|6.37%|
 |Ottawa-Glandorf Local School District, Ohio|9146|94.4%|6.37%|
 |Southeastern School Corporation, Indiana|7879|95.95%|6.37%|
-|Albany School District, New Hampshire|700|89.71%|6.37%|
 |Weymouth School District, Massachusetts|57213|84.95%|6.38%|
 |Bentonville Public Schools, Arkansas|103936|82.09%|6.38%|
-|Minnewaukan Public School District 5, North Dakota|435|90.11%|6.38%|
 |Horseheads Central School District, New York|26292|89.94%|6.38%|
 |Industrial Independent School District, Texas|5337|90.74%|6.38%|
 |Danbury Local School District, Ohio|5068|97.32%|6.38%|
@@ -2663,17 +2413,14 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Cuba City School District, Wisconsin|4733|97.68%|6.39%|
 |Regional School District 13, Connecticut|11571|94.62%|6.39%|
 |St. Charles Parish School District, Louisiana|52856|68.05%|6.4%|
-|Lavina K-12 Schools, Montana|379|90.77%|6.4%|
 |Clear Creek Independent School District, Texas|237109|74.82%|6.4%|
 |New Milford School District, Connecticut|26893|89.38%|6.4%|
 |Rock Creek Unified School District 323, Kansas|5672|95.73%|6.4%|
-|Brewster Unified School District 314, Kansas|674|97.33%|6.4%|
 |Champion Local School District, Ohio|9149|97.35%|6.4%|
 |Edon Northwest Local School District, Ohio|3470|96.66%|6.4%|
 |Vicksburg Warren School District, Mississippi|46030|47.82%|6.41%|
 |Coahoma Independent School District, Texas|2890|93.25%|6.41%|
 |East Irondequoit Central School District, New York|27323|78.96%|6.41%|
-|Dew Independent School District, Texas|1194|80.99%|6.41%|
 |Chandler Unified District, Arizona|255070|74.04%|6.41%|
 |Deubrook School District 05-6, South Dakota|2196|97.36%|6.41%|
 |Lake Holcombe School District, Wisconsin|2520|98.29%|6.41%|
@@ -2696,24 +2443,20 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Henrico County Public Schools, Virginia|330076|55.13%|6.42%|
 |Methuen School District, Massachusetts|50518|69.3%|6.43%|
 |Placentia-Yorba Linda Unified School District, California|162567|67.6%|6.43%|
-|Scranton Public School District 33, North Dakota|942|99.04%|6.43%|
 |Columbia School District, Michigan|11370|93.48%|6.43%|
 |Perrydale School District 21, Oregon|1447|90.46%|6.43%|
 |Scottsdale Unified District, Arizona|251715|85.98%|6.43%|
 |Le Sueur-Henderson School District, Minnesota|7659|92.99%|6.43%|
 |Hartford School District, Vermont|9617|92.93%|6.43%|
-|South Bristol, Maine|919|98.15%|6.44%|
 |Delton-Kellogg School District, Michigan|12282|95.27%|6.44%|
 |Fort Cherry School District, Pennsylvania|8528|96.63%|6.44%|
 |Wadsworth City School District, Ohio|29239|96.07%|6.44%|
 |Pilot Point Independent School District, Texas|8757|88.66%|6.44%|
 |Alta-Aurelia Community School District, Iowa|4395|91.31%|6.45%|
 |Van Buren Public Schools, Michigan|50207|65.04%|6.45%|
-|Andes Central School District, New York|972|95.68%|6.45%|
 |Burlington City School District, New Jersey|9845|55.46%|6.45%|
 |North Mason School District, Washington|18022|85.03%|6.45%|
 |Clymer Central School District, New York|3376|97.54%|6.45%|
-|Schulter Public Schools, Oklahoma|839|85.34%|6.45%|
 |Mandan Public School District 1, North Dakota|26207|90.07%|6.45%|
 |Burlington Area School District, Wisconsin|23708|96.44%|6.45%|
 |Kaukauna Area School District, Wisconsin|28634|97.41%|6.45%|
@@ -2735,19 +2478,15 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Upsala Public School District, Minnesota|2091|97.75%|6.47%|
 |Mount Diablo Unified School District, California|268179|58.43%|6.48%|
 |Amherst Central School District, New York|24084|79.31%|6.48%|
-|Ewing Public Schools, Nebraska|703|92.18%|6.48%|
 |Luther Public Schools, Oklahoma|5482|85.43%|6.49%|
 |St. Helena Unified School District, California|9465|88.0%|6.49%|
 |Renton School District, Washington|125683|49.02%|6.49%|
-|Vanceboro, Maine|166|92.77%|6.49%|
 |Farmington Central Community Unit School District 265, Illinois|7853|98.26%|6.49%|
 |North Montgomery Community School Corporation, Indiana|12220|96.74%|6.49%|
 |Old Fort Local School District, Ohio|3176|91.75%|6.49%|
 |Nazareth Area School District, Pennsylvania|29556|95.23%|6.5%|
 |Nettleton School District, Mississippi|6722|70.05%|6.5%|
 |Wahluke School District, Washington|9002|25.82%|6.5%|
-|Kulm Public School District 7, North Dakota|808|96.66%|6.5%|
-|Wesley, Maine|146|84.25%|6.5%|
 |Dayton School District 8, Oregon|5659|86.23%|6.5%|
 |Plainwell Community Schools, Michigan|15531|95.52%|6.5%|
 |Monson School District, Massachusetts|8775|96.13%|6.51%|
@@ -2755,7 +2494,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Coweta County School District, Georgia|145839|75.17%|6.51%|
 |Edgewater Borough School District, New Jersey|12890|48.49%|6.51%|
 |Winton Woods City School District, Ohio|26223|43.07%|6.51%|
-|Bridgewater, Maine|582|88.14%|6.51%|
 |Marysville Exempted Village School District, Ohio|34090|91.52%|6.51%|
 |Allen Park Public Schools, Michigan|19281|87.65%|6.51%|
 |Wyndmere Public School District 42, North Dakota|1073|97.39%|6.51%|
@@ -2783,18 +2521,15 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Rock County Public Schools, Nebraska|1430|96.64%|6.53%|
 |Roanoke County Public Schools, Virginia|94103|87.33%|6.53%|
 |Bay Shore Union Free School District, New York|37348|57.67%|6.54%|
-|Oldham-Ramona School District 39-5, South Dakota|919|84.87%|6.54%|
 |Northeastern Local School District (Champaign and Clark Counties), Ohio|21634|95.39%|6.54%|
 |Howard Lake-Waverly-Winsted, Minnesota|8600|96.76%|6.54%|
 |Lakeview Community Schools, Nebraska|4599|96.13%|6.54%|
 |Neoga Community Unit School District 3, Illinois|4614|97.1%|6.54%|
 |Utica Community Schools, Michigan|188092|87.3%|6.55%|
 |Coxsackie-Athens Central School District, New York|12786|83.67%|6.55%|
-|Strasburg Public School District 15, North Dakota|772|98.58%|6.55%|
 |Chino Valley Unified District, Arizona|22827|92.23%|6.55%|
 |Mineral Point School District, Wisconsin|4104|95.22%|6.55%|
 |Sesser-Valier Community Unit School District 196, Illinois|4381|97.24%|6.55%|
-|Ballard R-II School District, Missouri|947|96.94%|6.55%|
 |Laton Joint Unified School District, California|3481|84.54%|6.56%|
 |Benton Community School District, Iowa|9648|96.42%|6.56%|
 |Tupelo Public School District, Mississippi|40237|58.03%|6.56%|
@@ -2802,8 +2537,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lena School District, Wisconsin|2704|97.3%|6.56%|
 |Twin Valley Community Local School District, Ohio|5910|96.85%|6.56%|
 |Bauxite School District, Arkansas|6818|85.41%|6.57%|
-|Annex School District 29, Oregon|439|93.62%|6.57%|
-|Follett Independent School District, Texas|483|90.89%|6.57%|
 |Meridian Joint School District 2, Idaho|236912|89.5%|6.57%|
 |Dundee Community Schools, Michigan|9169|97.39%|6.57%|
 |Milan Area Schools, Michigan|17037|81.28%|6.57%|
@@ -2811,8 +2544,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Rappahannock County Public Schools, Virginia|7360|88.85%|6.57%|
 |South O'Brien Community School District, Iowa|4211|93.56%|6.58%|
 |Effingham County School District, Georgia|62241|80.19%|6.58%|
-|Northwestern R-I School District, Missouri|892|95.4%|6.58%|
-|Mount Pleasant Public School District 4, North Dakota|1927|47.95%|6.58%|
 |Granada-Huntley-East Chain, Minnesota|1598|98.94%|6.58%|
 |West Valley Central School District, New York|2046|94.87%|6.58%|
 |Upper Moreland Township School District, Pennsylvania|24083|84.26%|6.59%|
@@ -2820,17 +2551,14 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Talbot County Public Schools, Maryland|37087|81.17%|6.59%|
 |Hebron Public School District 13, North Dakota|1053|98.01%|6.59%|
 |West Deptford Township School District, New Jersey|21089|84.49%|6.59%|
-|Frontier Public Schools, Oklahoma|1610|50.06%|6.59%|
 |Jim Thorpe Area School District, Pennsylvania|15195|90.47%|6.59%|
 |Lower Dauphin School District, Pennsylvania|25846|90.7%|6.59%|
 |Sterling Public Schools, Oklahoma|2164|84.75%|6.6%|
-|North Gem School District 149, Idaho|894|96.98%|6.6%|
 |Boone Township Metropolitan School District, Indiana|6185|97.8%|6.6%|
 |Groton School District, Connecticut|38634|75.34%|6.6%|
 |Blue Hill Public Schools, Nebraska|1592|98.18%|6.6%|
 |Halifax Area School District, Pennsylvania|7334|94.85%|6.6%|
 |Tolono Community Unit School District 7, Illinois|8401|95.36%|6.6%|
-|Balko Public Schools, Oklahoma|716|95.25%|6.6%|
 |Axtell Independent School District, Texas|3178|84.68%|6.61%|
 |Glenwood Community School District, Iowa|11286|96.15%|6.61%|
 |Napavine School District, Washington|3715|93.06%|6.61%|
@@ -2875,23 +2603,19 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pike-Delta-York Local School District, Ohio|7660|92.55%|6.66%|
 |Frankton-Lapel Community Schools, Indiana|12427|95.62%|6.66%|
 |South Euclid-Lyndhurst City School District, Ohio|33754|61.24%|6.67%|
-|Orient School District, Washington|916|91.59%|6.67%|
 |Covington Exempted Village School District, Ohio|5055|96.68%|6.67%|
 |Dardanelle Public Schools, Arkansas|10319|79.68%|6.67%|
 |Hillsboro School District 1J, Oregon|141903|70.6%|6.67%|
 |Sanborn Central School District 55-5, South Dakota|1184|94.0%|6.67%|
 |Maricopa Unified School District, Arizona|54551|62.95%|6.67%|
 |Sheridan Community Schools, Indiana|6251|97.57%|6.67%|
-|St. Marys City School District, Alaska|660|2.27%|6.67%|
 |Union Free School District of the Tarrytowns, New York|20940|63.78%|6.67%|
-|Clarksville School District, New Hampshire|335|98.51%|6.67%|
 |Summit School District RE-1, Colorado|30670|89.19%|6.68%|
 |Marshfield School District, Massachusetts|25937|98.31%|6.68%|
 |South San Francisco Unified School District, California|81750|32.12%|6.68%|
 |Kinderhook Central School District (Ichabod Crane), New York|13589|93.88%|6.68%|
 |Chilton School District, Wisconsin|6783|97.15%|6.68%|
 |Glenville-Emmons School District, Minnesota|2488|96.91%|6.68%|
-|Malta Independent School District, Texas|777|94.47%|6.68%|
 |Plano Community Unit School District 88, Illinois|11504|79.96%|6.68%|
 |Sandwich Community Unit School District 430, Illinois|13911|95.56%|6.68%|
 |Hempfield School District, Pennsylvania|48533|89.35%|6.68%|
@@ -2911,8 +2635,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |St. Edward Public Schools, Nebraska|1049|95.9%|6.7%|
 |Canastota Central School District, New York|9794|91.72%|6.71%|
 |Minco Public Schools, Oklahoma|2827|89.32%|6.71%|
-|Fort Yates Public School District 4, North Dakota|2750|7.09%|6.71%|
-|Dayville School District 16J, Oregon|553|98.19%|6.71%|
 |Cudahy School District, Wisconsin|18211|90.1%|6.71%|
 |North Stonington School District, Connecticut|5239|92.78%|6.71%|
 |Lakeview Public Schools, Michigan|19814|93.69%|6.71%|
@@ -2940,9 +2662,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Waterford-Halfmoon Union Free School District, New York|6234|96.04%|6.73%|
 |Santa Fe Independent School District, Texas|28511|91.42%|6.74%|
 |Norton City School District, Ohio|14429|95.27%|6.74%|
-|Adel School District 21, Oregon|89|100.0%|6.74%|
 |Sparta Area Schools, Michigan|14601|95.57%|6.74%|
-|Richland Springs Independent School District, Texas|1002|88.82%|6.74%|
 |School Administrative District 52, Maine|12493|94.78%|6.75%|
 |Lexington Independent School District, Texas|5404|91.04%|6.75%|
 |Seneca School District, Wisconsin|1793|97.71%|6.75%|
@@ -2968,7 +2688,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Fountain School District 8, Colorado|36790|73.34%|6.78%|
 |Winnisquam Regional School District, New Hampshire|11457|94.84%|6.78%|
 |Norton School District, Massachusetts|19874|91.94%|6.79%|
-|Ione School District 2, Oregon|729|92.87%|6.79%|
 |Katonah-Lewisboro Union Free School District, New York|18357|89.83%|6.79%|
 |Culver School District 4, Oregon|4387|84.41%|6.79%|
 |Marysville School District, Washington|74463|77.25%|6.8%|
@@ -2980,7 +2699,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Ashby Public School District, Minnesota|1590|97.3%|6.8%|
 |Epping School District, New Hampshire|6989|96.37%|6.8%|
 |Ellsworth Public Schools, Maine|8085|95.46%|6.81%|
-|Risco R-II School District, Missouri|612|98.37%|6.81%|
 |Lake Como Borough School District, New Jersey|1655|90.45%|6.81%|
 |Beaver Dam School District, Wisconsin|22488|92.41%|6.81%|
 |Humphrey Public Schools, Nebraska|2468|99.43%|6.81%|
@@ -2991,9 +2709,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Hillsboro-Deering Cooperative School District, New Hampshire|7740|93.63%|6.82%|
 |Gill-Montague School District, Massachusetts|9983|93.1%|6.82%|
 |Castro Valley Unified School District, California|51120|50.36%|6.83%|
-|Veribest Independent School District, Texas|840|95.83%|6.83%|
 |Haverstraw-Stony Point Central School District (North Rockland), New York|47569|56.3%|6.83%|
-|Harrison K-12 Schools, Montana|513|96.88%|6.84%|
 |Carteret Borough School District, New Jersey|23501|45.76%|6.84%|
 |Callisburg Independent School District, Texas|7178|94.57%|6.84%|
 |Mid-Prairie Community School District, Iowa|9051|95.99%|6.84%|
@@ -3010,7 +2726,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |North Kitsap School District, Washington|49895|83.79%|6.86%|
 |Tahoe-Truckee Unified School District, California|29760|89.45%|6.86%|
 |Mount Olive Township School District, New Jersey|28913|78.84%|6.86%|
-|Touchet School District, Washington|1182|76.48%|6.86%|
 |Mill Creek Community School Corporation, Indiana|9874|94.18%|6.86%|
 |Frontenac Public Schools Unified School District 249, Kansas|3995|92.72%|6.86%|
 |Albemarle County Public Schools, Virginia|108819|80.75%|6.86%|
@@ -3020,7 +2735,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Elmwood Park Borough School District, New Jersey|20019|69.65%|6.87%|
 |Delphos City School District, Ohio|9670|94.2%|6.87%|
 |York School District 2, South Carolina|45105|84.96%|6.87%|
-|Bowdle School District 22-1, South Dakota|598|93.31%|6.87%|
 |Perkins County Schools, Nebraska|2745|97.85%|6.87%|
 |Ossining Union Free School District, New York|34773|62.22%|6.87%|
 |Pinckney Community Schools, Michigan|26337|97.46%|6.87%|
@@ -3030,7 +2744,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Kenton County School District, Kentucky|105062|94.64%|6.88%|
 |Cheektowaga Central School District, New York|19787|74.24%|6.88%|
 |Nooksack Valley School District, Washington|10975|80.9%|6.88%|
-|McLaughlin School District 15-2, South Dakota|2539|18.31%|6.88%|
 |Lake Park Audubon School District, Minnesota|4914|91.07%|6.88%|
 |Carlton Public School District, Minnesota|4775|87.16%|6.88%|
 |South Central Nebraska Unified 5, Nebraska|4089|96.14%|6.88%|
@@ -3038,7 +2751,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Eastern Lebanon County School District, Pennsylvania|22348|97.62%|6.88%|
 |Norway-Vulcan Area Schools, Michigan|5443|98.05%|6.88%|
 |Northern Lebanon School District, Pennsylvania|18064|92.63%|6.89%|
-|Bloomsbury Borough School District, New Jersey|786|92.37%|6.89%|
 |Stratford Community School District, Iowa|1235|96.28%|6.89%|
 |Bloomer School District, Wisconsin|7260|98.98%|6.89%|
 |Kankakee Valley School Corporation, Indiana|20423|93.87%|6.89%|
@@ -3046,7 +2758,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Kenesaw Public Schools, Nebraska|1668|97.48%|6.89%|
 |South Colonie Central School District, New York|37563|85.1%|6.89%|
 |Carlisle Area School District, Pennsylvania|38305|86.38%|6.89%|
-|Washington School District, Wisconsin|828|98.67%|6.89%|
 |Brooklawn Borough School District, New Jersey|1888|81.14%|6.9%|
 |Orchard Farm R-V School District, Missouri|13452|91.71%|6.9%|
 |Hadley-Luzerne Central School District, New York|6299|98.17%|6.9%|
@@ -3064,7 +2775,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Benson Public School District, Minnesota|5217|95.99%|6.91%|
 |Thunder Ridge Unified School District 110, Kansas|1584|96.91%|6.91%|
 |Putnam Valley Central School District, New York|10507|82.74%|6.91%|
-|Marathon Independent School District, Texas|397|94.71%|6.91%|
 |Parkers Prairie Public School District, Minnesota|3033|98.65%|6.91%|
 |Sterling Community Unit District 5, Illinois|21012|89.68%|6.91%|
 |Jaffrey-Rindge Cooperative School District, New Hampshire|11375|92.28%|6.91%|
@@ -3105,7 +2815,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |East Gibson School Corporation, Indiana|6864|96.79%|6.97%|
 |Dodgeville School District, Wisconsin|8267|96.21%|6.97%|
 |McKinney Independent School District, Texas|134953|76.37%|6.97%|
-|Keya Paha County Schools, Nebraska|887|98.65%|6.97%|
 |West Noble School Corporation, Indiana|12903|93.47%|6.97%|
 |West Ottawa Public School District, Michigan|52435|78.62%|6.98%|
 |Slidell Independent School District, Texas|1987|90.14%|6.98%|
@@ -3126,7 +2835,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Flat Rock-Hawcreek School Corporation, Indiana|5778|97.53%|6.99%|
 |Goodhue Public School District, Minnesota|2967|95.62%|6.99%|
 |Juniata Valley School District, Pennsylvania|4953|96.85%|6.99%|
-|Plevna K-12 Schools, Montana|599|98.5%|7.0%|
 |Waller Independent School District, Texas|39922|63.17%|7.0%|
 |Hampton School District 2, South Carolina|7387|29.34%|7.0%|
 |Hitchcock-Tulare School District 56-6, South Dakota|1672|98.39%|7.0%|
@@ -3134,8 +2842,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lake Superior Public School District, Minnesota|13209|96.59%|7.0%|
 |Goffstown School District, New Hampshire|18091|94.01%|7.0%|
 |Cypress-Fairbanks Independent School District, Texas|597130|56.57%|7.01%|
-|Frenchman School District RE-3, Colorado|1171|82.84%|7.01%|
-|Apple Springs Independent School District, Texas|1055|87.77%|7.02%|
 |Sharon-Mutual Public Schools, Oklahoma|1664|89.06%|7.02%|
 |Eden Central School District, New York|10255|96.46%|7.02%|
 |Carey Exempted Village School District, Ohio|5215|94.78%|7.02%|
@@ -3151,13 +2857,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |West Orange Town School District, New Jersey|47528|52.06%|7.04%|
 |Gloucester County Public Schools, Virginia|37362|87.35%|7.04%|
 |Plentywood K-12 Schools, Montana|2276|95.21%|7.05%|
-|Texhoma Independent School District, Texas|580|90.52%|7.05%|
 |Longwood Central School District, New York|71513|77.36%|7.05%|
 |Gateway School District, Pennsylvania|30744|73.39%|7.05%|
 |Ipswich School District, Massachusetts|14022|91.68%|7.06%|
 |Columbus Municipal School District, Mississippi|31716|39.22%|7.06%|
 |Central Valley School District, Washington|89917|89.71%|7.06%|
-|Skamania School District, Washington|984|92.89%|7.06%|
 |Crockett County Consolidated Common School District, Texas|3393|42.79%|7.06%|
 |St. Ansgar Community School District, Iowa|3847|97.61%|7.06%|
 |Waterville School District, Washington|1922|88.19%|7.06%|
@@ -3182,7 +2886,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Weathersfield Local School District, Ohio|5248|98.63%|7.08%|
 |Millcreek Township School District, Pennsylvania|52966|91.82%|7.08%|
 |Pasquotank County Schools, North Carolina|39775|57.65%|7.09%|
-|Cooper, Maine|141|100.0%|7.09%|
 |Ansley Public Schools, Nebraska|1090|94.86%|7.09%|
 |Ravena-Coeymans-Selkirk Central School District, New York|14028|93.16%|7.09%|
 |Southern School District 1, Nebraska|2369|95.53%|7.09%|
@@ -3196,15 +2899,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Northampton Area School District, Pennsylvania|42452|94.2%|7.11%|
 |Elgin Public Schools, Oklahoma|7972|79.84%|7.11%|
 |Bronxville Union Free School District, New York|6450|85.88%|7.11%|
-|Dell City Independent School District, Texas|258|76.36%|7.11%|
-|Jones County School District 37-3, South Dakota|847|84.65%|7.11%|
-|New Shoreham School District, Rhode Island|871|93.69%|7.11%|
 |Scobey K-12 Schools, Montana|1705|93.49%|7.12%|
 |Whitmore Lake Public Schools, Michigan|9474|97.85%|7.12%|
 |Rockland School District, Massachusetts|18010|94.05%|7.12%|
 |Winterset Community School District, Iowa|9808|97.54%|7.12%|
-|Lostant Community Unit School District 425, Illinois|820|94.76%|7.12%|
-|Rolette Public School District 29, North Dakota|1431|54.93%|7.12%|
 |Clinton Prairie School Corporation, Indiana|5883|97.04%|7.12%|
 |Elmwood Park Community Unit School District 401, Illinois|24274|76.15%|7.12%|
 |South Montgomery Community School Corporation, Indiana|10887|97.6%|7.12%|
@@ -3216,16 +2914,13 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Little River Unified School District 444, Kansas|1403|94.51%|7.13%|
 |Willoughby-Eastlake City School District, Ohio|65592|87.42%|7.14%|
 |Eureka Community Unit District 140, Illinois|10185|94.16%|7.14%|
-|Norris School District, Wisconsin|115|40.0%|7.14%|
 |Monticello Public School District, Minnesota|21568|90.42%|7.14%|
 |Sherrill City School District, New York|12520|95.49%|7.14%|
 |Catasauqua Area School District, Pennsylvania|11289|90.79%|7.14%|
-|Campo School District RE-6, Colorado|198|98.99%|7.14%|
 |Natomas Unified School District, California|82118|38.74%|7.14%|
 |Spencer-East Brookfield School District, Massachusetts|14099|92.32%|7.14%|
 |Dare County Schools, North Carolina|36698|91.14%|7.14%|
 |East Windsor Regional School District, New Jersey|32609|65.24%|7.15%|
-|Ezzell Independent School District, Texas|795|81.38%|7.15%|
 |Patrick Henry Local School District, Ohio|5020|92.83%|7.15%|
 |Burlington School District RE-6J, Colorado|4283|88.07%|7.15%|
 |Lakeland School District, Pennsylvania|12202|97.3%|7.15%|
@@ -3240,7 +2935,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Egg Harbor Township School District, New Jersey|42460|63.39%|7.17%|
 |West Chester Area School District, Pennsylvania|111894|84.15%|7.17%|
 |Pittsgrove Township School District, New Jersey|10183|89.41%|7.17%|
-|Rockleigh Borough School District, New Jersey|650|85.54%|7.17%|
 |School District U-46, Illinois|233666|61.93%|7.17%|
 |Bennett School District 29-J, Colorado|7049|92.0%|7.17%|
 |Public Schools of Petoskey, Michigan|18511|93.6%|7.17%|
@@ -3275,8 +2969,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Susquenita School District, Pennsylvania|14954|96.91%|7.21%|
 |Piscataway Township School District, New Jersey|56948|32.73%|7.21%|
 |McCall-Donnelly Joint School District 421, Idaho|9019|98.57%|7.21%|
-|Flasher Public School District 39, North Dakota|719|98.33%|7.21%|
-|Cody-Kilgore Public Schools, Nebraska|580|93.28%|7.21%|
 |Creighton Community Public Schools, Nebraska|2034|97.0%|7.21%|
 |Rutherford County School District, Tennessee|182700|78.33%|7.21%|
 |Culpeper County Public Schools, Virginia|51935|74.38%|7.21%|
@@ -3287,9 +2979,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Coosa County School District, Alabama|10696|65.93%|7.22%|
 |Pillager Public School District, Minnesota|5377|94.59%|7.22%|
 |Estes Park School District R-3, Colorado|13600|94.03%|7.22%|
-|Prairie Valley Independent School District, Texas|745|94.77%|7.22%|
 |Conroe Independent School District, Texas|338627|80.54%|7.23%|
-|Lakeville, Maine|88|94.32%|7.23%|
 |Baltimore County Public Schools, Maryland|828193|58.87%|7.23%|
 |Parkway Local School District, Ohio|5667|98.34%|7.23%|
 |Bedford County Public Schools, Virginia|78965|88.66%|7.23%|
@@ -3316,7 +3006,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Miami-Yoder School District 60-JT, Colorado|3028|94.35%|7.25%|
 |Adams 12 Five Star Schools, Colorado|241187|80.51%|7.26%|
 |Charlotte-Mecklenburg Schools, North Carolina|1095170|51.89%|7.26%|
-|Balmorhea Independent School District, Texas|1022|80.82%|7.26%|
 |Madrid Community School District, Iowa|3875|99.2%|7.26%|
 |Depew Union Free School District, New York|15621|94.18%|7.26%|
 |East Hampton Union Free School District, New York|9234|82.97%|7.26%|
@@ -3333,17 +3022,14 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Morrice Area Schools, Michigan|4805|96.25%|7.26%|
 |Jefferson-Morgan School District, Pennsylvania|5327|96.96%|7.26%|
 |Big Horn County School District 4, Wyoming|2583|93.46%|7.26%|
-|Malta Bend R-V School District, Missouri|348|99.43%|7.27%|
 |Highland Park Borough School District, New Jersey|13803|65.87%|7.27%|
 |Union School District 5, Oregon|2304|92.49%|7.27%|
 |North Lyon County Unified School District 251, Kansas|3252|95.76%|7.27%|
 |Ell-Saline Unified School District 307, Kansas|1760|90.0%|7.27%|
 |North Muskegon Public Schools, Michigan|3795|89.67%|7.27%|
 |Kinsley-Offerle Unified School District 347, Kansas|2124|91.67%|7.27%|
-|Eaton School District, New Hampshire|291|99.31%|7.27%|
 |Hopkinton School District, New Hampshire|5746|98.19%|7.27%|
 |Alamo Heights Independent School District, Texas|33342|86.82%|7.27%|
-|Avalon Independent School District, Texas|773|85.25%|7.28%|
 |Vashon Island School District, Washington|10400|92.66%|7.28%|
 |Goodrich Independent School District, Texas|3478|79.33%|7.28%|
 |South Hackensack Township School District, New Jersey|2670|76.67%|7.28%|
@@ -3353,21 +3039,18 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Green Lake School District, Wisconsin|2584|98.1%|7.29%|
 |Twin Lakes School Corporation, Indiana|14733|91.72%|7.29%|
 |Chippewa Local School District, Ohio|9432|98.06%|7.29%|
-|Pawnee Heights Unified School District 496, Kansas|707|91.23%|7.29%|
 |Laurel School District, Pennsylvania|7602|96.42%|7.29%|
 |Santa Clara Unified School District, California|170359|35.96%|7.3%|
 |Hazen Public School District 3, North Dakota|3138|89.93%|7.3%|
 |Aurora West Unit School District 129, Illinois|77464|67.0%|7.3%|
 |Comstock Park Public Schools, Michigan|14950|85.45%|7.3%|
 |Portland School District, Connecticut|9301|94.23%|7.3%|
-|Lancaster Public School District, Minnesota|759|97.89%|7.3%|
 |Pequot Lakes Public Schools, Minnesota|10547|97.81%|7.3%|
 |Currituck County Schools, North Carolina|27210|89.16%|7.3%|
 |Great Meadows Regional School District, New Jersey|8264|93.79%|7.31%|
 |Crosby Independent School District, Texas|28639|78.49%|7.31%|
 |Laurel-Concord-Coleridge School, Nebraska|2707|98.19%|7.31%|
 |Stanfield School District 61, Oregon|2881|79.07%|7.31%|
-|Almira School District, Washington|449|97.33%|7.32%|
 |Penn Hills School District, Pennsylvania|41203|55.1%|7.32%|
 |New Knoxville Local School District, Ohio|1983|97.78%|7.32%|
 |MACCRAY School District, Minnesota|4851|92.41%|7.32%|
@@ -3375,10 +3058,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Ridley School District, Pennsylvania|40621|89.55%|7.33%|
 |Western Beaver County School District, Pennsylvania|5065|97.35%|7.33%|
 |Toms River Regional School District, New Jersey|110590|85.64%|7.33%|
-|Solen Public School District 3, North Dakota|1140|17.89%|7.33%|
 |North Marion School District 15, Oregon|11470|80.66%|7.33%|
 |Redfield School District 56-4, South Dakota|3466|93.25%|7.33%|
-|McCamey Independent School District, Texas|2433|37.65%|7.33%|
 |Southwestern Central School District at Jamestown, New York|9489|96.69%|7.33%|
 |Sherrard Community Unit School District 200, Illinois|9036|95.1%|7.33%|
 |Central Berkshire School District, Massachusetts|13466|96.09%|7.33%|
@@ -3395,7 +3076,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Edmond Public Schools, Oklahoma|157443|77.29%|7.35%|
 |Jamestown C-1 School District, Missouri|1741|92.94%|7.35%|
 |Claude Independent School District, Texas|1915|91.44%|7.35%|
-|Hazelton-Moffit-Braddock Public School District 6, North Dakota|816|96.69%|7.35%|
 |Midland Community Unit School District 7, Illinois|4982|98.17%|7.35%|
 |Parishville-Hopkinton Central School District, New York|2650|96.72%|7.35%|
 |Perham-Dent Public School District, Minnesota|10801|95.04%|7.35%|
@@ -3403,9 +3083,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Chaffee R-II School District, Missouri|3891|93.22%|7.36%|
 |Big Sky School K-12, Montana|2877|95.66%|7.36%|
 |Enterprise School District, Mississippi|4272|87.83%|7.36%|
-|Doss Consolidated Common School District, Texas|323|92.57%|7.36%|
 |Saydel Community School District, Iowa|9193|93.85%|7.36%|
-|Beaver Island Community School, Michigan|578|98.79%|7.36%|
 |Corsica-Stickney School District 21-3, South Dakota|2094|98.14%|7.36%|
 |Warwick School District, Rhode Island|81043|90.08%|7.36%|
 |Saugerties Central School District, New York|20080|90.14%|7.36%|
@@ -3423,21 +3101,17 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Iola-Scandinavia School District, Wisconsin|4589|97.28%|7.38%|
 |Laneville Independent School District, Texas|1978|69.21%|7.38%|
 |Fergus Falls Public School District, Minnesota|19479|93.67%|7.38%|
-|Potter-Dix Public Schools, Nebraska|981|96.94%|7.38%|
 |Southern Door County School District, Wisconsin|7551|94.74%|7.38%|
 |Weld County School District RE-8, Colorado|15813|80.66%|7.38%|
 |Scales Mound Community Unit School District 211, Illinois|1822|97.42%|7.38%|
 |South Lake Schools, Michigan|19829|79.7%|7.38%|
 |Weston School District, Massachusetts|12103|79.56%|7.39%|
-|Elsinboro Township School District, New Jersey|931|81.42%|7.39%|
 |Millinocket, Maine|4280|97.43%|7.39%|
-|Midkota Public School District 7, North Dakota|997|99.1%|7.39%|
 |Pike Township Metropolitan School District, Indiana|78293|39.74%|7.39%|
 |Upper Sandusky Exempted Village School District, Ohio|11329|97.27%|7.39%|
 |Clayton School District, Missouri|18928|74.68%|7.4%|
 |Pettis County R-V School District, Missouri|1775|94.42%|7.4%|
 |Ballston Spa Central School District, New York|29963|94.04%|7.4%|
-|Oakesdale School District, Washington|854|93.56%|7.4%|
 |Hankinson Public School District 8, North Dakota|1830|86.99%|7.4%|
 |Arcanum-Butler Local School District, Ohio|5858|97.58%|7.4%|
 |Little Elm Independent School District, Texas|49974|69.25%|7.4%|
@@ -3447,9 +3121,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Coulee-Hartline School District, Washington|1682|93.4%|7.41%|
 |Ocean Springs School District, Mississippi|31876|84.98%|7.41%|
 |Deer/Mount Judea School District, Arkansas|2672|95.51%|7.41%|
-|Winterville Plantation Public Schools, Maine|135|100.0%|7.41%|
 |Perry Local School District (Stark County), Ohio|29858|94.16%|7.41%|
-|Santee Community Schools, Nebraska|563|4.8%|7.41%|
 |South Putnam Community Schools, Indiana|9332|88.58%|7.41%|
 |Poth Independent School District, Texas|3608|91.99%|7.41%|
 |Griswold Community School District, Iowa|3377|96.59%|7.42%|
@@ -3459,7 +3131,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Northport Public School District, Michigan|2017|94.15%|7.42%|
 |Washingtonville Central School District, New York|24514|81.61%|7.42%|
 |Union Community School District, Iowa|6336|96.89%|7.43%|
-|Craig R-III School District, Missouri|458|97.38%|7.43%|
 |West Boylston School District, Massachusetts|8008|89.8%|7.43%|
 |Seattle Public Schools, Washington|742128|65.75%|7.43%|
 |Graham Local School District, Ohio|12006|96.19%|7.43%|
@@ -3474,14 +3145,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Center 58 School District, Missouri|27154|58.32%|7.44%|
 |Fort Lee Borough School District, New Jersey|37843|49.34%|7.44%|
 |East Palestine City School District, Ohio|7842|96.86%|7.44%|
-|Georgetown, Maine|934|96.47%|7.44%|
-|Zeeland Public School District 4, North Dakota|244|99.18%|7.44%|
 |Renville County West School District, Minnesota|4082|89.74%|7.44%|
 |Maury County School District, Tennessee|94615|82.72%|7.44%|
 |South Hadley School District, Massachusetts|17715|90.0%|7.45%|
 |Delanco Township School District, New Jersey|4448|72.12%|7.45%|
 |Bullard Independent School District, Texas|14171|90.77%|7.45%|
-|Orchard Prairie School District, Washington|977|97.54%|7.45%|
 |Wickliffe City School District, Ohio|12720|89.02%|7.45%|
 |Vanlue Local School District, Ohio|1857|96.39%|7.45%|
 |Ambridge Area School District, Pennsylvania|23033|90.91%|7.45%|
@@ -3493,7 +3161,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Remainder of Illinois, Illinois|4743536|71.45%|7.47%|
 |Carroll Community School District, Iowa|13692|95.6%|7.47%|
 |Kingfisher Public Schools, Oklahoma|6767|83.32%|7.47%|
-|Chillicothe Independent School District, Texas|1141|84.49%|7.47%|
 |Shadyside Local School District, Ohio|5294|97.73%|7.47%|
 |Hamilton Heights School Corporation, Indiana|12401|96.5%|7.47%|
 |Smyrna School District, Delaware|36416|66.42%|7.48%|
@@ -3556,7 +3223,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Martinsville Independent School District, Texas|1217|84.8%|7.56%|
 |Santa Fe R-X School District, Missouri|2533|89.06%|7.56%|
 |Broken Arrow Public Schools, Oklahoma|114649|76.08%|7.56%|
-|Woodlin School District R-104, Colorado|332|95.48%|7.57%|
 |Silver Lake Unified School District 372, Kansas|2986|98.26%|7.57%|
 |Cascade School District, Washington|11613|91.23%|7.57%|
 |West Springfield School District, Massachusetts|28527|84.38%|7.57%|
@@ -3577,19 +3243,15 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Juda School District, Wisconsin|1285|99.46%|7.58%|
 |Springlake-Earth Independent School District, Texas|1605|85.36%|7.59%|
 |Potter Valley Community Unified School District, California|1985|83.63%|7.59%|
-|Burke Central Public School District 36, North Dakota|733|93.45%|7.59%|
 |Fairfield Local School District, Ohio|5686|98.0%|7.59%|
 |Cromwell-Wright Public Schools, Minnesota|1836|98.47%|7.59%|
 |West St. Paul-Mendota Heights-Eagan, Minnesota|43956|75.88%|7.59%|
-|Mason Public Schools, Oklahoma|1150|65.57%|7.6%|
-|Melrose Public Schools, New Mexico|1105|86.88%|7.6%|
 |United Local School District, Ohio|7180|97.21%|7.6%|
 |Liberty Independent School District, Texas|11932|63.09%|7.6%|
 |Warren Local School District, Ohio|14898|97.38%|7.6%|
 |Converse County School District 1, Wyoming|9607|95.68%|7.6%|
 |Ligonier Valley School District, Pennsylvania|14780|97.69%|7.6%|
 |Lincoln K-12 Schools, Montana|1175|89.7%|7.61%|
-|Lone Wolf Public Schools, Oklahoma|820|80.12%|7.61%|
 |Mukilteo School District, Washington|104486|62.82%|7.61%|
 |Brown Deer School District, Wisconsin|11987|54.86%|7.61%|
 |Farmington School District, Connecticut|25498|78.75%|7.61%|
@@ -3645,18 +3307,15 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pequea Valley School District, Pennsylvania|22769|95.57%|7.7%|
 |Tarkington Independent School District, Texas|10010|87.87%|7.7%|
 |Weatherford Independent School District, Texas|56294|89.93%|7.7%|
-|Grady Municipal Schools, New Mexico|743|87.35%|7.7%|
 |Tri-Center Community School District, Iowa|3722|97.53%|7.7%|
 |Lancaster Community School District, Wisconsin|6000|96.75%|7.7%|
 |Three Lakes School District, Wisconsin|4230|99.15%|7.7%|
-|Glenburn Public School District 26, North Dakota|972|93.52%|7.71%|
 |Union Grove Independent School District, Texas|3330|97.27%|7.72%|
 |Chatham Central School District, New York|9514|90.56%|7.72%|
 |Mechanicsburg Exempted Village School District, Ohio|4290|95.29%|7.72%|
 |Canby Public School District, Minnesota|3183|98.11%|7.72%|
 |Conestoga Valley School District, Pennsylvania|34278|83.76%|7.72%|
 |Elmwood Local School District, Ohio|6404|95.57%|7.72%|
-|Kit Carson School District R-1, Colorado|590|98.31%|7.72%|
 |Trenton, Maine|1870|91.82%|7.73%|
 |Alexandria Public School District, Minnesota|30369|96.52%|7.73%|
 |Fremont County School District 1, Wyoming|11058|90.25%|7.73%|
@@ -3700,12 +3359,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |North Kingstown School District, Rhode Island|26289|91.31%|7.78%|
 |Vernon School District, Connecticut|29300|79.05%|7.78%|
 |Morris County Unified School District 417, Kansas|4901|95.06%|7.78%|
-|Golden Plains Unified School District 316, Kansas|659|93.63%|7.78%|
 |Flinthills Unified School District 492, Kansas|1588|96.1%|7.78%|
 |Milford School District, Delaware|31514|73.66%|7.79%|
 |Canton Independent School District, Texas|13751|93.98%|7.79%|
 |West York Area School District, Pennsylvania|23402|83.45%|7.79%|
-|Medford, Maine|257|89.88%|7.79%|
 |Greenville County School District, South Carolina|533429|71.86%|7.79%|
 |Brussels Community Unit School District 42, Illinois|1307|99.85%|7.79%|
 |Niagara-Wheatfield Central School District, New York|27550|91.67%|7.79%|
@@ -3717,9 +3374,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Logan-Rogersville R-VIII School District, Missouri|15297|95.19%|7.8%|
 |Hasbrouck Heights Borough School District, New Jersey|12136|74.15%|7.8%|
 |Nixa School District, Missouri|32164|92.59%|7.8%|
-|Palisades School District, Washington|379|57.52%|7.8%|
 |Belgrade-Brooten-Elrosa Public School District, Minnesota|4459|95.02%|7.8%|
-|Comfrey Public School District, Minnesota|825|98.06%|7.8%|
 |Maple School District, Wisconsin|7870|93.86%|7.8%|
 |Grand Blanc Community Schools, Michigan|49260|79.63%|7.8%|
 |Sunray Independent School District, Texas|2483|88.16%|7.81%|
@@ -3731,7 +3386,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Fraser Public Schools, Michigan|29358|81.78%|7.81%|
 |School District Not Defined, Arizona|67775|89.02%|7.81%|
 |Tomahawk School District, Wisconsin|9662|96.18%|7.81%|
-|Goshen School District, New Hampshire|964|96.78%|7.81%|
 |Chatham County Schools, North Carolina|72853|79.1%|7.81%|
 |Rio Rancho Public Schools, New Mexico|100059|77.69%|7.82%|
 |Belvidere Consolidated Unit School District 100, Illinois|44626|84.17%|7.82%|
@@ -3747,24 +3401,19 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Derry Township School District, Pennsylvania|25181|80.32%|7.84%|
 |Corona-Norco Unified School District, California|289460|54.63%|7.85%|
 |Covington-Douglas Schools, Oklahoma|1509|95.36%|7.85%|
-|Belfry K-12 Schools, Montana|884|96.49%|7.85%|
 |Lowndes County School District, Mississippi|27180|67.59%|7.85%|
 |Columbus Independent School District, Texas|9864|82.03%|7.85%|
 |Lyndhurst Township School District, New Jersey|22453|79.79%|7.85%|
-|Robbinston, Maine|596|99.5%|7.85%|
 |Newberg School District 29J, Oregon|35416|89.78%|7.85%|
 |Midview Local School District, Ohio|23534|86.16%|7.85%|
-|Haviland Unified School District 474, Kansas|869|85.04%|7.85%|
 |Wiggins School District RE-50J, Colorado|2904|94.63%|7.86%|
 |Quincy School District, Massachusetts|94389|60.02%|7.86%|
-|Cape Flattery School District, Washington|2744|36.01%|7.86%|
 |Beech Grove City Schools, Indiana|14824|87.44%|7.86%|
 |Fall River School District, Wisconsin|2831|90.5%|7.86%|
 |Baldwin County School District, Alabama|218289|85.44%|7.86%|
 |Berlin Brothersvalley School District, Pennsylvania|5444|97.47%|7.86%|
 |Neenah School District, Wisconsin|45159|92.47%|7.86%|
 |Norwayne Local School District, Ohio|7806|96.59%|7.86%|
-|Oakwood Independent School District, Texas|1602|57.18%|7.86%|
 |Pflugerville Independent School District, Texas|162164|58.16%|7.86%|
 |Sand Creek Community Schools, Michigan|3530|97.25%|7.86%|
 |Winchendon School District, Massachusetts|10847|89.8%|7.87%|
@@ -3783,7 +3432,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |G.F.W., Minnesota|6141|90.08%|7.88%|
 |West Branch Community School District, Iowa|4400|95.45%|7.89%|
 |Annawan Community Unit School District 226, Illinois|1984|95.16%|7.89%|
-|Dorchester Public Schools, Nebraska|869|97.7%|7.89%|
 |Plattsmouth Community Schools, Nebraska|10084|92.46%|7.89%|
 |Spoon River Valley Community Unit School District 4, Illinois|2138|98.6%|7.89%|
 |Central City Community School District, Iowa|3049|98.39%|7.9%|
@@ -3791,7 +3439,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Dickinson Public School District 1, North Dakota|26093|89.13%|7.9%|
 |Reynoldsburg City School District, Ohio|39756|59.47%|7.9%|
 |Sarasota County School District, Florida|427766|89.68%|7.9%|
-|Minerva Central School District, New York|996|97.09%|7.9%|
 |Clinton Central School Corporation, Indiana|5371|96.48%|7.9%|
 |Columbus Public Schools, Nebraska|24847|88.43%|7.9%|
 |Quabbin School District, Massachusetts|16150|94.06%|7.9%|
@@ -3800,7 +3447,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lewiston-Altura Public School District, Minnesota|4570|88.93%|7.91%|
 |Anacortes School District, Washington|22191|90.51%|7.92%|
 |Steilacoom Historical School District, Washington|22828|71.74%|7.92%|
-|Ellsworth Public School District, Minnesota|951|97.58%|7.92%|
 |Pittsville School District, Wisconsin|3891|97.02%|7.92%|
 |Upper Pittsgrove Township School District, New Jersey|3362|92.83%|7.93%|
 |Beaver Local School District, Ohio|15633|90.4%|7.93%|
@@ -3808,7 +3454,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Norwalk School District, Connecticut|88755|69.01%|7.93%|
 |Orange County Public Schools, Virginia|36501|79.86%|7.93%|
 |Akron-Westfield Community School District, Iowa|2802|98.54%|7.94%|
-|Brooklin, Maine|677|96.31%|7.94%|
 |Grafton Public School District 3, North Dakota|4957|89.41%|7.94%|
 |Lake of the Woods School District, Minnesota|3464|91.4%|7.94%|
 |South Delta School District, Mississippi|5584|27.54%|7.95%|
@@ -3821,7 +3466,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Ojai Unified School District, California|22070|87.29%|7.96%|
 |Greece Central School District, New York|82847|82.89%|7.96%|
 |Aberdeen School District 06-1, South Dakota|32961|86.73%|7.96%|
-|Doland School District 56-2, South Dakota|870|97.01%|7.96%|
 |Eastland Community Unit School District 308, Illinois|3603|98.08%|7.96%|
 |Gibraltar Area School District, Wisconsin|5719|98.64%|7.96%|
 |Jonathan Alder Local School District, Ohio|11420|94.59%|7.96%|
@@ -3834,7 +3478,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lexington School District 1, South Carolina|144161|83.04%|7.97%|
 |Marana Unified District, Arizona|100104|80.46%|7.97%|
 |Mill River Unified School District, Vermont|6632|97.6%|7.97%|
-|Freedom Public Schools, Oklahoma|673|97.62%|7.98%|
 |Atlanta City School District, Georgia|490866|40.28%|7.98%|
 |Regional School Unit 22, Maine|14190|97.32%|7.98%|
 |Illini Bluffs Community Unit School District 327, Illinois|5567|98.11%|7.98%|
@@ -3847,13 +3490,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Derby Unified School District 260, Kansas|37269|81.02%|7.99%|
 |Louisville City School District, Ohio|18362|97.38%|7.99%|
 |Ripon Area School District, Wisconsin|10472|97.85%|7.99%|
-|Wheatland Unified School District 292, Kansas|799|96.5%|7.99%|
 |Acton-Agua Dulce Unified School District, California|12249|80.61%|7.99%|
 |Allamakee Community School District, Iowa|8222|96.96%|8.0%|
 |South Country Central School District, New York|27144|77.04%|8.0%|
 |Benton School District, Arkansas|32557|90.0%|8.0%|
 |Notus School District 135, Idaho|2795|53.49%|8.0%|
-|Waite, Maine|50|100.0%|8.0%|
 |Port Chester-Rye Union Free School District, New York|32172|56.44%|8.0%|
 |Bellwood-Antis School District, Pennsylvania|7725|96.39%|8.0%|
 |Liberty Public Schools, Oklahoma|3458|82.97%|8.01%|
@@ -3862,9 +3503,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Crab Orchard Community Unit School District 3, Illinois|2646|96.67%|8.01%|
 |May Independent School District, Texas|1952|99.13%|8.01%|
 |Lake Local School District (Ottawa and Wood Counties), Ohio|11620|92.38%|8.01%|
-|Rankin Independent School District, Texas|1218|62.64%|8.01%|
 |Prairie Valley Community School District, Iowa|3683|94.35%|8.02%|
-|Gracemont Public Schools, Oklahoma|857|74.21%|8.02%|
 |Dorchester School District 2, South Carolina|143551|68.34%|8.02%|
 |Waverly-Shell Rock Community School District, Iowa|14055|93.3%|8.02%|
 |Goshen Local School District, Ohio|16648|95.59%|8.02%|
@@ -3887,7 +3526,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Ludlow School District, Massachusetts|21223|92.51%|8.05%|
 |Colcord Public Schools, Oklahoma|2772|55.23%|8.05%|
 |Lewis Central Community School District, Iowa|16504|94.1%|8.05%|
-|San Simon Unified District, Arizona|659|98.03%|8.05%|
 |Gobles Public School District, Michigan|5772|95.01%|8.05%|
 |Big Spring School District, Pennsylvania|20420|97.01%|8.05%|
 |Battenkill Valley Supervisory Union, Vermont|3008|91.32%|8.05%|
@@ -3905,9 +3543,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Newell-Fonda Community School District, Iowa|2395|94.07%|8.07%|
 |Panorama Community School District, Iowa|4422|97.29%|8.08%|
 |Drexel R-IV School District, Missouri|1787|96.31%|8.08%|
-|Mill Creek Public Schools, Oklahoma|866|68.94%|8.08%|
 |Armour School District 21-1, South Dakota|1103|91.12%|8.08%|
-|Dupree School District 64-2, South Dakota|1862|26.58%|8.08%|
 |Beloit Turner School District, Wisconsin|8565|80.81%|8.08%|
 |Shawano School District, Wisconsin|17107|84.53%|8.08%|
 |Old Forge School District, Pennsylvania|7909|91.23%|8.09%|
@@ -3935,11 +3571,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Seminole County School District, Florida|466695|72.7%|8.11%|
 |Perry Central Community School Corporation, Indiana|7270|92.92%|8.11%|
 |Augusta Unified School District 402, Kansas|12530|94.68%|8.11%|
-|Murchison Independent School District, Texas|489|85.69%|8.11%|
 |Everett School District, Washington|148754|70.06%|8.12%|
 |Hinds County School District, Mississippi|48879|37.75%|8.12%|
-|East Newark Borough School District, New Jersey|2634|35.99%|8.12%|
-|Hi-Nella Borough School District, New Jersey|1018|65.32%|8.12%|
 |Fairfield City School District, Ohio|66644|75.4%|8.12%|
 |Buckeye Central Local School District, Ohio|4874|97.72%|8.12%|
 |Gillett School District, Wisconsin|3547|93.83%|8.12%|
@@ -3959,7 +3592,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Burlington-Edison School District, Washington|23733|79.52%|8.15%|
 |Hooker Public Schools, Oklahoma|2152|72.58%|8.15%|
 |South Williamsport Area School District, Pennsylvania|9078|92.48%|8.15%|
-|Devers Independent School District, Texas|831|81.23%|8.15%|
 |West Central Community Unit School District 235, Illinois|5884|97.21%|8.15%|
 |Bremen Public Schools, Indiana|8710|94.81%|8.15%|
 |Medford Area School District, Wisconsin|13403|97.58%|8.15%|
@@ -3997,7 +3629,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Park County School District 1, Wyoming|12320|92.89%|8.19%|
 |BCLUW Community School District, Iowa|3390|94.63%|8.2%|
 |Sanger Independent School District, Texas|16261|88.4%|8.2%|
-|Nashua K-12 Schools, Montana|1000|86.6%|8.2%|
 |Covington Independent School District, Texas|1610|94.66%|8.2%|
 |Armorel School District, Arkansas|2026|94.52%|8.2%|
 |Holt Public Schools, Michigan|31390|79.2%|8.2%|
@@ -4024,7 +3655,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Berkshire Hills School District, Massachusetts|9939|88.92%|8.23%|
 |McGuffey School District, Pennsylvania|12403|96.61%|8.23%|
 |Sioux Central Community School District, Iowa|2824|92.28%|8.24%|
-|Hobson K-12 Schools, Montana|668|90.87%|8.24%|
 |Maysville R-I School District, Missouri|3936|98.4%|8.24%|
 |Harvey Public School District 38, North Dakota|2672|98.99%|8.24%|
 |Regional School Unit 18, Maine|19165|97.13%|8.24%|
@@ -4043,7 +3673,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Hay Springs Public Schools, Nebraska|1225|93.47%|8.25%|
 |Haven Public Schools Unified School District 312, Kansas|6110|95.48%|8.25%|
 |Fort Knox Dependent Schools, Kentucky|9974|66.44%|8.26%|
-|Glenwood School District, Washington|613|78.96%|8.26%|
 |Macon County R-I School District, Missouri|8467|91.22%|8.26%|
 |Hillside Township School District, New Jersey|21955|25.47%|8.26%|
 |Spartanburg School District 5, South Carolina|48801|76.06%|8.26%|
@@ -4067,17 +3696,14 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Western Wayne School District, Pennsylvania|18636|88.04%|8.29%|
 |Charleston County School District, South Carolina|407543|67.78%|8.29%|
 |Cottonwood Joint School District 242, Idaho|2829|94.24%|8.29%|
-|Harrold Independent School District, Texas|183|98.91%|8.29%|
 |Logan View Public Schools, Nebraska|2701|89.49%|8.29%|
 |Tolar Independent School District, Texas|3063|97.09%|8.3%|
-|Jordan Valley School District 3, Oregon|459|99.78%|8.3%|
 |North Clackamas School District 12, Oregon|129724|81.65%|8.3%|
 |Lawrence Township Metropolitan School District, Indiana|102381|64.43%|8.3%|
 |Chartiers-Houston School District, Pennsylvania|9308|97.06%|8.3%|
 |Greater Latrobe School District, Pennsylvania|30048|96.14%|8.3%|
 |Downsville Central School District, New York|1804|95.01%|8.31%|
 |Sibley East School District, Minnesota|7471|92.1%|8.31%|
-|Paint Creek Independent School District, Texas|389|93.83%|8.31%|
 |Nickerson Unified School District 309, Kansas|7647|92.73%|8.31%|
 |Kettering City School District, Ohio|55700|88.69%|8.32%|
 |Union Area School District, Pennsylvania|5150|92.45%|8.32%|
@@ -4087,7 +3713,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Centerville-Abington Community Schools, Indiana|8133|93.64%|8.32%|
 |Mobridge-Pollock School District 62-6, South Dakota|4364|76.72%|8.32%|
 |Neillsville School District, Wisconsin|6198|97.08%|8.32%|
-|Niobrara Public Schools, Nebraska|725|71.31%|8.32%|
 |Randolph School District, Wisconsin|3003|95.57%|8.32%|
 |Roaring Fork School District RE-1, Colorado|39904|86.51%|8.32%|
 |Oakland Unified School District, California|421567|34.29%|8.33%|
@@ -4095,8 +3720,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Winthrop School District, Massachusetts|18558|88.91%|8.33%|
 |Little Ferry Borough School District, New Jersey|10761|58.76%|8.33%|
 |Florence School District 5, South Carolina|5391|59.88%|8.33%|
-|School Administrative District 65, Maine|72|100.0%|8.33%|
-|St. Thomas Public School District 43, North Dakota|517|88.97%|8.33%|
 |Andes Central School District 11-1, South Dakota|2371|44.12%|8.33%|
 |Dodgeland School District, Wisconsin|5781|94.85%|8.33%|
 |Delta/Greely School District, Alaska|4383|85.63%|8.33%|
@@ -4111,7 +3734,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Chichester School District, Pennsylvania|24629|81.43%|8.34%|
 |Valparaiso Community Schools, Indiana|45439|89.62%|8.34%|
 |Overton Independent School District, Texas|4015|83.69%|8.34%|
-|Primero Reorganized School District 2, Colorado|1022|80.43%|8.35%|
 |Riverside Community School District, Iowa|3894|92.37%|8.35%|
 |Crossett School District, Arkansas|11259|72.76%|8.35%|
 |Athena-Weston School District 29J, Oregon|2683|89.6%|8.35%|
@@ -4119,11 +3741,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Bagdad Unified School District, Arizona|2466|86.01%|8.35%|
 |Concord Community Schools, Indiana|26672|84.92%|8.35%|
 |Dakota Community Unit School District 201, Illinois|4728|96.87%|8.35%|
-|Arickaree School District R-2, Colorado|527|97.72%|8.35%|
 |Southeast Fountain School Corporation, Indiana|6903|97.73%|8.35%|
 |Zumbrota-Mazeppa School District, Minnesota|7465|98.08%|8.35%|
 |Okay Public Schools, Oklahoma|2384|55.7%|8.36%|
-|Elida Municipal Schools, New Mexico|370|90.54%|8.36%|
 |St. John School District, Washington|1118|95.17%|8.36%|
 |Forest City Regional School District, Pennsylvania|5288|94.72%|8.36%|
 |Dolores School District RE-4A, Colorado|3817|89.28%|8.36%|
@@ -4172,7 +3792,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |South Glens Falls Central School District, New York|20796|96.34%|8.42%|
 |Morrison Community Unit School District 6, Illinois|6487|96.58%|8.42%|
 |Beebe School District, Arkansas|18578|93.7%|8.43%|
-|Crescent Iroquois Community Unit School District 249, Illinois|945|99.15%|8.43%|
 |La Porte Independent School District, Texas|43511|76.66%|8.43%|
 |Montezuma Unified School District 371, Kansas|1576|99.75%|8.43%|
 |Victoria Unified School District 432, Kansas|1723|96.98%|8.44%|
@@ -4203,7 +3822,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |AHSTW Community School District, Iowa|4350|98.92%|8.46%|
 |Bangs Independent School District, Texas|6482|90.54%|8.46%|
 |East Valley School District (Yakima), Washington|17755|79.67%|8.46%|
-|Paisley School District 11, Oregon|696|98.28%|8.46%|
 |Bristol School District, Connecticut|60039|81.28%|8.46%|
 |Rossville-Alvin Community Unit School District 7, Illinois|2233|98.12%|8.46%|
 |Schuylkill Haven Area School District, Pennsylvania|8312|98.0%|8.47%|
@@ -4232,7 +3850,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Paxton Consolidated Schools, Nebraska|1129|95.66%|8.49%|
 |Putnam County Community Unit School District 535, Illinois|5101|96.55%|8.49%|
 |Eatonville School District, Washington|12598|87.65%|8.5%|
-|Crowell Independent School District, Texas|1223|80.38%|8.5%|
 |Vidalia City School District, Georgia|10380|51.79%|8.5%|
 |Florence School District 4, South Carolina|6886|37.05%|8.5%|
 |Prince George's County Public Schools, Maryland|910551|16.09%|8.5%|
@@ -4248,7 +3865,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Daniel Boone Area School District, Pennsylvania|21899|88.05%|8.51%|
 |Lebanon School District, New Hampshire|13718|89.07%|8.51%|
 |Byng Public Schools, Oklahoma|8644|71.99%|8.51%|
-|Faith School District 46-2, South Dakota|690|96.96%|8.52%|
 |Pierz Public School District, Minnesota|5412|96.91%|8.52%|
 |Richmond Community Schools, Michigan|13219|91.04%|8.52%|
 |Mid-Buchanan County R-V School District, Missouri|4269|93.18%|8.53%|
@@ -4269,7 +3885,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Eastern Sierra Unified School District, California|4087|77.0%|8.55%|
 |Imperial Unified School District, California|23277|61.48%|8.55%|
 |Green Ridge R-VIII School District, Missouri|2297|97.52%|8.55%|
-|Turkey-Quitaque Independent School District, Texas|816|82.84%|8.55%|
 |Pomeroy School District, Washington|2214|89.84%|8.55%|
 |Surry, Maine|1785|99.16%|8.55%|
 |School Administrative District 57, Maine|22829|97.77%|8.55%|
@@ -4277,7 +3892,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Iowa Park Consolidated Independent School District, Texas|13777|83.47%|8.55%|
 |Greenwood Community School Corporation, Indiana|24260|90.42%|8.55%|
 |Greater Rutland County Supervisory Union, Vermont|13344|97.53%|8.55%|
-|Nordheim Independent School District, Texas|887|91.09%|8.55%|
 |Gloucester School District, Massachusetts|30291|93.09%|8.55%|
 |Boquet Valley Central School District at Elizabethtown-Lewis-Westport, New York|3469|92.53%|8.56%|
 |Shanksville-Stonycreek School District, Pennsylvania|2671|98.8%|8.56%|
@@ -4290,14 +3904,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Townsend K-12 Schools, Montana|5444|96.86%|8.57%|
 |Hazelwood School District, Missouri|117160|35.0%|8.57%|
 |Pike County School District, Georgia|18565|88.06%|8.57%|
-|Helix School District 1, Oregon|648|81.33%|8.57%|
 |Bushnell-Prairie City Community Unit School District 170, Illinois|4225|95.38%|8.57%|
 |Garden County Schools, Nebraska|1895|97.63%|8.57%|
 |Haysville Unified School District 261, Kansas|23745|86.88%|8.57%|
 |Fremont County School District 6, Wyoming|2524|72.15%|8.57%|
 |Mohawk Area School District, Pennsylvania|10349|98.55%|8.58%|
 |Fairview Park City School District, Ohio|15869|92.03%|8.58%|
-|Darrouzett Independent School District, Texas|459|94.77%|8.58%|
 |Forestville Central School District, New York|3751|95.73%|8.58%|
 |Veazie, Maine|1900|89.0%|8.58%|
 |East Haven School District, Connecticut|28645|77.1%|8.58%|
@@ -4310,7 +3922,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Ada-Borup Public School District, Minnesota|2670|94.08%|8.59%|
 |Eastbrook Community School Corporation, Indiana|10358|94.94%|8.59%|
 |Caledonia Central Supervisory Union, Vermont|11360|94.78%|8.59%|
-|Washakie County School District 2, Wyoming|776|98.97%|8.59%|
 |Bennett County School District 03-1, South Dakota|3430|37.49%|8.6%|
 |Brandywine Community Schools, Michigan|8527|91.02%|8.6%|
 |Nicollet Public School District, Minnesota|2344|97.91%|8.6%|
@@ -4361,24 +3972,19 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Angleton Independent School District, Texas|42494|74.01%|8.67%|
 |Jones Public Schools, Oklahoma|6427|84.13%|8.67%|
 |Candor Central School District, New York|5417|94.15%|8.67%|
-|Cranfills Gap Independent School District, Texas|730|88.63%|8.67%|
 |Tatum Municipal Schools, New Mexico|1396|88.54%|8.67%|
 |Vandalia-Butler City School District, Ohio|23964|85.32%|8.67%|
 |Ector Independent School District, Texas|1775|87.27%|8.67%|
 |Vallivue School District 139, Idaho|51127|80.99%|8.67%|
 |Gonzales Independent School District, Texas|14018|69.22%|8.67%|
-|Grenora Public School District 99, North Dakota|624|96.15%|8.67%|
 |Baraboo School District, Wisconsin|20742|92.82%|8.67%|
 |Park River Area Public School District 8, North Dakota|2427|96.09%|8.67%|
 |Bruning-Davenport Unified School System, Nebraska|1540|94.42%|8.67%|
 |Lakewood Public Schools, Michigan|13491|94.75%|8.67%|
 |Jordan Public School District, Minnesota|9850|92.91%|8.67%|
 |Warrensburg Central School District, New York|5439|97.94%|8.67%|
-|Mount Pleasant School District, Washington|432|93.29%|8.68%|
-|Woodson Independent School District, Texas|558|90.86%|8.68%|
 |Frankfort-Schuyler Central School District, New York|7471|93.28%|8.68%|
 |Glen Cove City School District, New York|27172|65.97%|8.68%|
-|Medina Public School District 3, North Dakota|736|97.28%|8.68%|
 |Paradise Valley Unified District, Arizona|271126|81.2%|8.68%|
 |Port Byron Central School District, New York|6320|96.04%|8.68%|
 |Gridley Unified School District, California|11158|73.98%|8.68%|
@@ -4397,7 +4003,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Albert Lea Public School District, Minnesota|23211|87.36%|8.7%|
 |Goodman-Armstrong School District, Wisconsin|1100|94.0%|8.7%|
 |Tipton Community School Corporation, Indiana|10147|95.66%|8.7%|
-|Olfen Independent School District, Texas|108|85.19%|8.7%|
 |Macks Creek R-V School District, Missouri|2557|92.45%|8.71%|
 |Southeastern Local School District (Clark and Greene Counties), Ohio|4543|94.12%|8.71%|
 |Italy Independent School District, Texas|3774|73.95%|8.71%|
@@ -4496,19 +4101,16 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Ord Public Schools, Nebraska|3229|98.2%|8.82%|
 |Prairie Heights Community School Corporation, Indiana|9707|96.68%|8.82%|
 |Clyde-Green Springs Exempted Village School District, Ohio|12645|92.94%|8.82%|
-|Austwell-Tivoli Independent School District, Texas|896|94.75%|8.83%|
 |Dumas Independent School District, Texas|18803|73.81%|8.83%|
 |Wapello Community School District, Iowa|3297|93.57%|8.83%|
 |Hammondsport Central School District, New York|3874|97.21%|8.83%|
 |Willard R-II School District, Missouri|24976|93.13%|8.83%|
 |Shenandoah School Corporation, Indiana|7148|98.07%|8.83%|
 |Springfield Local School District (Portage and Summit Counties), Ohio|18742|95.39%|8.83%|
-|Hinsdale County School District RE-1, Colorado|763|92.01%|8.83%|
 |Franklin County Schools, North Carolina|68027|66.71%|8.83%|
 |Lackawanna Trail School District, Pennsylvania|8151|93.4%|8.83%|
 |Shallowater Independent School District, Texas|5783|86.89%|8.84%|
 |Birdville Independent School District, Texas|140817|72.11%|8.84%|
-|Lookeba-Sickles Public Schools, Oklahoma|820|75.85%|8.84%|
 |Farwell Independent School District, Texas|2258|93.27%|8.84%|
 |Rapid City School District 51-4, South Dakota|101647|82.21%|8.84%|
 |Rawlins County Unified School District 105, Kansas|2067|93.23%|8.84%|
@@ -4516,9 +4118,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Healdsburg Unified School District, California|15245|83.05%|8.84%|
 |Hoosac Valley School District, Massachusetts|11222|94.99%|8.84%|
 |Alvin Independent School District, Texas|122229|60.06%|8.85%|
-|Grandfield Public Schools, Oklahoma|1197|63.24%|8.85%|
 |Garrison Independent School District, Texas|3453|67.01%|8.85%|
-|Fairmount Public School District 18, North Dakota|466|97.64%|8.85%|
 |Brookings-Harbor School District 17, Oregon|13813|88.01%|8.85%|
 |Martin County School District, Florida|160420|86.85%|8.85%|
 |Chase County Schools, Nebraska|2894|92.16%|8.85%|
@@ -4564,12 +4164,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Galway Central School District, New York|6710|96.77%|8.9%|
 |Tri-City United School District, Minnesota|12535|95.12%|8.9%|
 |Dieterich Community Unit School District 30, Illinois|2599|97.31%|8.9%|
-|Prinsburg Public School District, Minnesota|827|96.61%|8.9%|
 |Dunmore School District, Pennsylvania|13008|89.98%|8.9%|
-|Bainville K-12 Schools, Montana|381|91.34%|8.91%|
 |Grandview C-4 School District, Missouri|32118|62.04%|8.91%|
 |Pioneer-Pleasant Vale Schools, Oklahoma|2428|90.16%|8.91%|
-|Arlington School District 3, Oregon|789|83.9%|8.91%|
 |Jefferson County School District, West Virginia|56922|86.12%|8.91%|
 |Wolsey-Wessington School District 02-6, South Dakota|1593|98.68%|8.91%|
 |Carrollton Community Unit School District 1, Illinois|4094|97.44%|8.91%|
@@ -4606,14 +4203,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Waverly Community Schools, Michigan|20737|69.37%|8.95%|
 |Octorara Area School District, Pennsylvania|18519|89.55%|8.95%|
 |Canyon Independent School District, Texas|64080|90.36%|8.95%|
-|Wagon Mound Public Schools, New Mexico|794|58.82%|8.95%|
 |Freeport Union Free School District, New York|39890|43.8%|8.95%|
 |West Valley School District (Spokane), Washington|21320|91.17%|8.95%|
 |Northland Pines School District, Wisconsin|11190|93.14%|8.95%|
 |Martinsville Schools Metropolitan School District, Indiana|30082|95.56%|8.95%|
 |Paradise Independent School District, Texas|5980|94.36%|8.95%|
 |Goshen County School District 1, Wyoming|13239|91.49%|8.95%|
-|Hammon Public Schools, Oklahoma|1127|62.38%|8.96%|
 |Plummer-Worley Joint School District 44, Idaho|4263|59.89%|8.96%|
 |Groton Central School District, New York|5417|90.05%|8.96%|
 |Melba Joint School District 136, Idaho|3585|82.87%|8.96%|
@@ -4660,7 +4255,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Penncrest School District, Pennsylvania|23936|94.72%|9.02%|
 |Ventura Unified School District, California|120461|81.35%|9.02%|
 |Stewart County School District, Georgia|6446|23.49%|9.02%|
-|Eightmile Public School District 6, North Dakota|470|56.6%|9.02%|
 |Woodlawn Unit District 209, Illinois|2151|96.56%|9.02%|
 |Plymouth-Shiloh Local School District, Ohio|4390|97.2%|9.02%|
 |Pine City Public School District, Minnesota|10967|96.06%|9.02%|
@@ -4702,16 +4296,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Tri-Valley School District, Pennsylvania|6419|98.85%|9.06%|
 |Acton, Maine|2604|100.0%|9.06%|
 |Raytown C-2 School District, Missouri|59460|53.41%|9.06%|
-|Window Rock Unified District, Arizona|12517|2.58%|9.06%|
 |Palestine Independent School District, Texas|19928|65.32%|9.06%|
 |Pershing County School District, Nevada|6591|74.75%|9.06%|
 |Burke County School District, Georgia|22567|49.36%|9.07%|
 |South Platte Public Schools, Nebraska|1233|92.94%|9.07%|
-|Loop Independent School District, Texas|526|85.93%|9.07%|
-|Aleutians East Borough School District, Alaska|3389|14.75%|9.07%|
 |Comanche County Unified School District 300, Kansas|1759|96.59%|9.07%|
 |Pretty Prairie Unified School District 311, Kansas|1705|93.31%|9.07%|
-|Battiest Public Schools, Oklahoma|1510|58.41%|9.07%|
 |Highland County Public Schools, Virginia|2202|95.91%|9.07%|
 |Oologah-Talala Public Schools, Oklahoma|10507|74.01%|9.08%|
 |Kearny Town School District, New Jersey|41190|58.6%|9.08%|
@@ -4724,7 +4314,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |William Floyd Union Free School District, New York|51097|83.06%|9.09%|
 |Edgerton School District, Wisconsin|11883|91.36%|9.09%|
 |Lindale Independent School District, Texas|22866|91.2%|9.09%|
-|Raquette Lake Union Free School District, New York|44|100.0%|9.09%|
 |Reedsburg School District, Wisconsin|17279|93.32%|9.09%|
 |Durango School District 9-R, Colorado|42368|86.81%|9.09%|
 |Meridian Public School District, Mississippi|37252|33.07%|9.1%|
@@ -4738,10 +4327,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Decatur City School District, Alabama|54344|66.47%|9.1%|
 |Reed Custer Community Unit School District 255U, Illinois|9916|96.02%|9.1%|
 |Hermitage School District, Pennsylvania|15603|91.1%|9.1%|
-|Medicine Lake K-12 Schools, Montana|663|90.2%|9.11%|
 |Dubuque Community School District, Iowa|78759|90.92%|9.11%|
 |Yough School District, Pennsylvania|15408|96.79%|9.11%|
-|West Tallahatchie School, Mississippi|6141|15.19%|9.11%|
 |Vista Unified School District, California|155541|74.39%|9.11%|
 |Sidney Community School District, Iowa|2103|95.91%|9.11%|
 |Guy-Perkins Schools, Arkansas|1871|85.03%|9.11%|
@@ -4749,7 +4336,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Enterprise City School District, Alabama|28170|68.89%|9.11%|
 |Central Cambria School District, Pennsylvania|12917|97.32%|9.11%|
 |Westfield School District, Wisconsin|9030|96.54%|9.11%|
-|Baker Valley Unified School District, California|646|64.86%|9.11%|
 |Sheridan County School District 2, Wyoming|24947|93.88%|9.11%|
 |Rice Consolidated Independent School District, Texas|7016|54.13%|9.11%|
 |Sulphur Springs Independent School District, Texas|23975|82.28%|9.12%|
@@ -4776,7 +4362,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Waterville Central School District, New York|5730|96.58%|9.13%|
 |Widefield School District 3, Colorado|59974|73.03%|9.14%|
 |Sudan Independent School District, Texas|1728|88.66%|9.14%|
-|School Administrative District 08, Maine|932|99.79%|9.14%|
 |Deer River Public School District, Minnesota|5356|79.82%|9.14%|
 |Mississinewa Community School Corporation, Indiana|10240|95.03%|9.14%|
 |Brentwood Borough School District, Pennsylvania|9319|86.61%|9.14%|
@@ -4787,7 +4372,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Sierra-Plumas Joint Unified School District, California|3487|89.76%|9.15%|
 |Fessenden-Bowdon Public School District 25, North Dakota|1383|97.98%|9.15%|
 |Charlotte Public Schools, Michigan|18840|94.56%|9.15%|
-|Waubay School District 18-3, South Dakota|1118|57.69%|9.15%|
 |Greencastle Community School Corporation, Indiana|14336|89.77%|9.15%|
 |LaCrosse Unified School District 395, Kansas|2189|92.37%|9.15%|
 |Abernathy Independent School District, Texas|3811|91.63%|9.15%|
@@ -4795,7 +4379,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Davis County Community School District, Iowa|8751|97.44%|9.16%|
 |Lesterville R-IV School District, Missouri|1076|94.89%|9.16%|
 |Westmont Hilltop School District, Pennsylvania|11980|96.54%|9.16%|
-|School Administrative District 12, Maine|975|92.21%|9.16%|
 |Athens School District, Wisconsin|3632|98.07%|9.16%|
 |Gregory-Portland Independent School District, Texas|20416|88.33%|9.16%|
 |Osakis Public School District, Minnesota|4028|98.54%|9.16%|
@@ -4809,7 +4392,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Boone-Apache Public Schools, Oklahoma|2679|59.05%|9.17%|
 |Pekin Community School District, Iowa|4011|98.8%|9.18%|
 |Mesa Vista Consolidated Schools, New Mexico|1717|60.92%|9.18%|
-|Anamoose Public School District 14, North Dakota|773|100.0%|9.18%|
 |Greeneview Local School District, Ohio|8427|98.14%|9.18%|
 |Spearfish School District 40-2, South Dakota|17027|93.52%|9.18%|
 |Santa Rosa County School District, Florida|179587|84.6%|9.18%|
@@ -4847,7 +4429,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Greenway Public School District, Minnesota|8561|93.83%|9.22%|
 |Merrill Area School District, Wisconsin|20205|96.63%|9.22%|
 |Schoharie Central School District, New York|6778|93.52%|9.22%|
-|Chugach School District, Alaska|382|36.91%|9.22%|
 |Lisbon Regional School District, New Hampshire|2206|96.65%|9.22%|
 |Richardson Independent School District, Texas|248517|56.79%|9.22%|
 |Remainder of Georgia, Georgia|17959|69.5%|9.23%|
@@ -4886,9 +4467,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Smithville Independent School District, Texas|10639|80.97%|9.28%|
 |Dansville Central School District, New York|9696|94.63%|9.28%|
 |Tri-County Community School District, Iowa|1847|97.46%|9.28%|
-|Edmunds Central School District 22-5, South Dakota|965|97.2%|9.28%|
 |Hillsboro Independent School District, Texas|10462|69.92%|9.28%|
-|Airline Community School District, Maine|523|88.91%|9.29%|
 |Pond Creek-Hunter Schools, Oklahoma|1549|88.25%|9.29%|
 |Regional School Unit 10, Maine|13448|96.09%|9.29%|
 |Storey County School District, Nevada|4086|83.75%|9.29%|
@@ -4899,7 +4478,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Caldwell Independent School District, Texas|10136|81.38%|9.3%|
 |Biddeford, Maine|21502|90.5%|9.3%|
 |La Fargeville Central School District, New York|2973|93.74%|9.3%|
-|Sanders Unified District, Arizona|5675|3.79%|9.3%|
 |Shoals Community School Corporation, Indiana|4241|97.19%|9.3%|
 |Grove City Area School District, Pennsylvania|16835|95.18%|9.3%|
 |Mason City Community School District, Iowa|27904|92.21%|9.31%|
@@ -4928,7 +4506,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Odessa School District, Washington|1646|89.25%|9.34%|
 |Oglethorpe County School District, Georgia|15040|79.44%|9.34%|
 |Ennis Independent School District, Texas|29071|76.53%|9.34%|
-|Hamilton Unified School District 390, Kansas|635|92.76%|9.34%|
 |Southington Local School District, Ohio|3530|95.81%|9.34%|
 |Kiowa School District C-2, Colorado|2618|89.84%|9.34%|
 |Norristown Area School District, Pennsylvania|64043|58.28%|9.35%|
@@ -4955,26 +4532,19 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Clever R-V School District, Missouri|7763|98.11%|9.38%|
 |Lake Tahoe Unified School District, California|30369|83.8%|9.38%|
 |Coon Rapids-Bayard Community School District, Iowa|2428|95.43%|9.38%|
-|Animas Public Schools, New Mexico|983|87.08%|9.38%|
 |West Mifflin Area School District, Pennsylvania|20954|85.03%|9.38%|
-|Starbuck School District, Washington|189|67.72%|9.38%|
 |Edgewood Independent School District (Van Zandt County), Texas|5923|90.66%|9.38%|
-|Southport, Maine|487|98.56%|9.38%|
 |Gresham School District, Wisconsin|2026|74.09%|9.38%|
 |Sebago Public Schools, Maine|1830|97.6%|9.38%|
 |Robertson County School District, Tennessee|70982|86.02%|9.38%|
 |Warsaw Community Unit School District 316, Illinois|2322|98.66%|9.38%|
 |Mount Vernon Community School District, Iowa|6738|95.65%|9.39%|
 |Schleswig Community School District, Iowa|1553|90.53%|9.39%|
-|Maxwell Municipal Schools, New Mexico|560|87.5%|9.39%|
-|Pinehurst School District 94, Oregon|204|98.53%|9.39%|
 |Sutherlin School District 130, Oregon|9994|96.14%|9.39%|
 |Mooresville Consolidated School Corporation, Indiana|24789|97.7%|9.39%|
 |Banquete Independent School District, Texas|4600|82.57%|9.4%|
-|Mill A School District, Washington|498|89.76%|9.4%|
 |North Olmsted City School District, Ohio|31405|89.67%|9.4%|
 |Berkeley County School District, West Virginia|117615|85.98%|9.4%|
-|Loup County Public Schools, Nebraska|710|91.41%|9.4%|
 |Lake Elsinore Unified School District, California|131476|57.62%|9.4%|
 |Bluestem Unified School District 205, Kansas|3415|98.51%|9.4%|
 |S and S Consolidated Independent School District, Texas|5656|91.58%|9.4%|
@@ -5002,8 +4572,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Huntsville City School District, Alabama|199845|59.74%|9.44%|
 |Lander County School District, Nevada|5565|91.63%|9.44%|
 |Alexander County Schools, North Carolina|37271|87.66%|9.44%|
-|Bucklin R-II School District, Missouri|810|96.67%|9.45%|
-|Grandfalls-Royalty Independent School District, Texas|654|80.89%|9.45%|
 |Judson Independent School District, Texas|129744|56.92%|9.45%|
 |Magnolia Independent School District, Texas|70578|81.08%|9.45%|
 |Karns City Area School District, Pennsylvania|9901|95.3%|9.45%|
@@ -5013,7 +4581,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Cascade School District 5, Oregon|15531|89.24%|9.46%|
 |Bensalem Township School District, Pennsylvania|60490|69.56%|9.46%|
 |Montgomery County School District, Alabama|214578|33.12%|9.46%|
-|Dahlgren Department of Defense School District, Virginia|696|68.82%|9.46%|
 |Amelia County Public Schools, Virginia|12970|75.47%|9.46%|
 |Meadows Valley School District 11, Idaho|1194|96.4%|9.47%|
 |Happy Independent School District, Texas|1087|96.14%|9.47%|
@@ -5050,9 +4617,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Elgin-New Leipzig Public School District 49, North Dakota|1399|95.14%|9.52%|
 |Gervais School District 1, Oregon|7018|71.87%|9.52%|
 |Greenwood School District, Arkansas|20998|92.76%|9.52%|
-|Pleasant Valley Elementary School District 364, Idaho|63|100.0%|9.52%|
 |Callaway Public Schools, Nebraska|1178|92.61%|9.52%|
-|Stuart Public Schools, Nebraska|786|99.49%|9.52%|
 |Monroe Central School Corporation, Indiana|5360|94.63%|9.52%|
 |Westby Area School District, Wisconsin|8096|98.05%|9.52%|
 |White Lake School District, Wisconsin|1327|94.35%|9.52%|
@@ -5080,7 +4645,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Garland Independent School District, Texas|303026|59.14%|9.55%|
 |Middletown Area School District, Pennsylvania|19533|81.39%|9.55%|
 |North East School District, Pennsylvania|10295|93.49%|9.56%|
-|Pittsburg Public Schools, Oklahoma|548|53.83%|9.56%|
 |Pe Ell School District, Washington|1783|91.48%|9.56%|
 |Pennsauken Township School District, New Jersey|35704|42.92%|9.56%|
 |Spartanburg School District 4, South Carolina|20369|80.46%|9.56%|
@@ -5095,7 +4659,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Napoleon Area City School District, Ohio|13815|91.28%|9.58%|
 |Woodland Joint Unified School District, California|65411|71.45%|9.58%|
 |Millville City School District, New Jersey|27485|77.26%|9.58%|
-|Taloga Public Schools, Oklahoma|893|92.95%|9.58%|
 |Southwestern Wisconsin School District, Wisconsin|4053|99.24%|9.58%|
 |Racine School District, Wisconsin|138221|73.13%|9.58%|
 |Blair Public Schools, Oklahoma|2127|75.22%|9.58%|
@@ -5103,14 +4666,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Mount Healthy City School District, Ohio|25090|41.93%|9.59%|
 |Wells-Ogunquit Community School District, Maine|11640|94.79%|9.59%|
 |New York Mills Public School District, Minnesota|3515|98.18%|9.59%|
-|Thedford Public Schools, Nebraska|537|99.07%|9.59%|
 |East Allegheny School District, Pennsylvania|14229|77.05%|9.59%|
 |Huntley Project K-12 Schools, Montana|5587|94.2%|9.6%|
 |Camden County School District, Georgia|53960|72.45%|9.6%|
 |Camden Central School District, New York|13571|97.71%|9.6%|
 |Greenville Independent School District, Texas|34371|68.93%|9.6%|
 |Gladstone Area Schools, Michigan|9041|95.77%|9.6%|
-|Montague Independent School District, Texas|545|94.5%|9.6%|
 |Denver County School District 1, Colorado|715878|72.24%|9.6%|
 |Avon School District, Massachusetts|4513|73.32%|9.6%|
 |Somersworth School District, New Hampshire|12027|83.48%|9.6%|
@@ -5155,7 +4716,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Warden School District, Washington|3534|51.02%|9.65%|
 |Paulsboro Borough School District, New Jersey|5881|48.61%|9.65%|
 |Hondo Independent School District, Texas|13718|78.95%|9.65%|
-|Put-in-Bay Local School District, Ohio|418|96.65%|9.65%|
 |Dallas School District, Pennsylvania|20742|95.58%|9.65%|
 |Hardin County School District, Kentucky|90871|79.1%|9.66%|
 |Ringgold School District, Pennsylvania|25576|92.63%|9.66%|
@@ -5166,7 +4726,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Alexander City City School District, Alabama|16883|63.34%|9.66%|
 |Natalia Independent School District, Texas|6276|74.38%|9.66%|
 |Harbor Creek School District, Pennsylvania|17219|93.59%|9.66%|
-|Prairie Lea Independent School District, Texas|1190|77.65%|9.66%|
 |Chandler Public Schools, Oklahoma|6549|81.08%|9.67%|
 |Tioga Public School District 15, North Dakota|1663|98.56%|9.67%|
 |North Wasco School District 21, Oregon|21604|89.88%|9.67%|
@@ -5212,7 +4771,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Englewood City School District, New Jersey|28390|49.36%|9.73%|
 |North Warren Central School District, New York|4722|95.79%|9.73%|
 |Margaretta Local School District, Ohio|7799|91.33%|9.73%|
-|Craig City School District, Alaska|1206|61.44%|9.73%|
 |Evergreen School District (Clark), Washington|149680|78.82%|9.74%|
 |Lakeside School District (Garland County), Arkansas|17842|89.55%|9.74%|
 |Stuttgart School District, Arkansas|9489|61.32%|9.74%|
@@ -5222,7 +4780,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Leeton R-X School District, Missouri|1877|96.59%|9.75%|
 |Mount Ayr Community School District, Iowa|4026|95.6%|9.75%|
 |West Fork Community School District, Iowa|4322|96.74%|9.75%|
-|Clark County School District 161, Idaho|885|84.63%|9.75%|
 |Kidder County School District 1, North Dakota|2528|94.66%|9.75%|
 |Wellington Exempted Village School District, Ohio|8974|96.85%|9.75%|
 |Drummond Area School District, Wisconsin|3814|95.99%|9.75%|
@@ -5232,16 +4789,13 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Buna Independent School District, Texas|7621|95.43%|9.76%|
 |Woodford County School District, Kentucky|26486|91.43%|9.76%|
 |Wyalusing Area School District, Pennsylvania|9046|96.23%|9.76%|
-|Ashwood School District 8, Oregon|41|100.0%|9.76%|
 |Wright City R-II of Warren County, Missouri|10658|88.45%|9.76%|
 |Knox City-O'Brien Consolidated Independent School District, Texas|1565|87.73%|9.76%|
 |Elk Lake School District, Pennsylvania|7813|95.41%|9.76%|
 |Red Bud Community Unit School District 132, Illinois|7110|98.69%|9.76%|
-|Chattanooga Public Schools, Oklahoma|994|75.96%|9.77%|
 |Wilmington Area School District, Pennsylvania|10904|94.97%|9.77%|
 |North Little Rock School District, Arkansas|55212|49.57%|9.77%|
 |Goreville Community Unit School District 1, Illinois|3312|99.09%|9.77%|
-|Annette Island School District, Alaska|1582|11.0%|9.77%|
 |Newman Grove Public Schools, Nebraska|1492|83.04%|9.77%|
 |Northwestern Local School District (Ashland and Wayne Counties), Ohio|8759|98.45%|9.77%|
 |White Mountain Regional School District, New Hampshire|8154|97.57%|9.77%|
@@ -5251,15 +4805,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |New Prairie United School Corporation, Indiana|14742|96.51%|9.78%|
 |Loudon County School District, Tennessee|44082|92.48%|9.78%|
 |Alhambra Unified School District, California|117786|19.71%|9.78%|
-|Pritchett School District RE-3, Colorado|296|93.24%|9.78%|
 |Wiscasset Public Schools, Maine|3715|97.07%|9.79%|
 |West Haven School District, Connecticut|54666|60.12%|9.79%|
 |Jefferson County School District, Alabama|231287|59.46%|9.79%|
 |Harlan Community School District, Iowa|8129|94.98%|9.8%|
 |Missouri Valley Community School District, Iowa|4644|98.88%|9.8%|
-|Mitchell School District 55, Oregon|356|85.96%|9.8%|
 |Walker-Hackensack-Akeley School District, Minnesota|6961|84.41%|9.8%|
-|Allen Consolidated Schools, Nebraska|826|92.62%|9.8%|
 |Crawford Public Schools, Nebraska|1405|92.95%|9.8%|
 |Springs Valley Community School Corporation, Indiana|5979|87.37%|9.8%|
 |Hinton Public Schools, Oklahoma|5065|79.61%|9.81%|
@@ -5273,7 +4824,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Oakdale Joint Unified School District, California|30861|80.67%|9.81%|
 |Remainder of Michigan, Michigan|15122|89.15%|9.82%|
 |Taylor Independent School District, Texas|18285|71.3%|9.82%|
-|Florence School District 14-1, South Dakota|859|96.04%|9.82%|
 |Fridley Public School District, Minnesota|16066|67.43%|9.82%|
 |Hill City Unified School District 281, Kansas|2426|90.85%|9.82%|
 |Dickson Public Schools, Oklahoma|5411|76.68%|9.83%|
@@ -5283,7 +4833,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Greene County School District, Georgia|17808|58.88%|9.84%|
 |Union County School District, Mississippi|17416|86.83%|9.84%|
 |North Mac Community Unit School District 34, Illinois|7808|98.91%|9.84%|
-|Northern Valley Unified School District 212, Kansas|832|91.83%|9.84%|
 |Houston Public School District, Minnesota|2676|97.46%|9.84%|
 |Etowah County School District, Alabama|60599|92.24%|9.84%|
 |Floyd County Public Schools, Virginia|15766|94.53%|9.84%|
@@ -5341,7 +4890,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |St. Clair County School District, Alabama|56869|85.98%|9.92%|
 |Claremore Public Schools, Oklahoma|23331|67.97%|9.93%|
 |Mountain View School District, Pennsylvania|8733|97.76%|9.93%|
-|Jemez Mountain Public Schools, New Mexico|2081|32.92%|9.93%|
 |Hamilton Central School District, New York|7315|88.79%|9.93%|
 |Fargo Public School District 1, North Dakota|94827|85.27%|9.93%|
 |Wausau School District, Wisconsin|54389|84.97%|9.93%|
@@ -5353,7 +4901,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Rockwood Area School District, Pennsylvania|4861|98.13%|9.94%|
 |Washington County School District, Georgia|20316|43.45%|9.94%|
 |Strother Public Schools, Oklahoma|2162|80.94%|9.94%|
-|Western Plains Unified School District 106, Kansas|1133|87.03%|9.94%|
 |Mellen School District, Wisconsin|1788|90.55%|9.94%|
 |Spring Grove School District, Minnesota|2236|98.26%|9.94%|
 |Argyle School District, Wisconsin|2072|98.41%|9.95%|
@@ -5393,7 +4940,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Hesston Unified School District 460, Kansas|4570|95.08%|9.98%|
 |Indian Valley Local School District, Ohio|11332|95.59%|9.98%|
 |Beaumont Unified School District, California|61189|63.83%|9.98%|
-|Coleman Public Schools, Oklahoma|1141|77.21%|9.99%|
 |Oneida City School District, New York|14898|94.52%|9.99%|
 |Avoca Central School District, New York|3557|91.14%|9.99%|
 |Sullivan County School District, Pennsylvania|6038|94.35%|9.99%|
@@ -5404,15 +4950,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Brunswick County Schools, North Carolina|137303|83.87%|9.99%|
 |Eagle Grove Community School District, Iowa|4917|94.43%|10.0%|
 |Flushing Community Schools, Michigan|26066|89.25%|10.0%|
-|Yakutat School District, Alaska|597|38.53%|10.0%|
 |United Community School District 304, Illinois|6403|93.99%|10.01%|
 |Tripp-Delmont School District 33-5, South Dakota|1157|95.25%|10.01%|
 |Manitowoc School District, Wisconsin|38227|89.35%|10.01%|
-|Maywood Public Schools, Nebraska|768|95.18%|10.01%|
 |Napoleon Community Schools, Michigan|8372|95.41%|10.01%|
 |Red Lake Falls Public School District, Minnesota|2161|96.25%|10.01%|
 |Anamosa Community School District, Iowa|9188|92.07%|10.02%|
-|Indiahoma Public Schools, Oklahoma|1311|71.55%|10.02%|
 |Brookland School District, Arkansas|11525|91.53%|10.02%|
 |Hillsdale Local School District, Ohio|6518|98.77%|10.02%|
 |Cheatham County School District, Tennessee|40539|93.4%|10.02%|
@@ -5441,7 +4984,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Castine, Maine|1189|91.76%|10.05%|
 |Woodmore Local School District, Ohio|6811|94.42%|10.05%|
 |Madison Public Schools, Michigan|13224|84.3%|10.05%|
-|Wiley School District RE-13-JT, Colorado|914|90.26%|10.06%|
 |Cameron Parish School District, Louisiana|6963|94.79%|10.06%|
 |Hayward Unified School District, California|181650|32.15%|10.06%|
 |Marshall County School District, Kentucky|31225|96.85%|10.06%|
@@ -5450,12 +4992,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Jefferson Central School District, New York|1952|96.11%|10.06%|
 |Paxton-Buckley-Loda Community Unit School District 10, Illinois|8255|93.99%|10.06%|
 |Washoe County School District, Nevada|464182|74.08%|10.06%|
-|Agua Dulce Independent School District, Texas|1068|88.39%|10.06%|
 |Traverse City Area Public Schools, Michigan|85453|94.73%|10.07%|
 |Pittston Area School District, Pennsylvania|27972|91.7%|10.07%|
 |Wyomissing Area School District, Pennsylvania|12683|82.21%|10.07%|
 |Ozark City School District, Alabama|16167|63.35%|10.07%|
-|Paradise Unified School District 399, Kansas|748|94.25%|10.07%|
 |Durham Public Schools, North Carolina|317665|50.87%|10.07%|
 |Canton Public School District, Mississippi|20480|29.98%|10.08%|
 |Fort Madison Community School District, Iowa|16437|94.76%|10.08%|
@@ -5464,7 +5004,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Adams-Arapahoe School District 28J, Colorado|235109|51.71%|10.08%|
 |Moline-Coal Valley School District 40, Illinois|47125|80.92%|10.08%|
 |Mascoma Valley Regional School District, New Hampshire|10559|95.46%|10.08%|
-|Green Mountain School District, Washington|845|95.03%|10.09%|
 |East St. Louis School District 189, Illinois|36480|6.27%|10.09%|
 |Hiawatha Unified School District 415, Kansas|5502|90.69%|10.09%|
 |Garrett-Keyser-Butler Community Schools, Indiana|9605|97.47%|10.09%|
@@ -5497,12 +5036,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Moniteau School District, Pennsylvania|8956|97.24%|10.14%|
 |Somerset Area School District, Pennsylvania|20669|88.37%|10.14%|
 |Whitesboro Independent School District, Texas|9343|95.82%|10.14%|
-|McClusky Public School District 19, North Dakota|652|96.01%|10.14%|
 |Charlotte County School District, Florida|185926|88.95%|10.14%|
 |Northern Local School District, Ohio|14281|95.9%|10.14%|
 |Otsego Public Schools, Michigan|15082|90.13%|10.14%|
 |McPherson Unified School District 418, Kansas|14761|93.93%|10.14%|
-|Plainview School District RE-2, Colorado|279|97.49%|10.15%|
 |Jefferson County School District, Georgia|15489|43.71%|10.15%|
 |Waitsburg School District, Washington|1431|87.42%|10.15%|
 |Zillah School District, Washington|5208|77.78%|10.15%|
@@ -5529,7 +5066,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Smoky Valley Unified School District 400, Kansas|5615|93.16%|10.18%|
 |Steuben County Metropolitan School District, Indiana|18224|94.95%|10.18%|
 |Everett Area School District, Pennsylvania|9491|97.31%|10.18%|
-|Palco Unified School District 269, Kansas|559|98.39%|10.18%|
 |Meeker Public Schools, Oklahoma|4787|83.77%|10.19%|
 |Pulaski County School District, Georgia|11185|59.87%|10.19%|
 |Pine Hill Borough School District, New Jersey|10418|59.8%|10.19%|
@@ -5549,19 +5085,13 @@ This page is an analysis and visualization of data I queried from the US Census'
 |School Administrative District 11, Maine|13472|97.83%|10.22%|
 |Payette Joint School District 371, Idaho|9620|84.89%|10.22%|
 |Waynesville R-VI Schools, Missouri|38127|68.47%|10.22%|
-|Winston R-VI School District, Missouri|962|98.13%|10.22%|
 |Hendricks Public School District, Minnesota|1091|96.52%|10.22%|
 |Rush-Henrietta Central School District, New York|52706|73.67%|10.22%|
-|Stapleton Public Schools, Nebraska|980|98.78%|10.22%|
-|Walnut Bend Independent School District, Texas|186|94.62%|10.23%|
-|Penobscot, Maine|1018|94.89%|10.23%|
-|Tipton Public Schools, Oklahoma|1209|68.65%|10.23%|
 |Wellington-Napoleon R-IX School District, Missouri|1778|94.43%|10.23%|
 |Montello School District, Wisconsin|6364|96.21%|10.23%|
 |Carlynton School District, Pennsylvania|14079|86.14%|10.23%|
 |Bryan City School District, Ohio|12385|96.16%|10.24%|
 |Upper Adams School District, Pennsylvania|10940|90.88%|10.24%|
-|Floyd Municipal Schools, New Mexico|542|91.88%|10.24%|
 |Fieldcrest Community Unit School District 6, Illinois|6070|96.0%|10.24%|
 |Leechburg Area School District, Pennsylvania|5954|96.99%|10.24%|
 |Washakie County School District 1, Wyoming|7157|85.65%|10.24%|
@@ -5575,10 +5105,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Millington Municipal School District, Tennessee|15660|64.68%|10.26%|
 |Oakridge Public Schools, Michigan|10275|89.81%|10.26%|
 |Selah School District, Washington|19272|79.35%|10.27%|
-|Sioux County Public Schools, Nebraska|924|90.58%|10.27%|
 |Brockton School District, Massachusetts|95740|33.91%|10.27%|
 |Arp Independent School District, Texas|5587|75.91%|10.28%|
-|Centerville School District, Washington|581|92.08%|10.28%|
 |Ridgeview Community Unit School District 19, Illinois|3638|95.66%|10.28%|
 |Chester County School District, Tennessee|17260|86.19%|10.28%|
 |Torrington School District, Connecticut|34259|89.8%|10.28%|
@@ -5597,7 +5125,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Oak Grove R-VI School District, Missouri|11166|96.08%|10.3%|
 |Prosser School District, Washington|13983|70.99%|10.3%|
 |Gilmer County School District, West Virginia|7970|83.07%|10.3%|
-|Leeds Public School District 6, North Dakota|740|99.73%|10.3%|
 |Letchworth Central School District, New York|5532|93.82%|10.3%|
 |St. Paul Public School District, Minnesota|305877|55.22%|10.3%|
 |Duarte Unified School District, California|27752|49.28%|10.31%|
@@ -5617,9 +5144,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Alvarado Independent School District, Texas|18268|86.5%|10.31%|
 |Festus R-VI School District, Missouri|17626|94.76%|10.32%|
 |Medford Public Schools, Oklahoma|1792|89.96%|10.32%|
-|Satsop School District, Washington|727|94.64%|10.32%|
 |Collier County School District, Florida|379345|84.49%|10.32%|
-|Menominee Indian School District, Wisconsin|4752|10.12%|10.32%|
 |Circle Unified School District 375, Kansas|9485|90.99%|10.33%|
 |Dunkerton Community School District, Iowa|2771|99.42%|10.33%|
 |Corinth Central School District, New York|7615|97.47%|10.33%|
@@ -5634,7 +5159,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |North Mercer County R-III School District, Missouri|1056|95.27%|10.34%|
 |Dakota Prairie Public School District 1, North Dakota|2076|95.23%|10.34%|
 |Strafford R-VI School District, Missouri|7022|92.14%|10.34%|
-|Goodridge Public School District, Minnesota|863|96.64%|10.34%|
 |Tonawanda City School District, New York|14790|94.0%|10.34%|
 |Midd-West School District, Pennsylvania|17066|97.57%|10.34%|
 |Paton-Churdan Community School District, Iowa|1186|95.62%|10.35%|
@@ -5645,7 +5169,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Poland Central School District, New York|4016|98.51%|10.36%|
 |Mount Vernon Metropolitan School District, Indiana|15665|94.1%|10.36%|
 |South Henry School Corporation, Indiana|4283|97.85%|10.36%|
-|Northside Independent School District (Wilbarger County), Texas|241|92.12%|10.36%|
 |Lakeport Unified School District, California|11046|72.41%|10.37%|
 |Choctaw County School District, Mississippi|8206|67.82%|10.37%|
 |United School District, Pennsylvania|7428|97.47%|10.37%|
@@ -5666,14 +5189,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |South Kortright Central School District, New York|2363|91.83%|10.38%|
 |Lake Forest School District, Delaware|26400|77.11%|10.39%|
 |Sullivan West Central School District, New York|10242|88.36%|10.39%|
-|Steptoe School District, Washington|247|93.52%|10.39%|
 |Coeur d'Alene School District 271, Idaho|81769|92.79%|10.39%|
 |Arlington Local School District, Ohio|3616|98.15%|10.39%|
 |Iberville Parish School District, Louisiana|32626|49.08%|10.4%|
 |Hillsboro R-III School District, Missouri|21789|95.21%|10.4%|
 |Anderson School District 2, South Carolina|21804|84.63%|10.4%|
 |Fredericktown Local School District, Ohio|6525|98.04%|10.4%|
-|Fire Island Union Free School District, New York|424|78.77%|10.4%|
 |Medina Independent School District, Texas|2625|93.56%|10.4%|
 |Lake Benton Public School District, Minnesota|1061|99.72%|10.4%|
 |Haxtun School District RE-2J, Colorado|1211|98.1%|10.4%|
@@ -5683,8 +5204,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Meredosia-Chambersburg Community Unit School District 11, Illinois|1628|100.0%|10.41%|
 |Belton Independent School District, Texas|59187|79.21%|10.42%|
 |Mendocino Unified School District, California|5381|89.93%|10.42%|
-|Caratunk, Maine|48|100.0%|10.42%|
-|Savanna Public Schools, Oklahoma|1322|70.42%|10.42%|
 |South Winneshiek Community School District, Iowa|4650|98.09%|10.42%|
 |Rossford Exempted Village School District, Ohio|13336|92.4%|10.42%|
 |Gulf County School District, Florida|15073|80.49%|10.42%|
@@ -5692,7 +5211,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Black River Local School District, Ohio|9559|97.35%|10.42%|
 |Sidney Public Schools, Nebraska|6998|93.3%|10.42%|
 |Warsaw Central School District, New York|5878|93.19%|10.42%|
-|Venice Community Unit School District 3, Illinois|841|5.71%|10.42%|
 |Concordia R-II School District, Missouri|4085|97.92%|10.43%|
 |Plains K-12 Schools, Montana|3517|95.31%|10.43%|
 |Keyport Borough School District, New Jersey|7005|82.1%|10.43%|
@@ -5715,7 +5233,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Mount Pleasant Area School District, Pennsylvania|17215|97.62%|10.46%|
 |Sackets Harbor Central School District, New York|3296|96.84%|10.46%|
 |Newark Central School District, New York|14811|88.2%|10.46%|
-|Putnam Central School District, New York|575|98.09%|10.46%|
 |Northland Community Schools, Minnesota|4475|83.64%|10.46%|
 |Sparta Area School District, Wisconsin|18111|93.37%|10.46%|
 |Arcadia Local School District, Ohio|3460|93.32%|10.46%|
@@ -5723,7 +5240,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Bellevue Independent School District, Kentucky|5747|95.6%|10.47%|
 |Marionville R-IX School District, Missouri|4111|96.67%|10.47%|
 |Brentwood Union Free School District, New York|89740|51.21%|10.47%|
-|McIntosh School District 15-1, South Dakota|800|58.5%|10.47%|
 |Jennings County Schools, Indiana|27639|96.09%|10.47%|
 |Conecuh County School District, Alabama|12219|50.54%|10.47%|
 |Palacios Independent School District, Texas|6640|76.3%|10.47%|
@@ -5733,12 +5249,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Bullock Creek School District, Michigan|9292|96.98%|10.48%|
 |Fairfield Union Local School District, Ohio|10850|96.3%|10.48%|
 |Washington Local School District, Ohio|48535|80.74%|10.48%|
-|Ashland Unified School District 220, Kansas|1096|87.04%|10.48%|
 |Englewood School District 1, Colorado|28750|86.0%|10.48%|
 |Rapides Parish School District, Louisiana|130376|63.02%|10.49%|
 |Jurupa Unified School District, California|107843|47.89%|10.49%|
 |H-L-V Community School District, Iowa|2410|95.73%|10.49%|
-|Litchville-Marion Public School District 46, North Dakota|1131|85.41%|10.49%|
 |Middleburgh Central School District, New York|6036|95.39%|10.49%|
 |Decatur Public Schools, Michigan|5248|85.84%|10.49%|
 |Boyd County Schools, Nebraska|2001|95.75%|10.49%|
@@ -5747,7 +5261,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Delmar School District, Delaware|7224|81.31%|10.5%|
 |Moss Point School District, Mississippi|19933|40.75%|10.5%|
 |Highland School District, Washington|5754|66.68%|10.5%|
-|Divide Independent School District, Texas|231|95.67%|10.5%|
 |Freeman School District 33-1, South Dakota|2529|89.48%|10.5%|
 |Putnam County School District, West Virginia|56604|95.89%|10.5%|
 |River Valley School District, Michigan|8447|92.34%|10.5%|
@@ -5772,7 +5285,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Delta R-V School District, Missouri|1999|97.2%|10.53%|
 |Waelder Independent School District, Texas|2061|60.36%|10.53%|
 |Redlands Unified School District, California|129595|64.3%|10.53%|
-|Pleasant Ridge Plantation, Maine|57|100.0%|10.53%|
 |Mitchell Community Schools, Indiana|11473|95.82%|10.53%|
 |St. Francis Community Schools Unified School District 297, Kansas|1835|96.19%|10.54%|
 |Erlanger-Elsmere Independent School District, Kentucky|16616|83.57%|10.54%|
@@ -5798,7 +5310,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Twin Valley Unified School District 240, Kansas|2581|97.68%|10.57%|
 |Southeastern Local School District (Ross County), Ohio|6334|95.06%|10.57%|
 |Moffat School District 2, Colorado|1718|88.13%|10.57%|
-|Delta C-7 School District, Missouri|959|82.9%|10.57%|
 |Fromberg K-12, Montana|1074|98.14%|10.58%|
 |Reynolds School District, Pennsylvania|8895|95.26%|10.58%|
 |Crookston Public School District, Minnesota|9568|85.88%|10.58%|
@@ -5806,7 +5317,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lewisburg Area School District, Pennsylvania|18958|87.21%|10.58%|
 |Orleans Parish School District, Louisiana|391249|33.4%|10.59%|
 |Pittsfield School District, Massachusetts|42514|85.3%|10.59%|
-|Calvert Independent School District, Texas|1908|44.13%|10.59%|
 |Soledad Unified School District, California|26518|36.84%|10.59%|
 |Ste. Genevieve County R-II School District, Missouri|14884|96.14%|10.59%|
 |Niagara School District, Wisconsin|2372|97.47%|10.59%|
@@ -5818,7 +5328,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Darrington School District, Washington|3314|90.37%|10.6%|
 |Spring Hill Independent School District, Texas|9511|76.49%|10.6%|
 |Blue River Valley Schools, Indiana|7075|87.7%|10.6%|
-|Leola School District 44-2, South Dakota|963|98.96%|10.6%|
 |Smackover-Norphlet School District, Arkansas|5872|83.31%|10.6%|
 |Carroll County School District, Mississippi|9972|64.48%|10.61%|
 |Essex Community School District, Iowa|1253|98.24%|10.61%|
@@ -5842,24 +5351,19 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Ignacio School District 11-JT, Colorado|6368|69.28%|10.65%|
 |Kiski Area School District, Pennsylvania|28111|95.64%|10.65%|
 |Fairview Public Schools, Oklahoma|3966|86.91%|10.66%|
-|South Central School District 26-5, South Dakota|1002|79.74%|10.66%|
 |Chesaning Union Schools, Michigan|10672|93.95%|10.66%|
 |Bethlehem Area School District, Pennsylvania|118533|75.02%|10.66%|
 |Shelby-Rising City Public Schools, Nebraska|2192|98.27%|10.66%|
 |Shorewood School District, Wisconsin|13248|85.46%|10.66%|
-|Deer Trail School District 26J, Colorado|877|97.38%|10.66%|
 |Cle Elum-Roslyn School District, Washington|9346|88.07%|10.67%|
 |South-Western City School District, Ohio|144667|80.44%|10.67%|
-|Lueders-Avoca Independent School District, Texas|590|93.73%|10.67%|
 |North Zulch Independent School District, Texas|2175|93.47%|10.67%|
 |Fort Larned Unified School District 495, Kansas|6320|90.17%|10.67%|
 |Cameron R-I School District, Missouri|12364|87.48%|10.68%|
-|Red Oak Public Schools, Oklahoma|1378|65.53%|10.68%|
 |Wilkes County School District, Georgia|9797|53.35%|10.68%|
 |Paulding Exempted Village School District, Ohio|9327|95.72%|10.68%|
 |Central Local School District, Ohio|5697|95.42%|10.68%|
 |Ouachita School District, Arkansas|1771|96.89%|10.68%|
-|Starkweather Public School District 44, North Dakota|360|93.61%|10.68%|
 |Cassopolis Public Schools, Michigan|8503|74.07%|10.68%|
 |Mexico Central School District, New York|11890|96.98%|10.68%|
 |Knippa Independent School District, Texas|1087|93.93%|10.68%|
@@ -5880,7 +5384,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Junction City School District 69, Oregon|13589|92.46%|10.71%|
 |Huron School District 02-2, South Dakota|15584|75.99%|10.71%|
 |Surry County Public Schools, Virginia|6459|55.13%|10.72%|
-|Tekoa School District, Washington|986|94.62%|10.72%|
 |South Wasco County School District 1, Oregon|1544|96.31%|10.72%|
 |Johnstown City School District, New York|11106|93.58%|10.72%|
 |Turtle Lake School District, Wisconsin|2969|95.35%|10.72%|
@@ -5914,9 +5417,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Holliday Independent School District, Texas|4694|95.33%|10.75%|
 |Osawatomie Unified School District 367, Kansas|6262|93.37%|10.75%|
 |Nash-Rocky Mount Schools, North Carolina|104011|46.88%|10.76%|
-|Hollandale School District, Mississippi|2510|16.29%|10.76%|
 |Long Beach School District, Mississippi|17724|84.66%|10.76%|
-|Hume R-VIII School District, Missouri|768|95.57%|10.76%|
 |Adirondack Central School District, New York|8454|96.04%|10.76%|
 |West Branch Area School District, Pennsylvania|7650|97.07%|10.76%|
 |Gregory School District 26-4, South Dakota|2024|90.32%|10.76%|
@@ -5928,7 +5429,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Oconto Falls School District, Wisconsin|10893|96.04%|10.77%|
 |Flambeau School District, Wisconsin|4082|97.21%|10.77%|
 |Van-Far R-I School District, Missouri|5351|84.97%|10.78%|
-|Rutland School District 39-4, South Dakota|783|99.49%|10.78%|
 |Attalla City School District, Alabama|5885|78.86%|10.78%|
 |Bancroft-Rosalie Community Schools, Nebraska|1168|90.58%|10.78%|
 |Fremont Public Schools, Nebraska|30086|93.01%|10.78%|
@@ -5938,13 +5438,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Auburn, Maine|23267|90.38%|10.79%|
 |Lawrence Township School District (Cumberland County), New Jersey|3099|81.35%|10.79%|
 |Aiken County School District, South Carolina|172511|69.83%|10.79%|
-|Perry, Maine|699|83.55%|10.79%|
 |Loudonville-Perrysville Exempted Village School District, Ohio|7928|97.1%|10.79%|
-|Grady Independent School District, Texas|714|96.08%|10.79%|
 |Cheboygan Area Schools, Michigan|13829|93.54%|10.79%|
 |Millard School District, Utah|12963|88.28%|10.79%|
 |Ticonderoga Central School District, New York|5523|98.14%|10.79%|
-|Cherokee Independent School District, Texas|739|90.53%|10.8%|
 |Muscatine Community School District, Iowa|29400|88.51%|10.8%|
 |Mackay Joint School District 182, Idaho|1717|85.56%|10.8%|
 |Gans Public Schools, Oklahoma|2251|65.35%|10.81%|
@@ -5952,7 +5449,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Buhl Joint School District 412, Idaho|8849|90.08%|10.81%|
 |Regional School Unit 25, Maine|8362|97.79%|10.81%|
 |South Dearborn Community School Corporation, Indiana|16756|97.06%|10.81%|
-|San Carlos Unified District, Arizona|9068|1.64%|10.81%|
 |Bristol Borough School District, Pennsylvania|9577|80.94%|10.81%|
 |Portage Community School District, Wisconsin|17600|91.81%|10.81%|
 |Merrill Community Schools, Michigan|5120|93.11%|10.81%|
@@ -5977,9 +5473,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Arlington School District 38-1, South Dakota|1997|99.3%|10.84%|
 |Grand Canyon Unified District, Arizona|2316|56.35%|10.84%|
 |Riverside Public Schools, Nebraska|1695|96.17%|10.84%|
-|Pawnee Independent School District, Texas|621|98.07%|10.84%|
 |Tuscola Community Unit School District 301, Illinois|5600|96.23%|10.84%|
-|Cooper County R-IV School District, Missouri|1020|96.08%|10.85%|
 |Argos Community Schools, Indiana|3471|97.35%|10.85%|
 |Minerva Local School District, Ohio|11295|95.15%|10.85%|
 |Shelbyville Community Unit School District 4, Illinois|7401|96.68%|10.85%|
@@ -5993,7 +5487,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Cashmere School District, Washington|7762|81.74%|10.87%|
 |Twiggs County School District, Georgia|8195|56.46%|10.87%|
 |Community Unit School District 16, Illinois|5929|94.99%|10.87%|
-|Minneola Unified School District 219, Kansas|983|98.27%|10.87%|
 |St. Martin Parish School District, Louisiana|53607|66.32%|10.88%|
 |Cairo-Durham Central School District, New York|9453|89.55%|10.88%|
 |Hagerman Joint School District 233, Idaho|2673|91.43%|10.88%|
@@ -6006,7 +5499,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Borger Independent School District, Texas|13820|84.54%|10.89%|
 |Quitman School District, Mississippi|11340|54.75%|10.89%|
 |West Harrison Community School District, Iowa|2401|95.46%|10.89%|
-|Dillingham City School District, Alaska|2065|25.62%|10.89%|
 |Concordia Unified School District 333, Kansas|6431|94.04%|10.89%|
 |Mercer Area School District, Pennsylvania|10324|91.24%|10.89%|
 |Winchester Community Unit School District 1, Illinois|3500|98.26%|10.9%|
@@ -6022,9 +5514,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Cole County R-V School District, Missouri|4732|93.45%|10.91%|
 |New London Community School District, Iowa|3784|97.78%|10.91%|
 |Waynesboro Area School District, Pennsylvania|33334|93.3%|10.91%|
-|Magdalena Municipal Schools, New Mexico|2313|38.43%|10.91%|
 |Lafayette Parish School District, Louisiana|243692|68.27%|10.92%|
-|Felt Public Schools, Oklahoma|244|97.54%|10.92%|
 |Hanson School District 30-1, South Dakota|1989|95.98%|10.92%|
 |Benzie County Central School, Michigan|14475|94.77%|10.92%|
 |Lac Qui Parle Valley School District, Minnesota|6338|91.48%|10.92%|
@@ -6039,12 +5529,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Sturgeon Bay School District, Wisconsin|8336|92.38%|10.93%|
 |South Fork School District 14, Illinois|2412|99.88%|10.93%|
 |Waverly Community Unit School District 6, Illinois|2172|95.9%|10.93%|
-|Deer Creek-Lamont Schools, Oklahoma|905|84.75%|10.94%|
 |Dade County School District, Georgia|16183|93.85%|10.94%|
 |Chester County School District, South Carolina|32260|60.15%|10.94%|
 |Unity School District, Wisconsin|7569|92.46%|10.94%|
 |Bayfield School District, Wisconsin|2940|51.6%|10.94%|
-|Lake Preston School District 38-3, South Dakota|1031|96.12%|10.94%|
 |Chicago Public School District 299, Illinois|2699347|47.73%|10.94%|
 |Pike County School District, Alabama|14279|60.33%|10.94%|
 |Leroy-Gridley Unified School District 245, Kansas|1736|95.91%|10.94%|
@@ -6089,7 +5577,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pottstown School District, Pennsylvania|22633|68.01%|10.99%|
 |Canadian Independent School District, Texas|3709|85.06%|10.99%|
 |Kershaw County School District, South Carolina|65926|70.33%|10.99%|
-|Kensal Public School District 19, North Dakota|433|86.14%|10.99%|
 |Estacada School District 108, Oregon|14043|94.1%|10.99%|
 |Ansonia School District, Connecticut|18709|72.44%|10.99%|
 |Thatcher Unified District, Arizona|7616|91.12%|10.99%|
@@ -6115,7 +5602,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Findlay City School District, Ohio|41964|90.69%|11.01%|
 |Elko County School District, Nevada|52537|80.02%|11.01%|
 |Quinlan Independent School District, Texas|18928|88.91%|11.01%|
-|Murtaugh Joint School District 418, Idaho|1023|92.47%|11.02%|
 |Morris Area Public Schools, Minnesota|7719|89.38%|11.02%|
 |Clark County School District, Nevada|2228866|56.59%|11.02%|
 |St. John the Baptist Parish School District, Louisiana|43055|36.97%|11.03%|
@@ -6123,17 +5609,14 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Remainder of Montana, Montana|914660|87.35%|11.03%|
 |Olympia School District, Washington|68105|79.95%|11.03%|
 |Wahkiakum School District, Washington|3485|87.89%|11.03%|
-|Campbell-Tintah Public School District, Minnesota|681|97.21%|11.03%|
 |Kimball Public Schools, Nebraska|3109|93.21%|11.03%|
 |Russell County Unified School District 407, Kansas|5666|90.65%|11.03%|
 |Beckville Independent School District, Texas|2793|84.03%|11.04%|
 |Fairfield County School District, South Carolina|22406|39.25%|11.04%|
-|Union Star R-II School District, Missouri|1025|97.17%|11.04%|
 |Coleman School District, Wisconsin|5043|94.75%|11.04%|
 |Oak Hill Union Local School District, Ohio|7182|96.6%|11.04%|
 |Woodland Community Unit School District 5, Illinois|2834|95.91%|11.04%|
 |Shepherd Independent School District, Texas|8962|82.12%|11.05%|
-|Moss Public Schools, Oklahoma|1044|83.24%|11.05%|
 |Washington Community School District, Iowa|10020|91.85%|11.05%|
 |North Schuylkill School District, Pennsylvania|16224|90.69%|11.05%|
 |Palmer Independent School District, Texas|5022|83.77%|11.05%|
@@ -6152,7 +5635,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |North Adams Community Schools, Indiana|15454|94.9%|11.07%|
 |Halifax County Public Schools, Virginia|34295|61.3%|11.07%|
 |Exira-Elk Horn-Kimballton Community School District, Iowa|2999|98.2%|11.08%|
-|Trent Independent School District, Texas|450|92.22%|11.08%|
 |Hamilton Community Schools, Indiana|3955|96.59%|11.08%|
 |Austintown Local School District, Ohio|34758|89.35%|11.08%|
 |Paw Paw Public School District, Michigan|13113|94.18%|11.08%|
@@ -6173,14 +5655,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Fayette, Maine|1111|95.5%|11.12%|
 |Tenino School District, Washington|9861|85.39%|11.12%|
 |Richfield School District 316, Idaho|1228|94.38%|11.12%|
-|North Powder School District 8J, Oregon|1011|97.82%|11.12%|
 |Sherburne-Earlville Central School District, New York|8603|96.06%|11.12%|
 |Ravenna Public Schools, Nebraska|2286|95.71%|11.12%|
 |Taylor School District, Michigan|66963|70.48%|11.13%|
 |Castleberry Independent School District, Texas|21716|68.31%|11.13%|
 |Wilkinson County School District, Mississippi|8727|27.84%|11.13%|
 |Walla Walla Public Schools, Washington|38416|82.66%|11.13%|
-|Fossil School District 21J, Oregon|616|91.88%|11.13%|
 |Greenwood Independent School District, Texas|9101|92.74%|11.13%|
 |Hamilton Local School District, Ohio|15026|84.51%|11.13%|
 |Amboy Community Unit School District 272, Illinois|4972|95.9%|11.13%|
@@ -6196,7 +5676,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Panther Creek Consolidated Independent School District, Texas|1066|99.34%|11.14%|
 |Palmyra R-I School District, Missouri|6460|93.05%|11.15%|
 |East Central Independent School District, Texas|55325|70.62%|11.15%|
-|Bowie Unified District, Arizona|670|97.76%|11.15%|
 |Yoncalla School District 32, Oregon|2460|88.58%|11.15%|
 |Community Unit School District 2, Illinois|5821|78.06%|11.15%|
 |Richland School District, Wisconsin|10437|93.65%|11.15%|
@@ -6216,13 +5695,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Bradford Exempted Village School District, Ohio|3415|98.27%|11.17%|
 |Eastern Greene County School District, Indiana|7919|98.83%|11.17%|
 |Dickson County School District, Tennessee|53289|92.05%|11.17%|
-|Hysham K-12 Schools, Montana|614|99.02%|11.18%|
 |Hennessey Public Schools, Oklahoma|4088|80.87%|11.18%|
 |Noble Public Schools, Oklahoma|16077|86.68%|11.18%|
-|Ashley Public School District 9, North Dakota|1010|96.63%|11.18%|
 |Giddings Independent School District, Texas|10739|78.96%|11.18%|
 |Western Community Unit School District 12, Illinois|3743|98.29%|11.18%|
-|Fort Thomas Unified District, Arizona|1973|24.02%|11.18%|
 |Lamoille South Supervisory Union, Vermont|10855|93.36%|11.18%|
 |White Pine County School District, Nevada|9570|84.17%|11.18%|
 |Alvord Unified School District, California|119233|51.23%|11.18%|
@@ -6253,7 +5729,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Randolph Central School Corporation, Indiana|9053|96.27%|11.22%|
 |Holly Area School District, Michigan|28526|93.76%|11.22%|
 |Pasco School District, Washington|81482|63.23%|11.23%|
-|Big Stone City School District 25-1, South Dakota|972|94.44%|11.23%|
 |Smith Center Unified School District 237, Kansas|2696|95.66%|11.23%|
 |North Butler Community School District, Iowa|3720|96.24%|11.24%|
 |Cal Community School District, Iowa|1764|84.69%|11.24%|
@@ -6264,7 +5739,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Burbank Unified School District, California|103411|67.47%|11.25%|
 |Fair Grove R-X School District, Missouri|5605|95.59%|11.25%|
 |Indianola Public Schools, Oklahoma|1806|77.3%|11.25%|
-|Indian Island, Maine|627|15.63%|11.25%|
 |Denton Independent School District, Texas|208207|75.36%|11.25%|
 |Humboldt Unified District, Arizona|58461|89.56%|11.25%|
 |Rogue River School District 35, Oregon|9127|94.46%|11.25%|
@@ -6272,7 +5746,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pittsford Area Schools, Michigan|3088|94.27%|11.25%|
 |Holmes County Consolidated School District, Mississippi|17414|15.3%|11.26%|
 |Carthage Independent School District, Texas|16393|77.87%|11.26%|
-|Texline Independent School District, Texas|855|93.45%|11.26%|
 |Hackett Public Schools, Arkansas|5790|86.32%|11.26%|
 |West Memphis School District, Arkansas|26000|34.16%|11.26%|
 |Gresham-Barlow School District 1J, Oregon|80999|82.37%|11.26%|
@@ -6301,7 +5774,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Marissa Community Unit School District 40, Illinois|2176|99.4%|11.3%|
 |Hinsdale School District, New Hampshire|3905|95.67%|11.3%|
 |Woodson Unified School District 366, Kansas|2650|91.89%|11.31%|
-|Endicott School District, Washington|596|94.97%|11.31%|
 |Liberty County School District, Georgia|52043|41.61%|11.31%|
 |Mountain Home School District, Arkansas|33467|94.62%|11.31%|
 |North Judson-San Pierre School Corporation, Indiana|6976|94.54%|11.31%|
@@ -6340,13 +5812,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pawtucket School District, Rhode Island|71821|59.61%|11.35%|
 |Rains Independent School District, Texas|11595|90.05%|11.35%|
 |Hall County School District, Georgia|157159|84.02%|11.36%|
-|Gilead, Maine|178|98.88%|11.36%|
 |Garrison Union Free School District, New York|2433|87.55%|11.36%|
 |Boyne Falls Public School District, Michigan|2032|89.81%|11.36%|
 |Columbia County School District, Florida|70898|75.57%|11.36%|
 |Willamina School District 30J, Oregon|6222|81.07%|11.36%|
 |Imlay City Community Schools, Michigan|12795|92.3%|11.36%|
-|Benton School District, New Hampshire|437|94.05%|11.36%|
 |Post Falls School District 273, Idaho|43223|90.81%|11.37%|
 |Kemp Independent School District, Texas|9736|92.8%|11.37%|
 |Elverado Community Unit School District 196, Illinois|2825|94.73%|11.37%|
@@ -6360,7 +5830,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Glasscock County Independent School District, Texas|1447|70.42%|11.38%|
 |Ridgemont Local School District, Ohio|3884|99.02%|11.38%|
 |Woodburn School District 103, Oregon|28696|68.2%|11.38%|
-|Brady Public Schools, Nebraska|883|94.0%|11.38%|
 |Wabash County Schools Metropolitan School District, Indiana|12807|96.89%|11.38%|
 |Laconia School District, New Hampshire|16584|95.51%|11.38%|
 |Daviess County School District, Kentucky|71552|91.32%|11.39%|
@@ -6373,7 +5842,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Alliance Public Schools, Nebraska|9155|90.68%|11.39%|
 |Sunburst K-12 Schools, Montana|1367|94.59%|11.4%|
 |Bartow County School District, Georgia|85125|83.82%|11.4%|
-|Sprague School District, Washington|703|93.6%|11.4%|
 |Hoosick Falls Central School District, New York|7730|96.77%|11.4%|
 |Breitung Township Schools, Michigan|10683|94.79%|11.4%|
 |Bellflower Unified School District, California|81394|36.41%|11.4%|
@@ -6391,7 +5859,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pawnee Public Schools, Oklahoma|4063|71.45%|11.43%|
 |Sequim School District, Washington|32143|91.83%|11.43%|
 |Dillon School District 3, South Carolina|8037|44.97%|11.43%|
-|Wishkah Valley School District, Washington|1004|90.84%|11.43%|
 |Benton School District, Wisconsin|1360|97.94%|11.43%|
 |Autauga County School District, Alabama|55639|75.76%|11.43%|
 |Morenci Area Schools, Michigan|3799|94.68%|11.43%|
@@ -6400,7 +5867,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Santa Barbara Unified School District, California|86728|75.95%|11.43%|
 |Fremont County School District 25, Wyoming|16895|79.04%|11.43%|
 |Haywood County Schools, North Carolina|61862|94.54%|11.44%|
-|Loch Arbour School District, New Jersey|217|92.63%|11.44%|
 |Osage County R-II School District, Missouri|5106|96.77%|11.44%|
 |Methow Valley School District, Washington|6028|94.13%|11.44%|
 |Durand School District, Wisconsin|7875|96.97%|11.44%|
@@ -6426,7 +5892,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Hart County School District, Georgia|25981|76.79%|11.47%|
 |Southmoreland School District, Pennsylvania|14499|95.67%|11.47%|
 |American Falls Joint School District 381, Idaho|6800|77.76%|11.47%|
-|Edmore Public School District 2, North Dakota|669|97.31%|11.47%|
 |Remainder of Oklahoma, Oklahoma|146447|67.23%|11.47%|
 |Prairie Central Community Unit School District 8, Illinois|10896|95.04%|11.47%|
 |Cass City Public Schools, Michigan|7555|98.41%|11.47%|
@@ -6439,7 +5904,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Clay Local School District, Ohio|3472|99.11%|11.48%|
 |Charter Oak Unified School District, California|38551|56.49%|11.49%|
 |Belmond-Klemme Community School District, Iowa|4273|96.84%|11.49%|
-|Kinta Public Schools, Oklahoma|1439|68.94%|11.49%|
 |Darlington Community School District, Wisconsin|4835|96.79%|11.49%|
 |Gilman School District, Wisconsin|3318|97.23%|11.49%|
 |Little Cypress-Mauriceville Consolidated Independent School District, Texas|19342|89.65%|11.49%|
@@ -6450,7 +5914,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Guthrie Center Community School District, Iowa|2667|97.3%|11.5%|
 |Gowanda Central School District, New York|11454|69.36%|11.5%|
 |Regional School Unit 01, Maine|14107|96.79%|11.5%|
-|Page Public School District 80, North Dakota|727|90.92%|11.5%|
 |Hancock Public School District, Minnesota|1474|93.35%|11.5%|
 |Berwick Area School District, Pennsylvania|22043|96.32%|11.5%|
 |School of The Osage School District, Missouri|13532|95.65%|11.51%|
@@ -6466,7 +5929,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Indian Lake Local School District, Ohio|11593|94.08%|11.53%|
 |Alanson Public Schools, Michigan|4068|84.96%|11.53%|
 |Rochester Community School Corporation, Indiana|11392|96.46%|11.53%|
-|Cheraw School District 31, Colorado|655|96.64%|11.53%|
 |Keene School District, New Hampshire|22823|92.83%|11.53%|
 |Hertford County Schools, North Carolina|23752|34.75%|11.54%|
 |Fletcher Public Schools, Oklahoma|2641|88.03%|11.54%|
@@ -6481,7 +5943,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Sullivan County School District, Tennessee|80145|96.53%|11.55%|
 |Prairiland Independent School District, Texas|5711|91.21%|11.55%|
 |Elma School District, Washington|8886|90.04%|11.56%|
-|Evergreen School District (Stevens), Washington|480|82.92%|11.56%|
 |Simpson County School District, Kentucky|18319|85.56%|11.56%|
 |Cato-Meridian Central School District, New York|6035|97.75%|11.56%|
 |Silo Public Schools, Oklahoma|8332|78.12%|11.56%|
@@ -6536,7 +5997,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Mercer County School District 404, Illinois|7883|96.83%|11.62%|
 |Hibbing Public School District, Minnesota|17138|92.58%|11.62%|
 |Tippecanoe School Corporation, Indiana|101137|82.78%|11.62%|
-|Cuyama Joint Unified School District, California|888|89.19%|11.62%|
 |Hazlehurst City School District, Mississippi|9735|35.27%|11.63%|
 |Kilgore Independent School District, Texas|22956|76.96%|11.63%|
 |Surprise Valley Joint Unified School District, California|1384|90.39%|11.64%|
@@ -6563,8 +6023,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Brewster School District, Washington|4650|47.05%|11.67%|
 |Gordon County School District, Georgia|40668|90.08%|11.67%|
 |Yorkshire-Pioneer Central School District, New York|16045|97.29%|11.67%|
-|San Jon Municipal Schools, New Mexico|437|82.38%|11.67%|
-|Stuart Public Schools, Oklahoma|1062|80.7%|11.67%|
 |Kirby School District, Arkansas|2735|94.08%|11.67%|
 |Volusia County School District, Florida|546107|79.34%|11.67%|
 |Goshen Community Schools, Indiana|37993|84.2%|11.67%|
@@ -6589,7 +6047,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |St. Charles Community Schools, Michigan|6032|95.61%|11.69%|
 |Purchase Line School District, Pennsylvania|6680|97.65%|11.7%|
 |Bonham Independent School District, Texas|15907|83.89%|11.7%|
-|Keyes Public Schools, Oklahoma|490|99.39%|11.7%|
 |Franklin City School District, Ohio|21535|94.72%|11.7%|
 |Pickens County School District, Georgia|32002|87.44%|11.7%|
 |Edgecomb, Maine|1257|99.28%|11.7%|
@@ -6600,7 +6057,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Coast Unified School District, California|6330|85.59%|11.7%|
 |South Redford School District, Michigan|23387|45.02%|11.7%|
 |Albany Independent School District, Texas|2197|93.76%|11.7%|
-|Rochelle Independent School District, Texas|1024|92.58%|11.7%|
 |Jackson Public School District, Mississippi|158232|16.45%|11.71%|
 |Tuloso-Midway Independent School District, Texas|13543|88.87%|11.71%|
 |South Pike School District, Mississippi|11662|42.1%|11.71%|
@@ -6614,7 +6070,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Santa Fe Trail Unified School District 434, Kansas|5651|93.13%|11.71%|
 |Williamsburg City Public Schools, Virginia|15034|71.66%|11.72%|
 |Cincinnatus Central School District, New York|3325|96.15%|11.72%|
-|Hedley Independent School District, Texas|512|96.68%|11.72%|
 |Mountain Iron-Buhl School District, Minnesota|4728|92.22%|11.72%|
 |Clay Community Schools, Indiana|25751|96.79%|11.72%|
 |Frankfort-Elberta Area Schools, Michigan|3339|96.02%|11.72%|
@@ -6643,7 +6098,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Springtown Independent School District, Texas|21551|91.49%|11.76%|
 |Spartanburg School District 1, South Carolina|32867|89.28%|11.76%|
 |New Plymouth School District 372, Idaho|4960|90.99%|11.76%|
-|Warwick Public School District 29, North Dakota|1155|22.08%|11.76%|
 |Marinette School District, Wisconsin|15022|96.49%|11.76%|
 |Coffee County School District, Alabama|19497|85.89%|11.76%|
 |Humboldt County School District, Nevada|16834|82.84%|11.76%|
@@ -6665,7 +6119,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Uniontown Unified School District 235, Kansas|2193|87.6%|11.79%|
 |Pennsville Township School District, New Jersey|12505|90.81%|11.79%|
 |Spencer Community School District, Iowa|12439|95.14%|11.79%|
-|Hope Public School District 10, North Dakota|499|98.6%|11.79%|
 |Springdale School District, Arkansas|105547|63.46%|11.79%|
 |Cuba-Rushford Central School District, New York|6166|97.94%|11.79%|
 |Gilchrist County School District, Florida|18245|90.76%|11.8%|
@@ -6678,13 +6131,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Greenland Public Schools, Arkansas|6920|88.5%|11.81%|
 |Chestnut Ridge School District, Pennsylvania|10120|98.16%|11.81%|
 |Redbank Valley School District, Pennsylvania|7326|99.19%|11.82%|
-|McMullen County Independent School District, Texas|724|88.81%|11.82%|
 |Russellville City School District, Alabama|9803|61.08%|11.82%|
 |Calera Public Schools, Oklahoma|5157|68.53%|11.82%|
 |Darby K-12 Schools, Montana|3811|94.36%|11.83%|
 |Pittsburg Unified School District, California|62760|35.19%|11.83%|
 |Wayne County School District, Mississippi|20344|57.27%|11.83%|
-|Tushka Public Schools, Oklahoma|1486|66.96%|11.83%|
 |Lewiston Independent School District 340, Idaho|35145|94.4%|11.83%|
 |Gatesville Independent School District, Texas|22128|74.79%|11.83%|
 |Manton Consolidated Schools, Michigan|5258|96.03%|11.83%|
@@ -6715,7 +6166,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Riverside School District, Washington|10983|93.33%|11.87%|
 |Tiffin City School District, Ohio|22100|91.74%|11.87%|
 |Alexander Local School District, Ohio|10663|96.11%|11.87%|
-|Woodlynne Borough School District, New Jersey|2911|29.41%|11.87%|
 |Menominee Area Public Schools, Michigan|11621|95.67%|11.87%|
 |Maple Run Unified School District, Vermont|15542|95.43%|11.87%|
 |Alex Public Schools, Oklahoma|1783|88.45%|11.87%|
@@ -6727,7 +6177,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Summerfield School District, Michigan|3780|95.85%|11.89%|
 |Chimacum School District, Washington|11157|91.77%|11.89%|
 |Windsor Central School District, New York|10382|94.21%|11.89%|
-|Stringtown Public Schools, Oklahoma|895|68.6%|11.89%|
 |Oxford Academy and Central School District, New York|5196|94.88%|11.89%|
 |Lockney Independent School District, Texas|2097|94.85%|11.89%|
 |Tell City-Troy Township School Corporation, Indiana|10468|94.85%|11.89%|
@@ -6750,10 +6199,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Essex North Supervisory Union, Vermont|3231|96.19%|11.92%|
 |Upper Lake Unified School District, California|5643|79.14%|11.92%|
 |Bainbridge-Guilford Central School District, New York|5322|97.26%|11.93%|
-|Machiasport, Maine|1008|92.56%|11.93%|
 |Miamisburg City School District, Ohio|37628|87.97%|11.93%|
 |Vineland City School District, New Jersey|59405|66.44%|11.93%|
-|Arthur County Schools, Nebraska|483|95.45%|11.93%|
 |Chapman Unified School District 473, Kansas|4995|93.93%|11.93%|
 |Strasburg-Franklin Local School District, Ohio|4677|96.17%|11.93%|
 |Quincy School District 172, Illinois|49806|90.68%|11.93%|
@@ -6780,7 +6227,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Elizabeth City School District, New Jersey|128484|37.14%|11.96%|
 |Ozark R-VI School District, Missouri|32298|94.26%|11.96%|
 |Wayne Community School District, Iowa|4092|95.41%|11.96%|
-|Roque Bluffs, Maine|318|94.65%|11.96%|
 |Brockway Area School District, Pennsylvania|6986|98.01%|11.96%|
 |Wausaukee School District, Wisconsin|3773|96.37%|11.96%|
 |Caruthers Unified School District, California|4819|50.07%|11.96%|
@@ -6840,7 +6286,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Eveleth-Gilbert School District, Minnesota|8954|96.01%|12.04%|
 |Bartholomew County School Corporation, Indiana|77474|82.58%|12.04%|
 |Madison Public Schools, Nebraska|3161|86.11%|12.04%|
-|Windsor School District, New Hampshire|203|94.09%|12.04%|
 |Hancock County School District, Mississippi|28027|94.0%|12.05%|
 |Jemez Valley Public Schools, New Mexico|5169|26.0%|12.05%|
 |Reardan-Edwall School District, Washington|3532|91.39%|12.05%|
@@ -6849,10 +6294,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |St. Louis City School District, Missouri|304709|46.44%|12.06%|
 |Creek Valley Schools, Nebraska|1823|97.37%|12.06%|
 |Gaston County Schools, North Carolina|222119|75.85%|12.06%|
-|Sivells Bend Independent School District, Texas|620|94.84%|12.07%|
 |Fayette County School District, Kentucky|322200|73.71%|12.07%|
 |Leedey Public Schools, Oklahoma|1078|93.78%|12.07%|
-|Eagle Lake Public Schools, Maine|557|98.74%|12.07%|
 |Westfall Local School District, Ohio|8536|98.41%|12.07%|
 |Cherokee County School District, Alabama|26035|92.07%|12.07%|
 |Parchment School District, Michigan|11223|84.35%|12.07%|
@@ -6861,13 +6304,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Keystone School District, Pennsylvania|7393|98.58%|12.07%|
 |Glidden-Ralston Community School District, Iowa|1531|97.06%|12.08%|
 |Dublin City School District, Georgia|15762|31.18%|12.08%|
-|Summit Valley School District, Washington|558|94.98%|12.08%|
 |Hettinger Public School District 13, North Dakota|2030|94.68%|12.08%|
 |Cozad Community Schools, Nebraska|4664|93.72%|12.08%|
 |Pulaski Central School District, New York|5772|94.44%|12.08%|
 |McDade Independent School District, Texas|2428|64.46%|12.08%|
 |Mobile County School District, Alabama|387496|56.88%|12.08%|
-|Arriba-Flagler School District C-20, Colorado|1013|98.03%|12.08%|
 |Boulder Valley School District RE-2, Colorado|235257|86.97%|12.08%|
 |Tupper Lake Central School District, New York|5973|92.6%|12.08%|
 |Habersham County School District, Georgia|45204|85.0%|12.09%|
@@ -6884,7 +6325,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Cumberland County School District, Tennessee|60016|96.35%|12.11%|
 |Monahans-Wickett-Pyote Independent School District, Texas|10626|85.27%|12.11%|
 |Webberville Community Schools, Michigan|3884|95.26%|12.12%|
-|Benge School District, Washington|33|100.0%|12.12%|
 |Purcell Public Schools, Oklahoma|7673|83.89%|12.12%|
 |Questa Independent Schools, New Mexico|3818|95.55%|12.12%|
 |Twin Falls School District 411, Idaho|56545|87.82%|12.12%|
@@ -6893,22 +6333,18 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Tioga Independent School District, Texas|1286|95.49%|12.13%|
 |Chilton Independent School District, Texas|2109|66.86%|12.13%|
 |Port Angeles School District, Washington|32857|87.37%|12.13%|
-|Summit School District 54-6, South Dakota|593|75.38%|12.13%|
 |Brewton City School District, Alabama|5210|57.56%|12.13%|
 |Eufaula City School District, Alabama|11878|47.29%|12.13%|
 |Menahga Public School District, Minnesota|3608|95.7%|12.13%|
-|Litchfield Public Schools, Nebraska|756|97.09%|12.13%|
 |Morehouse Parish School District, Louisiana|25189|49.31%|12.14%|
 |Thayer Central Community Schools, Nebraska|2558|96.05%|12.14%|
 |Mecklenburg County Public Schools, Virginia|30726|62.48%|12.14%|
 |Staunton City Public Schools, Virginia|24660|82.92%|12.15%|
-|Whitewater K-12 Schools, Montana|222|81.53%|12.15%|
 |Hardin-Central C-2 School District, Missouri|1429|96.78%|12.15%|
 |Chapel Hill Independent School District (Smith County), Texas|20415|77.27%|12.15%|
 |Westwood Independent School District, Texas|13795|72.5%|12.15%|
 |Louisiana R-II School District, Missouri|4318|87.98%|12.15%|
 |Highland Joint School District 305, Idaho|1438|92.07%|12.15%|
-|South Lemhi School District 292, Idaho|575|94.43%|12.15%|
 |Salem-Keizer School District 24J, Oregon|266788|78.49%|12.15%|
 |Everett School District, Massachusetts|46275|54.06%|12.15%|
 |Albia Community School District, Iowa|6877|96.51%|12.16%|
@@ -6927,7 +6363,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Moorhead Public School District, Minnesota|46994|87.89%|12.18%|
 |Pine River-Backus Public School District, Minnesota|8015|92.99%|12.18%|
 |Forsyth County Schools, North Carolina|378499|64.15%|12.18%|
-|Roosevelt Public School District 18, North Dakota|631|94.93%|12.19%|
 |Colorado Springs School District 11, Colorado|243236|79.3%|12.19%|
 |Mid Peninsula School District, Michigan|1774|94.31%|12.19%|
 |Washington County School District, Alabama|16336|66.0%|12.19%|
@@ -6938,15 +6373,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Springfield Local School District (Mahoning County), Ohio|7777|98.68%|12.2%|
 |Littlefork-Big Falls School District, Minnesota|1597|97.5%|12.2%|
 |Akron School District R-1, Colorado|2577|91.93%|12.2%|
-|Opheim K-12 Schools, Montana|307|98.7%|12.21%|
 |Bardstown Independent School District, Kentucky|13268|83.43%|12.21%|
 |Lafayette County School District, Mississippi|16071|73.18%|12.21%|
 |Cassadaga Valley Central School District, New York|6458|93.91%|12.21%|
 |Cascade School District 422, Idaho|2186|96.25%|12.21%|
 |Valley Park School District, Missouri|8617|88.92%|12.21%|
-|Greeley County Schools Unified School District 200, Kansas|1156|81.75%|12.21%|
 |Eudora Unified School District 491, Kansas|7860|91.97%|12.21%|
-|Wheeler Central Schools, Nebraska|670|98.96%|12.21%|
 |Tigerton School District, Wisconsin|1620|91.48%|12.21%|
 |South Page Community School District, Iowa|1502|98.14%|12.22%|
 |Ottawa Unified School District 290, Kansas|14580|92.59%|12.22%|
@@ -6954,21 +6386,17 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Fort Scott Unified School District 234, Kansas|12183|91.94%|12.22%|
 |Fredericksburg City Public Schools, Virginia|29059|61.49%|12.22%|
 |Beaver Public Schools, Oklahoma|1866|77.49%|12.22%|
-|Des Moines Municipal Schools, New Mexico|540|93.89%|12.23%|
-|Montrose R-XIV School District, Missouri|895|99.66%|12.23%|
 |Union Gap School District, Washington|3339|79.1%|12.23%|
 |Lee County School District, Arkansas|8963|42.63%|12.23%|
 |Ely Public School District, Minnesota|4830|96.29%|12.23%|
 |Gunnison Watershed School District RE-1J, Colorado|16945|94.84%|12.23%|
 |Grant Parish School District, Louisiana|22339|79.15%|12.24%|
 |Esparto Unified School District, California|6875|84.06%|12.24%|
-|Islesboro, Maine|625|99.36%|12.24%|
 |Regional School Unit 73, Maine|9836|94.75%|12.24%|
 |Humboldt Table Rock Steinauer Public Schools, Nebraska|3167|96.78%|12.24%|
 |Jasper County Community Unit School District 1, Illinois|9399|97.24%|12.24%|
 |Oak Hill United School Corporation, Indiana|7283|93.94%|12.24%|
 |Wyoming Area School District, Pennsylvania|19482|96.84%|12.25%|
-|Skykomish School District, Washington|464|96.77%|12.25%|
 |Pocatello School District 25, Idaho|79053|87.43%|12.25%|
 |Buford City School District, Georgia|16003|60.59%|12.26%|
 |Smith County School District, Mississippi|15919|74.72%|12.26%|
@@ -6988,7 +6416,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Wooster City School District, Ohio|29353|90.71%|12.28%|
 |Bleckley County School District, Georgia|12870|70.64%|12.29%|
 |Thomasville City School District, Georgia|18530|39.41%|12.29%|
-|Pattonsburg R-II School District, Missouri|1065|93.71%|12.29%|
 |School Administrative District 45, Maine|2141|96.64%|12.29%|
 |Freer Independent School District, Texas|2703|90.94%|12.29%|
 |Roseville Community Schools, Michigan|43237|73.44%|12.29%|
@@ -7005,9 +6432,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Charleston School District, Arkansas|5199|95.71%|12.31%|
 |Cranberry Area School District, Pennsylvania|8669|97.99%|12.31%|
 |Staunton Community Unit School District 6, Illinois|7900|97.0%|12.31%|
-|Silverton School District 1, Colorado|646|94.27%|12.32%|
 |Waynesboro City Public Schools, Virginia|22300|80.22%|12.33%|
-|Queets-Clearwater School District, Washington|786|34.86%|12.33%|
 |Shikellamy School District, Pennsylvania|21209|93.95%|12.33%|
 |Union County School District, Kentucky|14582|82.7%|12.33%|
 |Fonda-Fultonville Central School District, New York|8692|94.4%|12.33%|
@@ -7022,7 +6447,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lyncourt Union Free School District, New York|3686|84.18%|12.34%|
 |Warren Community Unit School District 205, Illinois|2448|97.22%|12.34%|
 |Moshannon Valley School District, Pennsylvania|8606|80.44%|12.35%|
-|Forgan Public Schools, Oklahoma|838|79.24%|12.35%|
 |Afton Central School District, New York|3730|97.56%|12.35%|
 |Clarendon Independent School District, Texas|2869|88.18%|12.35%|
 |Willis Independent School District, Texas|42663|84.34%|12.35%|
@@ -7032,11 +6456,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Bray-Doyle Public Schools, Oklahoma|2214|85.55%|12.35%|
 |Cimarron Public Schools, Oklahoma|1641|95.12%|12.36%|
 |Maysville Public Schools, Oklahoma|2569|82.91%|12.36%|
-|Centerville Independent School District (Trinity County), Texas|801|100.0%|12.36%|
 |Wattsburg Area School District, Pennsylvania|10580|94.4%|12.36%|
 |Willard City School District, Ohio|10657|92.29%|12.36%|
 |Ashton Community Unit School District 275, Illinois|3585|91.85%|12.36%|
-|Mullen Public Schools, Nebraska|826|90.8%|12.36%|
 |Burgin Independent School District, Kentucky|2463|95.09%|12.37%|
 |Maxwell Unified School District, California|1777|72.14%|12.37%|
 |Comstock Public Schools, Michigan|16476|72.69%|12.37%|
@@ -7052,7 +6474,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Orange County School District, Florida|1373784|59.87%|12.39%|
 |Arthur Community Unit School District 305, Illinois|10097|97.96%|12.39%|
 |Chicopee School District, Massachusetts|55186|81.77%|12.39%|
-|Panola Public Schools, Oklahoma|1358|66.49%|12.4%|
 |Cohoes City School District, New York|16708|84.37%|12.4%|
 |Edison Local School District, Ohio|14280|97.84%|12.4%|
 |Cobden School Unit District 17, Illinois|3346|87.27%|12.4%|
@@ -7069,9 +6490,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Limestone County School District, Alabama|61192|83.57%|12.42%|
 |Fort Frye Local School District, Ohio|6400|97.13%|12.42%|
 |Avery County Schools, North Carolina|17510|91.94%|12.42%|
-|Gilmore City-Bradgate Community School District, Iowa|1015|94.88%|12.43%|
 |Starmont Community School District, Iowa|3727|97.99%|12.43%|
-|Butterfield Public School District, Minnesota|1071|83.38%|12.43%|
 |New Buffalo Area School District, Michigan|4163|95.77%|12.43%|
 |Richards Independent School District, Texas|1670|90.6%|12.43%|
 |Mossyrock School District, Washington|3200|86.66%|12.44%|
@@ -7085,7 +6504,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Killeen Independent School District, Texas|214179|48.39%|12.45%|
 |Sahuarita Unified District, Arizona|28371|86.01%|12.45%|
 |East Guernsey Local School District, Ohio|7918|96.88%|12.45%|
-|Rolla Unified School District 217, Kansas|917|88.22%|12.45%|
 |Gardner School District, Massachusetts|20605|86.34%|12.45%|
 |Greene County School District, Mississippi|13619|72.87%|12.46%|
 |Port Townsend School District, Washington|15484|93.32%|12.46%|
@@ -7101,10 +6519,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Boscobel Area School District, Wisconsin|5680|94.07%|12.48%|
 |Floodwood Public School District, Minnesota|1373|98.62%|12.48%|
 |Jefferson Schools, Michigan|11922|93.79%|12.48%|
-|Mullin Independent School District, Texas|868|94.82%|12.48%|
 |Geary County Schools Unified School District 475, Kansas|41107|65.58%|12.48%|
 |Randolph County Schools, North Carolina|113535|87.32%|12.49%|
-|Boistfort School District, Washington|1079|89.06%|12.49%|
 |Olive Public Schools, Oklahoma|2294|83.91%|12.49%|
 |Aztec Municipal Schools, New Mexico|18155|80.04%|12.49%|
 |Minto Public School District 20, North Dakota|1353|95.27%|12.49%|
@@ -7114,24 +6530,19 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Graham County Schools, North Carolina|8501|87.55%|12.49%|
 |Picayune School District, Mississippi|22688|71.43%|12.5%|
 |Montgomery County R-II School District, Missouri|8151|94.28%|12.5%|
-|Otis, Maine|923|95.99%|12.5%|
 |Brooke County School District, West Virginia|22162|95.11%|12.5%|
 |East Newton County R-VI School District, Missouri|8874|92.0%|12.5%|
-|Pribilof School District, Alaska|501|4.99%|12.5%|
 |Wray School District RD-2, Colorado|3592|93.71%|12.5%|
 |Taunton School District, Massachusetts|57327|78.53%|12.51%|
 |Heber Springs School District, Arkansas|12666|94.98%|12.51%|
-|Finley-Sharon Public School District 19, North Dakota|957|98.54%|12.51%|
 |Hollow Rock-Bruceton Special School District, Tennessee|3897|85.04%|12.51%|
 |East Central School District, Minnesota|6778|86.43%|12.51%|
-|Palo Pinto Independent School District, Texas|1066|92.96%|12.51%|
 |West Branch-Rose City Area Schools, Michigan|16367|96.12%|12.52%|
 |Batesville School District, Arkansas|20663|84.36%|12.52%|
 |Shelby County School District, Tennessee|747491|28.15%|12.52%|
 |Boston School District, Massachusetts|689326|52.11%|12.52%|
 |Blue Eye R-V School District, Missouri|5123|98.05%|12.52%|
 |Sterling Unified School District 376, Kansas|3220|92.45%|12.53%|
-|Winnett K-12 Schools, Montana|464|96.77%|12.53%|
 |Jefferson County School District 509J, Oregon|16867|57.46%|12.53%|
 |Wamego Unified School District 320, Kansas|8217|95.44%|12.53%|
 |Lake Pend Oreille School District 84, Idaho|32408|93.92%|12.54%|
@@ -7177,7 +6588,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Liberty Union-Thurston Local School District, Ohio|7644|95.88%|12.6%|
 |Calcasieu Parish School District, Louisiana|202858|69.34%|12.61%|
 |Garden Grove Unified School District, California|278012|34.77%|12.61%|
-|Great Northern School District, Washington|979|92.95%|12.61%|
 |Upper Dauphin Area School District, Pennsylvania|10040|91.9%|12.61%|
 |Woonsocket School District 55-4, South Dakota|1315|96.96%|12.61%|
 |Nebraska Unified District 1, Nebraska|2863|93.96%|12.61%|
@@ -7200,9 +6610,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Maries County R-I School District, Missouri|3969|97.96%|12.63%|
 |Sheridan School District 48J, Oregon|9504|85.92%|12.63%|
 |Knoxville Community Unit School District 202, Illinois|5615|96.06%|12.63%|
-|Miami Independent School District, Texas|682|98.09%|12.63%|
 |West Greene School District, Pennsylvania|4874|96.9%|12.64%|
-|Franklin Unorganized Territory, Maine|951|87.38%|12.64%|
 |Richland County Community Unit School District 1, Illinois|15703|95.76%|12.64%|
 |La Porte Community School Corporation, Indiana|37900|88.07%|12.64%|
 |Lamphere Public Schools, Michigan|16717|75.13%|12.64%|
@@ -7219,7 +6627,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |East Jordan Public Schools, Michigan|6634|96.67%|12.66%|
 |Maplewood Local School District, Ohio|5365|97.88%|12.66%|
 |Central Fulton School District, Pennsylvania|6361|94.83%|12.66%|
-|Klickitat School District, Washington|455|97.14%|12.67%|
 |Union-Endicott Central School District, New York|30528|86.51%|12.67%|
 |United South Central School District, Minnesota|6009|95.62%|12.67%|
 |Mapleton School District 32, Oregon|1386|96.25%|12.67%|
@@ -7235,7 +6642,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Midway R-I School District, Missouri|3405|93.98%|12.69%|
 |Gadsden County School District, Florida|45787|39.16%|12.69%|
 |Austin Public School District, Minnesota|28275|80.79%|12.69%|
-|Lewis Unified School District 502, Kansas|693|95.53%|12.69%|
 |Fort Campbell Dependent Schools, Kentucky|14363|69.34%|12.7%|
 |Davenport Public Schools, Oklahoma|1767|88.12%|12.7%|
 |Revere School District, Massachusetts|53400|72.39%|12.7%|
@@ -7253,7 +6659,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Ganado Independent School District, Texas|3271|85.85%|12.72%|
 |Lansingburgh Central School District, New York|16113|76.62%|12.72%|
 |Jefferson County School District, Tennessee|54162|94.96%|12.72%|
-|Kim Reorganized School District 88, Colorado|231|98.7%|12.72%|
 |Caldwell County Schools, North Carolina|82056|88.35%|12.72%|
 |San Saba Independent School District, Texas|4193|77.58%|12.73%|
 |Carrollton Exempted Village School District, Ohio|15355|96.31%|12.73%|
@@ -7261,7 +6666,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Odem-Edroy Independent School District, Texas|4618|90.49%|12.73%|
 |Lakeview School District, Pennsylvania|8190|96.56%|12.73%|
 |Marceline R-V School District, Missouri|3587|96.32%|12.74%|
-|Oaks-Mission Public Schools, Oklahoma|1611|49.29%|12.74%|
 |Wills Point Independent School District, Texas|13286|85.54%|12.74%|
 |Viborg Hurley School District 60-6, South Dakota|2294|93.77%|12.74%|
 |South Milwaukee School District, Wisconsin|20857|89.93%|12.74%|
@@ -7305,7 +6709,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Hudson Falls Central School District, New York|15023|93.48%|12.81%|
 |Leon Independent School District, Texas|4886|92.92%|12.81%|
 |North Fond du Lac School District, Wisconsin|8589|95.73%|12.81%|
-|Shickley Public Schools, Nebraska|639|95.46%|12.81%|
 |Howland Local School District, Ohio|21712|90.85%|12.81%|
 |Rapid River Public Schools, Michigan|2462|92.89%|12.81%|
 |Livingston County School District, Kentucky|9172|97.07%|12.82%|
@@ -7313,11 +6716,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pickens County School District, Alabama|20049|56.78%|12.82%|
 |Wabash Community Unit School District 348, Illinois|9957|95.75%|12.82%|
 |Red River Parish School District, Louisiana|8462|56.62%|12.83%|
-|Bellevue Independent School District, Texas|934|94.22%|12.83%|
 |Weldon City Schools, North Carolina|7444|28.0%|12.83%|
 |Warren County School District, Pennsylvania|36101|96.7%|12.83%|
 |Wayne County School District, Georgia|29959|74.46%|12.83%|
-|Long Lake Central School District, New York|398|94.47%|12.83%|
 |Seymour Community Schools, Indiana|29384|86.09%|12.83%|
 |Yellow Springs Exempted Village School District, Ohio|4478|84.23%|12.84%|
 |Amphitheater Unified District, Arizona|145973|77.53%|12.84%|
@@ -7336,7 +6737,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Sherman Independent School District, Texas|45894|78.08%|12.88%|
 |Hardin Northern Local School District, Ohio|2605|97.43%|12.88%|
 |Greenfield Community Unit School District 10, Illinois|3058|97.97%|12.88%|
-|Custer K-12 Schools, Montana|337|94.36%|12.89%|
 |Brewer, Maine|9026|97.25%|12.89%|
 |Abbeville County School District, South Carolina|23501|70.08%|12.89%|
 |Barron Area School District, Wisconsin|8834|87.48%|12.89%|
@@ -7353,7 +6753,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Stokes County Schools, North Carolina|45688|92.8%|12.92%|
 |Northern Tioga School District, Pennsylvania|14182|96.46%|12.92%|
 |Philadelphia Public School District, Mississippi|6585|43.46%|12.92%|
-|Stony Creek Joint Unified School District, California|770|68.31%|12.92%|
 |Tonasket School District, Washington|6622|79.4%|12.92%|
 |Panama Central School District, New York|3469|98.76%|12.92%|
 |Sebeka Public School District, Minnesota|3163|93.08%|12.92%|
@@ -7373,8 +6772,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Salisbury R-IV School District, Missouri|3279|96.86%|12.94%|
 |Alma Center School District, Wisconsin|3143|88.26%|12.94%|
 |Washington Unorganized Territory, Maine|1320|95.45%|12.94%|
-|Todd County School District 66-1, South Dakota|10308|9.35%|12.94%|
-|Hyannis Area Schools, Nebraska|1018|94.6%|12.94%|
 |Linden Unified School District, California|12593|65.24%|12.95%|
 |Pass Christian Public School District, Mississippi|11405|71.87%|12.95%|
 |Canaseraga Central School District, New York|1465|98.63%|12.95%|
@@ -7383,7 +6780,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Platte County School District 2, Wyoming|1341|97.24%|12.95%|
 |Bay City Independent School District, Texas|20150|55.65%|12.96%|
 |Franklin County School District, Mississippi|7716|62.97%|12.96%|
-|Gackle-Streeter Public School District 56, North Dakota|942|92.68%|12.96%|
 |Glens Falls City School District, New York|14394|93.03%|12.96%|
 |Glen Rose Independent School District, Texas|8879|90.12%|12.96%|
 |South Central Community Unit School District 401, Illinois|4278|98.55%|12.96%|
@@ -7403,7 +6799,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Azusa Unified School District, California|68481|51.04%|12.98%|
 |Thackerville Public Schools, Oklahoma|1557|81.57%|12.99%|
 |Au Gres-Sims School District, Michigan|3177|96.25%|12.99%|
-|Munich Public School District 19, North Dakota|673|98.37%|12.99%|
 |Adena Local School District, Ohio|7606|95.58%|12.99%|
 |Orchard View Schools, Michigan|16191|81.39%|12.99%|
 |Bad Axe Public Schools, Michigan|6375|93.84%|13.0%|
@@ -7419,7 +6814,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Clintondale Community Schools, Michigan|17324|58.62%|13.01%|
 |Hobart School City, Indiana|23081|82.9%|13.01%|
 |Maysville Local School District, Ohio|10575|96.54%|13.01%|
-|Dummer School District, New Hampshire|295|98.98%|13.01%|
 |Roosevelt Independent School District, Texas|4621|86.95%|13.01%|
 |Corning Community School District, Iowa|2531|95.46%|13.02%|
 |Grove Public Schools, Oklahoma|18665|77.27%|13.02%|
@@ -7428,9 +6822,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Fillmore Central, Minnesota|4814|98.19%|13.02%|
 |Snowflake Unified District, Arizona|13262|88.76%|13.02%|
 |Greenville Area School District, Pennsylvania|9709|97.28%|13.02%|
-|Blackwell Consolidated Independent School District, Texas|697|96.99%|13.02%|
 |Philipsburg K-12 Schools, Montana|2007|95.37%|13.03%|
-|Wellman-Union Consolidated Independent School District, Texas|740|92.3%|13.03%|
 |Chequamegon School District, Wisconsin|6016|96.64%|13.03%|
 |Moriah Central School District, New York|4536|90.72%|13.03%|
 |Saranac Lake Central School District, New York|13403|85.32%|13.03%|
@@ -7438,15 +6830,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Charles City County Public Schools, Virginia|6965|44.03%|13.03%|
 |Fayette R-III School District, Missouri|5131|89.65%|13.04%|
 |Little Axe Public Schools, Oklahoma|6038|77.51%|13.04%|
-|LaCrosse School District, Washington|735|84.49%|13.04%|
 |Corrigan-Camden Independent School District, Texas|6306|67.89%|13.04%|
 |Muscogee County School District, Georgia|185504|40.96%|13.04%|
 |Williams Unified School District, California|5992|80.57%|13.04%|
 |Regional School Unit 39, Maine|7875|96.19%|13.04%|
 |Clearbrook-Gonvick School District, Minnesota|2807|94.16%|13.04%|
 |Gladwin Community Schools, Michigan|13385|96.2%|13.04%|
-|Moscow Public Schools Unified School District 209, Kansas|630|92.54%|13.04%|
-|Columbia School District, New Hampshire|611|99.18%|13.04%|
 |Rusk Independent School District, Texas|11828|77.2%|13.04%|
 |Troy Area School District, Pennsylvania|10661|96.43%|13.05%|
 |Bridgeport-Spaulding Community School District, Michigan|14382|61.83%|13.05%|
@@ -7496,7 +6885,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lisbon Public School District 19, North Dakota|3105|98.26%|13.12%|
 |Cloverdale Community Schools, Indiana|7213|96.33%|13.12%|
 |North Sanpete School District, Utah|11984|92.31%|13.12%|
-|McClave School District RE-2, Colorado|549|95.81%|13.12%|
 |Greenville City School District, Ohio|21760|96.46%|13.13%|
 |Southeast Delco School District, Pennsylvania|30363|40.77%|13.13%|
 |Waterloo Community School District, Iowa|76661|75.93%|13.13%|
@@ -7506,10 +6894,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Waverly City School District, Ohio|11041|96.9%|13.14%|
 |Vermilion Parish School District, Louisiana|59787|81.09%|13.15%|
 |Washington County Schools, North Carolina|11788|45.95%|13.15%|
-|Evaline School District, Washington|1070|91.68%|13.15%|
 |Emmett Independent School District 221, Idaho|17771|88.37%|13.15%|
 |Bradford Community Unit School District 1, Illinois|1530|97.52%|13.15%|
-|Heart Butte K-12 Schools, Montana|780|4.87%|13.16%|
 |Jasper County R-V School District, Missouri|3310|92.93%|13.16%|
 |Belpre City School District, Ohio|7757|93.88%|13.16%|
 |Canutillo Independent School District, Texas|32453|67.71%|13.16%|
@@ -7526,11 +6912,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Heath City School District, Ohio|10772|90.04%|13.18%|
 |Jones County School District, Georgia|28622|72.27%|13.18%|
 |Ponca Public Schools, Nebraska|1862|95.92%|13.18%|
-|School Administrative District 76, Maine|579|72.54%|13.19%|
 |Spartanburg School District 7, South Carolina|53424|53.08%|13.19%|
 |Carmi-White County Community Unit School District 5, Illinois|8365|96.47%|13.19%|
 |Dearborn Heights School District 7, Michigan|11666|88.0%|13.19%|
-|Elk Valley Unified School District 283, Kansas|805|92.3%|13.19%|
 |South Vermillion Community School Corporation, Indiana|11234|97.85%|13.19%|
 |Climax Springs R-IV School District, Missouri|1830|93.55%|13.2%|
 |Bossier Parish School District, Louisiana|126952|70.73%|13.2%|
@@ -7544,20 +6928,17 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Fremont City School District, Ohio|28677|86.17%|13.22%|
 |Adams Township School District, Michigan|3149|94.25%|13.22%|
 |Elkton School District 05-3, South Dakota|1430|93.36%|13.22%|
-|Jayton-Girard Independent School District, Texas|676|95.41%|13.22%|
 |Longview Independent School District, Texas|56529|63.28%|13.22%|
 |Alpine Independent School District, Texas|7948|87.98%|13.23%|
 |Mountain View School District 244, Idaho|9727|94.41%|13.23%|
 |Southwest Vermont Supervisory Union, Vermont|22172|95.65%|13.23%|
 |Westfield Central School District, New York|4743|92.77%|13.23%|
-|Big Sandy K-12 Schools, Montana|1142|85.99%|13.24%|
 |Lake Chelan School District, Washington|6593|82.53%|13.24%|
 |General Brown Central School District, New York|8916|92.32%|13.24%|
 |Perry Central School District, New York|6090|88.54%|13.24%|
 |North Adams-Jerome Schools, Michigan|3305|98.06%|13.24%|
 |Lakin Unified School District 215, Kansas|2605|92.36%|13.24%|
 |Guttenberg Town School District, New Jersey|11284|59.34%|13.25%|
-|Macwahoc Plantation, Maine|85|97.65%|13.25%|
 |Randolph Eastern School Corporation, Indiana|4931|92.52%|13.25%|
 |Buckeye Local School District (Belmont, Harrison, and Jefferson Counties), Ohio|14157|97.37%|13.25%|
 |Ithaca Public Schools, Michigan|6857|93.8%|13.25%|
@@ -7576,7 +6957,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Chateaugay Central School District, New York|2852|95.41%|13.27%|
 |Bruce School District, Wisconsin|3366|93.43%|13.27%|
 |Onamia Public School District, Minnesota|5224|71.31%|13.27%|
-|Dutton/Brady K-12 Schools, Montana|839|95.11%|13.28%|
 |Jackson Parish School District, Louisiana|15822|67.33%|13.28%|
 |Lafourche Parish School District, Louisiana|97980|78.63%|13.28%|
 |Pierce County School District, Georgia|19336|85.69%|13.28%|
@@ -7586,7 +6966,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Appleton City R-II School District, Missouri|2541|98.31%|13.28%|
 |Cherry Valley-Springfield Central School District, New York|3967|98.06%|13.29%|
 |Carlsbad Municipal Schools, New Mexico|37506|83.09%|13.29%|
-|Marshfield, Maine|527|95.64%|13.29%|
 |Hudson City School District, New York|15613|77.63%|13.29%|
 |Siuslaw School District 97J, Oregon|15519|91.89%|13.29%|
 |Polk County School District, Florida|705735|73.34%|13.29%|
@@ -7610,7 +6989,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Allen Parish School District, Louisiana|25572|73.95%|13.33%|
 |Transylvania County Schools, North Carolina|34039|91.48%|13.33%|
 |Hamilton City School District, Ohio|62093|82.96%|13.33%|
-|Monument School District 8, Oregon|473|79.28%|13.33%|
 |Portage Township Schools, Indiana|47354|84.59%|13.33%|
 |Montgomery County Schools, North Carolina|27223|75.55%|13.34%|
 |Edwards-Knox Central School District, New York|2889|98.44%|13.34%|
@@ -7642,7 +7020,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |McLouth Unified School District 342, Kansas|3041|96.19%|13.38%|
 |Calaveras Unified School District, California|28419|87.09%|13.39%|
 |Hoke County Schools, North Carolina|54563|44.05%|13.39%|
-|Earlsboro Public Schools, Oklahoma|1223|73.59%|13.39%|
 |Covington County School District, Mississippi|18810|62.16%|13.4%|
 |Enid Public Schools, Oklahoma|45353|76.74%|13.4%|
 |Kosciusko School District, Mississippi|10744|47.65%|13.4%|
@@ -7656,7 +7033,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Uniondale Union Free School District, New York|44732|31.11%|13.4%|
 |Rock Island-Milan School District 41, Illinois|44013|71.34%|13.4%|
 |Topeka Public Schools Unified School District 501, Kansas|94758|74.43%|13.41%|
-|Corbin City School District, New Jersey|704|97.44%|13.41%|
 |Palo Verde Unified School District, California|22508|48.74%|13.41%|
 |Sacramento City Unified School District, California|344396|48.46%|13.41%|
 |Lamar County School District, Georgia|18834|66.76%|13.41%|
@@ -7664,7 +7040,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Owosso Public Schools, Michigan|24018|95.34%|13.41%|
 |Terrebonne Parish School District, Louisiana|111297|69.51%|13.42%|
 |Clarksville Independent School District, Texas|5068|59.25%|13.42%|
-|Iredell Independent School District, Texas|676|98.08%|13.42%|
 |Chambers County School District, Alabama|27207|62.25%|13.42%|
 |Hanover School District 28, Colorado|2133|82.42%|13.42%|
 |Sault Ste. Marie Area Schools, Michigan|20292|72.49%|13.42%|
@@ -7674,10 +7049,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |North Nodaway County R-VI School District, Missouri|1298|98.07%|13.43%|
 |Greenwood School District 52, South Carolina|7166|79.14%|13.43%|
 |Salmon School District 291, Idaho|7244|94.08%|13.43%|
-|Colome Consolidated School District 59-3, South Dakota|1103|83.68%|13.43%|
 |Harnett County Schools, North Carolina|134328|66.83%|13.44%|
 |Garrard County School District, Kentucky|17554|94.64%|13.44%|
-|Dietrich School District 314, Idaho|805|94.29%|13.44%|
 |Scranton School District, Arkansas|2678|91.71%|13.44%|
 |Schuyler Community Schools, Nebraska|8377|74.08%|13.44%|
 |Monroe County School District, Georgia|27455|73.66%|13.45%|
@@ -7689,7 +7062,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Fairland Public Schools, Oklahoma|3062|69.27%|13.46%|
 |Gallup-McKinley County Schools, New Mexico|63769|14.54%|13.46%|
 |Cañon City School District RE-1, Colorado|27501|93.89%|13.46%|
-|Cement Public Schools, Oklahoma|1229|69.49%|13.47%|
 |Standish-Sterling Community School District, Michigan|9642|96.56%|13.48%|
 |Roselle Borough School District, New Jersey|21699|23.07%|13.48%|
 |Cornell School District, Wisconsin|2994|97.06%|13.48%|
@@ -7726,26 +7098,21 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Frontier Local School District, Ohio|4789|96.97%|13.54%|
 |Roanoke City Public Schools, Virginia|99122|61.47%|13.54%|
 |Carrollton R-VII School District, Missouri|4922|94.45%|13.55%|
-|Clayton Public Schools, Oklahoma|1365|61.61%|13.55%|
 |Granite Public Schools, Oklahoma|2292|75.13%|13.55%|
 |Elkhart Community Schools, Indiana|77783|79.77%|13.55%|
 |Arlington Independent School District, Texas|356374|56.84%|13.56%|
-|Westby K-12 Schools, Montana|450|96.67%|13.56%|
 |Addison Central School District, New York|6764|97.66%|13.56%|
 |Harrison County School District, West Virginia|67620|95.08%|13.56%|
-|Hayes Center Public Schools, Nebraska|671|96.72%|13.56%|
 |Santa Anna Independent School District, Texas|1786|87.23%|13.57%|
 |Savoy Independent School District, Texas|2037|95.58%|13.57%|
 |Tyler Independent School District, Texas|131196|68.25%|13.57%|
 |Oakville School District, Washington|2200|74.82%|13.57%|
 |Crete Public Schools, Nebraska|10418|85.87%|13.57%|
-|Esmeralda County School District, Nevada|1030|96.99%|13.57%|
 |Wayne Township Metropolitan School District, Indiana|82429|59.39%|13.57%|
 |Spring Independent School District, Texas|195110|45.97%|13.58%|
 |East Tallahatchie School District, Mississippi|7900|49.96%|13.58%|
 |Hancock County School District, West Virginia|29118|94.46%|13.58%|
 |Holly School District RE-3, Colorado|1327|92.54%|13.58%|
-|Rosebud K-12, Montana|460|97.61%|13.59%|
 |Atchison Public Schools Unified School District 409, Kansas|11715|86.88%|13.59%|
 |Ludington Area School District, Michigan|16491|94.6%|13.59%|
 |Kellyville Public Schools, Oklahoma|6524|79.06%|13.6%|
@@ -7754,7 +7121,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |School Administrative District 40, Maine|15322|96.21%|13.6%|
 |Union-North United School Corporation, Indiana|7990|91.33%|13.6%|
 |Roland Public Schools, Oklahoma|5574|71.12%|13.61%|
-|Roy Municipal Schools, New Mexico|274|61.68%|13.61%|
 |Minidoka County Joint School District 331, Idaho|21381|89.38%|13.61%|
 |Remainder of Missouri, Missouri|101934|94.52%|13.61%|
 |Morgan County School District, Alabama|50785|90.17%|13.61%|
@@ -7768,7 +7134,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Trigg County School District, Kentucky|14569|89.79%|13.63%|
 |Harrison Town School District, New Jersey|18313|42.47%|13.63%|
 |Wyoming Valley West School District, Pennsylvania|41151|90.13%|13.63%|
-|Warrensville Heights City School District, Ohio|15033|6.64%|13.63%|
 |Clintonville School District, Wisconsin|9378|92.51%|13.63%|
 |Bayard Public Schools, Nebraska|2486|89.5%|13.63%|
 |Central Valley Public Schools, Nebraska|2254|97.43%|13.63%|
@@ -7782,7 +7147,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Dighton Unified School District 482, Kansas|1175|93.79%|13.64%|
 |Owen-Withee School District, Wisconsin|4444|95.75%|13.64%|
 |Prairie du Chien Area School District, Wisconsin|8178|93.64%|13.64%|
-|Creede School District, Colorado|853|82.53%|13.64%|
 |Newaygo Public School District, Michigan|10870|90.66%|13.64%|
 |Seymour Independent School District, Texas|3592|92.43%|13.65%|
 |Washington Unified School District (Yolo County), California|53574|63.36%|13.65%|
@@ -7800,7 +7164,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Hubbard Exempted Village School District, Ohio|12831|93.68%|13.67%|
 |Middletown City School District, New York|42291|53.08%|13.67%|
 |Aliquippa School District, Pennsylvania|8918|58.96%|13.67%|
-|Minatare Public Schools, Nebraska|1064|90.04%|13.67%|
 |Advance R-IV School District, Missouri|3190|96.96%|13.67%|
 |North Clarion County School District, Pennsylvania|4702|96.85%|13.68%|
 |Lathrop R-II School District, Missouri|4428|95.44%|13.68%|
@@ -7812,13 +7175,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Falconer Central School District, New York|6488|97.23%|13.7%|
 |School Administrative District 55, Maine|7743|91.77%|13.7%|
 |Webb City R-VII School District, Missouri|22216|90.98%|13.7%|
-|Parshall Public School District 3, North Dakota|1816|48.73%|13.7%|
 |Jay School Corporation, Indiana|20697|96.45%|13.7%|
 |Eastern Local School District (Meigs County), Ohio|5070|98.82%|13.7%|
 |Mesquite Independent School District, Texas|172942|57.81%|13.7%|
 |East Knox Local School District, Ohio|10244|96.39%|13.7%|
 |Asheboro City Schools, North Carolina|29925|71.82%|13.7%|
-|Excelsior Independent School District, Texas|580|89.31%|13.71%|
 |Fremont County Joint School District 215, Idaho|12141|93.73%|13.71%|
 |Aurora East Unit School District 131, Illinois|83907|52.78%|13.71%|
 |Haywood County School District, Tennessee|17391|45.42%|13.71%|
@@ -7845,7 +7206,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Olton Independent School District, Texas|2913|85.72%|13.74%|
 |Sandusky Community School District, Michigan|6829|94.92%|13.74%|
 |Page County Public Schools, Virginia|23862|94.65%|13.74%|
-|Driscoll Independent School District, Texas|1157|69.14%|13.75%|
 |Edgecombe County Schools, North Carolina|42345|47.69%|13.75%|
 |Central Valley School District, New York|14041|92.32%|13.76%|
 |Airport Community School District, Michigan|20027|93.4%|13.76%|
@@ -7893,7 +7253,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Entiat School District, Washington|2114|81.41%|13.85%|
 |Wheeler Independent School District, Texas|1916|95.82%|13.85%|
 |Cleburne County School District, Alabama|14768|93.25%|13.85%|
-|Newcastle Independent School District, Texas|983|95.42%|13.85%|
 |Rockford School District 205, Illinois|185846|69.04%|13.85%|
 |Rock Hills Unified School District 107, Kansas|2480|94.4%|13.86%|
 |North Adams School District, Massachusetts|12897|87.69%|13.87%|
@@ -7924,7 +7283,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Batavia Local School District, Ohio|12735|91.96%|13.93%|
 |Marshall County School District, Tennessee|33708|89.09%|13.93%|
 |Lancaster School District, Pennsylvania|75870|61.6%|13.93%|
-|Cutler, Maine|609|95.4%|13.94%|
 |Ohio County School District, West Virginia|41875|92.42%|13.94%|
 |Croswell-Lexington Community School District, Michigan|12906|95.99%|13.94%|
 |Bremond Independent School District, Texas|2172|74.86%|13.95%|
@@ -7946,7 +7304,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Auburn City School District, New York|31970|85.95%|13.98%|
 |Rockdale County School District, Georgia|90155|35.82%|13.98%|
 |Izard Cty Consolidated Schools, Arkansas|4615|93.56%|13.98%|
-|Gilmanton School District, Wisconsin|978|99.49%|13.98%|
 |East Buchanan County C-1 School District, Missouri|4157|98.12%|13.99%|
 |Mercer County School District, Kentucky|19227|92.33%|13.99%|
 |Gentry Public Schools, Arkansas|9147|89.6%|13.99%|
@@ -7990,7 +7347,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Searcy School District, Arkansas|33311|87.94%|14.08%|
 |Bedford County School District, Tennessee|48937|85.31%|14.08%|
 |Wheatland-Chili Central School District, New York|5367|90.11%|14.08%|
-|Grant Public School, Oklahoma|1402|51.71%|14.09%|
 |Tukwila School District, Washington|19397|30.67%|14.09%|
 |West Burlington Independent School District, Iowa|2637|85.74%|14.09%|
 |McKenzie School District 68, Oregon|2608|83.17%|14.09%|
@@ -7999,13 +7355,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Gosnell School District, Arkansas|5119|79.55%|14.1%|
 |Cadott Community School District, Wisconsin|4595|97.0%|14.1%|
 |Hunt Independent School District, Texas|1751|84.64%|14.1%|
-|Hayden-Winkelman Unified District, Arizona|1178|73.43%|14.1%|
 |East Detroit Public Schools, Michigan|38250|49.99%|14.1%|
 |Cumberland County Schools, North Carolina|309166|47.28%|14.1%|
 |Ridgway Area School District, Pennsylvania|6711|95.19%|14.11%|
 |Canton Central School District, New York|12293|91.12%|14.11%|
 |Graford Independent School District, Texas|2422|96.53%|14.11%|
-|Huntington School District 16J, Oregon|524|94.85%|14.11%|
 |Galatia Community Unit School District 1, Illinois|2504|93.33%|14.11%|
 |Laurel Highlands School District, Pennsylvania|22462|94.25%|14.11%|
 |Adair County R-I School District, Missouri|2144|94.17%|14.12%|
@@ -8030,7 +7384,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Magnolia School District, Arkansas|20177|56.93%|14.16%|
 |Madrid-Waddington Central School District, New York|3973|96.02%|14.16%|
 |Apple Valley Unified School District, California|81290|74.02%|14.16%|
-|Trinidad Independent School District, Texas|835|71.02%|14.17%|
 |Garfield City School District, New Jersey|31722|80.06%|14.17%|
 |New Haven School District, Missouri|3094|87.56%|14.17%|
 |Niles City School District, Ohio|18226|91.29%|14.17%|
@@ -8042,7 +7395,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Monroe County School District, Alabama|21006|54.39%|14.17%|
 |Madison County Schools, North Carolina|21608|94.85%|14.18%|
 |Oconee County School District, South Carolina|78314|87.08%|14.18%|
-|Plush School District 18, Oregon|143|93.71%|14.18%|
 |North Putnam Community Schools, Indiana|9863|99.61%|14.18%|
 |Canadian Public Schools, Oklahoma|4383|85.63%|14.18%|
 |Franklin County School District, Tennessee|40198|90.16%|14.19%|
@@ -8072,7 +7424,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Spur Independent School District, Texas|1694|89.61%|14.24%|
 |Central Unified School District, California|81977|47.17%|14.25%|
 |Barberton City School District, Ohio|26006|88.66%|14.25%|
-|Tina-Avalon R-II School District, Missouri|863|97.33%|14.25%|
 |Schuyler-Industry Community Unit School District 5, Illinois|7459|93.69%|14.25%|
 |Fairmont Area School District, Minnesota|11982|96.51%|14.25%|
 |Walthall County School District, Mississippi|14423|53.1%|14.26%|
@@ -8092,18 +7443,15 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Turner Public Schools, Oklahoma|2493|81.47%|14.28%|
 |Cassville School District, Wisconsin|1902|97.79%|14.28%|
 |Cleveland Public Schools, Oklahoma|9312|81.3%|14.29%|
-|Star School District, Washington|70|80.0%|14.29%|
 |Arenac Eastern School District, Michigan|2253|91.83%|14.29%|
 |Coos Bay School District 9, Oregon|27656|84.85%|14.29%|
 |Decatur School District 61, Illinois|64791|68.12%|14.29%|
 |Sherman Central School District, New York|2243|96.39%|14.29%|
-|Fowler Unified School District 225, Kansas|747|90.23%|14.29%|
 |Oswayo Valley School District, Pennsylvania|3044|99.28%|14.3%|
 |Wilkes-Barre Area School District, Pennsylvania|58766|72.95%|14.3%|
 |Eureka Unified School District 389, Kansas|3884|94.98%|14.3%|
 |Alleghany County Public Schools, Virginia|15030|92.65%|14.3%|
 |Iberia Parish School District, Louisiana|70763|59.67%|14.31%|
-|Taliaferro County School District, Georgia|1596|37.66%|14.31%|
 |Sam Rayburn Independent School District, Texas|2301|94.44%|14.31%|
 |Vernon Parish School District, Louisiana|49315|75.38%|14.32%|
 |Catskill Central School District, New York|11518|86.15%|14.32%|
@@ -8112,7 +7460,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Weaubleau R-III School District, Missouri|3381|91.66%|14.33%|
 |Windham Northeast Supervisory Union, Vermont|8897|93.98%|14.33%|
 |Emporia City Public Schools, Virginia|5408|29.46%|14.33%|
-|Weldon Valley School District RE-20J, Colorado|912|94.85%|14.34%|
 |Gladstone School District 115, Oregon|11389|82.82%|14.34%|
 |Michigan City Area Schools, Indiana|48040|72.98%|14.34%|
 |Tullahoma City School District, Tennessee|19982|88.38%|14.34%|
@@ -8154,9 +7501,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Aransas Pass Independent School District, Texas|11690|80.1%|14.41%|
 |Oskaloosa Community School District, Iowa|16405|92.87%|14.41%|
 |Rush Springs Public Schools, Oklahoma|3522|88.13%|14.41%|
-|Dunseith Public School District 1, North Dakota|3067|16.34%|14.41%|
 |Mineral Springs School District, Arkansas|3560|63.43%|14.41%|
-|Eustis, Maine|481|98.13%|14.41%|
 |Mount Morris Central School District, New York|5940|75.3%|14.41%|
 |Lafayette School Corporation, Indiana|58766|81.87%|14.41%|
 |Fowler Unified School District, California|10562|68.94%|14.42%|
@@ -8186,7 +7531,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Laona School District, Wisconsin|1407|84.58%|14.45%|
 |Pocantico Hills Central School District, New York|4413|47.41%|14.45%|
 |Vandercook Lake Public Schools, Michigan|4762|96.85%|14.46%|
-|Dixie School District, Washington|489|98.98%|14.46%|
 |Central Independent School District, Texas|7211|80.02%|14.46%|
 |Lewistown Community Unit School District 97, Illinois|4561|97.06%|14.46%|
 |Pine Bush Central School District, New York|33197|74.83%|14.46%|
@@ -8195,7 +7539,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Riverton Community Unit School District 14, Illinois|7387|93.52%|14.46%|
 |Crawford County R-I School District, Missouri|6384|95.21%|14.46%|
 |Marshalltown Community School District, Iowa|30048|81.02%|14.47%|
-|New Sweden, Maine|521|87.91%|14.47%|
 |Godfrey-Lee Public Schools, Michigan|8438|50.76%|14.47%|
 |Ripley Central School District, New York|2103|97.72%|14.47%|
 |Mason County Central Schools, Michigan|7911|95.12%|14.47%|
@@ -8272,7 +7615,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Wellsville Central School District, New York|8813|97.1%|14.63%|
 |Center Joint Unified School District, California|29415|70.99%|14.64%|
 |Elmore City-Pernell Schools, Oklahoma|3211|84.4%|14.64%|
-|Diagonal Community School District, Iowa|851|94.95%|14.64%|
 |Scott County School District, Mississippi|19044|57.82%|14.64%|
 |Walker County School District, Georgia|66153|91.73%|14.64%|
 |Bear Lake County School District 33, Idaho|5914|94.18%|14.64%|
@@ -8291,8 +7633,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Haralson County School District, Georgia|22551|92.06%|14.66%|
 |Tate County School District, Mississippi|18046|68.95%|14.66%|
 |Center-Stanton Public School District 1, North Dakota|2056|91.78%|14.66%|
-|School Administration District 10, Maine|273|69.96%|14.66%|
-|Henry School District 14-2, South Dakota|567|95.06%|14.66%|
 |Adams County School District 14, Colorado|41488|72.44%|14.66%|
 |Whitney Point Central School District, New York|8767|97.75%|14.66%|
 |Spokane Public Schools, Washington|229213|83.93%|14.67%|
@@ -8351,7 +7691,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Colleton County School District, South Carolina|37624|57.04%|14.81%|
 |East Chambers Independent School District, Texas|5680|82.61%|14.81%|
 |Crestview Local School District (Ashland and Richland Counties), Ohio|7752|96.22%|14.81%|
-|Lewiston Consolidated Schools, Nebraska|714|94.54%|14.81%|
 |V.I.T. Community Unit School District 2, Illinois|2302|97.13%|14.82%|
 |Muhlenberg County School District, Kentucky|30815|92.58%|14.83%|
 |Hico Independent School District, Texas|3408|93.9%|14.83%|
@@ -8363,30 +7702,24 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Piggott School District, Arkansas|5365|96.79%|14.84%|
 |Hill City Public School District, Minnesota|1571|94.08%|14.84%|
 |Sunapee School District, New Hampshire|3476|98.85%|14.84%|
-|Walsh School District RE-1, Colorado|895|88.04%|14.85%|
 |Mount Union Area School District, Pennsylvania|9035|95.17%|14.85%|
 |Winfield R-IV School District, Missouri|9409|94.41%|14.85%|
 |Watervliet School District, Michigan|6862|88.11%|14.86%|
-|Cooter R-IV School District, Missouri|754|91.51%|14.86%|
 |Clarksdale Municipal School District, Mississippi|15342|15.62%|14.86%|
 |Los Angeles Unified School District, California|4725640|48.41%|14.86%|
 |Plainfield City School District, New Jersey|50252|25.94%|14.86%|
 |Hector School District, Arkansas|3460|94.65%|14.86%|
 |North Rose-Wolcott Central School District, New York|8631|92.99%|14.86%|
 |Van Buren County School District, Tennessee|5813|96.39%|14.86%|
-|Iditarod Area School District, Alaska|1048|14.31%|14.86%|
 |Leon County School District, Florida|291863|60.21%|14.87%|
 |Jackson County Schools, North Carolina|40035|88.83%|14.88%|
-|Mansfield School District, Washington|518|92.08%|14.88%|
 |Sayre Public Schools, Oklahoma|6010|76.44%|14.88%|
 |Gholson Independent School District, Texas|1346|82.39%|14.88%|
 |Helena-West Helena School District, Arkansas|12116|26.24%|14.88%|
 |Progreso Independent School District, Texas|8124|62.94%|14.88%|
 |Glendale Unified School District, California|222079|72.41%|14.89%|
 |Glencoe Public Schools, Oklahoma|1633|88.43%|14.89%|
-|Buena Vista Independent School District, Texas|341|82.7%|14.89%|
 |Turkeyfoot Valley Area School District, Pennsylvania|2409|96.35%|14.89%|
-|Drake Public School District 57, North Dakota|749|97.73%|14.89%|
 |Blanchester Local School District, Ohio|8672|97.84%|14.89%|
 |Alba-Golden Independent School District, Texas|5861|95.03%|14.89%|
 |Dale Public Schools, Oklahoma|3267|84.63%|14.9%|
@@ -8398,7 +7731,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lakeland R-III School District, Missouri|2968|96.39%|14.91%|
 |Arab City School District, Alabama|8405|91.46%|14.91%|
 |Hazel Park City School District, Michigan|20675|82.5%|14.91%|
-|Springer Public Schools, Oklahoma|1447|62.96%|14.92%|
 |Grants Pass School District 7, Oregon|38854|89.86%|14.92%|
 |Maconaquah School Corporation, Indiana|14643|86.72%|14.92%|
 |Lynn School District, Massachusetts|94201|49.08%|14.93%|
@@ -8426,7 +7758,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lenoir County Schools, North Carolina|56350|53.02%|14.96%|
 |Bridger K-12 Schools, Montana|1469|93.74%|14.96%|
 |Kiowa Public Schools, Oklahoma|2064|66.33%|14.96%|
-|Coupland Independent School District, Texas|932|75.32%|14.96%|
 |Howe Independent School District, Texas|6503|84.67%|14.96%|
 |Woodbridge School District, Delaware|17854|77.42%|14.97%|
 |Dolgeville Central School District, New York|5818|94.96%|14.97%|
@@ -8437,13 +7768,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |St. Elmo Community Unit School District 202, Illinois|2954|99.15%|14.97%|
 |Pellston Public Schools, Michigan|5555|85.31%|14.97%|
 |Brooklyn-Guernsey-Malcom Community School District, Iowa|3226|98.02%|14.98%|
-|Wolford Public School District 1, North Dakota|337|91.1%|14.98%|
 |Seneca Falls Central School District, New York|9586|92.48%|14.98%|
 |Rogers City Area Schools, Michigan|5050|97.13%|14.98%|
 |Humphreys County School District, Tennessee|18528|92.4%|15.0%|
 |Beloit Unified School District 273, Kansas|4622|97.4%|15.0%|
-|Mackinaw City Public Schools, Michigan|1041|78.77%|15.0%|
-|Silverton Independent School District, Texas|938|92.32%|15.01%|
 |Wilmington City School District, Ohio|20080|90.56%|15.01%|
 |Chapel Hill-Carrboro Schools, North Carolina|91340|71.43%|15.01%|
 |Yale Public Schools, Michigan|11095|96.6%|15.02%|
@@ -8460,7 +7788,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Wood County School District, West Virginia|84387|96.04%|15.03%|
 |Bloomington School District 87, Illinois|41474|80.14%|15.03%|
 |Carroll County Public Schools, Virginia|29911|97.04%|15.03%|
-|Bluejacket Public Schools, Oklahoma|1183|62.98%|15.03%|
 |Chewelah School District, Washington|5554|92.4%|15.04%|
 |Oilton Public Schools, Oklahoma|1359|91.76%|15.04%|
 |Darlington County School District, South Carolina|66858|56.38%|15.04%|
@@ -8480,21 +7807,18 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Kimball School District 07-2, South Dakota|1354|98.08%|15.08%|
 |Luling Independent School District, Texas|7932|70.47%|15.08%|
 |Mount Clemens Community School District, Michigan|20964|65.87%|15.08%|
-|Hi-Plains School District R-23, Colorado|503|98.81%|15.09%|
 |Elgin Independent School District, Texas|23515|60.94%|15.09%|
 |Morley Stanwood Community Schools, Michigan|9876|93.28%|15.09%|
 |Unadilla Valley Central School District, New York|5522|97.45%|15.1%|
 |McCleary School District, Washington|3214|94.56%|15.1%|
 |Shoshone Joint School District 312, Idaho|3240|83.95%|15.1%|
 |Jonesboro Public Schools, Arkansas|37293|64.84%|15.1%|
-|Lingleville Independent School District, Texas|1052|86.88%|15.1%|
 |Madison Local School District (Richland County), Ohio|27015|80.01%|15.1%|
 |Locust Grove Public Schools, Oklahoma|7092|59.21%|15.11%|
 |Castleford School District 417, Idaho|1327|89.3%|15.11%|
 |Hickman County School District, Tennessee|25017|92.07%|15.11%|
 |Riverside Unified School District 114, Kansas|3390|95.28%|15.11%|
 |Kenton City School District, Ohio|11497|96.55%|15.11%|
-|Soper Public Schools, Oklahoma|1430|66.36%|15.12%|
 |Pampa Independent School District, Texas|19907|82.62%|15.12%|
 |Fannett-Metal School District, Pennsylvania|4298|99.49%|15.13%|
 |West End School District RE-2, Colorado|1804|97.45%|15.13%|
@@ -8512,7 +7836,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Shattuck Public Schools, Oklahoma|1786|90.54%|15.19%|
 |Silver Valley Unified School District, California|14578|66.23%|15.2%|
 |Frenship Independent School District, Texas|54533|79.23%|15.2%|
-|Blachly School District 090, Oregon|780|91.92%|15.2%|
 |Attica Consolidated School Corporation, Indiana|4755|97.48%|15.2%|
 |West Carroll Special District, Tennessee|7310|85.77%|15.2%|
 |St. Mary Parish School District, Louisiana|50020|58.61%|15.21%|
@@ -8534,8 +7857,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pitt County Schools, North Carolina|179961|56.19%|15.23%|
 |Canute Public Schools, Oklahoma|1378|87.01%|15.23%|
 |Echols County School District, Georgia|3944|66.86%|15.24%|
-|Charlotte, Maine|401|90.02%|15.24%|
-|Burnt River School District 30J, Oregon|272|98.9%|15.24%|
 |Dalton-Nunda Central School District (Keshequa), New York|4889|97.83%|15.24%|
 |Medicine Valley Public Schools, Nebraska|1221|94.35%|15.24%|
 |Tri-Point Community Unit School District 6-J, Illinois|2712|95.72%|15.24%|
@@ -8577,12 +7898,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Zeigler-Royalton Community Unit School District 188, Illinois|4008|95.66%|15.32%|
 |Stratford Independent School District, Texas|2114|82.59%|15.32%|
 |Pendleton County School District, West Virginia|6968|95.03%|15.32%|
-|Yukon Flats School District, Alaska|1201|11.91%|15.32%|
 |Claremont School District, New Hampshire|12969|96.67%|15.32%|
 |Oyster River Cooperative School District, New Hampshire|23245|89.82%|15.32%|
 |Macon County Schools, North Carolina|35172|93.1%|15.33%|
 |Asbury Park City School District, New Jersey|15536|42.33%|15.33%|
-|Tyrone Public Schools, Oklahoma|1303|46.05%|15.33%|
 |McLean Independent School District, Texas|1288|92.31%|15.33%|
 |Siren School District, Wisconsin|3102|86.94%|15.33%|
 |Acadia Parish School District, Louisiana|62371|78.91%|15.33%|
@@ -8602,7 +7921,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Laurel School District, Mississippi|18076|35.03%|15.37%|
 |Chesterfield County School District, South Carolina|45833|63.26%|15.37%|
 |Hooks Independent School District, Texas|3986|89.79%|15.37%|
-|Midway Public Schools, Oklahoma|1504|55.25%|15.38%|
 |Mount Baker School District, Washington|15127|88.32%|15.38%|
 |Wright City Public Schools, Oklahoma|1616|63.99%|15.38%|
 |Wakefield-Marenisco School District, Michigan|3139|86.27%|15.39%|
@@ -8615,7 +7933,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Robert Lee Independent School District, Texas|1726|91.89%|15.41%|
 |Lebanon R-III School District, Missouri|24983|93.88%|15.42%|
 |Elwood Community School Corporation, Indiana|9848|95.93%|15.42%|
-|Idalia School District RJ-3, Colorado|471|99.15%|15.42%|
 |Hammond Central School District, New York|1668|96.58%|15.43%|
 |Grand Prairie Independent School District, Texas|130785|58.25%|15.43%|
 |Jonesville Community Schools, Michigan|6298|93.97%|15.43%|
@@ -8636,11 +7953,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Fort Supply Public Schools, Oklahoma|1478|68.2%|15.48%|
 |Paris R-II School District, Missouri|3357|93.71%|15.48%|
 |Galveston Independent School District, Texas|53536|73.99%|15.48%|
-|Climax-Shelly Public Schools, Minnesota|795|88.18%|15.48%|
 |Houghton Lake Community School District, Michigan|14842|96.27%|15.48%|
 |Altoona-Midway Unified School District 387, Kansas|1540|91.88%|15.48%|
 |Ault-Highland School District RE-9, Colorado|8303|89.77%|15.48%|
-|Dewar Public Schools, Oklahoma|1337|56.25%|15.49%|
 |Fairport Harbor Exempted Village School District, Ohio|3067|87.12%|15.49%|
 |Pickens County School District, South Carolina|125381|87.55%|15.49%|
 |Lawrence County School District, Tennessee|43780|94.89%|15.49%|
@@ -8655,7 +7970,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Steel Valley School District, Pennsylvania|16024|72.63%|15.52%|
 |Corpus Christi Independent School District, Texas|252776|81.03%|15.52%|
 |Bureau Valley Community Unit School District 340, Illinois|6332|97.38%|15.52%|
-|Cedar Unified District, Arizona|9418|1.23%|15.52%|
 |East Hartford School District, Connecticut|50036|55.45%|15.52%|
 |Amite County School District, Mississippi|12341|57.41%|15.53%|
 |Murray Community School District, Iowa|1628|96.81%|15.53%|
@@ -8673,7 +7987,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Norman Public Schools, Oklahoma|120418|75.65%|15.55%|
 |Remainder of Kentucky, Kentucky|10428|93.84%|15.55%|
 |Mount Carmel Area School District, Pennsylvania|12100|97.52%|15.56%|
-|Wildorado Independent School District, Texas|241|93.36%|15.56%|
 |Conway Public Schools, Arkansas|78674|74.65%|15.56%|
 |Sweet Home School District 55, Oregon|17029|90.69%|15.56%|
 |Tri-Township Consolidated School Corporation, Indiana|3509|94.44%|15.57%|
@@ -8695,7 +8008,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Benton County School District, Mississippi|8275|61.17%|15.63%|
 |Genoa Central School District, Arkansas|4638|100.0%|15.63%|
 |Danville School District, Arkansas|3560|63.09%|15.63%|
-|Woodville, Maine|232|96.55%|15.63%|
 |Margaretville Central School District, New York|4010|86.46%|15.63%|
 |Macon County School District, Tennessee|24208|94.56%|15.63%|
 |Cooper Independent School District, Texas|5009|85.03%|15.64%|
@@ -8709,9 +8021,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Gordon-Rushville Public Schools, Nebraska|4184|79.13%|15.66%|
 |Crothersville Community Schools, Indiana|3375|95.44%|15.67%|
 |Fairborn City School District, Ohio|44070|80.77%|15.68%|
-|Macon County R-IV School District, Missouri|738|96.34%|15.68%|
 |Deer Isle-Stonington Community School District, Maine|3094|98.64%|15.68%|
-|McPherson County Schools, Nebraska|370|100.0%|15.68%|
 |Center School District 26-JT, Colorado|3627|84.23%|15.68%|
 |Meigs County School District, Tennessee|12237|95.09%|15.69%|
 |Maud Independent School District, Texas|2459|89.18%|15.69%|
@@ -8721,7 +8031,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Seiling Public Schools, Oklahoma|2059|83.83%|15.7%|
 |Camden Fairview School District, Arkansas|17726|51.91%|15.7%|
 |Augusta School District, Wisconsin|4370|96.18%|15.7%|
-|Elba Public Schools, Nebraska|582|97.08%|15.7%|
 |LaBrae Local School District, Ohio|8796|83.71%|15.7%|
 |Marais des Cygnes Valley Unified School District 456, Kansas|1535|90.29%|15.7%|
 |Liberal R-II School District, Missouri|2938|86.66%|15.71%|
@@ -8745,7 +8054,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Downe Township School District, New Jersey|1183|88.0%|15.75%|
 |Dallas Independent School District, Texas|1131641|60.24%|15.75%|
 |Goose Creek Consolidated Independent School District, Texas|105704|70.02%|15.75%|
-|Piscataquis Unorganized Territory, Maine|963|98.23%|15.75%|
 |Marion School District, Wisconsin|3729|97.24%|15.75%|
 |Hemingford Public Schools, Nebraska|1904|95.59%|15.75%|
 |Roanoke Rapids City Schools, North Carolina|13163|67.4%|15.76%|
@@ -8758,7 +8066,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Jasper Independent School District, Texas|16636|62.44%|15.77%|
 |Hartford Public School District, Michigan|6484|78.95%|15.77%|
 |Norwalk-Ontario-Wilton School District, Wisconsin|4550|88.07%|15.77%|
-|Sagaponack Common School District, New York|241|100.0%|15.77%|
 |Seneca R-VII School District, Missouri|9226|86.47%|15.78%|
 |Madison School District, Michigan|7350|76.75%|15.78%|
 |Linton-Stockton School Corporation, Indiana|8180|97.69%|15.79%|
@@ -8769,7 +8076,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Gallatin County School District, Kentucky|8760|91.22%|15.81%|
 |Grand Forks Public School District 1, North Dakota|57546|84.39%|15.81%|
 |Hesperia Community Schools, Michigan|5125|95.28%|15.81%|
-|Tupelo Public Schools, Oklahoma|1141|73.53%|15.82%|
 |Astoria Community Unit School District 1, Illinois|1825|98.74%|15.82%|
 |South Beloit Community Unit School District 320, Illinois|6357|91.95%|15.82%|
 |Martin County Schools, North Carolina|22644|53.58%|15.83%|
@@ -8777,7 +8083,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Marshall County School District, West Virginia|30900|97.05%|15.83%|
 |Remainder of Arizona, Arizona|2455064|67.48%|15.83%|
 |Mabel-Canton Public School District, Minnesota|2519|98.65%|15.83%|
-|Sargent Public Schools, Nebraska|838|98.21%|15.83%|
 |Waukegan Community Unit School District 60, Illinois|81476|43.11%|15.83%|
 |Crocker R-II School District, Missouri|2575|92.47%|15.84%|
 |Longview Public Schools, Washington|48795|84.68%|15.84%|
@@ -8843,7 +8148,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Ketchum Public Schools, Oklahoma|3565|73.32%|16.02%|
 |Union County School District, Florida|15282|72.66%|16.02%|
 |Milan Special School District, Tennessee|10372|75.93%|16.02%|
-|Inchelium School District, Washington|1077|28.97%|16.03%|
 |Knox County R-I School District, Missouri|3936|96.44%|16.03%|
 |Marietta Public School, Oklahoma|4685|80.15%|16.03%|
 |Lawrence County Community Unit District 20, Illinois|7727|94.07%|16.03%|
@@ -8888,19 +8192,14 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Georgetown-South Otselic Central School District, New York|2472|97.05%|16.15%|
 |Walker County School District, Alabama|50218|91.52%|16.15%|
 |Edna Independent School District, Texas|8054|80.84%|16.16%|
-|Hartley Independent School District, Texas|743|98.25%|16.16%|
 |North Bend School District 13, Oregon|16341|91.39%|16.16%|
 |Greeley School District 6, Colorado|130778|85.27%|16.16%|
 |Albert City-Truesdale Community School District, Iowa|1407|93.89%|16.17%|
 |Hannibal 60 School District, Missouri|22651|91.59%|16.17%|
 |Trenton R-IX School District, Missouri|7342|94.84%|16.17%|
-|Branson Reorganized School District 82, Colorado|185|90.27%|16.17%|
-|Bennington Public Schools, Oklahoma|1076|73.51%|16.17%|
 |Adams Central Community Schools, Indiana|9221|97.56%|16.18%|
 |Havana Community Unit School District 126, Illinois|5910|96.31%|16.18%|
-|Aleutian Region School District, Alaska|449|49.67%|16.18%|
 |Mason Consolidated Schools, Michigan|7212|94.97%|16.18%|
-|Lake Arthur Municipal Schools, New Mexico|701|90.73%|16.19%|
 |Odessa-Montour Central School District, New York|5448|98.24%|16.19%|
 |Grainger County School District, Tennessee|23268|97.09%|16.19%|
 |Beatrice Public Schools, Nebraska|14239|96.27%|16.19%|
@@ -8913,15 +8212,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Butte Falls School District 91, Oregon|1148|91.29%|16.22%|
 |Platte-Geddes School District 11-5, South Dakota|2866|97.31%|16.22%|
 |Rosebud-Lott Independent School District, Texas|5078|84.82%|16.22%|
-|Fairfax R-III School District, Missouri|986|96.86%|16.23%|
 |Ocosta School District, Washington|8172|82.84%|16.23%|
 |Jersey City School District, New Jersey|262652|33.62%|16.23%|
 |New Castle Community School Corporation, Indiana|22018|93.82%|16.23%|
 |Peoria Heights Community Unit School District 325, Illinois|6537|89.95%|16.23%|
-|Rule Independent School District, Texas|1074|88.27%|16.24%|
 |Schuyler County R-I School District, Missouri|4662|96.98%|16.25%|
 |Madison Consolidated Schools, Indiana|22877|93.98%|16.25%|
-|Calumet Public Schools, Oklahoma|1081|70.86%|16.25%|
 |Pottsville Area School District, Pennsylvania|18623|96.21%|16.26%|
 |Iron School District, Utah|53148|90.74%|16.26%|
 |Oscoda Area Schools, Michigan|12646|95.71%|16.26%|
@@ -8950,9 +8246,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Struthers City School District, Ohio|11194|86.57%|16.32%|
 |Caro Community Schools, Michigan|11616|95.83%|16.32%|
 |Onaway Area Community School District, Michigan|5444|93.98%|16.32%|
-|Crawford, Maine|56|87.5%|16.33%|
-|Fremont County School District 21, Wyoming|2110|5.45%|16.33%|
-|Northfield, Maine|281|91.46%|16.34%|
 |Granger Independent School District, Texas|1820|85.0%|16.34%|
 |East Prairie R-II School District, Missouri|5675|95.28%|16.35%|
 |Channelview Independent School District, Texas|42814|68.68%|16.35%|
@@ -8991,10 +8284,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Osceola School District, Arkansas|6816|38.51%|16.43%|
 |Viola School District, Arkansas|4367|98.37%|16.43%|
 |Pleasant Hill School District 1, Oregon|6781|95.89%|16.43%|
-|Liberty School District J-4, Colorado|633|83.57%|16.43%|
 |Waterloo School District, Wisconsin|5423|87.92%|16.43%|
 |Aurora R-VIII School District, Missouri|11829|96.01%|16.43%|
-|Garfield School District, Washington|792|94.44%|16.44%|
 |Marion County R-II School District, Missouri|1562|97.63%|16.44%|
 |Colton School District 53, Oregon|4891|93.74%|16.44%|
 |Kalkaska Public Schools, Michigan|12888|95.93%|16.44%|
@@ -9034,7 +8325,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Highland School District, Arkansas|12373|93.66%|16.53%|
 |Monticello School District, Arkansas|9876|59.82%|16.53%|
 |Kaufman Independent School District, Texas|19960|81.69%|16.53%|
-|Prairie Elementary School District 191, Idaho|127|100.0%|16.54%|
 |Rainier School District 13, Oregon|8274|89.29%|16.54%|
 |Turlock Unified School District, California|75644|72.22%|16.54%|
 |Western Heights Public Schools, Oklahoma|16840|61.37%|16.56%|
@@ -9076,9 +8366,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Regional School Unit 34, Maine|10060|92.28%|16.66%|
 |Golden City R-III School District, Missouri|1586|88.15%|16.67%|
 |Long Branch City School District, New Jersey|30424|68.1%|16.67%|
-|Andover Public Schools, Maine|624|99.04%|16.67%|
 |Putnam County School District, Tennessee|78542|92.57%|16.67%|
-|Edison School District 54-JT, Colorado|288|100.0%|16.67%|
 |Clarke Community School District, Iowa|8055|96.36%|16.68%|
 |Dexter Consolidated Schools, New Mexico|4012|80.98%|16.68%|
 |Tahquamenon Area Schools, Michigan|7390|80.64%|16.68%|
@@ -9091,7 +8379,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Rabun County School District, Georgia|16859|91.78%|16.71%|
 |Eustace Independent School District, Texas|9402|88.25%|16.71%|
 |Unicoi County School District, Tennessee|17821|95.69%|16.71%|
-|Cedar Vale Unified School District 285, Kansas|1028|83.27%|16.71%|
 |Mount Morris Consolidated School District, Michigan|13199|87.01%|16.71%|
 |Burke County Schools, North Carolina|90148|84.04%|16.71%|
 |Harrison County School District, Kentucky|18763|95.37%|16.72%|
@@ -9105,10 +8392,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Plymouth Community School Corporation, Indiana|19318|92.41%|16.73%|
 |Mount Enterprise Independent School District, Texas|1526|70.9%|16.73%|
 |Scottsboro City School District, Alabama|14452|89.24%|16.73%|
-|Reydon Public Schools, Oklahoma|462|93.07%|16.74%|
 |Marion County School District, Alabama|24209|91.69%|16.74%|
 |East Machias, Maine|1307|98.09%|16.75%|
-|Calhoun R-VIII School District, Missouri|966|95.65%|16.76%|
 |Panther Valley School District, Pennsylvania|12153|92.5%|16.76%|
 |Montgomery County School District, Kentucky|28042|94.23%|16.76%|
 |Ashley Community Schools, Michigan|2126|96.19%|16.76%|
@@ -9130,23 +8415,18 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Hoxie School District, Arkansas|3572|89.89%|16.82%|
 |Hopewell City Public Schools, Virginia|22500|50.0%|16.82%|
 |Lexington Public Schools, Oklahoma|8281|75.1%|16.83%|
-|Milburn Public Schools, Oklahoma|1430|69.79%|16.83%|
 |Engadine Consolidated Schools, Michigan|2135|83.47%|16.83%|
 |Gateway Unified School District, California|29087|88.56%|16.84%|
 |Madison County School District, Kentucky|85178|91.48%|16.84%|
 |Hillsdale Community Schools, Michigan|14492|95.25%|16.84%|
-|Bokoshe Public Schools, Oklahoma|1384|64.67%|16.84%|
 |Colquitt County School District, Georgia|45510|62.6%|16.85%|
 |Columbia Borough School District, Pennsylvania|10369|82.62%|16.85%|
 |Burns Flat-Dill City Schools, Oklahoma|2761|80.15%|16.85%|
 |Scotland County Schools, North Carolina|34921|43.15%|16.86%|
 |Okanogan School District, Washington|5473|72.41%|16.86%|
 |Sumter County School District, Georgia|29714|43.24%|16.86%|
-|Kayenta Unified District, Arizona|10306|2.51%|16.86%|
-|Fort Sumner Municipal Schools, New Mexico|1995|44.96%|16.87%|
 |Northeast Vernon County R-I School District, Missouri|2121|96.79%|16.87%|
 |Fruitvale Independent School District, Texas|2074|93.44%|16.87%|
-|Prairie City School District 4, Oregon|1053|88.32%|16.87%|
 |Clarke County School District, Alabama|18868|52.05%|16.87%|
 |Biloxi Public School District, Mississippi|38514|65.42%|16.88%|
 |Trion City School District, Georgia|2440|70.66%|16.88%|
@@ -9208,7 +8488,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Bridgeport Exempted Village School District, Ohio|6102|88.91%|17.07%|
 |Okeechobee County School District, Florida|41611|82.45%|17.07%|
 |Frankfort Community Schools, Indiana|17298|84.71%|17.07%|
-|Jefferson C-123 School District, Missouri|926|91.9%|17.08%|
 |Federal Hocking Local School District, Ohio|8319|97.44%|17.08%|
 |Foreman School District, Arkansas|2786|73.76%|17.08%|
 |Fayette County School Corporation, Indiana|23068|94.94%|17.08%|
@@ -9252,7 +8531,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Salisbury-Elk Lick School District, Pennsylvania|3033|92.81%|17.2%|
 |Elkhorn Valley Schools, Nebraska|1971|93.76%|17.2%|
 |Nokomis Community Unit School District 22, Illinois|4690|96.14%|17.2%|
-|Death Valley Unified School District, California|893|76.15%|17.21%|
 |Marlow Public Schools, Oklahoma|7085|85.52%|17.21%|
 |Oppenheim-Ephratah-St. Johnsville Central School District, New York|5816|96.1%|17.22%|
 |Clairton City School District, Pennsylvania|6574|55.4%|17.22%|
@@ -9265,7 +8543,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Chanute Public Schools Unified School District 413, Kansas|10700|95.26%|17.24%|
 |Remsen Central School District, New York|2775|98.63%|17.25%|
 |Palm Springs Unified School District, California|177023|72.2%|17.26%|
-|Grand Isle, Maine|404|97.52%|17.26%|
 |Quapaw Public Schools, Oklahoma|2861|65.82%|17.26%|
 |Basin School District 72, Idaho|3113|93.64%|17.26%|
 |Coyle Public Schools, Oklahoma|3753|57.98%|17.27%|
@@ -9278,7 +8555,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Jay Public Schools, Oklahoma|9435|52.38%|17.3%|
 |Davenport School District, Washington|3473|95.57%|17.31%|
 |Dundee Central School District, New York|6669|96.6%|17.31%|
-|Groom Independent School District, Texas|733|97.0%|17.31%|
 |Kingman Unified School District, Arizona|69909|89.35%|17.31%|
 |Queen City Independent School District, Texas|5444|82.24%|17.31%|
 |Archer City Independent School District, Texas|2515|96.5%|17.32%|
@@ -9308,7 +8584,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Corry Area School District, Pennsylvania|14744|93.07%|17.41%|
 |Charlton County School District, Georgia|13032|65.39%|17.42%|
 |Ouachita River School District, Arkansas|4457|94.79%|17.42%|
-|Aguilar Reorganized School District 6, Colorado|1068|76.87%|17.42%|
 |Pendleton County School District, Kentucky|14587|95.41%|17.43%|
 |School Administrative District 32, Maine|1903|98.0%|17.43%|
 |Fennimore Community School District, Wisconsin|4863|99.24%|17.43%|
@@ -9325,18 +8600,15 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Bronson Community School District, Michigan|7316|94.63%|17.47%|
 |South Conway County School District, Arkansas|14789|82.92%|17.47%|
 |North Conejos School District RE-1J, Colorado|4463|85.53%|17.47%|
-|Carney Public Schools, Oklahoma|1090|88.72%|17.48%|
 |Wolverine Community Schools, Michigan|2665|92.68%|17.48%|
 |Columbus City School District, Ohio|565976|52.8%|17.49%|
 |Randolph Central School District, New York|6024|94.39%|17.49%|
-|Vaughn Municipal Schools, New Mexico|795|92.7%|17.5%|
 |Hobbs Municipal Schools, New Mexico|48312|77.43%|17.5%|
 |Seminole County School District, Georgia|8218|61.65%|17.51%|
 |Portageville School District, Missouri|3767|79.45%|17.51%|
 |Breckinridge County School District, Kentucky|18817|95.2%|17.52%|
 |Brazos Independent School District, Texas|4472|69.52%|17.52%|
 |Florence School District 3, South Carolina|19042|46.49%|17.52%|
-|Eagle Butte School District 20-1, South Dakota|5091|9.88%|17.53%|
 |Kismet-Plains Unified School District 483, Kansas|3919|61.47%|17.53%|
 |Jacksboro Independent School District, Texas|6190|90.48%|17.54%|
 |Winslow Unified District, Arizona|11410|33.36%|17.54%|
@@ -9349,7 +8621,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Culberson County-Allamoore Independent School District, Texas|2183|67.57%|17.57%|
 |West Nodaway County R-I School District, Missouri|1547|94.51%|17.57%|
 |Plattsburgh City School District, New York|19343|87.56%|17.58%|
-|Harrington School District, Washington|709|91.4%|17.59%|
 |Hamilton Unified School District, California|2914|72.75%|17.59%|
 |Midland Borough School District, Pennsylvania|2608|81.75%|17.59%|
 |Lakeview School District 7, Oregon|4914|88.85%|17.6%|
@@ -9397,23 +8668,18 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Williamsport Area School District, Pennsylvania|40328|84.58%|17.77%|
 |Bradford County School District, Florida|27723|76.94%|17.77%|
 |Sidney Central School District, New York|6898|92.77%|17.77%|
-|Culdesac Joint School District 342, Idaho|813|79.83%|17.78%|
 |Ithaca City School District, New York|66245|73.03%|17.78%|
 |Republic-Michigamme Schools, Michigan|1330|98.65%|17.78%|
 |Norwood R-I School District, Missouri|2362|94.67%|17.79%|
 |Star City School District, Arkansas|7134|83.75%|17.79%|
 |Stroud Public Schools, Oklahoma|4355|81.54%|17.79%|
 |DeKalb County School District, Tennessee|20104|92.27%|17.79%|
-|Lefors Independent School District, Texas|641|92.98%|17.79%|
 |Miami Public Schools, Oklahoma|14875|64.79%|17.8%|
 |Bloomfield Municipal Schools, New Mexico|17084|55.8%|17.8%|
 |Douglass Independent School District, Texas|2139|84.85%|17.8%|
-|Pawnee School District RE-12, Colorado|757|98.81%|17.8%|
 |Waterford Unified School District, California|10263|85.14%|17.8%|
 |Vernon Independent School District, Texas|12168|72.82%|17.81%|
-|Mosquero Municipal Schools, New Mexico|106|68.87%|17.81%|
 |Rich Hill R-IV School District, Missouri|2344|94.84%|17.81%|
-|College Corner Local School District, Ohio|497|97.38%|17.81%|
 |Marietta City School District, Ohio|23235|93.86%|17.81%|
 |Lisbon Exempted Village School District, Ohio|5283|95.63%|17.82%|
 |Pima Unified District, Arizona|4026|92.4%|17.82%|
@@ -9435,14 +8701,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Union City School District, New Jersey|68073|60.57%|17.89%|
 |Avoyelles Parish School District, Louisiana|40465|65.51%|17.9%|
 |Guymon Public Schools, Oklahoma|12809|52.36%|17.9%|
-|Harmony, Maine|862|98.96%|17.9%|
 |Camp Verde Unified District, Arizona|11868|79.36%|17.9%|
 |California Area School District, Pennsylvania|10738|87.54%|17.9%|
 |Hot Springs School District, Arkansas|31398|69.3%|17.91%|
 |Carman-Ainsworth Community School District, Michigan|31687|65.41%|17.91%|
 |Blacklick Valley School District, Pennsylvania|4933|98.48%|17.91%|
 |Opp City School District, Alabama|6405|78.78%|17.91%|
-|Bliss Joint School District 234, Idaho|741|99.06%|17.92%|
 |East Jackson Community Schools, Michigan|8146|93.31%|17.92%|
 |Continental Local School District, Ohio|3952|98.91%|17.92%|
 |Bloomfield R-XIV School District, Missouri|4505|97.71%|17.92%|
@@ -9461,9 +8725,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Greene County Schools, North Carolina|20987|56.99%|17.97%|
 |Pauls Valley Public Schools, Oklahoma|7209|81.58%|17.98%|
 |Fillmore Central School District, New York|5507|94.53%|17.98%|
-|Earle School District, Arkansas|2747|18.42%|17.98%|
 |Glendale School District 77, Oregon|2885|93.52%|17.98%|
-|Edgemont School District 23-1, South Dakota|989|86.05%|17.98%|
 |Franklin County School District, Florida|11914|79.79%|17.98%|
 |Henry County School District, Tennessee|19999|95.28%|17.98%|
 |Clovis Municipal Schools, New Mexico|46048|63.98%|17.99%|
@@ -9479,7 +8741,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Emporia Unified School District 253, Kansas|27081|85.11%|18.02%|
 |Piedmont City School District, Alabama|5988|86.24%|18.02%|
 |Clayton County School District, Georgia|287560|15.09%|18.03%|
-|Red Mesa Unified District, Arizona|8561|0.71%|18.03%|
 |Mansfield School District, Arkansas|5251|92.4%|18.04%|
 |Franklin County School District, Alabama|21784|91.94%|18.04%|
 |Ashland School District 5, Oregon|25173|91.4%|18.05%|
@@ -9489,10 +8750,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Vinita Public Schools, Oklahoma|9189|61.0%|18.06%|
 |Bloomsburg Area School District, Pennsylvania|19736|92.79%|18.06%|
 |Smyth County Public Schools, Virginia|30539|95.61%|18.07%|
-|Cherryfield, Maine|822|92.09%|18.07%|
 |Pasadena Independent School District, Texas|263005|68.93%|18.07%|
 |Mountain View School District, Arkansas|12608|94.69%|18.08%|
-|Matagorda Independent School District, Texas|998|96.99%|18.08%|
 |Watertown City School District, New York|28622|84.32%|18.08%|
 |Galva-Holstein Community School District, Iowa|2593|92.87%|18.09%|
 |Texhoma Public Schools, Oklahoma|1360|77.65%|18.09%|
@@ -9506,10 +8765,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Newport School District, Arkansas|10549|69.45%|18.11%|
 |Barbour County School District, Alabama|13148|45.41%|18.11%|
 |Littleton School District, New Hampshire|5916|97.52%|18.11%|
-|Braggs Public Schools, Oklahoma|1087|58.14%|18.11%|
 |Stephenville Independent School District, Texas|28137|87.17%|18.12%|
 |Akron City School District, Ohio|187833|58.41%|18.12%|
-|Olustee-Eldorado Public Schools, Oklahoma|1389|70.55%|18.12%|
 |Chouteau-Mazie Public Schools, Oklahoma|5700|74.39%|18.13%|
 |Aberdeen School District, Washington|20565|84.27%|18.13%|
 |Commerce Independent School District, Texas|12569|64.71%|18.13%|
@@ -9518,7 +8775,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Normandy Schools Collaborative, Missouri|35522|13.21%|18.14%|
 |Meyersville Independent School District, Texas|1277|94.44%|18.14%|
 |Rural Vista Unified School District 481, Kansas|2265|96.73%|18.14%|
-|Otis School District R-3, Colorado|894|98.66%|18.14%|
 |Cotulla Independent School District, Texas|7540|78.69%|18.15%|
 |Southwest Public Schools, Nebraska|2221|91.31%|18.15%|
 |Norborne R-VIII School District, Missouri|1480|95.14%|18.16%|
@@ -9534,7 +8790,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Wichita Falls Independent School District, Texas|87710|74.78%|18.19%|
 |Huntsville Independent School District, Texas|66100|69.85%|18.19%|
 |Bristol City School District, Tennessee|26800|91.67%|18.19%|
-|Granada School District RE-1, Colorado|927|96.22%|18.19%|
 |Petersburg City Public Schools, Virginia|30791|16.6%|18.19%|
 |New Kensington-Arnold School District, Pennsylvania|17230|81.27%|18.2%|
 |Wharton Independent School District, Texas|13655|67.19%|18.2%|
@@ -9553,7 +8808,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Big Beaver Falls Area School District, Pennsylvania|12840|76.59%|18.24%|
 |Fort Gibson Public Schools, Oklahoma|7116|56.91%|18.25%|
 |Fredonia Central School District, New York|13702|86.45%|18.26%|
-|Princeton, Maine|654|87.31%|18.26%|
 |Levy County School District, Florida|40979|85.6%|18.26%|
 |Joplin School District, Missouri|59501|85.49%|18.27%|
 |Latexo Independent School District, Texas|2302|92.22%|18.27%|
@@ -9563,11 +8817,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Crawford County Community School Corporation, Indiana|10994|96.88%|18.28%|
 |Forsyth R-III School District, Missouri|8364|94.03%|18.3%|
 |Marion County School District, Mississippi|14170|67.19%|18.3%|
-|Alexander, Maine|488|93.44%|18.3%|
 |Warren County School District, Tennessee|40971|89.58%|18.3%|
 |Rudyard Area Schools, Michigan|9073|55.86%|18.3%|
 |Bellaire Local School District, Ohio|9550|93.63%|18.32%|
-|Verden Public Schools, Oklahoma|1226|79.61%|18.32%|
 |Holdenville Public Schools, Oklahoma|6950|64.81%|18.33%|
 |Mammoth Spring Schools, Arkansas|2899|96.1%|18.33%|
 |Evart Public Schools, Michigan|6736|94.28%|18.33%|
@@ -9575,7 +8827,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Union County School District, Tennessee|19678|97.01%|18.33%|
 |Ranger Independent School District, Texas|3357|91.39%|18.33%|
 |School Administrative District 74, Maine|4684|95.41%|18.34%|
-|Jefferson County School District, Mississippi|7129|13.16%|18.35%|
 |Martin County School District, Kentucky|11421|92.84%|18.35%|
 |La Crosse School District, Wisconsin|64009|90.62%|18.35%|
 |Santa Paula Unified School District, California|28491|85.37%|18.35%|
@@ -9586,7 +8837,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Northern Cambria School District, Pennsylvania|7136|99.51%|18.37%|
 |Tornillo Independent School District, Texas|2282|47.24%|18.37%|
 |Beloit School District, Wisconsin|36846|67.37%|18.37%|
-|Hydaburg City School District, Alaska|363|13.5%|18.37%|
 |South Brown County Unified School District 430, Kansas|3492|76.46%|18.37%|
 |San Augustine Independent School District, Texas|4968|52.92%|18.38%|
 |Gary Independent School District, Texas|2279|96.45%|18.38%|
@@ -9615,20 +8865,16 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Noble Local School District, Ohio|5908|98.61%|18.48%|
 |McDonald County R-I School District, Missouri|18783|79.84%|18.49%|
 |Tucumcari Public Schools, New Mexico|6392|78.55%|18.49%|
-|Echo School District 5, Oregon|1183|66.36%|18.49%|
 |Umatilla School District 6, Oregon|5924|89.01%|18.49%|
 |Farwell Area Schools, Michigan|10370|95.32%|18.49%|
 |Mangum Public Schools, Oklahoma|3404|83.02%|18.5%|
-|Jonesboro, Maine|723|97.93%|18.5%|
 |River Forest Community School Corporation, Indiana|6860|82.54%|18.5%|
 |Kingsport City School District, Tennessee|53682|91.13%|18.5%|
 |Independence Unified School District 446, Kansas|12820|87.49%|18.5%|
-|White River School District 47-1, South Dakota|1962|37.92%|18.52%|
 |Tensas Parish School District, Louisiana|4435|43.36%|18.53%|
 |Centralia School District, Washington|24561|88.47%|18.53%|
 |Little Falls City School District, New York|6739|97.36%|18.53%|
 |Lima City School District, Ohio|28949|65.51%|18.54%|
-|Quitman County School District, Georgia|2290|43.32%|18.55%|
 |Middletown City School District, Ohio|48950|81.77%|18.55%|
 |Boise City Public Schools, Oklahoma|1391|96.98%|18.55%|
 |Lenoir City School District, Tennessee|9087|88.56%|18.56%|
@@ -9647,12 +8893,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Goldendale School District, Washington|7574|92.37%|18.65%|
 |Pine Bluff School District, Arkansas|26453|20.98%|18.65%|
 |Hanover Area School District, Pennsylvania|15227|89.85%|18.65%|
-|Karval School District RE-23, Colorado|297|95.62%|18.66%|
 |Durant Public Schools, Oklahoma|19850|69.57%|18.67%|
-|Dennysville, Maine|231|97.4%|18.67%|
-|Winifred K-12 Schools, Montana|457|99.56%|18.68%|
 |Porum Public Schools, Oklahoma|2169|71.14%|18.68%|
-|Sweetwater Public Schools, Oklahoma|592|99.49%|18.68%|
 |Abbotsford School District, Wisconsin|3344|89.29%|18.68%|
 |Campbell Independent School District, Texas|2675|86.39%|18.69%|
 |Oklahoma City Public Schools, Oklahoma|296397|60.57%|18.69%|
@@ -9672,7 +8914,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Depue Community Unit School District 103, Illinois|1828|71.17%|18.75%|
 |Gloversville City School District, New York|18386|89.94%|18.76%|
 |Union City Community Schools, Michigan|5846|91.09%|18.77%|
-|Pembroke, Maine|898|93.88%|18.77%|
 |Parker Unified School District, Arizona|10918|53.96%|18.77%|
 |Adair County School District, Kentucky|19366|93.88%|18.78%|
 |Cole Camp R-I School District, Missouri|5436|98.07%|18.78%|
@@ -9682,7 +8923,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Mulberry Grove Community Unit School District 1, Illinois|2296|96.17%|18.79%|
 |Indiana Area School District, Pennsylvania|31763|89.35%|18.79%|
 |Sampson County Schools, North Carolina|47128|64.99%|18.8%|
-|Chesilhurst Borough School District, New Jersey|1440|56.53%|18.8%|
 |School Administrative District 37, Maine|4632|93.01%|18.8%|
 |Vermillion School District 13-1, South Dakota|12526|87.11%|18.8%|
 |Madison County School District, Florida|18557|56.78%|18.81%|
@@ -9690,14 +8930,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Shamokin Area School District, Pennsylvania|20394|86.76%|18.83%|
 |Concord Public Schools, Arkansas|3558|97.5%|18.83%|
 |Bowling Green R-I School District, Missouri|11356|88.56%|18.84%|
-|Zuni Public Schools, New Mexico|8187|1.61%|18.85%|
 |La Vega Independent School District, Texas|15264|65.46%|18.85%|
 |Woonsocket School District, Rhode Island|41616|69.69%|18.85%|
 |New Lexington City School District, Ohio|11460|98.33%|18.86%|
 |Eureka County School District, Nevada|1839|94.73%|18.86%|
 |Glascock County School District, Georgia|2984|88.87%|18.88%|
 |Chetopa-St. Paul Unified School District 505, Kansas|2511|94.98%|18.88%|
-|Remainder of Wyoming, Wyoming|1728|14.47%|18.88%|
 |Sharon City School District, Pennsylvania|13101|78.81%|18.89%|
 |Cotter School District, Arkansas|5030|95.84%|18.89%|
 |Hinsdale Central School District, New York|2910|90.41%|18.89%|
@@ -9706,12 +8944,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Hale Center Independent School District, Texas|2473|80.11%|18.9%|
 |Sanger Unified School District, California|56331|62.81%|18.91%|
 |Marmaduke School District, Arkansas|3555|96.96%|18.91%|
-|Whitesboro Public Schools, Oklahoma|917|66.19%|18.91%|
 |Christian County School District, Kentucky|57107|71.18%|18.92%|
 |Los Molinos Unified School District, California|3353|81.96%|18.92%|
 |Winooski Incorporated School District, Vermont|7320|83.37%|18.93%|
 |Vestaburg Community Schools, Michigan|3889|98.15%|18.95%|
-|Lowell, Maine|381|99.74%|18.95%|
 |Troy City School District, New York|40688|66.44%|18.96%|
 |Newton Municipal School, Mississippi|5967|36.77%|18.97%|
 |Decatur School District, Arkansas|3069|82.21%|18.97%|
@@ -9729,7 +8965,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Moberly School District, Missouri|15720|85.37%|19.01%|
 |Norwood City School District, Ohio|19843|84.75%|19.01%|
 |Huntington Independent School District, Texas|9249|93.2%|19.01%|
-|Whitesville Central School District, New York|911|99.89%|19.01%|
 |Bracken County School District, Kentucky|6792|95.64%|19.02%|
 |Clementon Borough School District, New Jersey|4939|56.55%|19.02%|
 |Vincennes Community School Corporation, Indiana|21972|90.41%|19.02%|
@@ -9737,11 +8972,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Marion C. Early R-V School District, Missouri|3093|95.57%|19.04%|
 |Perryville School District, Arkansas|5354|95.07%|19.04%|
 |Piute School District, Utah|1870|96.42%|19.04%|
-|Coos County School District, New Hampshire|71|91.55%|19.05%|
 |Wheaton R-III School District, Missouri|2062|86.28%|19.06%|
 |Marion Community Schools, Indiana|34744|80.42%|19.07%|
 |Dewey Public Schools, Oklahoma|4951|79.05%|19.08%|
-|Lake Quinault School District, Washington|883|89.01%|19.08%|
 |Chisholm Public School District, Minnesota|5706|96.2%|19.08%|
 |West Bolivar Consolidated School District, Mississippi|7694|24.97%|19.09%|
 |Calloway County School District, Kentucky|27653|93.1%|19.09%|
@@ -9755,7 +8988,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Roanoke City School District, Alabama|5931|51.26%|19.1%|
 |Van Hornesville-Owen D. Young Central School District, New York|1727|95.72%|19.11%|
 |Memphis Independent School District, Texas|2627|72.67%|19.11%|
-|Somerset Unorganized Territory, Maine|843|99.05%|19.12%|
 |Huntingdon Special School District, Tennessee|5781|84.4%|19.12%|
 |Lamar School District, Arkansas|6897|92.46%|19.13%|
 |Fort Loramie Local School District, Ohio|3972|98.59%|19.13%|
@@ -9770,9 +9002,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Johnson County School District, Georgia|9717|63.85%|19.17%|
 |Monte Vista School District C-8, Colorado|5724|89.62%|19.17%|
 |Bienville Parish School District, Louisiana|13391|55.26%|19.18%|
-|Carrizozo Municipal Schools, New Mexico|1303|65.62%|19.18%|
-|Avinger Independent School District, Texas|807|70.76%|19.19%|
-|Gause Independent School District, Texas|807|73.61%|19.19%|
 |Chillicothe City School District, Ohio|22741|88.15%|19.2%|
 |North College Hill City School District, Ohio|10808|32.82%|19.2%|
 |Bisbee Unified District, Arizona|6673|89.7%|19.2%|
@@ -9787,7 +9016,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Mojave Unified School District, California|18584|52.87%|19.28%|
 |Hermon-DeKalb Central School District, New York|2596|95.22%|19.28%|
 |Omak School District, Washington|10706|69.75%|19.29%|
-|Shirley, Maine|158|98.1%|19.29%|
 |Adams County/Ohio Valley Local School District, Ohio|23937|96.92%|19.29%|
 |Charleston R-I School District, Missouri|7653|55.34%|19.31%|
 |Candler County School District, Georgia|10834|67.81%|19.31%|
@@ -9836,8 +9064,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Forrest County Schools, Mississippi|18841|69.7%|19.54%|
 |Yakima School District, Washington|78121|66.22%|19.54%|
 |Linden-Kildare Consolidated Independent School District, Texas|5533|74.61%|19.54%|
-|Kake City School District, Alaska|496|17.54%|19.54%|
-|Midfield City School District, Alabama|4984|13.96%|19.54%|
 |Bright Local School District, Ohio|4552|96.99%|19.55%|
 |Franklin County School District, Georgia|23015|85.34%|19.56%|
 |Dilley Independent School District, Texas|6131|77.03%|19.57%|
@@ -9854,22 +9080,17 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Morongo Unified School District, California|70584|74.69%|19.62%|
 |Council School District 13, Idaho|2145|96.83%|19.62%|
 |Sandoval Community Unit School District 501, Illinois|2600|94.23%|19.64%|
-|Sheridan County School District 3, Wyoming|565|99.12%|19.64%|
 |Hickory County R-I School District, Missouri|5144|93.99%|19.65%|
 |Naylor R-II School District, Missouri|1667|95.5%|19.65%|
-|Wishram School District, Washington|544|83.27%|19.65%|
 |Quillayute Valley School District, Washington|6564|78.38%|19.67%|
 |Upshur County School District, West Virginia|24451|95.42%|19.67%|
 |DeKalb Community Unit School District 428, Illinois|51883|72.45%|19.67%|
 |South Adams Schools, Indiana|10869|94.32%|19.67%|
 |Marion Public Schools, Michigan|4161|95.94%|19.67%|
 |Perth Amboy City School District, New Jersey|51589|70.13%|19.68%|
-|North River School District, Washington|296|86.15%|19.69%|
 |Riverview School District, Arkansas|7837|83.4%|19.69%|
 |Spiro Public Schools, Oklahoma|6605|69.6%|19.7%|
 |Heard County School District, Georgia|11785|86.74%|19.71%|
-|Loraine Independent School District, Texas|656|89.63%|19.73%|
-|Walthill Public Schools, Nebraska|1463|25.29%|19.73%|
 |Central Community School District, Iowa|3405|95.74%|19.74%|
 |South Tippah School District, Mississippi|15241|71.48%|19.75%|
 |Buffalo City School District, New York|255805|47.11%|19.75%|
@@ -9883,7 +9104,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Boaz City School District, Alabama|9587|91.25%|19.8%|
 |Worcester School District, Massachusetts|185186|67.66%|19.81%|
 |Cobre Consolidated Schools, New Mexico|7731|81.89%|19.83%|
-|Etoile Independent School District, Texas|1060|92.83%|19.83%|
 |Campbell County School District, Tennessee|39818|97.06%|19.83%|
 |Jones County Schools, North Carolina|9453|64.31%|19.84%|
 |Crosbyton Consolidated Independent School District, Texas|2174|74.84%|19.84%|
@@ -9922,11 +9142,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Compton Unified School District, California|158294|28.62%|20.04%|
 |Chico Independent School District, Texas|3605|95.37%|20.04%|
 |Trotwood-Madison City School District, Ohio|20231|25.12%|20.04%|
-|North Daviess R-III School District, Missouri|756|97.62%|20.05%|
-|Index School District, Washington|424|94.1%|20.05%|
 |Harlowton K-12 Schools, Montana|1896|95.78%|20.06%|
 |Española Municipal Schools, New Mexico|34108|56.04%|20.07%|
-|Washtucna School District, Washington|303|93.73%|20.07%|
 |Cabell County School District, West Virginia|93328|90.52%|20.07%|
 |Gainesville Independent School District, Texas|19089|81.8%|20.08%|
 |Alamosa School District RE-11J, Colorado|14213|78.86%|20.08%|
@@ -9939,9 +9156,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Mammoth-San Manuel Unified District, Arizona|5615|80.45%|20.12%|
 |Calais, Maine|3011|97.97%|20.13%|
 |Lafayette County School District, Arkansas|4897|53.81%|20.13%|
-|Breckenridge R-I School District, Missouri|633|96.52%|20.14%|
 |Nowata Public Schools, Oklahoma|5739|65.88%|20.14%|
-|Indian Oasis-Baboquivari Unified District, Arizona|7468|4.58%|20.14%|
 |Alma Public Schools, Michigan|14867|94.5%|20.15%|
 |Claiborne Parish School District, Louisiana|15854|45.12%|20.17%|
 |Webster Parish School District, Louisiana|38813|63.51%|20.17%|
@@ -9952,8 +9167,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Clinton School District, Arkansas|7998|96.51%|20.2%|
 |Sedgwick, Maine|1380|96.52%|20.2%|
 |Caldwell Parish School District, Louisiana|9959|79.34%|20.21%|
-|Gold-Burg Independent School District, Texas|682|95.75%|20.21%|
-|Midway Independent School District (Clay and Jack Counties), Texas|980|97.45%|20.21%|
 |Poplar Bluff R-I School District, Missouri|33214|88.15%|20.22%|
 |Hart County School District, Kentucky|16380|95.62%|20.23%|
 |Paducah Independent School District, Kentucky|19158|69.89%|20.23%|
@@ -9984,10 +9197,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Red Creek Central School District, New York|5595|92.9%|20.36%|
 |Trinidad School District 1, Colorado|9769|82.59%|20.37%|
 |Bakersfield R-IV School District, Missouri|2042|95.2%|20.37%|
-|Mullan School District 392, Idaho|838|92.36%|20.41%|
 |Covert Public Schools, Michigan|3086|59.79%|20.41%|
 |Muskegon City School District, Michigan|36688|60.59%|20.41%|
-|Gilman City R-IV School District, Missouri|734|97.14%|20.42%|
 |Osage City Unified School District 420, Kansas|3585|97.66%|20.42%|
 |Westville Public Schools, Oklahoma|5973|53.14%|20.45%|
 |Necedah Area School District, Wisconsin|4808|96.88%|20.45%|
@@ -10019,7 +9230,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pueblo City School District 60, Colorado|113760|75.42%|20.56%|
 |Buffalo Independent School District, Texas|5291|81.63%|20.57%|
 |Barbour County School District, West Virginia|16543|94.72%|20.59%|
-|Moran Independent School District, Texas|501|94.01%|20.59%|
 |Willow Springs R-IV School District, Missouri|7578|92.43%|20.6%|
 |Nemo Vista School District, Arkansas|3002|94.74%|20.6%|
 |Logan Unified School District 326, Kansas|1365|94.95%|20.6%|
@@ -10030,7 +9240,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Bristol City Public Schools, Virginia|17059|87.73%|20.64%|
 |Ardmore Public Schools, Oklahoma|19223|64.18%|20.64%|
 |Carrollton City School District, Georgia|26857|58.92%|20.65%|
-|Nespelem School District, Washington|1196|9.11%|20.65%|
 |Menifee County School District, Kentucky|6463|97.93%|20.66%|
 |Raleigh County School District, West Virginia|74452|87.63%|20.66%|
 |Fayetteville School District, Arkansas|91893|81.01%|20.67%|
@@ -10046,13 +9255,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lackawanna City School District, New York|17751|78.11%|20.71%|
 |Antlers Public Schools, Oklahoma|5026|71.93%|20.71%|
 |Montebello Unified School District, California|165312|50.69%|20.72%|
-|Cave Springs Public Schools, Oklahoma|566|35.34%|20.73%|
 |Lamoni Community School District, Iowa|3152|89.28%|20.74%|
 |Eldorado Community Unit School District 4, Illinois|6601|96.38%|20.74%|
-|Hanna Public Schools, Oklahoma|510|47.25%|20.75%|
 |Marion County School District, Kentucky|19257|89.92%|20.75%|
 |Kalamazoo Public School District, Michigan|109273|68.9%|20.75%|
-|Tintic School District, Utah|852|91.08%|20.75%|
 |New Britain School District, Connecticut|72543|63.58%|20.76%|
 |Senath-Hornersville C-8 School District, Missouri|4222|90.76%|20.77%|
 |Barren County School District, Kentucky|27805|95.36%|20.78%|
@@ -10066,7 +9272,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Peru Community Schools, Indiana|13151|89.71%|20.85%|
 |North Clay Community Unit School District 25, Illinois|3965|98.71%|20.85%|
 |Lewis County School District, Tennessee|12131|94.63%|20.86%|
-|Yarbrough Public Schools, Oklahoma|347|87.61%|20.88%|
 |Haakon School District 27-1, South Dakota|1692|94.44%|20.88%|
 |Natchitoches Parish School District, Louisiana|38505|51.7%|20.89%|
 |Mora Independent Schools, New Mexico|3613|54.86%|20.89%|
@@ -10086,7 +9291,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Waldron School District, Arkansas|8724|86.06%|20.96%|
 |Bledsoe County School District, Tennessee|14961|89.96%|20.96%|
 |Niobrara County School District 1, Wyoming|2390|92.97%|20.96%|
-|Lima K-12 Schools, Montana|393|94.66%|20.97%|
 |Powell County School District, Kentucky|12283|97.39%|20.97%|
 |Browerville Public School District, Minnesota|4132|94.58%|20.97%|
 |Olney Independent School District, Texas|3939|91.39%|20.97%|
@@ -10095,9 +9299,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |School Administrative District 53, Maine|5909|95.89%|20.98%|
 |Lincoln County School District, West Virginia|20617|97.69%|20.99%|
 |Northwest Local School District (Scioto County), Ohio|9185|98.26%|20.99%|
-|Strawn Independent School District, Texas|909|94.28%|21.0%|
 |Whitley County School District, Kentucky|22076|98.16%|21.01%|
-|Revere School District, Colorado|685|75.77%|21.01%|
 |Estancia Municipal Schools, New Mexico|4048|86.12%|21.02%|
 |Olean City School District, New York|14902|91.44%|21.02%|
 |Catahoula Parish School District, Louisiana|9586|65.75%|21.03%|
@@ -10106,7 +9308,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Moscow School District 281, Idaho|29193|89.8%|21.07%|
 |Van Dyke Public Schools, Michigan|19768|53.38%|21.08%|
 |Gainesville R-V School District, Missouri|3472|96.83%|21.08%|
-|Keller School District, Washington|545|26.97%|21.09%|
 |Bullock County School District, Alabama|10173|26.18%|21.09%|
 |Gadsden City School District, Alabama|35224|56.08%|21.09%|
 |Berrien County School District, Georgia|19206|83.5%|21.1%|
@@ -10120,7 +9321,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Melvindale-North Allen Park School District, Michigan|16850|80.24%|21.12%|
 |Cleveland Independent School District, Texas|28221|76.32%|21.13%|
 |Jenkins County School District, Georgia|8787|58.05%|21.13%|
-|Arbon Elementary School District 383, Idaho|426|100.0%|21.13%|
 |Maricopa Unified School District, California|2821|83.69%|21.14%|
 |Highland Park Independent School District (Potter County), Texas|8715|66.18%|21.14%|
 |Tishomingo County Schools, Mississippi|19396|93.87%|21.15%|
@@ -10131,12 +9331,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Julesburg School District RE-1, Colorado|1621|95.19%|21.18%|
 |Butte County Joint School District 111, Idaho|2499|99.48%|21.19%|
 |Talladega City School District, Alabama|15405|46.19%|21.19%|
-|Paint Rock Independent School District, Texas|780|95.0%|21.19%|
 |Fort Plain Central School District, New York|5129|90.93%|21.2%|
 |Edgeley Public School District 3, North Dakota|1359|97.35%|21.2%|
 |Junction Independent School District, Texas|4033|85.15%|21.2%|
 |Elsberry R-II School District, Missouri|5450|95.61%|21.21%|
-|Lamont School District, Washington|151|87.42%|21.21%|
 |Lyford Consolidated Independent School District, Texas|6277|85.69%|21.21%|
 |Albany County School District 1, Wyoming|38664|88.2%|21.21%|
 |Cedarville School District, Arkansas|5587|91.91%|21.23%|
@@ -10146,14 +9344,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Madison Community Unit School District 12, Illinois|3702|28.82%|21.27%|
 |Jal Public Schools, New Mexico|1892|97.36%|21.28%|
 |Royal School District, Washington|6751|47.77%|21.29%|
-|Roosevelt School District, Washington|129|83.72%|21.3%|
 |Wyoming County School District, West Virginia|20890|97.29%|21.3%|
 |Cameron Independent School District, Texas|8174|80.67%|21.32%|
 |Odin Public School District 722, Illinois|1627|95.7%|21.32%|
 |Post Independent School District, Texas|5798|75.13%|21.34%|
 |Lincoln Parish School District, Louisiana|47118|54.38%|21.36%|
 |Dawson Springs Independent School District, Kentucky|2665|93.47%|21.37%|
-|Princeton Joint Unified School District, California|1094|87.2%|21.38%|
 |Cedar Ridge School District, Arkansas|4567|95.8%|21.38%|
 |Calexico Unified School District, California|39930|68.22%|21.39%|
 |Las Cruces Public Schools, New Mexico|153925|80.31%|21.39%|
@@ -10171,7 +9367,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Deweyville Independent School District, Texas|3157|98.76%|21.46%|
 |Flowing Wells Unified District, Arizona|30466|70.37%|21.47%|
 |Mountainair Public Schools, New Mexico|1585|90.16%|21.48%|
-|Goodwell Public Schools, Oklahoma|1233|78.67%|21.49%|
 |Metcalfe County School District, Kentucky|10062|95.21%|21.49%|
 |Pulaski County School District, Kentucky|53423|96.4%|21.5%|
 |Long County School District, Georgia|19236|61.07%|21.53%|
@@ -10181,10 +9376,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Dawson-Bryant Local School District, Ohio|5954|95.18%|21.54%|
 |Winona R-III School District, Missouri|2203|93.92%|21.56%|
 |West Side School District, Arkansas|4103|94.05%|21.56%|
-|Sidney Independent School District, Texas|770|87.92%|21.57%|
 |Hillsboro City School District, Ohio|16211|94.26%|21.58%|
 |Los Fresnos Consolidated Independent School District, Texas|49792|82.94%|21.59%|
-|Cape May Point Borough School District, New Jersey|165|98.18%|21.6%|
 |Walters Public Schools, Oklahoma|3475|75.91%|21.6%|
 |Marlette Community Schools, Michigan|6709|96.51%|21.6%|
 |Fabens Independent School District, Texas|4990|62.46%|21.62%|
@@ -10194,7 +9387,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Knox Community School Corporation, Indiana|10920|98.1%|21.66%|
 |Barnwell School District 29, South Carolina|5027|52.1%|21.69%|
 |Atoka Public Schools, Oklahoma|4146|65.41%|21.7%|
-|School Administrative District 14, Maine|917|95.42%|21.71%|
 |New Madrid County R-I School District, Missouri|8622|77.37%|21.74%|
 |Lexington City Schools, North Carolina|20099|57.71%|21.76%|
 |Salem R-80 School District, Missouri|6565|93.08%|21.76%|
@@ -10216,8 +9408,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pleasant Hill Community Unit School District 3, Illinois|2010|98.76%|21.91%|
 |Oregon-Howell R-III School District, Missouri|1478|95.81%|21.93%|
 |Western Local School District, Ohio|4919|97.44%|21.93%|
-|Sands Consolidated Independent School District, Texas|966|90.99%|21.94%|
-|Reed Plantation, Maine|125|98.4%|21.95%|
 |Humansville R-IV School District, Missouri|3429|87.4%|21.97%|
 |Nicholas County School District, Kentucky|7189|96.38%|22.0%|
 |Zanesville City School District, Ohio|26549|82.97%|22.0%|
@@ -10244,11 +9434,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Hamilton County School District, Florida|14397|61.76%|22.2%|
 |Christopher Community Unit School District 99, Illinois|4509|98.27%|22.21%|
 |Mansfield City School District, Ohio|33104|72.81%|22.22%|
-|Tanana City School District, Alaska|173|13.87%|22.22%|
 |Richland R-I School District, Missouri|1427|88.72%|22.23%|
 |Horatio School District, Arkansas|3938|65.26%|22.24%|
 |Eminence Independent School District, Kentucky|3102|77.63%|22.26%|
-|Throckmorton Collegiate Independent School District, Texas|1038|95.66%|22.26%|
 |Conneaut Area City School District, Ohio|14339|88.21%|22.26%|
 |Weslaco Independent School District, Texas|72708|74.88%|22.26%|
 |Licking R-VIII School District, Missouri|6308|89.71%|22.27%|
@@ -10257,11 +9445,8 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Pope County Community Unit School District 1, Illinois|4177|92.43%|22.28%|
 |Mathis Independent School District, Texas|8989|94.1%|22.29%|
 |Greenfield R-IV School District, Missouri|2938|92.41%|22.3%|
-|Spray School District 1, Oregon|445|93.48%|22.3%|
 |Washington County School District, Florida|25094|79.52%|22.31%|
-|Terlingua Common School District, Texas|662|96.68%|22.34%|
 |West Las Vegas Public Schools, New Mexico|10714|55.35%|22.34%|
-|Mackinac Island Public Schools, Michigan|992|59.07%|22.34%|
 |Galena Park Independent School District, Texas|90677|61.39%|22.35%|
 |Stoutland R-II School District, Missouri|3273|89.15%|22.37%|
 |Crest Unified School District 479, Kansas|1233|94.4%|22.41%|
@@ -10273,12 +9458,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Kirbyville Consolidated Independent School District, Texas|8795|80.82%|22.46%|
 |Sabinal Independent School District, Texas|1796|90.7%|22.47%|
 |Sto-Rox School District, Pennsylvania|12044|57.58%|22.49%|
-|Roy K-12 Schools, Montana|307|91.21%|22.5%|
 |Kenedy Independent School District, Texas|6060|68.42%|22.5%|
 |South San Antonio Independent School District, Texas|51988|73.05%|22.51%|
-|Wilson Creek School District, Washington|384|91.41%|22.51%|
 |Arcadia Valley R-II School District, Missouri|5867|95.74%|22.53%|
-|Hays-Lodge Pole K-12 Schools, Montana|1513|4.69%|22.54%|
 |Gideon 37 School District, Missouri|1197|95.66%|22.54%|
 |Urbana School District 116, Illinois|52428|61.86%|22.54%|
 |Pittsburg Independent School District, Texas|13627|75.95%|22.55%|
@@ -10294,7 +9476,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Taft Independent School District, Texas|5129|78.09%|22.7%|
 |Talawanda City School District, Ohio|36900|85.44%|22.7%|
 |Morgan County School District, Tennessee|21538|91.99%|22.72%|
-|Drew Plantation, Maine|28|78.57%|22.73%|
 |Valley R-VI School District, Missouri|3110|92.09%|22.74%|
 |Springfield School District RE-4, Colorado|1940|92.42%|22.75%|
 |Shamrock Independent School District, Texas|2483|84.25%|22.75%|
@@ -10308,9 +9489,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |School Administrative District 13, Maine|1329|95.18%|22.77%|
 |Seymour R-II School District, Missouri|7071|95.74%|22.77%|
 |Claiborne County School District, Tennessee|31827|96.17%|22.78%|
-|Whitneyville, Maine|142|100.0%|22.79%|
 |Tenaha Independent School District, Texas|2501|53.26%|22.8%|
-|Long Creek School District 17, Oregon|371|98.11%|22.8%|
 |Washington-Nile Local School District, Ohio|7480|97.98%|22.8%|
 |Baldwyn School District, Mississippi|5256|59.74%|22.82%|
 |State College Area School District, Pennsylvania|96470|82.73%|22.82%|
@@ -10332,7 +9511,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Kewanee Community Unit School District 229, Illinois|10637|85.6%|22.96%|
 |Nacogdoches Independent School District, Texas|46360|68.56%|22.98%|
 |Big Sandy Independent School District (Upshur and Wood Counties), Texas|3685|77.04%|23.0%|
-|Attica Unified School District 511, Kansas|933|97.86%|23.0%|
 |Barber County North Unified School District 254, Kansas|3187|98.56%|23.0%|
 |Clinch County School District, Georgia|6648|67.46%|23.02%|
 |Bell City R-II School District, Missouri|1541|92.86%|23.02%|
@@ -10357,7 +9535,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Fostoria City School District, Ohio|13824|87.76%|23.24%|
 |Carbondale Area School District, Pennsylvania|10321|92.99%|23.24%|
 |Cameron Public Schools, Oklahoma|2365|84.19%|23.25%|
-|Whitefish Township Schools, Michigan|529|86.96%|23.26%|
 |Bloomingdale Public School District, Michigan|7478|86.17%|23.26%|
 |Konocti Unified School District, California|22481|71.51%|23.27%|
 |DeSoto County School District, Florida|37371|81.9%|23.27%|
@@ -10369,11 +9546,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Weatherford Public Schools, Oklahoma|13988|85.01%|23.3%|
 |Lexington School District 4, South Carolina|17132|72.65%|23.3%|
 |Syracuse City School District, New York|142553|53.44%|23.31%|
-|Ganado Unified District, Arizona|7713|1.17%|23.33%|
 |Fairview Independent School District, Kentucky|3988|95.41%|23.35%|
 |Medway, Maine|1258|98.73%|23.35%|
 |Pleasantville City School District, New Jersey|20226|26.97%|23.35%|
-|Midvale School District 433, Idaho|805|99.5%|23.35%|
 |Houston R-I School District, Missouri|5491|91.97%|23.37%|
 |Cloudcroft Municipal Schools, New Mexico|3177|97.23%|23.37%|
 |Rochester City School District, New York|206357|45.39%|23.37%|
@@ -10386,13 +9561,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Okmulgee Public Schools, Oklahoma|12869|52.63%|23.43%|
 |Springfield City School District, Ohio|55915|73.59%|23.43%|
 |Curlew School District, Washington|1509|88.73%|23.45%|
-|Lake View Plantation, Maine|226|100.0%|23.45%|
 |La Feria Independent School District, Texas|16202|82.48%|23.45%|
 |Safford Unified District, Arizona|16983|87.14%|23.45%|
 |Switzerland County School Corporation, Indiana|10727|96.02%|23.45%|
 |Chama Valley Independent Schools, New Mexico|2694|51.6%|23.47%|
-|Bradleyville R-I School District, Missouri|864|98.84%|23.47%|
-|Buckholts Independent School District, Texas|805|94.66%|23.49%|
 |Uvalde Consolidated Independent School District, Texas|24519|87.2%|23.49%|
 |Whitehall City School District, Ohio|18944|46.46%|23.49%|
 |Lanett City School District, Alabama|6220|33.44%|23.5%|
@@ -10400,17 +9572,14 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Cutter-Morning Star School District, Arkansas|3372|95.91%|23.53%|
 |Needles Unified School District, California|6801|73.92%|23.54%|
 |Corning Public Schools, Arkansas|6249|94.78%|23.54%|
-|Klawock City School District, Alaska|855|40.23%|23.55%|
 |Avon School District 04-1, South Dakota|1451|94.0%|23.57%|
 |Charlotte Independent School District, Texas|1884|81.48%|23.6%|
 |Concordia Parish School District, Louisiana|19533|57.19%|23.63%|
 |Taylor County School District, Georgia|8126|57.89%|23.63%|
 |Albertville City School District, Alabama|21620|87.53%|23.63%|
 |Mayer Unified District, Arizona|7831|81.79%|23.64%|
-|Channing Independent School District, Texas|791|89.0%|23.65%|
 |Carlisle Independent School District, Texas|2388|83.08%|23.7%|
 |Meigs Local School District, Ohio|12184|95.68%|23.73%|
-|Morgan Independent School District, Texas|871|86.34%|23.73%|
 |Burlington School District, Vermont|42645|84.8%|23.73%|
 |Wewoka Public Schools, Oklahoma|4174|60.11%|23.75%|
 |Monroe County School District, Kentucky|10616|95.46%|23.76%|
@@ -10439,7 +9608,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |West St. Francois County R-IV School District, Missouri|4875|96.64%|23.95%|
 |Ontario School District 8, Oregon|18700|83.82%|23.98%|
 |Lyle School District, Washington|2633|91.34%|23.99%|
-|Burlington Public Schools, Maine|356|99.16%|23.99%|
 |Ozark School District, Arkansas|11283|93.49%|24.0%|
 |Granger School District, Washington|6060|73.8%|24.02%|
 |Millwood Public Schools, Oklahoma|3313|31.72%|24.03%|
@@ -10467,9 +9635,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Barstow Unified School District, California|33302|59.68%|24.17%|
 |Dermott School District, Arkansas|3479|37.91%|24.19%|
 |Chickasaw City School District, Alabama|5757|49.75%|24.19%|
-|Chase-Raymond Unified School District 401, Kansas|832|93.39%|24.2%|
 |Neelyville R-IV School District, Missouri|2711|96.86%|24.21%|
-|Avery School District 394, Idaho|433|90.07%|24.23%|
 |Santa Maria Independent School District, Texas|2444|84.74%|24.26%|
 |Dayton City School District, Ohio|150970|49.79%|24.29%|
 |Purdy R-II School District, Missouri|2895|88.57%|24.3%|
@@ -10483,15 +9649,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lockwood R-I School District, Missouri|2447|97.26%|24.4%|
 |Sunnyside Unified District, Arizona|96831|55.96%|24.4%|
 |Mount Airy City Schools, North Carolina|10350|86.59%|24.42%|
-|McCurtain Public Schools, Oklahoma|1172|63.74%|24.42%|
 |Alice Independent School District, Texas|25679|93.47%|24.43%|
-|Baring Plantation, Maine|254|93.31%|24.47%|
 |Westside School District, Arkansas|4273|84.34%|24.47%|
 |Trimble Local School District, Ohio|4484|96.19%|24.48%|
 |Myrtle Point School District 41, Oregon|4835|89.0%|24.49%|
 |Commerce Public Schools, Oklahoma|3781|62.58%|24.57%|
 |Huntington Local School District, Ohio|6199|98.71%|24.59%|
-|House Municipal Schools, New Mexico|288|86.11%|24.6%|
 |Canton R-V School District, Missouri|3829|89.66%|24.63%|
 |Charlotte County Public Schools, Virginia|11953|69.97%|24.63%|
 |Hardee County School District, Florida|27027|76.77%|24.66%|
@@ -10502,34 +9665,24 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Whitewater School District, Wisconsin|20241|87.68%|24.71%|
 |Runge Independent School District, Texas|1683|76.11%|24.72%|
 |Carroll County School District, Kentucky|10691|91.34%|24.74%|
-|Middle Bass Local School District, Ohio|101|96.04%|24.74%|
 |Logan School District, Utah|51266|85.99%|24.74%|
-|Newtown-Harris R-III School District, Missouri|521|97.7%|24.75%|
 |Deming Public Schools, New Mexico|24022|84.17%|24.76%|
 |Muskogee Public Schools, Oklahoma|36934|51.74%|24.77%|
 |Jasper-Troupsburg Central School District, New York|3244|97.72%|24.8%|
 |Provo School District, Utah|116435|85.58%|24.8%|
 |Paris Independent School District, Texas|22085|69.02%|24.81%|
-|Stanford K-12 Schools, Montana|871|95.52%|24.88%|
 |Morton Independent School District, Texas|2137|79.64%|24.9%|
 |Buchanan County Public Schools, Virginia|21374|94.8%|24.9%|
 |Como-Pickton Consolidated Independent School District, Texas|3629|72.77%|24.91%|
 |Williamsburg Independent School District, Kentucky|6075|92.03%|24.92%|
 |Cossatot River School District, Arkansas|6048|83.71%|24.94%|
 |Clay County School District, Tennessee|7640|94.59%|24.96%|
-|Ryegate K-12 Schools, Montana|435|89.2%|25.0%|
-|Lind School District, Washington|1217|61.46%|25.0%|
-|The Forks Plantation, Maine|36|100.0%|25.0%|
-|Troy School District 54, Oregon|26|92.31%|25.0%|
-|Billings Public Schools, Oklahoma|635|82.52%|25.0%|
 |Harlingen Consolidated Independent School District, Texas|86977|85.8%|25.03%|
 |Nelsonville-York City School District, Ohio|9070|91.8%|25.04%|
 |Prattsburgh Central School District, New York|2715|97.02%|25.05%|
-|Ukiah School District 80, Oregon|359|91.64%|25.1%|
 |Point Isabel Independent School District, Texas|14418|92.81%|25.1%|
 |Frankfort Community Unit School District 168, Illinois|11536|97.16%|25.1%|
 |Boswell Public Schools, Oklahoma|1945|61.23%|25.1%|
-|Deal Borough School District, New Jersey|528|85.23%|25.11%|
 |Allentown City School District, Pennsylvania|118048|57.54%|25.13%|
 |Wendell School District 232, Idaho|5176|83.11%|25.15%|
 |Steubenville City School District, Ohio|15022|75.03%|25.17%|
@@ -10537,7 +9690,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Santa Rosa Consolidated Schools, New Mexico|4608|69.97%|25.2%|
 |Lutie R-VI School District, Missouri|1345|96.36%|25.2%|
 |Harrison Community Schools, Michigan|12877|96.3%|25.27%|
-|Dawson Independent School District (Dawson, Lynn, and Terry Counties), Texas|362|91.71%|25.3%|
 |Port Orford-Langlois School District 2J, Oregon|3342|93.03%|25.3%|
 |Grayson County School District, Kentucky|26313|96.39%|25.32%|
 |Kings Canyon Joint Unified School District, California|46443|73.15%|25.35%|
@@ -10553,16 +9705,13 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Scott City R-I School District, Missouri|5110|96.63%|25.46%|
 |Oroville School District, Washington|4313|85.25%|25.46%|
 |Machias, Maine|2085|92.33%|25.46%|
-|Eagletown Public Schools, Oklahoma|1176|68.37%|25.5%|
 |Greenville R-II School District, Missouri|4919|96.54%|25.5%|
 |Clarke County School District, Georgia|126952|62.0%|25.53%|
 |Centennial School District R-1, Colorado|1654|68.38%|25.55%|
 |Southwest R-V School District, Missouri|4326|90.45%|25.58%|
 |Ames Community School District, Iowa|62845|80.8%|25.59%|
-|Columbia (Stevens) School District, Washington|1131|57.29%|25.62%|
 |Mountain View-Birch Tree R-III School District, Missouri|7688|96.66%|25.62%|
 |Lakewood Township School District, New Jersey|104186|89.76%|25.67%|
-|Cotton Center Independent School District, Texas|388|85.31%|25.68%|
 |Ozark Mountain School District, Arkansas|5063|95.46%|25.68%|
 |Marquand-Zion R-VI School District, Missouri|1216|97.62%|25.7%|
 |Macomb Community Unit School District 185, Illinois|20412|85.91%|25.7%|
@@ -10584,8 +9733,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Shawnee Community Unit School District 84, Illinois|2005|94.66%|26.08%|
 |North Pemiscot County R-I School District, Missouri|1531|90.66%|26.08%|
 |Heavener Public Schools, Oklahoma|4750|70.06%|26.09%|
-|Beddington, Maine|25|92.0%|26.09%|
-|Jackson Independent School District, Kentucky|683|100.0%|26.14%|
 |Fort Rucker School District, Alabama|5715|74.19%|26.14%|
 |Saginaw City School District, Michigan|58429|46.81%|26.14%|
 |Raymondville Independent School District, Texas|13698|84.0%|26.16%|
@@ -10597,11 +9744,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lawrence County School District, Kentucky|15604|97.51%|26.23%|
 |Harrisonburg City Public Schools, Virginia|53558|77.22%|26.23%|
 |Casey County School District, Kentucky|15968|96.22%|26.24%|
-|Sasakwa Public Schools, Oklahoma|655|67.48%|26.24%|
 |Chadwick R-I School District, Missouri|1950|99.74%|26.26%|
 |Jamestown City School District, New York|30895|87.84%|26.27%|
 |Raton Public Schools, New Mexico|6840|83.58%|26.3%|
-|Calvin Public Schools, Oklahoma|1097|77.3%|26.3%|
 |South Pemiscot County R-V School District, Missouri|3136|80.42%|26.32%|
 |Big Rapids Public Schools, Michigan|19760|89.09%|26.32%|
 |Sumter County School District, Alabama|12595|25.33%|26.32%|
@@ -10623,14 +9768,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Binghamton City School District, New York|44819|71.89%|26.49%|
 |Mayfield Independent School District, Kentucky|9680|75.62%|26.55%|
 |Mahanoy Area School District, Pennsylvania|10941|74.03%|26.56%|
-|School District Not Defined, Minnesota|304|73.03%|26.58%|
 |Auburn City School District, Alabama|65508|71.03%|26.62%|
 |Mercedes Independent School District, Texas|21472|74.0%|26.64%|
 |Hagerman Municipal Schools, New Mexico|1937|83.63%|26.67%|
 |Webster County School District, West Virginia|8289|98.4%|26.67%|
 |Brookesmith Independent School District, Texas|1057|98.58%|26.68%|
 |Hattiesburg Public School District, Mississippi|38187|39.78%|26.72%|
-|Webb Consolidated Independent School District, Texas|984|96.24%|26.72%|
 |Dearborn City School District, Michigan|102465|89.08%|26.74%|
 |Regional School Unit 26, Maine|10751|88.32%|26.75%|
 |San Marcos Consolidated Independent School District, Texas|79636|80.0%|26.83%|
@@ -10638,7 +9781,6 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Houghton-Portage Township Schools, Michigan|10593|86.96%|26.85%|
 |Lordsburg Municipal Schools, New Mexico|3251|85.64%|26.88%|
 |Edgewood Independent School District (Bexar County), Texas|64284|78.11%|26.88%|
-|Temple Public Schools, Oklahoma|1166|81.99%|26.97%|
 |Douglas Unified District, Arizona|21215|80.87%|26.98%|
 |Hayti R-II School District, Missouri|3290|53.28%|26.99%|
 |Calhoun City School District, Georgia|17088|72.13%|27.01%|
@@ -10648,30 +9790,23 @@ This page is an analysis and visualization of data I queried from the US Census'
 |St. Regis K-12 Schools, Montana|1243|95.9%|27.1%|
 |Eagle Pass Independent School District, Texas|58098|81.01%|27.15%|
 |San Antonio Independent School District, Texas|332198|69.13%|27.15%|
-|Wilson Independent School District, Texas|696|77.73%|27.17%|
 |South Iron County R-I School District, Missouri|2006|96.76%|27.2%|
 |Bendle Public Schools, Michigan|5341|94.27%|27.24%|
 |Idabel Public Schools, Oklahoma|6852|49.93%|27.25%|
 |Santa Rosa Independent School District, Texas|4893|84.22%|27.26%|
 |Waco Independent School District, Texas|108988|63.96%|27.28%|
 |Glenns Ferry Joint School District 192, Idaho|2635|87.89%|27.29%|
-|Pingree-Buchanan Public School District 10, North Dakota|552|97.64%|27.29%|
 |Paterson City School District, New Jersey|145484|27.17%|27.3%|
 |Starkville Oktibbeha Consolidated School District, Mississippi|49593|56.91%|27.32%|
 |Mansfield R-IV School District, Missouri|4052|97.43%|27.33%|
 |Rowan County School District, Kentucky|24534|95.95%|27.35%|
-|Manzanola School District 3J, Colorado|1183|81.91%|27.35%|
 |Lee County Public Schools, Virginia|23723|93.92%|27.41%|
 |Okemah Public Schools, Oklahoma|6176|61.69%|27.45%|
 |Three Rivers Independent School District, Texas|4474|88.35%|27.46%|
-|Caswell, Maine|262|95.8%|27.49%|
 |Mingo County School District, West Virginia|23808|96.05%|27.5%|
-|Whiteface Consolidated Independent School District, Texas|834|85.85%|27.52%|
 |Trenton City School District, New Jersey|83387|35.27%|27.53%|
 |Shady Point Public School, Oklahoma|1381|80.52%|27.61%|
-|Malone Independent School District, Texas|674|66.62%|27.62%|
 |Wheeler County School District, Georgia|7897|60.78%|27.66%|
-|San Pasqual Valley Unified School District, California|1861|40.41%|27.7%|
 |Fort Hancock Independent School District, Texas|2734|66.24%|27.72%|
 |Pharr-San Juan-Alamo Independent School District, Texas|133146|85.81%|27.72%|
 |East Orange City School District, New Jersey|64650|3.47%|27.74%|
@@ -10679,15 +9814,12 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Sallisaw Public Schools, Oklahoma|11741|60.8%|27.77%|
 |Elliott County School District, Kentucky|7461|95.98%|27.8%|
 |Madison School District 321, Idaho|35907|91.35%|27.8%|
-|Onion Creek School District, Washington|278|89.21%|27.82%|
 |Bamberg School District 2, South Carolina|6259|25.5%|27.9%|
 |Wonderview School District, Arkansas|2997|86.69%|27.94%|
 |Rocky Ford School District R-2, Colorado|5222|84.91%|27.94%|
 |Chester-Upland School District, Pennsylvania|41271|21.0%|27.98%|
 |Norton City Public Schools, Virginia|3969|93.5%|27.98%|
 |Ash Fork Joint Unified District, Arizona|2437|78.5%|28.0%|
-|La Gloria Independent School District, Texas|379|98.94%|28.0%|
-|Lasara Independent School District, Texas|923|89.38%|28.0%|
 |Lewis County School District, Kentucky|13345|97.64%|28.01%|
 |Lake County School District, Tennessee|7273|67.06%|28.01%|
 |Salem City School District, New Jersey|4761|30.33%|28.02%|
@@ -10708,18 +9840,13 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Floyd County School District, Kentucky|35931|97.4%|28.47%|
 |Nueces Canyon Consolidated Independent School District, Texas|1760|98.24%|28.55%|
 |Port Arthur Independent School District, Texas|53009|42.93%|28.56%|
-|Lawnside Borough School District, New Jersey|2883|6.31%|28.57%|
-|Deblois, Maine|28|100.0%|28.57%|
 |Plato R-V School District, Missouri|3271|92.72%|28.68%|
 |Magoffin County School District, Kentucky|12346|98.48%|28.71%|
-|Harper School District 66, Oregon|290|99.66%|28.72%|
 |Cannelton City Schools, Indiana|1353|96.67%|28.72%|
 |Rising Star Independent School District, Texas|1443|96.05%|28.77%|
-|Ridgeway R-V School District, Missouri|634|97.95%|28.82%|
 |Owsley County School District, Kentucky|4416|92.66%|28.91%|
 |San Elizario Independent School District, Texas|12081|56.44%|28.93%|
 |Alpena School District, Arkansas|2915|96.71%|28.94%|
-|Pelican City School District, Alaska|57|66.67%|28.95%|
 |Valley View Independent School District (Hidalgo County), Texas|17637|55.62%|28.97%|
 |Talihina Public Schools, Oklahoma|2390|62.09%|28.98%|
 |Georgetown Exempted Village School District, Ohio|6429|95.92%|29.01%|
@@ -10730,12 +9857,9 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Wyandanch Union Free School District, New York|11436|13.1%|29.19%|
 |Letcher County School District, Kentucky|18976|97.89%|29.2%|
 |Passaic City School District, New Jersey|69789|59.11%|29.23%|
-|Comstock Independent School District, Texas|475|100.0%|29.26%|
-|Wapanucka Public Schools, Oklahoma|1249|78.38%|29.28%|
 |Hidalgo Independent School District, Texas|5986|61.58%|29.44%|
 |West Plains R-VII School District, Missouri|12905|97.36%|29.5%|
 |Brownsville Independent School District, Texas|192423|85.33%|29.52%|
-|Alpaugh Unified School District, California|1251|64.35%|29.57%|
 |Campbellsville Independent School District, Kentucky|8868|79.93%|29.59%|
 |Nogales Unified District, Arizona|21132|73.86%|29.61%|
 |Reading School District, Pennsylvania|88333|47.47%|29.64%|
@@ -10744,15 +9868,11 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Summersville R-II School District, Missouri|2326|99.14%|29.7%|
 |Bridgeton City School District, New Jersey|24264|42.29%|29.73%|
 |Thomasville City Schools, North Carolina|15309|62.11%|29.85%|
-|Oglala Lakota County School District 65-1, South Dakota|14277|4.76%|29.86%|
 |Kingsville Independent School District, Texas|25154|79.69%|29.91%|
 |Slocum Independent School District, Texas|2356|90.53%|30.0%|
-|Frenchboro, Maine|10|100.0%|30.0%|
 |Westwood Community Schools, Michigan|18939|44.5%|30.01%|
-|Nenana City School District, Alaska|482|56.43%|30.04%|
 |San Benito Consolidated Independent School District, Texas|44773|82.38%|30.22%|
 |Bell County School District, Kentucky|15250|98.42%|30.22%|
-|Mattole Unified School District, California|576|82.64%|30.25%|
 |Arkoma Public Schools, Oklahoma|1924|78.33%|30.28%|
 |Bowling Green Independent School District, Kentucky|30446|76.39%|30.3%|
 |Clearwater R-I School District, Missouri|7292|95.53%|30.32%|
@@ -10760,25 +9880,21 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Rio Grande City Consolidated Independent School District, Texas|38889|82.18%|30.33%|
 |Middlesboro Independent School District, Kentucky|9362|91.74%|30.37%|
 |Barbourville Independent School District, Kentucky|2797|94.53%|30.42%|
-|Three Creek Joint Elementary School District 416, Idaho|70|98.57%|30.43%|
 |McFarland Unified School District, California|14670|76.49%|30.44%|
 |Hobart Public Schools, Oklahoma|4056|78.62%|30.5%|
 |South Conejos School District RE-10, Colorado|2137|76.56%|30.53%|
-|Ryan Public Schools, Oklahoma|997|77.33%|30.57%|
 |Woodlake Unified School District, California|10927|67.76%|30.63%|
 |Oakridge School District 76, Oregon|4872|92.14%|30.65%|
 |Knott County School District, Kentucky|15041|97.29%|30.77%|
 |Wells Independent School District, Texas|2171|86.73%|30.85%|
 |Gila Bend Unified District, Arizona|2357|52.95%|30.85%|
 |Van Buren R-I School District, Missouri|3057|95.78%|30.95%|
-|Cairo Community Unit School District 1, Illinois|2116|28.17%|30.97%|
 |Glasgow Independent School District, Kentucky|12685|86.66%|30.99%|
 |Camden City School District, New Jersey|73742|20.7%|31.02%|
 |Mount Pleasant City School District, Michigan|46441|84.28%|31.08%|
 |Hancock County School District, Tennessee|6568|98.36%|31.09%|
 |Westwood Heights Schools, Michigan|5003|47.33%|31.17%|
 |Firebaugh-Las Deltas Unified School District, California|8802|52.39%|31.21%|
-|Damon Independent School District, Texas|809|89.12%|31.21%|
 |Jackson County School District, Kentucky|13368|98.0%|31.23%|
 |McCreary County School District, Kentucky|17333|89.81%|31.27%|
 |Leslie County School District, Kentucky|10081|97.1%|31.3%|
@@ -10787,11 +9903,7 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Flint City School District, Michigan|95965|38.43%|31.47%|
 |Fulton Independent School District, Kentucky|2491|60.18%|31.51%|
 |New Boston Local School District, Ohio|2657|95.6%|31.55%|
-|Penelope Independent School District, Texas|663|95.17%|31.7%|
-|Talmadge, Maine|41|100.0%|31.71%|
-|Indian Township, Maine|710|15.35%|31.73%|
 |Dora R-III School District, Missouri|1982|96.17%|31.79%|
-|Leggett Valley Unified School District, California|598|89.3%|31.84%|
 |Eminence R-I School District, Missouri|2316|90.07%|31.84%|
 |Somerset Independent School District, Kentucky|8664|91.7%|31.84%|
 |Weleetka Public Schools, Oklahoma|2064|57.56%|32.02%|
@@ -10801,15 +9913,10 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Gary Community School Corporation, Indiana|71035|10.6%|32.12%|
 |Heuvelton Central School District, New York|4252|98.71%|32.18%|
 |Hatch Valley Municipal Schools, New Mexico|5347|82.91%|32.19%|
-|Arock School District 81, Oregon|119|99.16%|32.2%|
 |Morristown Central School District, New York|2851|93.37%|32.23%|
-|Red Lake Public School District, Minnesota|5777|2.3%|32.29%|
-|Wellpinit School District, Washington|1122|14.35%|32.3%|
 |Watts Public Schools, Oklahoma|1687|62.77%|32.39%|
 |Maynard School District, Arkansas|2949|93.15%|32.52%|
-|Graham-Dustin Public Schools, Oklahoma|1300|62.31%|32.55%|
 |Harlan County School District, Kentucky|23912|95.81%|32.62%|
-|Carroll Plantation, Maine|98|96.94%|32.63%|
 |Detroit Public Schools Community District, Michigan|672402|14.39%|32.65%|
 |Crystal City Independent School District, Texas|8790|86.36%|32.7%|
 |Zapata County Independent School District, Texas|14243|80.35%|32.74%|
@@ -10817,29 +9924,22 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Breathitt County School District, Kentucky|12119|97.14%|33.02%|
 |Knox County School District, Kentucky|27313|96.93%|33.04%|
 |Powers School District 31, Oregon|1236|83.74%|33.04%|
-|Southern Trinity Joint Unified School District, California|954|87.84%|33.05%|
-|Boles Independent School District, Texas|865|88.09%|33.07%|
 |McDowell County School District, West Virginia|18083|89.55%|33.08%|
 |Lindsay Unified School District, California|16651|70.22%|33.11%|
 |Crooked Oak Public Schools, Oklahoma|3324|70.07%|33.26%|
-|Pleasant Point, Maine|600|12.5%|33.33%|
 |Lee County School District, Kentucky|7088|95.27%|33.34%|
 |Jenkins Independent School District, Kentucky|2960|95.54%|33.36%|
 |Geneseo Central School District, New York|11432|89.63%|33.57%|
 |Round Valley Unified School District, California|2920|55.72%|33.58%|
 |Caverna Independent School District, Kentucky|5989|83.59%|33.75%|
 |Mendota Unified School District, California|13610|38.03%|33.82%|
-|Highland Plantation, Maine|65|100.0%|33.85%|
 |River Rouge School District, Michigan|7750|44.71%|33.94%|
 |Clay County School District, Kentucky|20110|91.97%|33.99%|
 |Jim Hogg County Independent School District, Texas|5187|91.75%|34.01%|
-|Westhoff Independent School District, Texas|494|90.89%|34.08%|
-|Guthrie Common School District, Texas|263|96.96%|34.12%|
 |East Ramapo Central School District (Spring Valley), New York|124172|68.84%|34.12%|
 |Portsmouth City School District, Ohio|21293|88.25%|34.2%|
 |Reef-Sunset Unified School District, California|14855|42.36%|34.3%|
 |Gadsden Independent Schools, New Mexico|67709|73.35%|34.33%|
-|Cuba Independent Schools, New Mexico|5391|17.2%|34.35%|
 |Parlier Unified School District, California|16351|76.28%|34.42%|
 |Booneville School District, Mississippi|5849|75.93%|34.72%|
 |Carrizo Springs Consolidated Independent School District, Texas|10232|70.19%|34.72%|
@@ -10848,52 +9948,31 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Verona R-VII School District, Missouri|1720|91.22%|35.17%|
 |East Lansing School District, Michigan|54098|75.42%|35.2%|
 |Athens City School District, Ohio|35952|87.36%|35.21%|
-|Athens, Maine|786|95.93%|35.29%|
 |West Lafayette Community School Corporation, Indiana|31254|69.14%|35.77%|
 |Wolfe County School District, Kentucky|7188|97.65%|35.83%|
 |Colorado City Unified District, Arizona|5996|100.0%|35.83%|
 |Lucerne Valley Unified School District, California|6683|81.03%|35.83%|
-|Erick Public Schools, Oklahoma|1005|74.23%|35.98%|
 |La Pryor Independent School District, Texas|1376|85.9%|36.04%|
 |Ecorse Public School District, Michigan|9171|34.95%|36.1%|
 |Campbell R-II School District, Missouri|3112|93.44%|36.24%|
 |Laredo Independent School District, Texas|85983|81.21%|36.24%|
-|North Bolivar Consolidated School District, Mississippi|4897|4.7%|36.26%|
 |East Cleveland City School District, Ohio|20279|7.57%|36.36%|
 |New Brunswick City School District, New Jersey|55992|60.74%|36.39%|
 |Orange City Township School District, New Jersey|30570|13.27%|36.78%|
-|Oxford Unorganized Territory, Maine|709|97.04%|37.06%|
 |Brooks County Independent School District, Texas|7100|80.56%|37.4%|
-|Amherst Independent School District, Texas|1140|86.58%|37.54%|
-|San Isidro Independent School District, Texas|787|83.1%|37.61%|
 |Radford City Public Schools, Virginia|17833|84.97%|37.85%|
 |Southland C-9 School District, Missouri|2008|88.55%|38.15%|
-|Highland Park City Schools, Michigan|10818|7.92%|38.15%|
-|McDermitt School District 51, Oregon|31|100.0%|38.71%|
 |La Joya Independent School District, Texas|104756|80.56%|38.83%|
 |Muskegon Heights School District, Michigan|10735|17.08%|39.07%|
 |Donna Independent School District, Texas|67341|79.92%|39.1%|
-|San Perlita Independent School District, Texas|946|91.12%|39.33%|
 |Roma Independent School District, Texas|24356|85.7%|39.62%|
-|Willimantic, Maine|126|100.0%|39.68%|
 |Carrollton School District, Michigan|5685|87.28%|40.02%|
 |Marlin Independent School District, Texas|8550|58.07%|40.06%|
-|Hancock Unorganized Territory, Maine|219|96.35%|40.28%|
 |Kiryas Joel Village Union Free School District, New York|25910|98.79%|41.49%|
-|Brighton Plantation, Maine|60|100.0%|41.67%|
-|School District Not Defined, New Hampshire|26|80.77%|42.86%|
 |Oneida Special School District, Tennessee|3030|97.26%|43.07%|
 |Washington Unified School District (Fresno County), California|9349|49.29%|43.39%|
-|Big Sur Unified School District, California|334|85.93%|45.67%|
 |Mount Calm Independent School District, Texas|1352|77.07%|47.39%|
 |Hamtramck Public Schools, Michigan|21704|56.33%|47.86%|
 |Harlan Independent School District, Kentucky|2395|91.98%|48.07%|
 |Beecher Community School District, Michigan|8614|29.13%|49.41%|
-|Brooklyn Community Unit School District 188, Illinois|428|2.34%|50.0%|
-|Orient, Maine|169|88.17%|50.34%|
 |Presidio Independent School District, Texas|4317|72.85%|52.27%|
-|McLeod Independent School District, Texas|808|93.94%|53.49%|
-|Mandaree Public School District 36, North Dakota|821|4.63%|63.16%|
-|School District Not Defined, Indiana|577|65.51%|63.64%|
-|Dulce Independent Schools, New Mexico|4109|5.65%|70.45%|
-|School District Not Defined, California|13|15.38%|100.0%|
