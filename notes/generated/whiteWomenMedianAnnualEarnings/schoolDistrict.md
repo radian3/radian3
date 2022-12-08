@@ -5002,3 +5002,4937 @@ This page is an analysis and visualization of data I queried from the US Census'
 |Lunenburg County Public Schools, Virginia|12294|61.11%|$28224|
 |Grandview C-4 School District, Missouri|32118|62.04%|$28222|
 |Spencerville Local School District, Ohio|4745|96.78%|$28221|
+|Mishicot School District, Wisconsin|6002|98.1%|$28220|
+|DeLand-Weldon Community Unit School District 57, Illinois|1363|96.77%|$28214|
+|Byron Community Unit School District 226, Illinois|7226|93.4%|$28212|
+|Florence School District 4, South Carolina|6886|37.05%|$28211|
+|Lake Superior Public School District, Minnesota|13209|96.59%|$28211|
+|Greenville Independent School District, Texas|34371|68.93%|$28203|
+|Crestview Local School District (Van Wert County), Ohio|4496|98.27%|$28203|
+|Springfield School District, Vermont|8935|95.08%|$28196|
+|DeKalb County Central United School District, Indiana|25172|96.81%|$28195|
+|Mauston School District, Wisconsin|10323|94.61%|$28194|
+|Lafayette School Corporation, Indiana|58766|81.87%|$28193|
+|Harlowton K-12 Schools, Montana|1896|95.78%|$28188|
+|Broadalbin-Perth Central School District, New York|11029|93.88%|$28185|
+|Stanly County Schools, North Carolina|62050|83.22%|$28170|
+|Richmond R-XVI School District, Missouri|9596|93.31%|$28164|
+|Crockett County School District, Tennessee|6290|79.11%|$28162|
+|Lancaster Community School District, Wisconsin|6000|96.75%|$28162|
+|Indian River County School District, Florida|156964|84.3%|$28158|
+|Hardin County Community Unit School District 1, Illinois|3890|96.84%|$28158|
+|Cobleskill-Richmondville Central School District, New York|13241|92.6%|$28157|
+|Tyler Independent School District, Texas|131196|68.25%|$28156|
+|Ouachita School District, Arkansas|1771|96.89%|$28156|
+|Wellington Exempted Village School District, Ohio|8974|96.85%|$28150|
+|Owego-Apalachin Central School District, New York|13953|95.37%|$28150|
+|Central Local School District, Ohio|5697|95.42%|$28148|
+|Uniontown Unified School District 235, Kansas|2193|87.6%|$28145|
+|Vidor Independent School District, Texas|25436|97.13%|$28145|
+|Waseca Public School District, Minnesota|11985|91.2%|$28142|
+|Pulaski County Public Schools, Virginia|34113|92.06%|$28141|
+|Fulton 58 School District, Missouri|19010|88.32%|$28137|
+|Somerset County Public Schools, Maryland|25699|52.57%|$28135|
+|Maryville City School District, Tennessee|29325|91.06%|$28134|
+|Cato-Meridian Central School District, New York|6035|97.75%|$28133|
+|Fort Atkinson School District, Wisconsin|18454|91.15%|$28133|
+|Richmond County Schools, North Carolina|44759|60.47%|$28131|
+|Chico Unified School District, California|116884|80.95%|$28128|
+|Northeast Nodaway County R-V School District, Missouri|1446|96.68%|$28125|
+|Franklin Central School District, New York|1867|97.38%|$28125|
+|Hatton Public School District 7, North Dakota|1260|96.43%|$28125|
+|Beresford School District 61-2, South Dakota|3870|97.36%|$28125|
+|Clearbrook-Gonvick School District, Minnesota|2807|94.16%|$28125|
+|Perry Central Community School Corporation, Indiana|7270|92.92%|$28125|
+|Necedah Area School District, Wisconsin|4808|96.88%|$28125|
+|Scales Mound Community Unit School District 211, Illinois|1822|97.42%|$28125|
+|Line Mountain School District, Pennsylvania|8711|98.15%|$28115|
+|Winfield R-IV School District, Missouri|9409|94.41%|$28104|
+|Bath Central School District, New York|10993|92.36%|$28103|
+|Port Edwards School District, Wisconsin|3411|96.01%|$28098|
+|Manchester Township School District, New Jersey|43649|91.74%|$28097|
+|Harrison County School District, West Virginia|67620|95.08%|$28096|
+|Ben Bolt-Palito Blanco Independent School District, Texas|2330|96.01%|$28095|
+|Pickens County School District, Georgia|32002|87.44%|$28095|
+|Kuna Joint School District 3, Idaho|31125|94.58%|$28094|
+|Liberty Public Schools, Oklahoma|3458|82.97%|$28090|
+|Dierks School District, Arkansas|2593|94.56%|$28088|
+|Richland School District, Wisconsin|10437|93.65%|$28086|
+|Bronaugh R-VII School District, Missouri|1137|97.71%|$28083|
+|Napavine School District, Washington|3715|93.06%|$28080|
+|Audubon Community School District, Iowa|3162|94.81%|$28079|
+|Pike County R-III School District, Missouri|2352|95.54%|$28077|
+|Sterling City Independent School District, Texas|1274|82.81%|$28073|
+|Logan-Rogersville R-VIII School District, Missouri|15297|95.19%|$28073|
+|Phoenix Central School District, New York|11644|94.81%|$28073|
+|Cowden-Herrick Community Unit School District 3A, Illinois|2012|98.76%|$28071|
+|Marion School District, Wisconsin|3729|97.24%|$28068|
+|Black River Falls School District, Wisconsin|12097|82.86%|$28066|
+|Seguin Independent School District, Texas|45613|66.3%|$28064|
+|East Otero School District R-1, Colorado|8355|82.69%|$28060|
+|Southside School District, Arkansas|5779|94.7%|$28058|
+|Goessel Unified School District 411, Kansas|1657|98.67%|$28056|
+|Britton Deerfield School District, Michigan|4212|96.18%|$28051|
+|Eau Claire Public Schools, Michigan|3723|85.25%|$28047|
+|Kosciusko School District, Mississippi|10744|47.65%|$28043|
+|Camanche Community School District, Iowa|5269|97.89%|$28040|
+|Marshall County School District, Tennessee|33708|89.09%|$28032|
+|Lindenwold Borough School District, New Jersey|17288|40.54%|$28026|
+|Pillager Public School District, Minnesota|5377|94.59%|$28026|
+|Shenandoah County Public Schools, Virginia|43441|92.61%|$28024|
+|Ninnekah Public Schools, Oklahoma|2865|85.65%|$28023|
+|Southern Door County School District, Wisconsin|7551|94.74%|$28023|
+|Le Sueur-Henderson School District, Minnesota|7659|92.99%|$28022|
+|Davis County Community School District, Iowa|8751|97.44%|$28021|
+|Howe Public Schools, Oklahoma|2219|80.17%|$28021|
+|Bolton Central School District, New York|1623|97.6%|$28021|
+|Holdrege Public Schools, Nebraska|6562|93.57%|$28018|
+|School of The Osage School District, Missouri|13532|95.65%|$28014|
+|Utica City School District, New York|59984|61.34%|$28013|
+|Denver City Independent School District, Texas|6570|83.88%|$28011|
+|Ritenour School District, Missouri|43959|58.93%|$28006|
+|Conewago Valley School District, Pennsylvania|26814|94.29%|$28004|
+|Madison Central School District 39-2, South Dakota|9585|93.42%|$28003|
+|Jasper County R-V School District, Missouri|3310|92.93%|$28000|
+|IKM-Manning Community School District, Iowa|4624|95.05%|$28000|
+|Marceline R-V School District, Missouri|3587|96.32%|$28000|
+|Warren County Schools, North Carolina|19746|39.03%|$27995|
+|Hacienda La Puente Unified School District, California|118350|35.39%|$27994|
+|Manson School District, Washington|3385|52.38%|$27993|
+|Daviess County School District, Kentucky|71552|91.32%|$27991|
+|Hammondsport Central School District, New York|3874|97.21%|$27991|
+|Mount Vernon School District, Washington|40135|74.31%|$27985|
+|North Collins Central School District, New York|4285|97.06%|$27981|
+|Brunswick County Schools, North Carolina|137303|83.87%|$27978|
+|Perryville School District, Arkansas|5354|95.07%|$27976|
+|Rutland City School District, Vermont|15207|95.05%|$27975|
+|Wahkiakum School District, Washington|3485|87.89%|$27969|
+|Round Valley Unified District, Arizona|8683|85.37%|$27963|
+|Mendon Community School District, Michigan|3055|95.65%|$27962|
+|Huron School District 02-2, South Dakota|15584|75.99%|$27959|
+|Hamilton Community Schools, Michigan|16058|96.39%|$27958|
+|Pottstown School District, Pennsylvania|22633|68.01%|$27957|
+|George-Little Rock Community School District, Iowa|2368|97.04%|$27955|
+|Accomack County Public Schools, Virginia|32560|66.87%|$27950|
+|Colquitt County School District, Georgia|45510|62.6%|$27942|
+|Muscatine Community School District, Iowa|29400|88.51%|$27938|
+|Norfolk Public Schools, Nebraska|29271|89.92%|$27937|
+|Fennimore Community School District, Wisconsin|4863|99.24%|$27935|
+|Austintown Local School District, Ohio|34758|89.35%|$27935|
+|New Buffalo Area School District, Michigan|4163|95.77%|$27935|
+|Anderson County School District, Tennessee|40436|95.89%|$27934|
+|Chariton Community School District, Iowa|8241|98.18%|$27933|
+|Pittsgrove Township School District, New Jersey|10183|89.41%|$27932|
+|North Cedar Community School District, Iowa|5109|99.28%|$27931|
+|Wicomico County Public Schools, Maryland|103222|65.24%|$27925|
+|Highlands School District, Pennsylvania|20135|91.28%|$27925|
+|Niles City School District, Ohio|18226|91.29%|$27923|
+|Garrard County School District, Kentucky|17554|94.64%|$27920|
+|Buffalo Independent School District, Texas|5291|81.63%|$27917|
+|Spirit Lake Community School District, Iowa|7855|97.15%|$27917|
+|Scottsbluff Public Schools, Nebraska|18296|86.21%|$27917|
+|Asher Public Schools, Oklahoma|1437|81.84%|$27917|
+|Charlotte County School District, Florida|185926|88.95%|$27915|
+|Tecumseh Public Schools, Michigan|18534|91.7%|$27905|
+|Springport Public Schools, Michigan|5424|94.23%|$27903|
+|School Administrative District 31, Maine|3516|96.73%|$27898|
+|Bay County School District, Florida|180076|80.43%|$27894|
+|Inola Public Schools, Oklahoma|6785|77.64%|$27893|
+|Lapeer Community Schools, Michigan|40757|93.94%|$27889|
+|Santa Ana Unified School District, California|262935|37.12%|$27887|
+|Rowland Unified School District, California|106496|21.18%|$27885|
+|Newark Central School District, New York|14811|88.2%|$27885|
+|Jonesville Community Schools, Michigan|6298|93.97%|$27883|
+|Edwardsburg Public Schools, Michigan|13358|93.27%|$27881|
+|Millbrook Central School District, New York|7484|89.07%|$27875|
+|Le Roy Central School District, New York|8024|94.98%|$27874|
+|Maypearl Independent School District, Texas|5099|86.33%|$27868|
+|Woodbridge School District, Delaware|17854|77.42%|$27866|
+|Catoosa County School District, Georgia|67181|91.77%|$27855|
+|New Lisbon School District, Wisconsin|5168|90.23%|$27855|
+|Upper Freehold Regional School District, New Jersey|8753|86.85%|$27854|
+|Guntersville City School District, Alabama|8531|80.39%|$27852|
+|Lakeland School Corporation, Indiana|15960|95.95%|$27851|
+|Vermillion Unified School District 380, Kansas|2518|98.05%|$27847|
+|Cornell School District, Wisconsin|2994|97.06%|$27846|
+|Dixon R-I School District, Missouri|5856|94.67%|$27843|
+|Polo Community Unit School District 222, Illinois|4272|95.18%|$27843|
+|Centennial School District 28J, Oregon|43488|69.84%|$27837|
+|West Hancock Community School District, Iowa|3567|93.44%|$27833|
+|School District Not Defined, Arizona|67775|89.02%|$27833|
+|Rockingham County Public Schools, Virginia|81138|92.72%|$27828|
+|Seneca East Local School District, Ohio|4640|98.97%|$27828|
+|Southeastern Greene School District, Pennsylvania|4685|98.34%|$27826|
+|Riverton Community Unit School District 14, Illinois|7387|93.52%|$27826|
+|Midland Community Unit School District 7, Illinois|4982|98.17%|$27825|
+|Dallas County School District, Alabama|20422|38.15%|$27825|
+|Delaware Valley School District, Pennsylvania|28278|92.38%|$27822|
+|Millington Municipal School District, Tennessee|15660|64.68%|$27820|
+|Pandora-Gilboa Local School District, Ohio|3211|94.86%|$27818|
+|Conotton Valley Union Local School District, Ohio|3661|97.9%|$27813|
+|Leakey Independent School District, Texas|2071|92.42%|$27813|
+|Sauk Centre Public School District, Minnesota|8019|93.12%|$27813|
+|Lake Worth Independent School District, Texas|18140|67.79%|$27811|
+|West Muskingum Local School District, Ohio|13274|93.2%|$27808|
+|Brandywine Heights Area School District, Pennsylvania|13204|97.13%|$27807|
+|Greenfield School District, Massachusetts|17353|90.32%|$27805|
+|Nursery Independent School District, Texas|1898|88.09%|$27800|
+|Ukiah Unified School District, California|38049|79.67%|$27792|
+|West Perry School District, Pennsylvania|19143|96.0%|$27791|
+|Naples Central School District, New York|5096|96.9%|$27791|
+|Stroudsburg Area School District, Pennsylvania|34240|73.64%|$27780|
+|Pekin Community School District, Iowa|4011|98.8%|$27778|
+|Mesa Vista Consolidated Schools, New Mexico|1717|60.92%|$27778|
+|Hill City Unified School District 281, Kansas|2426|90.85%|$27778|
+|Shelby County School District, Kentucky|48100|84.68%|$27774|
+|Salina Unified School District 305, Kansas|48373|86.41%|$27772|
+|Bethlehem-Center School District, Pennsylvania|8176|94.8%|$27768|
+|Carthage R-IX School District, Missouri|23375|89.78%|$27766|
+|Elk Rapids Schools, Michigan|9652|94.63%|$27766|
+|Tulsa Public Schools, Oklahoma|281162|61.19%|$27765|
+|Crown Point Central School District, New York|2016|98.71%|$27764|
+|Louisa-Muscatine Community School District, Iowa|4125|98.84%|$27760|
+|East Bloomfield Central School District, New York|6195|97.92%|$27760|
+|Sussex County Public Schools, Virginia|11202|40.24%|$27759|
+|Crothersville Community Schools, Indiana|3375|95.44%|$27759|
+|Pontotoc City Schools, Mississippi|12536|64.33%|$27755|
+|Orangeburg County School District, South Carolina|86953|34.78%|$27751|
+|Mount Airy City Schools, North Carolina|10350|86.59%|$27750|
+|Rim of the World Unified School District, California|24156|82.61%|$27750|
+|Italy Independent School District, Texas|3774|73.95%|$27750|
+|Sheffield City School District, Alabama|8925|74.07%|$27746|
+|Sweeny Independent School District, Texas|10073|81.53%|$27744|
+|Xenia Community City School District, Ohio|37992|81.64%|$27736|
+|St. Johns Unified District, Arizona|3978|77.4%|$27734|
+|Madelia Public School District, Minnesota|3590|80.31%|$27734|
+|Lyme Central School District, New York|2166|92.66%|$27731|
+|Marmaduke School District, Arkansas|3555|96.96%|$27727|
+|Sea Isle City School District, New Jersey|2122|98.59%|$27727|
+|Beggs Public Schools, Oklahoma|5549|71.87%|$27724|
+|Pendleton School District 16, Oregon|21725|78.68%|$27723|
+|Flagler County School District, Florida|112854|80.24%|$27722|
+|Cranberry Area School District, Pennsylvania|8669|97.99%|$27720|
+|Troup County School District, Georgia|70095|58.01%|$27716|
+|Warrior Run School District, Pennsylvania|16611|83.54%|$27715|
+|School Administrative District 01, Maine|12413|94.01%|$27715|
+|Morgan County School District, West Virginia|17800|95.56%|$27714|
+|Mesquite Independent School District, Texas|172942|57.81%|$27714|
+|Jackson County School District, Florida|47409|68.45%|$27713|
+|St. Helens School District 502, Oregon|21970|92.3%|$27709|
+|Mildred Independent School District, Texas|3506|92.27%|$27708|
+|Pleasanton Public Schools, Nebraska|1354|98.82%|$27708|
+|Mid-Prairie Community School District, Iowa|9051|95.99%|$27705|
+|Waterloo Community School District, Iowa|76661|75.93%|$27705|
+|Okaloosa County School District, Florida|207430|76.95%|$27703|
+|East Union Community School District, Iowa|3168|96.46%|$27702|
+|Hardeman County School District, Tennessee|25247|54.77%|$27700|
+|Union City Community Schools, Michigan|5846|91.09%|$27697|
+|Churchill County School District, Nevada|24606|78.62%|$27697|
+|Dickenson County Public Schools, Virginia|14524|97.89%|$27696|
+|Grand Coulee Dam School District, Washington|4635|64.21%|$27695|
+|Val Verde Unified School District, California|93698|32.83%|$27693|
+|Dardanelle Public Schools, Arkansas|10319|79.68%|$27693|
+|Ruthven-Ayrshire Community School District, Iowa|1503|91.75%|$27689|
+|Perry Local School District (Stark County), Ohio|29858|94.16%|$27688|
+|Kettle Falls School District, Washington|6081|92.85%|$27682|
+|Dryden Community Schools, Michigan|4848|97.11%|$27682|
+|Anna Independent School District, Texas|16148|78.48%|$27680|
+|Chetopa-St. Paul Unified School District 505, Kansas|2511|94.98%|$27679|
+|Ulen-Hitterdal Public School District, Minnesota|1741|92.88%|$27679|
+|Flandreau School District 50-3, South Dakota|3809|66.45%|$27676|
+|Grapeview School District, Washington|3036|89.33%|$27669|
+|Isle Public School District, Minnesota|3289|90.39%|$27669|
+|Franklin County Community School Corporation, Indiana|17401|97.36%|$27667|
+|Concord Community Schools, Michigan|5211|94.47%|$27661|
+|Boyne City Public Schools, Michigan|7982|96.45%|$27656|
+|Carney-Nadeau Public Schools, Michigan|1567|96.49%|$27656|
+|Neches Independent School District, Texas|1271|88.36%|$27656|
+|Hermitage School District, Pennsylvania|15603|91.1%|$27656|
+|Davison Community Schools, Michigan|31037|93.21%|$27654|
+|Bethany Public Schools, Oklahoma|3180|75.13%|$27652|
+|Mercer County School District, Kentucky|19227|92.33%|$27650|
+|Delavan Community Unit School District 703, Illinois|2642|98.33%|$27650|
+|Byron Area Schools, Michigan|6078|98.06%|$27643|
+|Nickerson Unified School District 309, Kansas|7647|92.73%|$27643|
+|Niagara Falls City School District, New York|47978|69.44%|$27642|
+|Madill Public Schools, Oklahoma|9607|61.52%|$27639|
+|Newell-Fonda Community School District, Iowa|2395|94.07%|$27639|
+|Durand Area Schools, Michigan|10588|95.71%|$27639|
+|Indian Valley Local School District, Ohio|11332|95.59%|$27639|
+|N.I.C.E. Community Schools, Michigan|6982|93.97%|$27639|
+|Jetmore Unified School District 227, Kansas|1741|96.96%|$27639|
+|Farmington R-VII School District, Missouri|29808|92.55%|$27636|
+|Iroquois School District, Pennsylvania|6927|88.0%|$27635|
+|Ridgemont Local School District, Ohio|3884|99.02%|$27633|
+|Waterloo Local School District, Ohio|8056|96.18%|$27625|
+|Capital School District, Delaware|59640|55.14%|$27621|
+|Suttons Bay Public Schools, Michigan|5598|85.3%|$27621|
+|Black Hawk School District, Wisconsin|2644|93.91%|$27621|
+|Sierra Vista Unified District, Arizona|47951|78.15%|$27620|
+|San Saba Independent School District, Texas|4193|77.58%|$27619|
+|Kansas Public Schools, Oklahoma|3850|56.08%|$27619|
+|Bristol City Public Schools, Virginia|17059|87.73%|$27614|
+|Alcoa City School District, Tennessee|9784|77.06%|$27605|
+|Milbank School District 25-4, South Dakota|6237|95.25%|$27601|
+|Deuel School District 19-4, South Dakota|3294|99.0%|$27601|
+|Holland Central School District, New York|6834|98.49%|$27601|
+|Cleveland County Schools, North Carolina|97765|74.09%|$27598|
+|Mulberry School District, Arkansas|3527|92.6%|$27595|
+|Chester Community Unit School District 139, Illinois|10442|75.89%|$27595|
+|Whitney Point Central School District, New York|8767|97.75%|$27591|
+|Tomahawk School District, Wisconsin|9662|96.18%|$27589|
+|Superior School District, Wisconsin|33103|91.77%|$27586|
+|Brandon School District, Michigan|17741|95.15%|$27582|
+|Eldorado Community Unit School District 4, Illinois|6601|96.38%|$27581|
+|Marion Independent School District, Texas|8179|74.61%|$27581|
+|Mulvane Unified School District 263, Kansas|9906|93.57%|$27580|
+|Collinsville Community Unit School District 10, Illinois|47047|81.28%|$27579|
+|Burr Oak Community School District, Michigan|1685|96.38%|$27577|
+|Monadnock Regional School District, New Hampshire|13436|95.14%|$27577|
+|Martinsville City Public Schools, Virginia|12646|47.08%|$27577|
+|West Ottawa Public School District, Michigan|52435|78.62%|$27575|
+|West Monona Community School District, Iowa|3961|95.15%|$27574|
+|Heuvelton Central School District, New York|4252|98.71%|$27574|
+|South Tama County Community School District, Iowa|8257|77.75%|$27569|
+|Grand Haven Area Public Schools, Michigan|43981|92.36%|$27568|
+|Liberty-Perry Community School Corporation, Indiana|6118|96.44%|$27568|
+|Stewartsville C-2 School District, Missouri|1181|97.54%|$27566|
+|Covington-Douglas Schools, Oklahoma|1509|95.36%|$27563|
+|McGregor Independent School District, Texas|5871|89.18%|$27563|
+|Rush County Schools, Indiana|14534|96.9%|$27563|
+|Hankinson Public School District 8, North Dakota|1830|86.99%|$27557|
+|Wisconsin Rapids School District, Wisconsin|34692|92.1%|$27556|
+|Donovan Community Unit School District 3, Illinois|2225|87.82%|$27554|
+|Lincoln Unified School District 298, Kansas|2191|94.16%|$27550|
+|Union County School District, Kentucky|14582|82.7%|$27547|
+|Cumberland County Schools, North Carolina|309166|47.28%|$27541|
+|Russell County School District, Kentucky|17846|94.78%|$27540|
+|North Border School District 100, North Dakota|2596|91.41%|$27540|
+|Eunice Municipal Schools, New Mexico|3474|85.84%|$27535|
+|Darlington Community School District, Wisconsin|4835|96.79%|$27535|
+|Robeson County Schools, North Carolina|131656|27.27%|$27532|
+|Ardmore Public Schools, Oklahoma|19223|64.18%|$27531|
+|Lockwood K-12, Montana|9146|90.65%|$27530|
+|Buckeye Local School District (Ashtabula County), Ohio|10377|92.39%|$27515|
+|Obion County School District, Tennessee|19917|90.92%|$27507|
+|Fillmore Unified School District, California|20204|81.01%|$27500|
+|McCleary School District, Washington|3214|94.56%|$27500|
+|Copenhagen Central School District, New York|3153|95.88%|$27500|
+|Wheeler County School District, Georgia|7897|60.78%|$27500|
+|Barnegat Township School District, New Jersey|23155|90.07%|$27500|
+|Groveton Independent School District, Texas|5312|91.11%|$27500|
+|Shiloh Community Unit School District 1, Illinois|2902|96.59%|$27500|
+|Bellaire Public Schools, Michigan|3556|94.97%|$27500|
+|Wynne Public Schools, Arkansas|12885|70.44%|$27500|
+|Independence School District, Wisconsin|2209|88.28%|$27500|
+|Shelton Public Schools, Nebraska|1831|90.01%|$27500|
+|Norway-Vulcan Area Schools, Michigan|5443|98.05%|$27500|
+|Onaga-Havensville-Wheaton Unified School District 322, Kansas|1850|95.62%|$27500|
+|Buhler Unified School District 313, Kansas|12652|96.02%|$27493|
+|Hayward Community School District, Wisconsin|13478|76.15%|$27491|
+|Two Rivers School District, Wisconsin|12335|91.73%|$27491|
+|Franklin School District, New Hampshire|8695|96.89%|$27486|
+|Quincy School District 172, Illinois|49806|90.68%|$27485|
+|Fort Larned Unified School District 495, Kansas|6320|90.17%|$27485|
+|Cocalico School District, Pennsylvania|24112|96.04%|$27483|
+|Big Valley Joint Unified School District, California|1508|91.18%|$27480|
+|Seneca Falls Central School District, New York|9586|92.48%|$27476|
+|Freedom Area School District, Pennsylvania|11048|96.5%|$27476|
+|Alvarado Independent School District, Texas|18268|86.5%|$27474|
+|Gore Public Schools, Oklahoma|3687|67.62%|$27472|
+|A.C.G.C. Public School District, Minnesota|6015|95.21%|$27472|
+|Fort Worth Independent School District, Texas|513473|57.26%|$27470|
+|Scribner-Snyder Community Schools, Nebraska|1818|94.55%|$27470|
+|Houston Public School District, Minnesota|2676|97.46%|$27469|
+|Hall County School District, Georgia|157159|84.02%|$27468|
+|Geneva County School District, Alabama|20132|85.45%|$27467|
+|Noble Public Schools, Oklahoma|16077|86.68%|$27466|
+|Berryville Public Schools, Arkansas|11753|87.2%|$27463|
+|Searcy County School District, Arkansas|6595|90.31%|$27463|
+|Hamburg Area School District, Pennsylvania|17610|95.63%|$27462|
+|Mayflower School District, Arkansas|7054|89.68%|$27461|
+|Lake Placid Central School District, New York|5591|96.03%|$27458|
+|St. Lucie County School District, Florida|320914|70.34%|$27454|
+|North Posey County Schools Metropolitan School District, Indiana|9815|98.04%|$27453|
+|Rootstown Local School District, Ohio|8432|94.34%|$27452|
+|Lowndes County School District, Georgia|60116|71.37%|$27450|
+|Revere School District, Massachusetts|53400|72.39%|$27447|
+|Sanborn Central School District 55-5, South Dakota|1184|94.0%|$27443|
+|Gladbrook-Reinbeck Community School District, Iowa|4316|98.68%|$27441|
+|Marshalltown Community School District, Iowa|30048|81.02%|$27439|
+|Schulenburg Independent School District, Texas|5387|89.49%|$27436|
+|Mohawk Area School District, Pennsylvania|10349|98.55%|$27434|
+|Bloom-Vernon Local School District, Ohio|4876|97.81%|$27434|
+|El Dorado Unified School District 490, Kansas|14333|88.66%|$27433|
+|Harlan Community School District, Iowa|8129|94.98%|$27431|
+|McLean County School District, Kentucky|9202|96.91%|$27431|
+|Nashua-Plainfield Community School District, Iowa|4101|97.61%|$27431|
+|Jefferson County School District 509J, Oregon|16867|57.46%|$27431|
+|Bangor Township Schools, Michigan|13978|92.46%|$27429|
+|Hamilton Community Schools, Indiana|3955|96.59%|$27429|
+|Taylor Independent School District, Texas|18285|71.3%|$27428|
+|Rugby Public School District 5, North Dakota|3440|93.31%|$27426|
+|Hinsdale Central School District, New York|2910|90.41%|$27424|
+|Lockhart Independent School District, Texas|27173|80.6%|$27424|
+|Minneota Public School District, Minnesota|2489|96.06%|$27424|
+|Elkhorn Area School District, Wisconsin|17720|90.54%|$27423|
+|Max Public School District 50, North Dakota|1182|93.82%|$27422|
+|Midwest Central Community Unit School District 191, Illinois|5754|98.51%|$27421|
+|North Mac Community Unit School District 34, Illinois|7808|98.91%|$27421|
+|Vici Public Schools, Oklahoma|1316|92.17%|$27419|
+|Graford Independent School District, Texas|2422|96.53%|$27419|
+|Bartlett Independent School District, Texas|3015|84.38%|$27417|
+|Schley County School District, Georgia|5215|67.21%|$27415|
+|Telfair County School District, Georgia|15871|52.49%|$27415|
+|Clarkson Public Schools, Nebraska|1138|99.74%|$27414|
+|Eufaula City School District, Alabama|11878|47.29%|$27413|
+|North Pike School District, Mississippi|9950|72.12%|$27412|
+|North Miami Community Schools, Indiana|6148|96.47%|$27412|
+|Pecos-Barstow-Toyah Independent School District, Texas|14989|78.26%|$27411|
+|Atlanta C-3 Schools, Missouri|1539|95.0%|$27411|
+|Iredell-Statesville Schools, North Carolina|149939|79.43%|$27408|
+|Lindsay Public Schools, Oklahoma|5462|86.62%|$27406|
+|Central Community Unit School District 4, Illinois|6389|94.43%|$27406|
+|Sulphur Springs Independent School District, Texas|23975|82.28%|$27405|
+|Big Sky School K-12, Montana|2877|95.66%|$27404|
+|Sahuarita Unified District, Arizona|28371|86.01%|$27402|
+|Chester Independent School District, Texas|1413|82.59%|$27400|
+|Caroline County Public Schools, Maryland|33260|78.4%|$27398|
+|Franklin County School District, Georgia|23015|85.34%|$27396|
+|Ogilvie Public School District, Minnesota|3624|94.65%|$27396|
+|Brazosport Independent School District, Texas|63676|74.73%|$27394|
+|Monticello Central School District, New York|21141|71.49%|$27394|
+|McCracken County School District, Kentucky|46327|90.46%|$27393|
+|Indian Creek Community Unit District 425, Illinois|4675|93.05%|$27391|
+|Lincoln County School District, Mississippi|16939|84.01%|$27389|
+|Rosendale-Brandon School District, Wisconsin|5604|92.65%|$27389|
+|Ridgeview Community Unit School District 19, Illinois|3638|95.66%|$27388|
+|Brown Local School District, Ohio|5608|97.45%|$27387|
+|Lehighton Area School District, Pennsylvania|17391|95.49%|$27387|
+|Essexville-Hampton Public Schools, Michigan|8689|94.31%|$27381|
+|Aiken County School District, South Carolina|172511|69.83%|$27380|
+|Manawa School District, Wisconsin|4822|97.97%|$27380|
+|Clay Community Schools, Indiana|25751|96.79%|$27379|
+|Grand Forks Public School District 1, North Dakota|57546|84.39%|$27375|
+|Waverly City School District, Ohio|11041|96.9%|$27374|
+|Tri-Valley Local School District, Ohio|16593|93.33%|$27372|
+|Boswell Public Schools, Oklahoma|1945|61.23%|$27372|
+|Comstock Public Schools, Michigan|16476|72.69%|$27367|
+|Eagle Grove Community School District, Iowa|4917|94.43%|$27366|
+|River Ridge School District, Wisconsin|3755|97.15%|$27366|
+|Elba Central School District, New York|2596|88.6%|$27365|
+|Calhoun County School District, South Carolina|14608|56.17%|$27363|
+|Cameron Independent School District, Texas|8174|80.67%|$27361|
+|Wilbur School District, Washington|1371|87.31%|$27361|
+|Tri-Township Consolidated School Corporation, Indiana|3509|94.44%|$27361|
+|South Williamsport Area School District, Pennsylvania|9078|92.48%|$27358|
+|Elgin Public Schools, Oklahoma|7972|79.84%|$27357|
+|Central Heights Unified School District 288, Kansas|2612|91.73%|$27356|
+|Montello School District, Wisconsin|6364|96.21%|$27353|
+|Hinton Public Schools, Oklahoma|5065|79.61%|$27351|
+|River Rouge School District, Michigan|7750|44.71%|$27351|
+|Sumner-Eddyville-Miller Schools, Nebraska|1029|97.86%|$27350|
+|Hallsville Independent School District, Texas|21184|87.62%|$27349|
+|Providence School District, Rhode Island|179472|53.17%|$27345|
+|Greene County School District, Georgia|17808|58.88%|$27344|
+|Frewsburg Central School District, New York|4475|98.79%|$27344|
+|Dorchester County Public Schools, Maryland|31994|64.94%|$27344|
+|Redmond School District 2J, Oregon|53687|91.58%|$27344|
+|Middletown Unified School District, California|8974|90.6%|$27343|
+|Navajo Public Schools, Oklahoma|1711|85.21%|$27342|
+|Richmond Community Schools, Michigan|13219|91.04%|$27341|
+|Riley County Unified School District 378, Kansas|5985|89.39%|$27339|
+|Indianola Community School District, Iowa|20852|94.88%|$27338|
+|Bourbon County School District, Kentucky|14296|97.23%|$27337|
+|Negaunee Public Schools, Michigan|8607|95.72%|$27337|
+|Elizabethtown Independent School District, Kentucky|11205|78.27%|$27336|
+|Wapello Community School District, Iowa|3297|93.57%|$27336|
+|Southern Huntingdon County School District, Pennsylvania|7863|98.68%|$27335|
+|Brainerd Public School District, Minnesota|43562|95.45%|$27332|
+|Warren County School District, Kentucky|100390|81.96%|$27331|
+|West Branch Area School District, Pennsylvania|7650|97.07%|$27331|
+|Pittsfield School District, New Hampshire|4119|99.42%|$27328|
+|Polk County School District, Georgia|42251|79.5%|$27327|
+|Jones Public Schools, Oklahoma|6427|84.13%|$27326|
+|Caldwell County School District, Kentucky|12679|92.29%|$27324|
+|Flora Community Unit School District 35, Illinois|7707|94.42%|$27321|
+|Cedar Bluffs Public Schools, Nebraska|1491|95.57%|$27321|
+|Upper Sandusky Exempted Village School District, Ohio|11329|97.27%|$27319|
+|Middleburgh Central School District, New York|6036|95.39%|$27318|
+|Mecklenburg County Public Schools, Virginia|30726|62.48%|$27316|
+|Marysville Joint Unified School District, California|62617|73.61%|$27315|
+|Humansville R-IV School District, Missouri|3429|87.4%|$27315|
+|Otsego Public Schools, Michigan|15082|90.13%|$27315|
+|Puxico R-VIII School District, Missouri|4721|95.68%|$27314|
+|Wyoming Public Schools, Michigan|34708|73.14%|$27313|
+|West Central Area, Minnesota|4802|95.96%|$27313|
+|Jasper Independent School District, Texas|16636|62.44%|$27312|
+|Central City Public Schools, Nebraska|4379|92.58%|$27311|
+|Red Oak Community School District, Iowa|6551|95.54%|$27309|
+|Southeast Warren Community School District, Iowa|3067|97.49%|$27309|
+|National Trail Local School District, Ohio|6644|95.74%|$27306|
+|Richland County Community Unit School District 1, Illinois|15703|95.76%|$27305|
+|Fulda Public School District, Minnesota|2391|93.56%|$27304|
+|Medina Central School District, New York|10311|87.1%|$27303|
+|Newman Grove Public Schools, Nebraska|1492|83.04%|$27303|
+|Sherman Central School District, New York|2243|96.39%|$27303|
+|Amory School District, Mississippi|10839|76.59%|$27301|
+|Sequim School District, Washington|32143|91.83%|$27301|
+|Lewiston, Maine|36158|85.01%|$27300|
+|Yorkshire-Pioneer Central School District, New York|16045|97.29%|$27299|
+|Warren Consolidated Schools, Michigan|117063|76.59%|$27294|
+|Crawford County R-I School District, Missouri|6384|95.21%|$27294|
+|Austin Public School District, Minnesota|28275|80.79%|$27293|
+|Osage Community School District, Iowa|5771|98.18%|$27292|
+|Clarendon School District, Arkansas|3298|61.34%|$27292|
+|Berkshire Local School District, Ohio|13620|94.9%|$27292|
+|Armstrong School District, Pennsylvania|41445|98.07%|$27292|
+|Carroll Consolidated School Corporation, Indiana|6724|95.91%|$27290|
+|Weber School District, Utah|168125|90.91%|$27288|
+|North Rock Creek Public School, Oklahoma|3701|72.55%|$27286|
+|Bismarck Public Schools, Arkansas|6742|94.96%|$27286|
+|Madison County School District, Florida|18557|56.78%|$27286|
+|Silver Creek Central School District, New York|5712|95.48%|$27284|
+|Salado Independent School District, Texas|10064|92.31%|$27284|
+|Spiro Public Schools, Oklahoma|6605|69.6%|$27283|
+|Mount Ayr Community School District, Iowa|4026|95.6%|$27279|
+|Harlem Unit School District 122, Illinois|42059|88.62%|$27279|
+|Halifax County Schools, North Carolina|30071|30.33%|$27278|
+|Oakridge Public Schools, Michigan|10275|89.81%|$27278|
+|Habersham County School District, Georgia|45204|85.0%|$27277|
+|Henderson County Schools, North Carolina|116298|90.58%|$27276|
+|Marshall County School District, Mississippi|22674|65.95%|$27275|
+|Loudon County School District, Tennessee|44082|92.48%|$27274|
+|Valley Mills Independent School District, Texas|3531|87.06%|$27271|
+|La Plata R-II School District, Missouri|2466|97.57%|$27266|
+|North Beach School District, Washington|7382|85.9%|$27266|
+|North Rose-Wolcott Central School District, New York|8631|92.99%|$27260|
+|Booneville School District, Mississippi|5849|75.93%|$27258|
+|Iowa-Grant School District, Wisconsin|4489|99.11%|$27258|
+|Anderson School District 2, South Carolina|21804|84.63%|$27257|
+|Benton County School District, Mississippi|8275|61.17%|$27255|
+|Bellevue City School District, Ohio|12942|96.2%|$27255|
+|Humboldt Unified District, Arizona|58461|89.56%|$27252|
+|Conestoga Valley School District, Pennsylvania|34278|83.76%|$27251|
+|Davis Public Schools, Oklahoma|4890|73.64%|$27250|
+|Patrick Henry Local School District, Ohio|5020|92.83%|$27250|
+|Wyoming Central School District, New York|1622|90.32%|$27250|
+|St. Landry Parish School District, Louisiana|82786|55.94%|$27249|
+|Ozark R-VI School District, Missouri|32298|94.26%|$27249|
+|Coldwater Community Schools, Michigan|22406|90.63%|$27246|
+|Lake Havasu Unified District, Arizona|58563|90.81%|$27245|
+|Ashe County Schools, North Carolina|27009|95.86%|$27245|
+|Questa Independent Schools, New Mexico|3818|95.55%|$27240|
+|Lakeland Joint School District 272, Idaho|32162|93.65%|$27240|
+|Dunklin R-V School District, Missouri|10587|94.59%|$27239|
+|Karns City Area School District, Pennsylvania|9901|95.3%|$27237|
+|Swanville Public School District, Minnesota|1579|97.47%|$27237|
+|Silver Falls School District 4J, Oregon|20299|89.39%|$27236|
+|Pittsville School District, Wisconsin|3891|97.02%|$27236|
+|Oceanside Unified School District, California|143531|67.36%|$27235|
+|Olton Independent School District, Texas|2913|85.72%|$27235|
+|Brown County County School Corporation, Indiana|15093|96.57%|$27233|
+|Cuero Independent School District, Texas|10226|56.53%|$27232|
+|Boone Township Metropolitan School District, Indiana|6185|97.8%|$27231|
+|Milaca Public School District, Minnesota|12040|95.04%|$27230|
+|Prairie Farm School District, Wisconsin|1816|97.19%|$27228|
+|Howards Grove School District, Wisconsin|6232|94.83%|$27226|
+|Haralson County School District, Georgia|22551|92.06%|$27223|
+|Montrose Area School District, Pennsylvania|10784|96.98%|$27222|
+|Calamus-Wheatland Community School District, Iowa|2555|94.48%|$27222|
+|Merrill Community Schools, Michigan|5120|93.11%|$27222|
+|Humboldt Community School District, Iowa|7039|96.38%|$27220|
+|McLean County Unit School District 5, Illinois|100197|79.63%|$27219|
+|Sweet Home Central School District, New York|38064|68.92%|$27219|
+|Humphreys County School District, Mississippi|8198|20.37%|$27218|
+|West Fork Community School District, Iowa|4322|96.74%|$27218|
+|Bradford County School District, Florida|27723|76.94%|$27217|
+|Midland Community School District, Iowa|4022|98.28%|$27216|
+|Terrell County School District, Georgia|8654|36.28%|$27216|
+|Licking Valley Local School District, Ohio|10924|98.02%|$27216|
+|Montrose County School District RE-1J, Colorado|39967|90.53%|$27215|
+|Gunnison Watershed School District RE-1J, Colorado|16945|94.84%|$27214|
+|Pittsburg Unified School District, California|62760|35.19%|$27213|
+|Shenandoah School Corporation, Indiana|7148|98.07%|$27213|
+|Atlantic Community School District, Iowa|8629|96.93%|$27212|
+|Chesterfield County School District, South Carolina|45833|63.26%|$27211|
+|Western Brown Local School District, Ohio|17130|97.75%|$27209|
+|Custer County School District C-1, Colorado|4286|92.37%|$27208|
+|Granada-Huntley-East Chain, Minnesota|1598|98.94%|$27208|
+|Illini Bluffs Community Unit School District 327, Illinois|5567|98.11%|$27207|
+|Coupeville School District, Washington|10726|92.05%|$27206|
+|Batavia City School District, New York|18327|86.2%|$27206|
+|Carlsbad Municipal Schools, New Mexico|37506|83.09%|$27201|
+|Clintonville School District, Wisconsin|9378|92.51%|$27197|
+|Neillsville School District, Wisconsin|6198|97.08%|$27196|
+|Seaford School District, Delaware|25388|65.22%|$27195|
+|Meridian Community Unit School District 223, Illinois|8794|96.47%|$27194|
+|Pittsylvania County Public Schools, Virginia|60867|75.21%|$27189|
+|Sealy Independent School District, Texas|13112|73.48%|$27188|
+|Binger-Oney Public Schools, Oklahoma|2042|84.23%|$27188|
+|Pearl City Community Unit School District 200, Illinois|2670|93.15%|$27188|
+|Elkin City Schools, North Carolina|5927|81.64%|$27188|
+|Evansville-Vanderburgh School Corporation, Indiana|181548|84.71%|$27184|
+|Mason City Community School District, Iowa|27904|92.21%|$27183|
+|Meridian Community Unit School District 15, Illinois|5921|95.47%|$27175|
+|Hamilton Heights School Corporation, Indiana|12401|96.5%|$27175|
+|West Middlesex Area School District, Pennsylvania|7397|97.82%|$27171|
+|Forbes Road School District, Pennsylvania|2770|97.44%|$27170|
+|Park County School District 6, Wyoming|15365|95.18%|$27169|
+|Corinth School District, Mississippi|14694|70.95%|$27167|
+|Oldmans Township School District, New Jersey|1762|85.64%|$27167|
+|Peotone Community Unit School District 207U, Illinois|10899|92.63%|$27167|
+|Venus Independent School District, Texas|10468|86.43%|$27166|
+|Marion C. Early R-V School District, Missouri|3093|95.57%|$27165|
+|Northern Cambria School District, Pennsylvania|7136|99.51%|$27163|
+|Beecher Community Unit School District 200U, Illinois|6547|96.5%|$27163|
+|Southern School District 1, Nebraska|2369|95.53%|$27163|
+|Whitko Community School Corporation, Indiana|10795|95.49%|$27161|
+|Agar-Blunt-Onida School District 58-3, South Dakota|1937|92.72%|$27159|
+|Crestwood School District, Michigan|27277|86.7%|$27159|
+|Greensburg Community Schools, Indiana|14855|93.49%|$27159|
+|Miami East Local School District, Ohio|6832|97.38%|$27158|
+|Avoyelles Parish School District, Louisiana|40465|65.51%|$27157|
+|Spring Cove School District, Pennsylvania|14226|97.08%|$27157|
+|Oshkosh Area School District, Wisconsin|80237|89.87%|$27157|
+|Oakland Craig Public Schools, Nebraska|2135|88.85%|$27156|
+|Bayard Public Schools, Nebraska|2486|89.5%|$27155|
+|Athens City School District, Alabama|26686|72.9%|$27154|
+|Haywood County School District, Tennessee|17391|45.42%|$27152|
+|Clarion-Goldfield-Dows Community School District, Iowa|5359|91.21%|$27148|
+|Stryker Local School District, Ohio|3490|87.31%|$27148|
+|East Lycoming School District, Pennsylvania|10645|94.53%|$27147|
+|Lee County School District, Arkansas|8963|42.63%|$27146|
+|Lampasas Independent School District, Texas|21354|84.63%|$27146|
+|Spring Grove Area School District, Pennsylvania|28656|93.21%|$27143|
+|Allegheny-Clarion Valley School District, Pennsylvania|5253|97.03%|$27143|
+|Southwest Dubois County School Corporation, Indiana|9656|85.48%|$27143|
+|Fremont County School District 25, Wyoming|16895|79.04%|$27141|
+|Kingman Unified School District, Arizona|69909|89.35%|$27140|
+|General Brown Central School District, New York|8916|92.32%|$27138|
+|Fowlerville Community Schools, Michigan|16392|96.57%|$27138|
+|Fullerton Public Schools, Nebraska|2180|94.59%|$27135|
+|Northwest Public Schools, Nebraska|3983|97.92%|$27135|
+|Little Axe Public Schools, Oklahoma|6038|77.51%|$27130|
+|Fort Stockton Independent School District, Texas|13842|81.86%|$27130|
+|Blue Earth Area Public Schools, Minnesota|7564|94.71%|$27128|
+|Hollis Public Schools, Oklahoma|2622|64.99%|$27125|
+|Sweetwater County School District 1, Wyoming|29741|90.67%|$27125|
+|Linden Unified School District, California|12593|65.24%|$27124|
+|Colby School District, Wisconsin|7718|91.37%|$27122|
+|Meridian Public Schools, Michigan|10504|95.18%|$27121|
+|Lebo-Waverly Unified School District 243, Kansas|2879|97.33%|$27120|
+|Rural Vista Unified School District 481, Kansas|2265|96.73%|$27120|
+|Hardin Northern Local School District, Ohio|2605|97.43%|$27117|
+|AHSTW Community School District, Iowa|4350|98.92%|$27115|
+|Greater Nanticoke Area School District, Pennsylvania|18843|84.08%|$27115|
+|Selby School District 62-5, South Dakota|1584|94.63%|$27115|
+|Big Spring School District, Pennsylvania|20420|97.01%|$27115|
+|Enderlin Area Public School District 24, North Dakota|2091|93.26%|$27113|
+|Switzerland County School Corporation, Indiana|10727|96.02%|$27113|
+|Ricardo Independent School District, Texas|4228|90.75%|$27111|
+|Blackduck Public School District, Minnesota|3796|90.07%|$27106|
+|Sonora Independent School District, Texas|3793|56.6%|$27105|
+|Crystal City 47 School District, Missouri|3803|91.66%|$27104|
+|Algonac Community School District, Michigan|15088|96.65%|$27098|
+|Frazier School District, Pennsylvania|7447|94.78%|$27098|
+|Dillon School District 3, South Carolina|8037|44.97%|$27097|
+|Hillsdale Local School District, Ohio|6518|98.77%|$27097|
+|Tri-Village Local School District, Ohio|4422|97.56%|$27097|
+|Alvord Unified School District, California|119233|51.23%|$27097|
+|Archbold Area Local School District, Ohio|6649|93.47%|$27095|
+|Oklahoma Union Public Schools, Oklahoma|2886|69.33%|$27095|
+|Cosmopolis School District, Washington|2225|92.9%|$27092|
+|Valley Grove School District, Pennsylvania|6404|98.5%|$27091|
+|Bloomington School District 87, Illinois|41474|80.14%|$27090|
+|Alta-Aurelia Community School District, Iowa|4395|91.31%|$27083|
+|Amite County School District, Mississippi|12341|57.41%|$27083|
+|Eldora-New Providence Community School District, Iowa|3531|92.81%|$27083|
+|Wellington-Napoleon R-IX School District, Missouri|1778|94.43%|$27083|
+|Harper Independent School District, Texas|4421|92.49%|$27083|
+|Hibbing Public School District, Minnesota|17138|92.58%|$27083|
+|Northwestern Community Unit School District 2, Illinois|2603|98.69%|$27083|
+|Orleans Central Supervisory Union, Vermont|7154|96.09%|$27079|
+|Columbia County School District, Florida|70898|75.57%|$27077|
+|Triton School Corporation, Indiana|5998|96.63%|$27077|
+|Pasquotank County Schools, North Carolina|39775|57.65%|$27076|
+|Galveston Independent School District, Texas|53536|73.99%|$27076|
+|Harnett County Schools, North Carolina|134328|66.83%|$27072|
+|Grantsburg School District, Wisconsin|4831|94.72%|$27072|
+|Southeastern School Corporation, Indiana|7879|95.95%|$27069|
+|Benson Public School District, Minnesota|5217|95.99%|$27068|
+|Hinsdale School District, New Hampshire|3905|95.67%|$27067|
+|Claremore Public Schools, Oklahoma|23331|67.97%|$27066|
+|Crofton Community Schools, Nebraska|2382|94.16%|$27066|
+|Riverside Public Schools, Nebraska|1695|96.17%|$27065|
+|Mount Greylock School District, Massachusetts|10726|87.97%|$27064|
+|Mexico 59 School District, Missouri|14771|89.02%|$27063|
+|Glenwood City School District, Wisconsin|3835|92.54%|$27063|
+|Barnes Unified School District 223, Kansas|2406|94.31%|$27063|
+|Alex Public Schools, Oklahoma|1783|88.45%|$27063|
+|WaKeeney Unified School District 208, Kansas|2700|98.85%|$27060|
+|Lower Alloways Creek Township School District, New Jersey|1729|94.16%|$27059|
+|Greene Central School District, New York|6530|96.48%|$27059|
+|Mossyrock School District, Washington|3200|86.66%|$27057|
+|Mad River Local School District, Ohio|21716|78.96%|$27057|
+|Velva Public School District 1, North Dakota|2112|96.97%|$27056|
+|South Panola School District, Mississippi|22903|53.81%|$27054|
+|Achille Public Schools, Oklahoma|2816|74.57%|$27054|
+|Skiatook Public Schools, Oklahoma|12385|72.32%|$27053|
+|Palo Verde Unified School District, California|22508|48.74%|$27052|
+|Fremont County School District 24, Wyoming|1368|95.18%|$27050|
+|Chester County School District, South Carolina|32260|60.15%|$27049|
+|York School District 1, South Carolina|34820|80.15%|$27048|
+|McGehee School District, Arkansas|6285|61.8%|$27045|
+|Holton Public Schools, Michigan|6400|93.5%|$27045|
+|Dade County School District, Florida|2705528|65.94%|$27044|
+|Tangipahoa Parish School District, Louisiana|133753|65.96%|$27042|
+|Fort Plain Central School District, New York|5129|90.93%|$27042|
+|Wynford Local School District, Ohio|5940|94.41%|$27041|
+|Conemaugh Township Area School District, Pennsylvania|7551|94.93%|$27040|
+|Cherokee County Schools, North Carolina|28413|93.03%|$27040|
+|Mississinewa Community School Corporation, Indiana|10240|95.03%|$27039|
+|Cherokee County School District, Alabama|26035|92.07%|$27039|
+|Fairland Local School District, Ohio|10465|95.59%|$27038|
+|Rhinelander School District, Wisconsin|20700|96.01%|$27038|
+|Crescent Public Schools, Oklahoma|3805|86.49%|$27037|
+|Gillett School District, Wisconsin|3547|93.83%|$27037|
+|Washburn School District, Wisconsin|3618|91.1%|$27036|
+|Forest Park School District, Michigan|4320|96.62%|$27031|
+|Greenbush-Middle River School District, Minnesota|2587|94.59%|$27031|
+|Taylor County School District, West Virginia|16817|96.36%|$27029|
+|Hamilton Community Consolidated School District 328, Illinois|3835|97.5%|$27027|
+|Manitowoc School District, Wisconsin|38227|89.35%|$27026|
+|North Iowa Community School District, Iowa|2794|97.64%|$27024|
+|West Bend-Mallard Community School District, Iowa|1488|99.26%|$27022|
+|River Road Independent School District, Texas|5236|93.16%|$27022|
+|Walters Public Schools, Oklahoma|3475|75.91%|$27019|
+|Twin Rivers R-X School District, Missouri|5957|96.42%|$27012|
+|Valley City Public School District 2, North Dakota|7638|89.98%|$27008|
+|Jackson R-II School District, Missouri|32176|93.73%|$27006|
+|Buckley Community School District, Michigan|2817|95.46%|$27006|
+|Sayre Public Schools, Oklahoma|6010|76.44%|$27005|
+|River Valley Local School District, Ohio|16502|82.46%|$27002|
+|Shade-Central City School District, Pennsylvania|3607|98.59%|$27000|
+|Charlotte Valley Central School District, New York|3079|96.75%|$27000|
+|Happy Independent School District, Texas|1087|96.14%|$27000|
+|Grinnell-Newburg Community School District, Iowa|11961|91.77%|$26991|
+|Lawson R-XIV School District, Missouri|5683|96.34%|$26991|
+|Upsala Public School District, Minnesota|2091|97.75%|$26991|
+|Texas City Independent School District, Texas|58057|57.56%|$26988|
+|North Platte Public Schools, Nebraska|27518|92.78%|$26988|
+|Lewiston Independent School District 340, Idaho|35145|94.4%|$26987|
+|Lauderdale County School District, Tennessee|25689|62.53%|$26987|
+|Cumberland School District, Wisconsin|5999|91.3%|$26985|
+|Grand Prairie Independent School District, Texas|130785|58.25%|$26981|
+|Bertrand Public Schools, Nebraska|1680|98.63%|$26979|
+|Gloucester City School District, New Jersey|11229|81.11%|$26978|
+|Paradise Unified School District, California|31130|89.67%|$26977|
+|Bonduel School District, Wisconsin|6376|97.02%|$26977|
+|Todd County School District, Kentucky|12334|87.54%|$26976|
+|Edmeston Central School District, New York|2939|93.06%|$26975|
+|Madison-Plains Local School District, Ohio|13471|79.07%|$26975|
+|Riverbank Unified School District, California|15666|70.55%|$26972|
+|Parchment School District, Michigan|11223|84.35%|$26972|
+|Wink-Loving Independent School District, Texas|1187|96.88%|$26970|
+|Gibson City-Melvin-Sibley Community Unit School District 5, Illinois|5539|94.91%|$26970|
+|Wharton Independent School District, Texas|13655|67.19%|$26968|
+|Caldwell County Schools, North Carolina|82056|88.35%|$26968|
+|Hillsboro School District, Wisconsin|4413|94.65%|$26967|
+|Hudsonville Public School District, Michigan|43090|95.07%|$26966|
+|Nixa School District, Missouri|32164|92.59%|$26965|
+|Bartholomew County School Corporation, Indiana|77474|82.58%|$26965|
+|Depew Public Schools, Oklahoma|1862|80.5%|$26964|
+|Glens Falls Common School District, New York|2256|89.85%|$26964|
+|Moravia Community School District, Iowa|2360|96.57%|$26964|
+|Cadott Community School District, Wisconsin|4595|97.0%|$26964|
+|Central Unified School District 462, Kansas|1776|93.13%|$26964|
+|Etowah County School District, Alabama|60599|92.24%|$26964|
+|Wild Rose School District, Wisconsin|5057|95.71%|$26964|
+|Fort Wayne Community Schools, Indiana|226420|72.84%|$26963|
+|Osawatomie Unified School District 367, Kansas|6262|93.37%|$26960|
+|Clinton-Graceville-Beardsley, Minnesota|2120|99.15%|$26958|
+|East Central School District, Minnesota|6778|86.43%|$26958|
+|Hertford County Schools, North Carolina|23752|34.75%|$26957|
+|Winner School District 59-2, South Dakota|4410|79.57%|$26955|
+|Smith County School District, Mississippi|15919|74.72%|$26954|
+|Hickman County School District, Kentucky|4461|86.26%|$26953|
+|Kingston K-14 School District, Missouri|4144|100.0%|$26953|
+|Kickapoo Area School District, Wisconsin|3536|96.15%|$26953|
+|Mascoutah Community Unit School District 19, Illinois|18222|77.78%|$26952|
+|Seymour Community Schools, Indiana|29384|86.09%|$26949|
+|Rockingham County Schools, North Carolina|91051|74.85%|$26945|
+|Danville School District, Arkansas|3560|63.09%|$26944|
+|Franklin Local School District, Ohio|12892|97.08%|$26944|
+|Osage County R-II School District, Missouri|5106|96.77%|$26942|
+|Center Line Public Schools, Michigan|18518|64.42%|$26942|
+|Norwayne Local School District, Ohio|7806|96.59%|$26941|
+|Fredericktown R-I School District, Missouri|10895|96.22%|$26940|
+|Rock Island-Milan School District 41, Illinois|44013|71.34%|$26939|
+|Southwest Livingston County R-I School District, Missouri|1208|95.61%|$26938|
+|Pocahontas School District, Arkansas|11685|92.98%|$26938|
+|Goose Creek Consolidated Independent School District, Texas|105704|70.02%|$26937|
+|Monroeville Local School District, Ohio|4337|98.89%|$26936|
+|Mesabi East School District, Minnesota|7192|97.61%|$26936|
+|Nye County School District, Nevada|45514|80.84%|$26934|
+|Carsonville-Port Sanilac School District, Michigan|3505|97.72%|$26932|
+|Decatur School District, Arkansas|3069|82.21%|$26929|
+|Remainder of Maine, Maine|31763|95.52%|$26928|
+|Sodus Central School District, New York|7050|88.26%|$26926|
+|Delavan-Darien School District, Wisconsin|16811|91.65%|$26925|
+|Banks School District 13, Oregon|6624|88.04%|$26924|
+|Nevada R-V School District, Missouri|14588|94.95%|$26923|
+|Byron Center Public Schools, Michigan|25807|87.31%|$26922|
+|Edison Local (formerly Berlin-Milan) School District, Ohio|8820|97.04%|$26922|
+|Blount County School District, Tennessee|92532|95.49%|$26920|
+|Grand Forks AFB Public School District 140, North Dakota|2792|73.17%|$26919|
+|Wilmot School District 54-7, South Dakota|1487|78.01%|$26917|
+|Ticonderoga Central School District, New York|5523|98.14%|$26916|
+|Dodge City Unified School District 443, Kansas|30940|81.05%|$26915|
+|Rock Creek Public Schools, Oklahoma|2740|74.53%|$26910|
+|Highland Park Independent School District (Potter County), Texas|8715|66.18%|$26910|
+|Calistoga Joint Unified School District, California|7469|79.03%|$26906|
+|Camden County School District, Georgia|53960|72.45%|$26906|
+|School Administrative District 17, Maine|24282|97.1%|$26906|
+|Suwannee County School District, Florida|44290|80.27%|$26905|
+|Penns Manor Area School District, Pennsylvania|5145|97.86%|$26903|
+|Gonzales Independent School District, Texas|14018|69.22%|$26901|
+|Lawrence School District, Massachusetts|80022|47.16%|$26899|
+|Denair Unified School District, California|8947|81.3%|$26897|
+|Scio School District 95, Oregon|3526|96.23%|$26895|
+|Schaller-Crestland Community School District, Iowa|2256|94.99%|$26894|
+|Glenville-Emmons School District, Minnesota|2488|96.91%|$26894|
+|Polk County School District, Florida|705735|73.34%|$26894|
+|Turner Unified School District 202, Kansas|18870|77.03%|$26893|
+|Sisters School District 6, Oregon|8890|93.36%|$26893|
+|Blue Ridge School District, Pennsylvania|7351|98.18%|$26893|
+|Fremont Community Schools, Indiana|7229|96.71%|$26892|
+|Norwalk City School District, Ohio|19112|93.31%|$26888|
+|Unity School District, Wisconsin|7569|92.46%|$26888|
+|Denison Community School District, Iowa|10474|73.64%|$26883|
+|Chapel Hill Independent School District (Smith County), Texas|20415|77.27%|$26883|
+|Wellston City School District, Ohio|9078|97.68%|$26882|
+|Strasburg School District 31J, Colorado|5385|79.83%|$26875|
+|Lexington Public Schools, Oklahoma|8281|75.1%|$26875|
+|Maud Public Schools, Oklahoma|1821|75.51%|$26875|
+|Quapaw Public Schools, Oklahoma|2861|65.82%|$26875|
+|Itasca Independent School District, Texas|3614|86.11%|$26875|
+|Caseville Public Schools, Michigan|1954|98.36%|$26875|
+|Austin Area School District, Pennsylvania|1162|98.45%|$26875|
+|West Canada Valley Central School District, New York|4624|97.43%|$26875|
+|Sabinal Independent School District, Texas|1796|90.7%|$26875|
+|Taylor School District, Michigan|66963|70.48%|$26873|
+|Stuttgart School District, Arkansas|9489|61.32%|$26871|
+|Tunkhannock Area School District, Pennsylvania|18423|94.19%|$26866|
+|Copperas Cove Independent School District, Texas|38656|66.71%|$26865|
+|Jones County Schools, North Carolina|9453|64.31%|$26864|
+|Rising Sun-Ohio County Community Schools, Indiana|5890|96.13%|$26861|
+|Clark County School District, Kentucky|36152|91.6%|$26860|
+|Bethel School District 52, Oregon|39619|82.56%|$26860|
+|Adrian Public School District, Minnesota|2372|90.77%|$26860|
+|Elwood Community School Corporation, Indiana|9848|95.93%|$26860|
+|Fleetwood Area School District, Pennsylvania|17102|92.67%|$26859|
+|Newton Community School District, Iowa|21056|93.02%|$26858|
+|New Athens Community Unit School District 60, Illinois|3957|99.34%|$26858|
+|Burkburnett Independent School District, Texas|23609|82.67%|$26853|
+|Patrick County Public Schools, Virginia|17660|91.55%|$26853|
+|Scotland County Schools, North Carolina|34921|43.15%|$26849|
+|Greater Latrobe School District, Pennsylvania|30048|96.14%|$26847|
+|Des Arc Public Schools, Arkansas|3126|90.15%|$26845|
+|Tate County School District, Mississippi|18046|68.95%|$26844|
+|Stratford Community School District, Iowa|1235|96.28%|$26842|
+|Ropes Independent School District, Texas|1458|85.19%|$26838|
+|Napoleon Public School District 2, North Dakota|1241|98.63%|$26833|
+|Birchwood School District, Wisconsin|1836|96.79%|$26833|
+|Diamond R-IV School District, Missouri|5909|89.22%|$26830|
+|Aitkin Public School District, Minnesota|9485|96.07%|$26828|
+|Enterprise City School District, Alabama|28170|68.89%|$26828|
+|Bernalillo Public Schools, New Mexico|25699|49.57%|$26827|
+|Waukomis Public Schools, Oklahoma|1879|95.32%|$26827|
+|Joint Base McGuire-Dix-Lakehurst, New Jersey|13376|63.46%|$26827|
+|Paradise Independent School District, Texas|5980|94.36%|$26826|
+|Worthington Public School District, Minnesota|16130|67.33%|$26823|
+|Beebe School District, Arkansas|18578|93.7%|$26822|
+|Boyd County School District, Kentucky|22400|94.57%|$26820|
+|Dolgeville Central School District, New York|5818|94.96%|$26820|
+|Camden Fairview School District, Arkansas|17726|51.91%|$26817|
+|Bowman County Public School District 1, North Dakota|2510|96.73%|$26816|
+|Kirby School District, Arkansas|2735|94.08%|$26813|
+|Redwood Area School District, Minnesota|8101|83.87%|$26812|
+|Ada Public Schools, Oklahoma|15543|62.71%|$26811|
+|Arcola Consolidated Unit School District 306, Illinois|4376|85.26%|$26810|
+|Clarendon School District 1, South Carolina|8710|40.96%|$26809|
+|Hampshire County School District, West Virginia|23304|96.88%|$26809|
+|Eveleth-Gilbert School District, Minnesota|8954|96.01%|$26808|
+|Whitley County Consolidated Schools, Indiana|23243|96.48%|$26807|
+|West Iron County Public Schools, Michigan|6779|94.44%|$26806|
+|Randolph County Schools, North Carolina|113535|87.32%|$26805|
+|CAM Community School District, Iowa|2499|98.64%|$26801|
+|De Soto Parish School District, Louisiana|27395|60.93%|$26800|
+|Blanket Independent School District, Texas|1127|97.69%|$26800|
+|Howard School District 48-3, South Dakota|2129|95.91%|$26800|
+|Shippensburg Area School District, Pennsylvania|30395|90.81%|$26799|
+|Northeast Dubois County School Corporation, Indiana|5666|96.15%|$26796|
+|Waynesboro City Public Schools, Virginia|22300|80.22%|$26794|
+|Waconda Unified School District 272, Kansas|2592|96.26%|$26793|
+|Independence 30 School District, Missouri|94559|78.25%|$26792|
+|Cozad Community Schools, Nebraska|4664|93.72%|$26791|
+|Gervais School District 1, Oregon|7018|71.87%|$26788|
+|Clayton School District, Wisconsin|1838|98.2%|$26786|
+|Norwalk-Ontario-Wilton School District, Wisconsin|4550|88.07%|$26786|
+|Bear Valley Unified School District, California|19051|90.86%|$26786|
+|Peoria Heights Community Unit School District 325, Illinois|6537|89.95%|$26784|
+|Kaw Valley Unified School District 321, Kansas|8158|92.74%|$26784|
+|Mount Carmel Area School District, Pennsylvania|12100|97.52%|$26783|
+|James A. Garfield Local School District, Ohio|8901|95.9%|$26783|
+|Cameron Parish School District, Louisiana|6963|94.79%|$26780|
+|Southeast of Saline Unified School District 306, Kansas|3242|96.18%|$26780|
+|Macks Creek R-V School District, Missouri|2557|92.45%|$26778|
+|Thomasville City School District, Georgia|18530|39.41%|$26776|
+|Clyde Consolidated Independent School District, Texas|14253|65.35%|$26775|
+|Orrville City School District, Ohio|10679|85.65%|$26773|
+|Watertown School District, Wisconsin|30913|93.97%|$26773|
+|Weld County School District RE-1, Colorado|11868|83.22%|$26771|
+|Tucson Unified District, Arizona|484812|70.99%|$26770|
+|Hancock Place School District, Missouri|9073|91.11%|$26768|
+|Fort Cherry School District, Pennsylvania|8528|96.63%|$26768|
+|Monroe Public Schools, Michigan|46730|91.53%|$26766|
+|North Wayne Community Unit School District 200, Illinois|2701|96.85%|$26765|
+|Coldspring-Oakhurst Consolidated Independent School District, Texas|14418|82.36%|$26763|
+|Yale Public Schools, Michigan|11095|96.6%|$26762|
+|Fieldcrest Community Unit School District 6, Illinois|6070|96.0%|$26762|
+|Juniata Valley School District, Pennsylvania|4953|96.85%|$26761|
+|Bacon County School District, Georgia|11140|79.62%|$26760|
+|Bunker Hill Community Unit School District 8, Illinois|4127|96.15%|$26760|
+|Millville Area School District, Pennsylvania|5650|97.4%|$26759|
+|Upper Dauphin Area School District, Pennsylvania|10040|91.9%|$26758|
+|Taylorville Community Unit School District 3, Illinois|17568|95.16%|$26756|
+|Temple Independent School District, Texas|57182|71.54%|$26755|
+|Eureka Community Unit District 140, Illinois|10185|94.16%|$26755|
+|Potosi School District, Wisconsin|1897|98.89%|$26755|
+|Vinton County Local School District, Ohio|13003|97.8%|$26751|
+|Lu Verne Community School District, Iowa|1378|95.21%|$26750|
+|Cross Roads Independent School District, Texas|2799|90.03%|$26750|
+|Avon School District 04-1, South Dakota|1451|94.0%|$26750|
+|Melrose Public School District, Minnesota|9342|95.57%|$26750|
+|Siloam Springs Schools, Arkansas|23641|75.53%|$26747|
+|Fraser Public Schools, Michigan|29358|81.78%|$26747|
+|Henderson County School District, Kentucky|45550|86.96%|$26742|
+|Harts Bluff Independent School District, Texas|3627|76.92%|$26742|
+|Browerville Public School District, Minnesota|4132|94.58%|$26742|
+|Sweetwater County School District 2, Wyoming|13327|91.74%|$26741|
+|Akron-Westfield Community School District, Iowa|2802|98.54%|$26739|
+|Rains Independent School District, Texas|11595|90.05%|$26738|
+|Carroll County School District, Georgia|91835|77.62%|$26734|
+|Sisseton School District 54-2, South Dakota|7861|44.99%|$26733|
+|New Kensington-Arnold School District, Pennsylvania|17230|81.27%|$26732|
+|Marlington Local School District, Ohio|15852|95.94%|$26729|
+|Central Islip Union Free School District, New York|36564|47.21%|$26727|
+|Copiah County School District, Mississippi|18604|49.35%|$26724|
+|Bertha-Hewitt Public School District, Minnesota|3488|89.33%|$26723|
+|Yuba City Unified School District, California|74948|60.45%|$26722|
+|Mason Independent School District, Texas|4373|88.93%|$26722|
+|North Baltimore Local School District, Ohio|4545|95.4%|$26722|
+|Atascadero Unified School District, California|37368|89.46%|$26722|
+|Derry Area School District, Pennsylvania|16688|96.26%|$26721|
+|North Country Supervisory Union, Vermont|19101|95.8%|$26718|
+|Gobles Public School District, Michigan|5772|95.01%|$26717|
+|St. Joseph School District, Missouri|79311|85.08%|$26716|
+|Fremont Public Schools, Nebraska|30086|93.01%|$26715|
+|West Delaware County Community School District, Iowa|9463|96.34%|$26714|
+|Mitchell School District 17-2, South Dakota|18713|92.43%|$26713|
+|Cedar Mountain School District, Minnesota|2273|90.37%|$26711|
+|Spring Independent School District, Texas|195110|45.97%|$26710|
+|Surry County Public Schools, Virginia|6459|55.13%|$26708|
+|Northern Lebanon School District, Pennsylvania|18064|92.63%|$26707|
+|Whitehall City School District, Ohio|18944|46.46%|$26707|
+|Carey Exempted Village School District, Ohio|5215|94.78%|$26707|
+|Covington County School District, Alabama|21972|91.39%|$26706|
+|Danville Community Consolidated School District 118, Illinois|37799|67.5%|$26705|
+|Pentwater Public School District, Michigan|2593|97.34%|$26705|
+|Kankakee School District 111, Illinois|30944|55.67%|$26700|
+|Butler County School District, Alabama|19726|51.62%|$26699|
+|Lafourche Parish School District, Louisiana|97980|78.63%|$26697|
+|Comfort Independent School District, Texas|8616|87.38%|$26697|
+|Lafayette County School District, Mississippi|16071|73.18%|$26696|
+|Caddo Public Schools, Oklahoma|2197|75.38%|$26691|
+|Pointe Coupee Parish School District, Louisiana|21883|62.42%|$26690|
+|Meade School District 46-1, South Dakota|19370|92.69%|$26690|
+|Plentywood K-12 Schools, Montana|2276|95.21%|$26689|
+|Cloquet Public School District, Minnesota|14247|85.68%|$26689|
+|Kootenai Joint School District 274, Idaho|2095|96.66%|$26688|
+|Dillon School District 4, South Carolina|22436|48.24%|$26687|
+|Madison Public Schools, Michigan|13224|84.3%|$26687|
+|Bearden School District, Arkansas|3283|60.46%|$26683|
+|Altoona Area School District, Pennsylvania|57106|92.79%|$26681|
+|Aurora Public Schools, Nebraska|6945|97.34%|$26681|
+|Staples-Motley School District, Minnesota|8988|94.46%|$26681|
+|Union Public School District, Mississippi|4766|70.21%|$26680|
+|Zavalla Independent School District, Texas|2291|97.86%|$26680|
+|Elkhart Unified School District 218, Kansas|1739|88.04%|$26680|
+|Martin County West School District, Minnesota|4619|94.89%|$26678|
+|Kent County Public Schools, Maryland|19456|79.58%|$26676|
+|Loup City Public Schools, Nebraska|2088|96.74%|$26675|
+|Winchester Community Unit School District 1, Illinois|3500|98.26%|$26674|
+|Gloversville City School District, New York|18386|89.94%|$26673|
+|Johnson County School District, Tennessee|17755|93.41%|$26673|
+|Mountain View School District, Pennsylvania|8733|97.76%|$26667|
+|Glasgow School District, Missouri|2029|94.33%|$26667|
+|Easton, Maine|1387|95.31%|$26667|
+|Foreman School District, Arkansas|2786|73.76%|$26667|
+|Henderson County School District, Tennessee|20118|92.82%|$26667|
+|Alleghany County Public Schools, Virginia|15030|92.65%|$26664|
+|Castleberry Independent School District, Texas|21716|68.31%|$26663|
+|Yakima School District, Washington|78121|66.22%|$26660|
+|Lansing Public School District, Michigan|124134|62.41%|$26660|
+|Graves County School District, Kentucky|27445|93.66%|$26658|
+|Crawfordsville Community Schools, Indiana|15188|90.58%|$26654|
+|Boyceville Community School District, Wisconsin|4384|96.3%|$26653|
+|Bluestem Unified School District 205, Kansas|3415|98.51%|$26653|
+|Junction City School District 69, Oregon|13589|92.46%|$26652|
+|Danbury Local School District, Ohio|5068|97.32%|$26651|
+|Florence School District, Wisconsin|4312|97.56%|$26650|
+|Rossville Consolidated School District, Indiana|4652|97.61%|$26647|
+|Belvidere Consolidated Unit School District 100, Illinois|44626|84.17%|$26646|
+|Tecumseh Public Schools, Oklahoma|9783|78.05%|$26644|
+|Quitman School District, Arkansas|5090|94.79%|$26642|
+|Wethersfield Community Unit School District 230, Illinois|3850|90.73%|$26642|
+|Sabine Independent School District, Texas|6441|88.87%|$26641|
+|Kane Area School District, Pennsylvania|7126|95.96%|$26640|
+|Christian County School District, Kentucky|57107|71.18%|$26639|
+|Carthage Independent School District, Texas|16393|77.87%|$26639|
+|Smithton R-VI School District, Missouri|4023|97.02%|$26639|
+|Paxton-Buckley-Loda Community Unit School District 10, Illinois|8255|93.99%|$26639|
+|Giles County School District, Tennessee|29403|85.57%|$26639|
+|Ash Grove R-IV School District, Missouri|4422|94.23%|$26636|
+|Maysville Public Schools, Oklahoma|2569|82.91%|$26635|
+|Pontotoc County Schools, Mississippi|19460|85.07%|$26635|
+|Mountainair Public Schools, New Mexico|1585|90.16%|$26635|
+|Pike County School District, Alabama|14279|60.33%|$26629|
+|Warren Local School District, Ohio|14898|97.38%|$26629|
+|Concordia R-II School District, Missouri|4085|97.92%|$26627|
+|Barnwell School District 45, South Carolina|11587|53.57%|$26623|
+|Calcasieu Parish School District, Louisiana|202858|69.34%|$26622|
+|Clay Central-Everly Community School District, Iowa|2270|98.33%|$26618|
+|Lorain City School District, Ohio|52875|65.53%|$26618|
+|Oppenheim-Ephratah-St. Johnsville Central School District, New York|5816|96.1%|$26616|
+|Turner County School District, Georgia|7920|57.03%|$26615|
+|Alachua County School District, Florida|268105|67.21%|$26614|
+|Penn Manor School District, Pennsylvania|43393|87.79%|$26613|
+|New York Mills Public School District, Minnesota|3515|98.18%|$26612|
+|Belpre City School District, Ohio|7757|93.88%|$26611|
+|Centralia School District, Washington|24561|88.47%|$26610|
+|Ord Public Schools, Nebraska|3229|98.2%|$26610|
+|Clarksville Community School Corporation, Indiana|8660|91.03%|$26609|
+|Harmony Public School, Oklahoma|1690|81.89%|$26607|
+|Camas County School District 121, Idaho|1069|97.19%|$26607|
+|Krum Independent School District, Texas|8901|92.83%|$26607|
+|Cissna Park Community Unit School District 6, Illinois|1699|94.82%|$26607|
+|Kerkhoven-Murdock-Sunburg, Minnesota|2831|93.15%|$26607|
+|North Hopkins Independent School District, Texas|2181|81.8%|$26607|
+|Penncrest School District, Pennsylvania|23936|94.72%|$26605|
+|Yazoo County School District, Mississippi|17705|55.09%|$26605|
+|Norris City-Omaha-Enfield Community Unit School District 3, Illinois|4667|98.65%|$26604|
+|Remainder of Montana, Montana|914660|87.35%|$26599|
+|San Augustine Independent School District, Texas|4968|52.92%|$26598|
+|Kittson Central School District, Minnesota|1845|97.4%|$26597|
+|Gosnell School District, Arkansas|5119|79.55%|$26594|
+|Bement Community Unit School District 5, Illinois|2050|96.98%|$26594|
+|Mohawk Local School District, Ohio|5718|96.2%|$26594|
+|West End School District RE-2, Colorado|1804|97.45%|$26591|
+|North Mason School District, Washington|18022|85.03%|$26590|
+|Pocahontas Area Community School District, Iowa|4684|96.48%|$26590|
+|Williams Valley School District, Pennsylvania|6683|97.14%|$26589|
+|Ballard County School District, Kentucky|7914|93.04%|$26588|
+|Scurry-Rosser Independent School District, Texas|4187|89.23%|$26588|
+|Alberton K-12 Schools, Montana|2081|90.29%|$26588|
+|Mount Vernon Metropolitan School District, Indiana|15665|94.1%|$26588|
+|Ridgway Area School District, Pennsylvania|6711|95.19%|$26585|
+|Bird Island-Olivia-Lake Lillian Public School District, Minnesota|4854|92.77%|$26585|
+|Plymouth-Shiloh Local School District, Ohio|4390|97.2%|$26585|
+|Wright City Public Schools, Oklahoma|1616|63.99%|$26583|
+|Haywood County Schools, North Carolina|61862|94.54%|$26581|
+|Orrick R-XI School District, Missouri|1811|93.65%|$26581|
+|Middlebury Community Schools, Indiana|23106|91.6%|$26579|
+|Pewitt Consolidated Independent School District, Texas|5608|81.67%|$26576|
+|Medford Public Schools, Oklahoma|1792|89.96%|$26575|
+|Bernie R-XIII School District, Missouri|2548|94.78%|$26574|
+|Grandview R-II School District, Missouri|4197|98.98%|$26573|
+|Maple Valley-Anthon Oto Community School District, Iowa|3832|97.42%|$26571|
+|Adams Central Community Schools, Indiana|9221|97.56%|$26571|
+|Carlisle Area School District, Pennsylvania|38305|86.38%|$26570|
+|Wanette Public Schools, Oklahoma|1870|87.97%|$26569|
+|Terrebonne Parish School District, Louisiana|111297|69.51%|$26565|
+|Calhoun County School District, Mississippi|14417|65.06%|$26564|
+|Selinsgrove Area School District, Pennsylvania|23386|95.14%|$26563|
+|Godwin Heights Public Schools, Michigan|13203|71.7%|$26563|
+|South Sioux City Community Schools, Nebraska|17315|57.75%|$26563|
+|Tri-Point Community Unit School District 6-J, Illinois|2712|95.72%|$26563|
+|Wichita Unified School District 259, Kansas|327266|69.77%|$26562|
+|Fayetteville School District, Arkansas|91893|81.01%|$26560|
+|Logan County School District, Kentucky|21031|94.94%|$26559|
+|New Castle Community School Corporation, Indiana|22018|93.82%|$26557|
+|Duquesne City School District, Pennsylvania|5534|35.56%|$26556|
+|Wayne County School District, West Virginia|39952|97.37%|$26553|
+|Chattooga County School District, Georgia|22386|86.27%|$26552|
+|Greene County Schools, North Carolina|20987|56.99%|$26549|
+|Kingfisher Public Schools, Oklahoma|6767|83.32%|$26548|
+|Smethport Area School District, Pennsylvania|5741|96.41%|$26548|
+|Waterloo Central School District, New York|11328|95.09%|$26544|
+|Idalou Independent School District, Texas|3147|89.01%|$26544|
+|Mercer Area School District, Pennsylvania|10324|91.24%|$26544|
+|Antietam School District, Pennsylvania|7793|81.75%|$26543|
+|Madison County School District, Georgia|29624|83.62%|$26541|
+|Washington County School District, Tennessee|67601|95.49%|$26540|
+|Hopkins County School District, Kentucky|42379|89.48%|$26538|
+|Prescott School District, Washington|1512|76.59%|$26538|
+|West Franklin Unified School District 287, Kansas|4872|91.89%|$26537|
+|Phoenix-Talent School District 4, Oregon|26300|87.99%|$26536|
+|White Salmon Valley School District, Washington|8878|94.26%|$26532|
+|Buena Regional School District, New Jersey|11592|78.27%|$26531|
+|Jessamine County School District, Kentucky|53476|90.35%|$26530|
+|Fairfield Independent School District, Texas|8730|80.16%|$26530|
+|Marquand-Zion R-VI School District, Missouri|1216|97.62%|$26528|
+|Page Unified District, Arizona|13530|21.26%|$26524|
+|Bradford Area School District, Pennsylvania|19978|91.42%|$26523|
+|Fabens Independent School District, Texas|4990|62.46%|$26522|
+|Dallas School District 2, Oregon|23087|92.53%|$26522|
+|Fredonia Unified School District 484, Kansas|4246|94.51%|$26521|
+|Wilkes-Barre Area School District, Pennsylvania|58766|72.95%|$26519|
+|Kountze Independent School District, Texas|7722|81.35%|$26517|
+|Clay County Schools, North Carolina|11150|96.45%|$26517|
+|Brooks County School District, Georgia|15548|58.16%|$26515|
+|Westville Public Schools, Oklahoma|5973|53.14%|$26512|
+|Crab Orchard Community Unit School District 3, Illinois|2646|96.67%|$26512|
+|Toutle Lake School District, Washington|3717|81.95%|$26511|
+|Osseo-Fairchild School District, Wisconsin|6040|95.18%|$26511|
+|Baker K-12 Schools, Montana|2376|93.01%|$26510|
+|Juniata County School District, Pennsylvania|24133|95.86%|$26508|
+|Corunna Public School District, Michigan|9155|94.4%|$26504|
+|Wood County School District, West Virginia|84387|96.04%|$26503|
+|Monroe County School District, Tennessee|34288|94.26%|$26503|
+|Arcanum-Butler Local School District, Ohio|5858|97.58%|$26502|
+|Greene County Technical School District, Arkansas|21328|96.06%|$26502|
+|Webster School District 18-5, South Dakota|3374|95.29%|$26502|
+|Denison Independent School District, Texas|29890|82.31%|$26501|
+|Crook County School District, Oregon|23807|93.07%|$26501|
+|Eufaula Public Schools, Oklahoma|8207|73.22%|$26500|
+|Green City R-I School District, Missouri|1389|93.02%|$26500|
+|Bridgewater-Emery School District 30-3, South Dakota|1639|98.41%|$26500|
+|Henry-Senachwine Consolidated Unit School District 5, Illinois|3646|95.39%|$26500|
+|Langford School District 45-5, South Dakota|1773|95.04%|$26500|
+|Morenci Unified District, Arizona|6475|86.64%|$26500|
+|Firelands Local School District, Ohio|12787|94.19%|$26500|
+|New Lebanon Local School District, Ohio|7417|95.05%|$26500|
+|Madison-Grant United School Corporation, Indiana|8012|96.02%|$26500|
+|Hopewell-Loudon Local School District, Ohio|4356|91.78%|$26500|
+|Clinton Prairie School Corporation, Indiana|5883|97.04%|$26498|
+|Romulus Community Schools, Michigan|24290|44.97%|$26497|
+|Dryden Central School District, New York|13027|92.65%|$26496|
+|Springs Valley Community School Corporation, Indiana|5979|87.37%|$26494|
+|Norwich City School District, New York|12495|91.92%|$26489|
+|Dundy County Stratton Public Schools, Nebraska|2311|99.18%|$26488|
+|Mount Olive Community Unit School District 5, Illinois|3254|97.91%|$26486|
+|Gentry Public Schools, Arkansas|9147|89.6%|$26482|
+|Purdy R-II School District, Missouri|2895|88.57%|$26481|
+|Salida School District R-32, Colorado|9812|93.58%|$26480|
+|Hugo Public Schools, Oklahoma|7293|58.71%|$26479|
+|Litchfield Public School District, Minnesota|11365|96.05%|$26477|
+|Lampeter-Strasburg School District, Pennsylvania|23904|95.16%|$26477|
+|Tunica County School District, Mississippi|9807|18.76%|$26475|
+|Wolsey-Wessington School District 02-6, South Dakota|1593|98.68%|$26474|
+|United South Central School District, Minnesota|6009|95.62%|$26473|
+|Lake County School District, Florida|356115|80.03%|$26471|
+|Sidney Central School District, New York|6898|92.77%|$26471|
+|Pike Valley Unified School District 426, Kansas|1226|97.15%|$26469|
+|Coldwater Exempted Village School District, Ohio|6671|98.98%|$26467|
+|Fall Creek School District, Wisconsin|4877|94.73%|$26464|
+|Bath County School District, Kentucky|12421|95.83%|$26463|
+|El Rancho Unified School District, California|59735|46.63%|$26462|
+|Adrian R-III School District, Missouri|4127|93.12%|$26460|
+|Rockford School District 205, Illinois|185846|69.04%|$26457|
+|Jackson County School District, Mississippi|52381|83.69%|$26456|
+|Pine Grove Area School District, Pennsylvania|11300|96.99%|$26455|
+|Coshocton City School District, Ohio|10776|94.55%|$26455|
+|Green Township School District, New Jersey|3482|92.96%|$26453|
+|Ada-Borup Public School District, Minnesota|2670|94.08%|$26453|
+|White County Central School District, Arkansas|4021|99.2%|$26451|
+|Madison Local School District (Butler County), Ohio|9077|98.3%|$26446|
+|Centerville Independent School District (Leon County), Texas|4379|83.42%|$26445|
+|Kansas City Unified School District 500, Kansas|118007|47.95%|$26445|
+|Colville School District, Washington|12707|91.49%|$26443|
+|Decatur City School District, Alabama|54344|66.47%|$26443|
+|Hunter-Tannersville Central School District, New York|3390|98.94%|$26442|
+|East Gibson School Corporation, Indiana|6864|96.79%|$26442|
+|Greensburg Salem School District, Pennsylvania|25497|93.23%|$26442|
+|Catahoula Parish School District, Louisiana|9586|65.75%|$26441|
+|Coeur d'Alene School District 271, Idaho|81769|92.79%|$26439|
+|Genoa-Kingston Community Unit School District 424, Illinois|9443|92.27%|$26439|
+|Marshall School District, Missouri|15231|79.95%|$26437|
+|Cambria Heights School District, Pennsylvania|9206|98.56%|$26437|
+|Mart Independent School District, Texas|3261|73.63%|$26436|
+|Neodesha Unified School District 461, Kansas|3214|93.06%|$26435|
+|Davenport School District, Washington|3473|95.57%|$26434|
+|New Bloomfield R-III School District, Missouri|4192|98.21%|$26434|
+|Weston School District, Wisconsin|2592|97.45%|$26433|
+|Fennville Public Schools, Michigan|9548|90.61%|$26430|
+|Parsons Unified School District 503, Kansas|9294|84.23%|$26430|
+|Ulysses Unified School District 214, Kansas|7291|95.21%|$26429|
+|Canadian Independent School District, Texas|3709|85.06%|$26429|
+|Colmesneil Independent School District, Texas|2277|96.79%|$26429|
+|Central Montcalm Public Schools, Michigan|11186|95.47%|$26429|
+|Arkansas City Unified School District 470, Kansas|15421|85.31%|$26429|
+|Carter County School District, Tennessee|42884|97.23%|$26425|
+|Copan Public Schools, Oklahoma|2297|73.57%|$26424|
+|Roseburg School District 4, Oregon|48270|90.79%|$26424|
+|Evans County School District, Georgia|10671|57.97%|$26423|
+|Ar-We-Va Community School District, Iowa|2893|88.66%|$26422|
+|Bremerton School District, Washington|47193|73.07%|$26421|
+|Walla Walla Public Schools, Washington|38416|82.66%|$26421|
+|Harrisburg Community Unit School District 3, Illinois|12294|91.97%|$26421|
+|Hector School District, Arkansas|3460|94.65%|$26420|
+|Baker County School District, Georgia|3090|54.43%|$26419|
+|Ellwood City Area School District, Pennsylvania|13549|97.01%|$26416|
+|Barker Central School District, New York|5036|90.77%|$26415|
+|Bushnell-Prairie City Community Unit School District 170, Illinois|4225|95.38%|$26414|
+|Prairie Heights Community School Corporation, Indiana|9707|96.68%|$26411|
+|Bagdad Unified School District, Arizona|2466|86.01%|$26409|
+|Wisconsin Dells School District, Wisconsin|12535|91.6%|$26409|
+|Pleasanton Independent School District, Texas|19529|82.37%|$26408|
+|Plum City School District, Wisconsin|1811|99.45%|$26406|
+|Hot Springs County School District 1, Wyoming|4550|94.97%|$26406|
+|Bartow County School District, Georgia|85125|83.82%|$26405|
+|Grand Valley Local School District, Ohio|9789|96.6%|$26405|
+|Jasper School District, Arkansas|5163|88.17%|$26403|
+|Spencer-Owen Community Schools, Indiana|17529|96.26%|$26402|
+|Chandler Public Schools, Oklahoma|6549|81.08%|$26400|
+|Greenfield Exempted Village School District, Ohio|12236|95.89%|$26400|
+|Malden R-I School District, Missouri|5969|77.63%|$26397|
+|Quilcene School District, Washington|1977|84.17%|$26397|
+|East Carroll Parish School District, Louisiana|6947|27.03%|$26395|
+|Eagle Point School District 9, Oregon|30923|94.3%|$26394|
+|Marathon Central School District, New York|4612|96.6%|$26394|
+|Ovid-Elsie Area Schools, Michigan|9317|94.67%|$26393|
+|School Administrative District 68, Maine|6470|92.72%|$26392|
+|Harbor Springs School District, Michigan|6816|91.29%|$26392|
+|Dansville Central School District, New York|9696|94.63%|$26391|
+|Pickens County School District, Alabama|20049|56.78%|$26391|
+|Trion City School District, Georgia|2440|70.66%|$26389|
+|John Day School District 3, Oregon|4724|95.28%|$26389|
+|Madison Public Schools, Nebraska|3161|86.11%|$26389|
+|Fremont County School District 6, Wyoming|2524|72.15%|$26389|
+|Reed Custer Community Unit School District 255U, Illinois|9916|96.02%|$26386|
+|Hannibal 60 School District, Missouri|22651|91.59%|$26380|
+|Wythe County Public Schools, Virginia|28725|94.88%|$26379|
+|Fort LeBoeuf School District, Pennsylvania|14356|96.98%|$26373|
+|De Leon Independent School District, Texas|4059|91.99%|$26371|
+|Perry Central School District, New York|6090|88.54%|$26371|
+|Forest Hills School District, Pennsylvania|11736|98.12%|$26371|
+|Loyal School District, Wisconsin|3972|97.91%|$26370|
+|Selma City School District, Alabama|17762|14.66%|$26369|
+|Kismet-Plains Unified School District 483, Kansas|3919|61.47%|$26369|
+|East Muskingum Local School District, Ohio|12879|95.92%|$26366|
+|Tippecanoe Valley School Corporation, Indiana|11681|94.56%|$26365|
+|Coolidge Independent School District, Texas|1396|76.5%|$26364|
+|Orange City Township School District, New Jersey|30570|13.27%|$26364|
+|North Stonington School District, Connecticut|5239|92.78%|$26364|
+|Atlantic City School District, New Jersey|37793|25.93%|$26363|
+|Minden Public Schools, Nebraska|3936|96.8%|$26363|
+|Hoxie Community Schools Unified School District 412, Kansas|1988|97.54%|$26359|
+|Orange Southwest Unified School District, Vermont|6995|97.17%|$26359|
+|Tuscarawas Valley Local School District, Ohio|9374|96.96%|$26354|
+|Logan-Hocking Local School District, Ohio|24047|96.29%|$26353|
+|Lafayette County C-1 School District, Missouri|6305|91.07%|$26351|
+|Northwest School District, Michigan|26121|82.0%|$26351|
+|Peyton School District 23-JT, Colorado|4310|92.2%|$26350|
+|Mariposa County Unified School District, California|17103|87.5%|$26349|
+|Concord Public Schools, Arkansas|3558|97.5%|$26349|
+|Mesa County Valley School District 51, Colorado|149879|91.91%|$26349|
+|Royal Valley Unified School District 337, Kansas|4216|68.88%|$26349|
+|Pepin Area School District, Wisconsin|1917|98.12%|$26348|
+|Swain County Schools, North Carolina|10059|85.48%|$26347|
+|Bay School District, Arkansas|3111|92.45%|$26346|
+|Sleepy Eye Public School District, Minnesota|5273|95.75%|$26345|
+|Kannapolis City Schools, North Carolina|32740|62.51%|$26344|
+|East Jasper School District, Mississippi|7042|32.36%|$26344|
+|Black River Local School District, Ohio|9559|97.35%|$26340|
+|Hickman County School District, Tennessee|25017|92.07%|$26340|
+|Pampa Independent School District, Texas|19907|82.62%|$26340|
+|Blum Independent School District, Texas|1302|94.7%|$26339|
+|Benzie County Central School, Michigan|14475|94.77%|$26339|
+|Albert Gallatin Area School District, Pennsylvania|23046|93.99%|$26339|
+|Marcola School District 79J, Oregon|1754|97.32%|$26337|
+|Jennings County Schools, Indiana|27639|96.09%|$26337|
+|Cleburne Independent School District, Texas|39760|88.62%|$26335|
+|Daingerfield-Lone Star Independent School District, Texas|7949|65.66%|$26334|
+|Massena Central School District, New York|16530|94.71%|$26334|
+|West New York Town School District, New Jersey|52778|55.39%|$26332|
+|Almond-Bancroft School District, Wisconsin|2555|94.29%|$26332|
+|Gasconade County R-I School District, Missouri|7357|95.04%|$26331|
+|Westwood Unified School District, California|1694|87.37%|$26328|
+|Cherryvale Unified School District 447, Kansas|4146|93.66%|$26326|
+|Seward Public Schools, Nebraska|10462|96.73%|$26322|
+|Grand Rapids Public School District, Minnesota|27265|94.02%|$26320|
+|Hackettstown Town School District, New Jersey|9440|83.26%|$26315|
+|Mattoon Community Unit School District 2, Illinois|22941|95.48%|$26314|
+|Riverview Community School District, Michigan|12341|89.41%|$26312|
+|Dorchester School District 4, South Carolina|17758|51.27%|$26310|
+|East Detroit Public Schools, Michigan|38250|49.99%|$26308|
+|Aliquippa School District, Pennsylvania|8918|58.96%|$26308|
+|Little Falls Public School District, Minnesota|17445|95.5%|$26308|
+|Colon Community School District, Michigan|5231|95.91%|$26307|
+|West Jasper School District, Mississippi|9412|53.6%|$26303|
+|Roane County School District, West Virginia|13831|96.59%|$26303|
+|Apple Valley Unified School District, California|81290|74.02%|$26302|
+|Pueblo City School District 60, Colorado|113760|75.42%|$26302|
+|Roosevelt Independent School District, Texas|4621|86.95%|$26302|
+|Southeast Webster-Grand Community School District, Iowa|2993|98.83%|$26300|
+|Pope County Community Unit School District 1, Illinois|4177|92.43%|$26300|
+|Win-E-Mac School District, Minnesota|3165|96.18%|$26298|
+|Montpelier Exempted Village School District, Ohio|5426|92.57%|$26297|
+|Gibsonburg Exempted Village School District, Ohio|5064|91.0%|$26296|
+|South Central Local School District, Ohio|4707|98.92%|$26296|
+|Henry County School District, Tennessee|19999|95.28%|$26296|
+|Airport Community School District, Michigan|20027|93.4%|$26292|
+|Ripon Area School District, Wisconsin|10472|97.85%|$26292|
+|Morristown Central School District, New York|2851|93.37%|$26289|
+|Menno School District 33-2, South Dakota|1415|96.33%|$26288|
+|Wood River Rural Schools, Nebraska|3136|87.98%|$26288|
+|Rolling Hills Local School District, Ohio|11106|96.6%|$26287|
+|Montabella Community Schools, Michigan|7298|95.07%|$26287|
+|Berlin Area School District, Wisconsin|10625|94.32%|$26286|
+|Davis School District, Utah|350761|89.16%|$26282|
+|Stanfield School District 61, Oregon|2881|79.07%|$26281|
+|Tift County School District, Georgia|40590|62.28%|$26278|
+|Hughes Springs Independent School District, Texas|4887|79.39%|$26275|
+|Berwick Area School District, Pennsylvania|22043|96.32%|$26275|
+|Beloit School District, Wisconsin|36846|67.37%|$26272|
+|Champion Local School District, Ohio|9149|97.35%|$26272|
+|Jackson-Milton Local School District, Ohio|5818|97.32%|$26266|
+|Orcas Island School District, Washington|5547|91.98%|$26264|
+|Richmond County School District, Georgia|202178|36.09%|$26264|
+|Laurens School District 55, South Carolina|37951|70.34%|$26261|
+|Deer Park Independent School District, Texas|48775|84.15%|$26258|
+|Orchard View Schools, Michigan|16191|81.39%|$26258|
+|Tullahoma City School District, Tennessee|19982|88.38%|$26256|
+|Swink School District 33, Colorado|1499|93.53%|$26250|
+|Stafford Unified School District 349, Kansas|1152|97.4%|$26250|
+|Belfast Central School District, New York|2174|96.6%|$26250|
+|Kiowa Public Schools, Oklahoma|2064|66.33%|$26250|
+|Rochester Area School District, Pennsylvania|6657|79.59%|$26250|
+|Brookfield Central School District, New York|1021|99.71%|$26250|
+|Harmony Township School District, New Jersey|2703|94.93%|$26250|
+|Jemez Valley Public Schools, New Mexico|5169|26.0%|$26250|
+|Dilley Independent School District, Texas|6131|77.03%|$26250|
+|Rock Port R-II School District, Missouri|2261|96.68%|$26250|
+|Lexington School District 3, South Carolina|14190|66.79%|$26250|
+|Sheldon R-VIII School District, Missouri|1014|99.01%|$26250|
+|Stanberry R-II School District, Missouri|2308|98.05%|$26250|
+|West Nodaway County R-I School District, Missouri|1547|94.51%|$26250|
+|Brimfield Community Unit School District 309, Illinois|3707|96.2%|$26250|
+|Red Lake County Central Public Schools, Minnesota|2032|92.96%|$26250|
+|Pleasant Hill School District 1, Oregon|6781|95.89%|$26250|
+|Richard City Special School District, Tennessee|1343|78.03%|$26250|
+|Comanche County Unified School District 300, Kansas|1759|96.59%|$26250|
+|Logan Unified School District 326, Kansas|1365|94.95%|$26250|
+|Murray County School District, Georgia|39789|95.98%|$26248|
+|McPherson Unified School District 418, Kansas|14761|93.93%|$26246|
+|Bartlesville Public Schools, Oklahoma|39206|76.54%|$26241|
+|Momence Community Unit School District 1, Illinois|6567|78.76%|$26237|
+|Exeter Unified School District, California|13273|70.65%|$26236|
+|Westfield School District, Wisconsin|9030|96.54%|$26234|
+|Farmington Municipal Schools, New Mexico|59360|56.78%|$26233|
+|Galva Community Unit School District 224, Illinois|3204|97.19%|$26232|
+|Lowpoint-Washburn Community Unit School District 21, Illinois|2547|98.59%|$26229|
+|Crookston Public School District, Minnesota|9568|85.88%|$26226|
+|St. James R-I School District, Missouri|9659|95.2%|$26221|
+|Killeen Independent School District, Texas|214179|48.39%|$26220|
+|Inman Unified School District 448, Kansas|2443|96.81%|$26215|
+|Greenwood School District 51, South Carolina|7092|77.72%|$26213|
+|Lewiston-Porter Central School District, New York|18694|94.53%|$26211|
+|Brownstown Central Community School Corporation, Indiana|9434|95.81%|$26209|
+|MACCRAY School District, Minnesota|4851|92.41%|$26208|
+|Marlboro County School District, South Carolina|26376|40.7%|$26205|
+|Hamilton County Community Unit School District 10, Illinois|7594|97.16%|$26205|
+|Wayne Community School District, Iowa|4092|95.41%|$26203|
+|Demopolis City School District, Alabama|6724|50.51%|$26203|
+|Central Lee Community School District, Iowa|4835|97.5%|$26202|
+|East Buchanan County C-1 School District, Missouri|4157|98.12%|$26200|
+|Tigerton School District, Wisconsin|1620|91.48%|$26200|
+|Martin Public Schools, Michigan|4560|97.41%|$26199|
+|Elmira City School District, New York|45179|84.42%|$26197|
+|New Lothrop Area Public School, Michigan|3758|96.75%|$26194|
+|Waynesville R-VI Schools, Missouri|38127|68.47%|$26193|
+|Adams County School District 14, Colorado|41488|72.44%|$26189|
+|Quinlan Independent School District, Texas|18928|88.91%|$26189|
+|Ubly Community Schools, Michigan|3705|98.6%|$26188|
+|Choctaw County School District, Alabama|12755|56.86%|$26188|
+|Yuma School District 1, Colorado|5326|89.41%|$26188|
+|South Spencer County School Corporation, Indiana|9378|95.91%|$26188|
+|Highland County Public Schools, Virginia|2202|95.91%|$26186|
+|Three Rivers Community Schools, Michigan|18199|86.46%|$26185|
+|Fox Public Schools, Oklahoma|1657|70.61%|$26184|
+|Webberville Community Schools, Michigan|3884|95.26%|$26183|
+|Mondovi School District, Wisconsin|5210|97.39%|$26181|
+|Watertown City School District, New York|28622|84.32%|$26179|
+|Raceland-Worthington Independent School District, Kentucky|4367|96.68%|$26176|
+|Madison School District, Michigan|7350|76.75%|$26176|
+|Ligonier Valley School District, Pennsylvania|14780|97.69%|$26175|
+|Winfield Unified School District 465, Kansas|14534|86.37%|$26173|
+|Irving Independent School District, Texas|186011|49.07%|$26172|
+|East Clinton Local School District, Ohio|7895|94.17%|$26170|
+|North Adams Community Schools, Indiana|15454|94.9%|$26170|
+|Wes-Del Community Schools, Indiana|5053|96.75%|$26169|
+|Waitsburg School District, Washington|1431|87.42%|$26167|
+|Northwestern Local School District (Ashland and Wayne Counties), Ohio|8759|98.45%|$26167|
+|Twin Valley Unified School District 240, Kansas|2581|97.68%|$26166|
+|School Administrative District 64, Maine|8060|96.64%|$26164|
+|North Panola School District, Mississippi|11176|37.19%|$26163|
+|Arkport Central School District, New York|3022|96.39%|$26162|
+|Washington Unorganized Territory, Maine|1320|95.45%|$26161|
+|Chambers County School District, Alabama|27207|62.25%|$26160|
+|George West Independent School District, Texas|6927|97.69%|$26159|
+|Alba Public Schools, Michigan|1319|97.8%|$26159|
+|Richland School District 1, South Carolina|199589|42.12%|$26156|
+|Green Local School District (Wayne County), Ohio|6969|96.51%|$26156|
+|Ripley-Union-Lewis-Huntington Local School District, Ohio|7093|95.01%|$26155|
+|Forestburg Independent School District, Texas|1186|96.12%|$26154|
+|Ann Arbor Public Schools, Michigan|174552|68.43%|$26154|
+|Henning Public School District, Minnesota|2752|95.68%|$26154|
+|Augusta School District, Arkansas|3135|51.13%|$26152|
+|Onteora Central School District, New York|15224|88.57%|$26147|
+|Southern Berkshire School District, Massachusetts|7387|97.89%|$26146|
+|Elkhorn Valley Schools, Nebraska|1971|93.76%|$26146|
+|Mount Vernon Independent School District, Texas|9225|83.44%|$26146|
+|Hartselle City School District, Alabama|14223|83.29%|$26145|
+|Carbondale Area School District, Pennsylvania|10321|92.99%|$26141|
+|Thackerville Public Schools, Oklahoma|1557|81.57%|$26140|
+|Mascenic Regional School District, New Hampshire|7551|94.35%|$26140|
+|Hillsboro Community Unit School District 3, Illinois|12645|89.16%|$26139|
+|Decatur School District 61, Illinois|64791|68.12%|$26138|
+|Brooklyn-Guernsey-Malcom Community School District, Iowa|3226|98.02%|$26136|
+|Coudersport Area School District, Pennsylvania|5887|96.28%|$26135|
+|Rice Lake Area School District, Wisconsin|16076|96.48%|$26134|
+|Beaver Local School District, Ohio|15633|90.4%|$26133|
+|Zane Trace Local School District, Ohio|9755|92.11%|$26131|
+|Marion County School District, West Virginia|56233|93.01%|$26128|
+|Lompoc Unified School District, California|59273|62.16%|$26127|
+|Bond County Community Unit School District 2, Illinois|12711|89.47%|$26127|
+|Wa-Nee Community Schools, Indiana|20398|95.19%|$26126|
+|Cleveland County School District, Arkansas|4798|76.47%|$26125|
+|Dansville Schools, Michigan|4738|94.45%|$26125|
+|Union Grove Independent School District, Texas|3330|97.27%|$26124|
+|Elmwood Community Unit School District 322, Illinois|4225|95.83%|$26124|
+|Fremont City School District, Ohio|28677|86.17%|$26123|
+|Filer School District 413, Idaho|8225|91.51%|$26123|
+|Boone Central Schools, Nebraska|3326|98.92%|$26118|
+|Meridian Public Schools, Nebraska|1077|97.12%|$26118|
+|Jim Ned Consolidated Independent School District, Texas|5470|90.2%|$26115|
+|Red Hill Community Unit School District 10, Illinois|8137|80.36%|$26107|
+|Antwerp Local School District, Ohio|3735|92.99%|$26105|
+|St. Cloud Public School District, Minnesota|103083|77.64%|$26104|
+|Upshur County School District, West Virginia|24451|95.42%|$26101|
+|Wheaton Area Public School District, Minnesota|2045|95.11%|$26101|
+|Wellsville Local School District, Ohio|4689|95.84%|$26100|
+|Elgin-New Leipzig Public School District 49, North Dakota|1399|95.14%|$26100|
+|Morton Independent School District, Texas|2137|79.64%|$26100|
+|School Administrative District 55, Maine|7743|91.77%|$26099|
+|Bryan Independent School District, Texas|101419|73.61%|$26098|
+|Michigan City Area Schools, Indiana|48040|72.98%|$26097|
+|West Central Community Unit School District 235, Illinois|5884|97.21%|$26096|
+|Swanton Local School District, Ohio|9471|96.58%|$26095|
+|Adair County R-II School District, Missouri|1319|99.92%|$26094|
+|Lenox Community School District, Iowa|2679|93.36%|$26094|
+|Buffalo Island Central School District, Arkansas|4735|93.2%|$26094|
+|Haskell Consolidated Independent School District, Texas|4025|86.16%|$26094|
+|Princeton School District, Wisconsin|3030|95.38%|$26094|
+|Tekonsha Community Schools, Michigan|2094|95.37%|$26090|
+|Georgetown-Ridge Farm Consolidated Unit School District 4, Illinois|6254|92.98%|$26089|
+|Brownsville Area School District, Pennsylvania|14766|82.76%|$26088|
+|Corinth Central School District, New York|7615|97.47%|$26087|
+|Little Falls City School District, New York|6739|97.36%|$26086|
+|North Lawrence Community Schools, Indiana|34079|96.02%|$26076|
+|Pottsville Area School District, Pennsylvania|18623|96.21%|$26075|
+|Frankfort Community Schools, Indiana|17298|84.71%|$26075|
+|New Boston Independent School District, Texas|6818|83.0%|$26074|
+|Essex County Public Schools, Virginia|10960|56.91%|$26074|
+|Albany R-III School District, Missouri|2687|97.06%|$26071|
+|Lawton Community School District, Michigan|5255|92.01%|$26068|
+|South Bend Community School Corporation, Indiana|161761|69.94%|$26065|
+|Elwood Public Schools, Nebraska|1612|98.01%|$26063|
+|Clinton County R-III School District, Missouri|5879|92.65%|$26062|
+|Newell School District 09-2, South Dakota|2242|88.45%|$26061|
+|Hardin-Central C-2 School District, Missouri|1429|96.78%|$26058|
+|Leechburg Area School District, Pennsylvania|5954|96.99%|$26058|
+|Surprise Valley Joint Unified School District, California|1384|90.39%|$26056|
+|Calhoun County School District, Alabama|55015|84.08%|$26054|
+|Cambridge City School District, Ohio|15527|92.66%|$26053|
+|Bentley Community Schools, Michigan|6843|83.43%|$26053|
+|Bruce School District, Wisconsin|3366|93.43%|$26053|
+|Bismarck-Henning Consolidated Unit School District, Illinois|4437|95.24%|$26053|
+|Granton Area School District, Wisconsin|2124|98.63%|$26053|
+|Sherman School District 1, Oregon|1686|90.21%|$26042|
+|Madisonville Consolidated Independent School District, Texas|13427|69.81%|$26040|
+|Harrisville Central School District, New York|2059|98.4%|$26037|
+|Sidney City School District, Ohio|24670|91.11%|$26037|
+|Raymond School District, Washington|4007|73.12%|$26036|
+|Harrison County School District, Mississippi|100426|68.45%|$26035|
+|Medina Valley Independent School District, Texas|24970|81.95%|$26034|
+|Gallatin Community Unit School District 7, Illinois|4530|96.36%|$26031|
+|Fort Frye Local School District, Ohio|6400|97.13%|$26031|
+|Pendleton County School District, Kentucky|14587|95.41%|$26030|
+|Shenandoah Community School District, Iowa|6737|94.58%|$26029|
+|Yellow Medicine East, Minnesota|6650|89.43%|$26028|
+|North College Hill City School District, Ohio|10808|32.82%|$26027|
+|Siuslaw School District 97J, Oregon|15519|91.89%|$26026|
+|Greenway Public School District, Minnesota|8561|93.83%|$26025|
+|Jacksonville North Pulaski School District, Arkansas|37688|57.23%|$26024|
+|North Summit School District, Utah|6191|89.71%|$26024|
+|Arnold Public Schools, Nebraska|1181|97.63%|$26023|
+|Knoxville Community Unit School District 202, Illinois|5615|96.06%|$26023|
+|Morgan County R-I School District, Missouri|4742|93.72%|$26020|
+|Thousand Islands Central School District, New York|7592|88.5%|$26019|
+|Valley View School District, Pennsylvania|17652|96.89%|$26018|
+|Royal Independent School District, Texas|10875|46.68%|$26018|
+|Terrell Independent School District, Texas|25998|66.53%|$26017|
+|Holmes County School District, Florida|19530|87.89%|$26017|
+|Dakota Community Unit School District 201, Illinois|4728|96.87%|$26016|
+|V.I.T. Community Unit School District 2, Illinois|2302|97.13%|$26014|
+|Millcreek-West Unity Local School District, Ohio|3778|92.88%|$26013|
+|Welch Public Schools, Oklahoma|2013|75.71%|$26012|
+|Rush City Public School District, Minnesota|6558|86.78%|$26012|
+|Ravenna Public Schools, Michigan|6169|93.6%|$26012|
+|Morrow School District 1, Oregon|10696|82.94%|$26010|
+|Cordell Public Schools, Oklahoma|4364|91.41%|$26008|
+|Lincoln County School District, West Virginia|20617|97.69%|$26007|
+|Marlin Independent School District, Texas|8550|58.07%|$26004|
+|Pembroke Central School District, New York|7073|97.31%|$26000|
+|South Page Community School District, Iowa|1502|98.14%|$26000|
+|Pana Community Unit School District 8, Illinois|9058|97.0%|$26000|
+|Kinsley-Offerle Unified School District 347, Kansas|2124|91.67%|$26000|
+|Mineral County School District, Nevada|4487|70.34%|$26000|
+|Libby K-12 Schools, Montana|9148|93.24%|$25997|
+|Remainder of Michigan, Michigan|15122|89.15%|$25996|
+|School Administrative District 54, Maine|17280|95.54%|$25994|
+|Regional School Unit 78, Maine|1634|99.45%|$25992|
+|Riverdale Joint Unified School District, California|5742|56.86%|$25991|
+|McCook Central School District 43-7, South Dakota|2244|96.3%|$25990|
+|Hyde Park Central School District, New York|32587|77.7%|$25988|
+|Logansport Community School Corporation, Indiana|23585|77.46%|$25988|
+|Robert Lee Independent School District, Texas|1726|91.89%|$25982|
+|St. James Public School District, Minnesota|6123|86.61%|$25977|
+|Lake Holcombe School District, Wisconsin|2520|98.29%|$25976|
+|Otego-Unadilla Central School District, New York|6494|96.01%|$25974|
+|Crane Independent School District, Texas|4739|53.96%|$25972|
+|Osakis Public School District, Minnesota|4028|98.54%|$25972|
+|North Mahaska Community School District, Iowa|2673|98.09%|$25971|
+|Roosevelt Union Free School District, New York|18729|17.03%|$25971|
+|Fort Dodge Community School District, Iowa|28335|87.68%|$25969|
+|Umatilla School District 6, Oregon|5924|89.01%|$25968|
+|Franklin Area School District, Pennsylvania|15536|93.61%|$25965|
+|Aberdeen School District, Washington|20565|84.27%|$25964|
+|Ste. Genevieve County R-II School District, Missouri|14884|96.14%|$25962|
+|Bloomingdale Public School District, Michigan|7478|86.17%|$25962|
+|Aroostook Unorganized Territory, Maine|1630|96.2%|$25962|
+|Waldron School District, Arkansas|8724|86.06%|$25962|
+|Osmond Community Schools, Nebraska|1175|97.87%|$25956|
+|Mount Enterprise Independent School District, Texas|1526|70.9%|$25956|
+|Bishop Consolidated Independent School District, Texas|5360|79.57%|$25955|
+|Buena Vista School District R-31, Colorado|10269|90.44%|$25955|
+|Lamar County School District, Mississippi|61896|76.92%|$25954|
+|Phenix City City School District, Alabama|36461|45.34%|$25954|
+|Godfrey-Lee Public Schools, Michigan|8438|50.76%|$25953|
+|Cassville School District, Wisconsin|1902|97.79%|$25951|
+|Bad Axe Public Schools, Michigan|6375|93.84%|$25950|
+|Okeechobee County School District, Florida|41611|82.45%|$25950|
+|Bassett Unified School District, California|27734|37.85%|$25950|
+|Ellenville Central School District, New York|12396|66.84%|$25949|
+|Marlow Public Schools, Oklahoma|7085|85.52%|$25948|
+|Broken Bow Public Schools, Oklahoma|7417|62.51%|$25947|
+|Syracuse Unified School District 494, Kansas|2552|88.21%|$25944|
+|Altmar-Parish-Williamstown Central School District, New York|7298|96.4%|$25943|
+|Hesston Unified School District 460, Kansas|4570|95.08%|$25942|
+|Uniontown Area School District, Pennsylvania|22332|84.73%|$25940|
+|Pike County School Corporation, Indiana|12364|96.26%|$25938|
+|Boscobel Area School District, Wisconsin|5680|94.07%|$25935|
+|Manistee Area Schools, Michigan|13245|87.45%|$25935|
+|Gallia County Local School District, Ohio|15868|96.09%|$25935|
+|Moberly School District, Missouri|15720|85.37%|$25932|
+|Sterling Community Unit District 5, Illinois|21012|89.68%|$25932|
+|Ocean Beach School District, Washington|10373|89.73%|$25931|
+|Anamosa Community School District, Iowa|9188|92.07%|$25927|
+|Lavaca Public Schools, Arkansas|4971|93.2%|$25927|
+|Cimarron Public Schools, Oklahoma|1641|95.12%|$25926|
+|Yough School District, Pennsylvania|15408|96.79%|$25925|
+|Marion County School District, Florida|360210|79.9%|$25925|
+|Brookfield R-III School District, Missouri|6143|97.1%|$25923|
+|Leland Public School District, Michigan|3421|97.52%|$25921|
+|Gainesville City School District, Georgia|41464|68.1%|$25918|
+|Chesaning Union Schools, Michigan|10672|93.95%|$25917|
+|North Union Community School District, Iowa|2874|98.5%|$25909|
+|Seymour Community School District, Iowa|2338|95.25%|$25909|
+|Hammond School City, Indiana|76512|48.79%|$25909|
+|Lorenzo Independent School District, Texas|1837|85.68%|$25909|
+|Freeman School District 33-1, South Dakota|2529|89.48%|$25905|
+|Clarke County School District, Alabama|18868|52.05%|$25905|
+|Labette County Unified School District 506, Kansas|7096|91.77%|$25904|
+|St. Ignatius K-12 Schools, Montana|4157|58.86%|$25903|
+|Lucas Local School District, Ohio|3115|91.59%|$25903|
+|North Zulch Independent School District, Texas|2175|93.47%|$25903|
+|Sturgis Public Schools, Michigan|16565|89.22%|$25901|
+|Lincoln Park Public Schools, Michigan|36525|75.77%|$25901|
+|Tuscola Community Unit School District 301, Illinois|5600|96.23%|$25898|
+|Vega Independent School District, Texas|1169|96.92%|$25897|
+|Elmwood Local School District, Ohio|6404|95.57%|$25897|
+|Madison Local School District (Richland County), Ohio|27015|80.01%|$25896|
+|Panama Public Schools, Oklahoma|3278|71.87%|$25893|
+|Chippewa Hills School District, Michigan|19254|93.14%|$25892|
+|Remington-Whitewater Unified School District 206, Kansas|4231|90.88%|$25889|
+|School Administrative District 41, Maine|4663|95.24%|$25885|
+|Strasburg-Franklin Local School District, Ohio|4677|96.17%|$25885|
+|Panhandle Community Unit School District 2, Illinois|3154|96.89%|$25883|
+|College Place School District, Washington|13527|82.69%|$25882|
+|Buna Independent School District, Texas|7621|95.43%|$25882|
+|Walker County School District, Alabama|50218|91.52%|$25882|
+|Villa Grove Community Unit School District 302, Illinois|3961|94.9%|$25880|
+|Schleicher Independent School District, Texas|2898|60.59%|$25879|
+|Flatonia Independent School District, Texas|3875|92.41%|$25878|
+|Northern Wells Community Schools, Indiana|15458|95.02%|$25877|
+|Poudre School District R-1, Colorado|209681|87.62%|$25877|
+|Craven County Schools, North Carolina|102290|69.68%|$25876|
+|Surry County Schools, North Carolina|55627|90.59%|$25876|
+|Anahuac Independent School District, Texas|7025|76.38%|$25875|
+|Blue Hill, Maine|2663|94.29%|$25871|
+|Croswell-Lexington Community School District, Michigan|12906|95.99%|$25871|
+|Decatur Public Schools, Michigan|5248|85.84%|$25867|
+|Laton Joint Unified School District, California|3481|84.54%|$25864|
+|Port Allegany School District, Pennsylvania|5489|95.5%|$25864|
+|Inland Lakes Schools, Michigan|5773|91.79%|$25864|
+|Ashland Independent School District, Kentucky|20973|91.92%|$25860|
+|Woodlawn Unit District 209, Illinois|2151|96.56%|$25859|
+|Whitepine Joint School District 288, Idaho|1984|97.83%|$25857|
+|Abingdon-Avon Community Unit School District 276, Illinois|6375|96.69%|$25857|
+|Spartanburg School District 7, South Carolina|53424|53.08%|$25856|
+|Blue Eye R-V School District, Missouri|5123|98.05%|$25856|
+|Corpus Christi Independent School District, Texas|252776|81.03%|$25854|
+|Leyton Public Schools, Nebraska|1335|93.11%|$25852|
+|Storey County School District, Nevada|4086|83.75%|$25852|
+|Southern Local School District (Hocking and Perry Counties), Ohio|3742|98.53%|$25851|
+|Warsaw Community Schools, Indiana|42037|89.69%|$25851|
+|Addison Central School District, New York|6764|97.66%|$25848|
+|South Butler County School District, Pennsylvania|17835|99.44%|$25848|
+|Kaufman Independent School District, Texas|19960|81.69%|$25848|
+|Lisbon Exempted Village School District, Ohio|5283|95.63%|$25847|
+|Lockland Local School District, Ohio|4266|61.16%|$25845|
+|Belding Area School District, Michigan|12503|95.02%|$25842|
+|Salamanca City School District, New York|7139|70.82%|$25841|
+|Elkhart Independent School District, Texas|6217|86.13%|$25839|
+|Burke County Schools, North Carolina|90148|84.04%|$25838|
+|Hamilton City School District, Ohio|62093|82.96%|$25835|
+|Granite Public Schools, Oklahoma|2292|75.13%|$25833|
+|Sundown Independent School District, Texas|1547|83.78%|$25833|
+|Exira-Elk Horn-Kimballton Community School District, Iowa|2999|98.2%|$25833|
+|Green Ridge R-VIII School District, Missouri|2297|97.52%|$25833|
+|Sarcoxie R-II School District, Missouri|4301|90.23%|$25833|
+|River Ridge Community Unit School District 210, Illinois|3706|96.09%|$25833|
+|Burke School District 26-2, South Dakota|1253|92.1%|$25833|
+|Zalma R-V School District, Missouri|1171|98.89%|$25833|
+|Amherst Public Schools, Nebraska|1100|99.36%|$25833|
+|Burlington Unified School District 244, Kansas|3675|94.29%|$25833|
+|Elkhart Community Schools, Indiana|77783|79.77%|$25831|
+|Danville City Public Schools, Virginia|40668|44.39%|$25831|
+|Lewis County C-1 School District, Missouri|6303|95.03%|$25829|
+|Jeannette City School District, Pennsylvania|9092|82.96%|$25825|
+|Union-Scioto Local School District, Ohio|15813|82.56%|$25823|
+|Lancaster City School District, Ohio|49244|91.76%|$25821|
+|Conneaut Area City School District, Ohio|14339|88.21%|$25819|
+|Mount Adams School District, Washington|3855|37.61%|$25817|
+|Bear Lake School District, Michigan|2176|93.93%|$25815|
+|Coleman School District, Wisconsin|5043|94.75%|$25815|
+|Reedsport School District 105, Oregon|5616|92.54%|$25814|
+|Kelloggsville Public Schools, Michigan|13160|68.94%|$25814|
+|May Independent School District, Texas|1952|99.13%|$25811|
+|Norman Public Schools, Oklahoma|120418|75.65%|$25810|
+|Chireno Independent School District, Texas|1616|86.2%|$25810|
+|Willard City School District, Ohio|10657|92.29%|$25809|
+|Mason County School District, Kentucky|17122|89.57%|$25808|
+|Ravenna City School District, Ohio|20438|87.97%|$25808|
+|Detroit Lakes Public School District, Minnesota|18050|89.89%|$25808|
+|Northern Tioga School District, Pennsylvania|14182|96.46%|$25807|
+|Elgin Public Schools, Nebraska|1315|99.92%|$25806|
+|East Dubuque Community Unit School District 119, Illinois|4149|96.17%|$25804|
+|Bedford County School District, Tennessee|48937|85.31%|$25801|
+|Stephenson Area Public Schools, Michigan|4947|95.39%|$25800|
+|Elverado Community Unit School District 196, Illinois|2825|94.73%|$25800|
+|Spooner Area School District, Wisconsin|10297|93.92%|$25799|
+|Luling Independent School District, Texas|7932|70.47%|$25797|
+|Tawas Area Schools, Michigan|10772|94.59%|$25794|
+|Tillamook School District 9, Oregon|13657|87.38%|$25794|
+|Pass Christian Public School District, Mississippi|11405|71.87%|$25793|
+|Sparta Area School District, Wisconsin|18111|93.37%|$25792|
+|Warren Community Unit School District 205, Illinois|2448|97.22%|$25792|
+|Lincoln County School District 2, Wyoming|15016|95.23%|$25791|
+|Dumas Independent School District, Texas|18803|73.81%|$25790|
+|Park Rapids Public School District, Minnesota|12546|93.05%|$25790|
+|St. Louis Public Schools, Michigan|10623|77.78%|$25789|
+|Johnsburg Central School District, New York|2551|94.16%|$25786|
+|Garaway Local School District, Ohio|11714|96.2%|$25785|
+|Murray County Central School District, Minnesota|4694|97.34%|$25781|
+|North Dickinson County Schools, Michigan|2086|94.3%|$25781|
+|Fort Recovery Local School District, Ohio|4082|99.76%|$25779|
+|Fayetteville City School District, Tennessee|7046|72.41%|$25778|
+|Eddyville-Blakesburg-Fremont Community School District, Iowa|5172|97.97%|$25777|
+|Wildwood City School District, New Jersey|4985|82.23%|$25776|
+|Iron Mountain Public Schools, Michigan|7352|95.24%|$25775|
+|Nestucca Valley School District 101J, Oregon|4243|95.78%|$25773|
+|Moshannon Valley School District, Pennsylvania|8606|80.44%|$25769|
+|Clear Fork Valley Local School District, Ohio|10416|99.66%|$25769|
+|Roanoke Rapids City Schools, North Carolina|13163|67.4%|$25767|
+|Bogota Borough School District, New Jersey|8375|67.98%|$25767|
+|Regional School Unit 13, Maine|14137|94.37%|$25765|
+|Ozark School District, Arkansas|11283|93.49%|$25765|
+|Mathis Independent School District, Texas|8989|94.1%|$25765|
+|Kimberly School District 414, Idaho|7881|87.78%|$25763|
+|Safford Unified District, Arizona|16983|87.14%|$25763|
+|Sioux Central Community School District, Iowa|2824|92.28%|$25761|
+|Gilmer County School District, Georgia|30986|92.11%|$25757|
+|Bellingham School District, Washington|112818|81.73%|$25756|
+|Warsaw Central School District, New York|5878|93.19%|$25756|
+|Cushing Public Schools, Oklahoma|9915|82.61%|$25755|
+|Wagoner Public Schools, Oklahoma|14041|70.01%|$25754|
+|Wyalusing Area School District, Pennsylvania|9046|96.23%|$25753|
+|Lakota Local School District (Sandusky, Seneca, and Wood Counties), Ohio|6343|95.27%|$25753|
+|Maquoketa Community School District, Iowa|8375|94.61%|$25750|
+|Putnam County School District, Georgia|21906|68.94%|$25750|
+|Warrenton-Hammond School District 30, Oregon|6861|86.97%|$25750|
+|Whitfield County School District, Georgia|70607|89.92%|$25747|
+|Indian River Central School District, New York|22331|73.79%|$25747|
+|Greater Johnstown School District, Pennsylvania|25357|80.36%|$25746|
+|McNairy County School District, Tennessee|25814|91.26%|$25745|
+|Osceola School District, Missouri|2850|92.7%|$25743|
+|Kennard Independent School District, Texas|1698|77.39%|$25742|
+|Knippa Independent School District, Texas|1087|93.93%|$25740|
+|Bland County Public Schools, Virginia|6334|94.21%|$25738|
+|Bright Local School District, Ohio|4552|96.99%|$25735|
+|Webster County School District, Kentucky|13021|90.01%|$25734|
+|Oakes Public School District 41, North Dakota|2791|98.32%|$25734|
+|Blaine School District, Washington|18229|85.03%|$25731|
+|San Angelo Independent School District, Texas|101261|79.59%|$25727|
+|South Whidbey School District, Washington|16208|92.78%|$25726|
+|Northwood-Kensett Community School District, Iowa|3271|96.45%|$25724|
+|Columbiana Exempted Village School District, Ohio|7741|95.23%|$25723|
+|Celina City School District, Ohio|18020|93.22%|$25719|
+|Mount Pleasant Area School District, Pennsylvania|17215|97.62%|$25718|
+|Woodville Independent School District, Texas|12093|76.7%|$25718|
+|Camden-Frontier School District, Michigan|4028|98.39%|$25717|
+|Oak Harbor School District, Washington|40180|73.74%|$25713|
+|Pella Community School District, Iowa|14651|95.88%|$25713|
+|Edgeley Public School District 3, North Dakota|1359|97.35%|$25712|
+|Garden City School District, Michigan|26893|90.03%|$25712|
+|Alcorn School District, Mississippi|22364|91.71%|$25711|
+|Otto-Eldred School District, Pennsylvania|3654|99.18%|$25709|
+|McDade Independent School District, Texas|2428|64.46%|$25707|
+|Ladysmith School District, Wisconsin|5119|95.86%|$25705|
+|Normangee Independent School District, Texas|3237|96.29%|$25705|
+|Southwest Parke Community School Corporation, Indiana|5526|95.55%|$25704|
+|Northridge Local School District (Montgomery County), Ohio|10218|76.83%|$25702|
+|White Pigeon Community Schools, Michigan|6655|95.33%|$25700|
+|Red Bud Community Unit School District 132, Illinois|7110|98.69%|$25700|
+|East Liverpool City School District, Ohio|15597|88.36%|$25699|
+|Western Wayne Schools, Indiana|5418|97.8%|$25698|
+|East Chambers Independent School District, Texas|5680|82.61%|$25697|
+|Estherville Lincoln Central Community School District, Iowa|7570|91.88%|$25694|
+|Shidler Public Schools, Oklahoma|1485|77.71%|$25694|
+|Whiting Community School District, Iowa|1153|91.41%|$25694|
+|Ogden School District, Utah|87159|81.97%|$25694|
+|Brockway Area School District, Pennsylvania|6986|98.01%|$25693|
+|Olive Public Schools, Oklahoma|2294|83.91%|$25691|
+|Warsaw Community Unit School District 316, Illinois|2322|98.66%|$25690|
+|Los Banos Unified School District, California|41996|54.37%|$25689|
+|Avoca Central School District, New York|3557|91.14%|$25688|
+|Silsbee Independent School District, Texas|16720|81.41%|$25685|
+|North Mercer County R-III School District, Missouri|1056|95.27%|$25682|
+|Hanson School District 30-1, South Dakota|1989|95.98%|$25682|
+|Vincennes Community School Corporation, Indiana|21972|90.41%|$25682|
+|Leary Independent School District, Texas|1356|93.95%|$25680|
+|Sullivan County School District, Pennsylvania|6038|94.35%|$25679|
+|Ritzville School District, Washington|2533|88.63%|$25677|
+|Lincoln County School District 1, Wyoming|3910|95.4%|$25676|
+|Wabasso Public School District, Minnesota|2389|95.19%|$25673|
+|Iberville Parish School District, Louisiana|32626|49.08%|$25672|
+|Bergman School District, Arkansas|4568|97.48%|$25671|
+|Smoky Valley Unified School District 400, Kansas|5615|93.16%|$25671|
+|Maxwell Unified School District, California|1777|72.14%|$25670|
+|McAlester Public Schools, Oklahoma|17682|71.07%|$25670|
+|Amboy Community Unit School District 272, Illinois|4972|95.9%|$25670|
+|Gaylord Community Schools, Michigan|20608|94.76%|$25668|
+|Rich School District, Utah|2415|91.3%|$25667|
+|Jefferson-Morgan School District, Pennsylvania|5327|96.96%|$25667|
+|Tell City-Troy Township School Corporation, Indiana|10468|94.85%|$25665|
+|Fort Smith Public Schools, Arkansas|90893|63.98%|$25664|
+|Duluth Public School District, Minnesota|93667|89.62%|$25664|
+|Hamburg School District, Arkansas|8378|74.16%|$25663|
+|Perry County School District, Kentucky|22078|96.2%|$25662|
+|Leroy-Gridley Unified School District 245, Kansas|1736|95.91%|$25662|
+|Burlington Community School District, Iowa|28689|87.97%|$25661|
+|Spartanburg School District 1, South Carolina|32867|89.28%|$25661|
+|Laquey R-V School District, Missouri|3264|91.36%|$25660|
+|Harrison School District, Arkansas|20869|95.08%|$25660|
+|Elk Lake School District, Pennsylvania|7813|95.41%|$25659|
+|Horry County School District, South Carolina|344186|80.78%|$25658|
+|Wayland Union Schools, Michigan|18708|94.3%|$25657|
+|Piqua City School District, Ohio|23936|91.68%|$25657|
+|Clarinda Community School District, Iowa|7247|91.25%|$25655|
+|Utopia Independent School District, Texas|1847|95.72%|$25652|
+|Liberty Center Local School District, Ohio|5888|96.88%|$25652|
+|Huntington County Community School Corporation, Indiana|36351|95.47%|$25652|
+|Long Prairie-Grey Eagle School District, Minnesota|8669|87.69%|$25650|
+|Jac-Cen-Del Community School Corporation, Indiana|4898|98.0%|$25649|
+|Wabeno Area School District, Wisconsin|3537|89.09%|$25645|
+|Othello School District, Washington|16047|54.99%|$25644|
+|Wyandotte Public Schools, Oklahoma|4621|68.51%|$25644|
+|Dawson-Boyd Public School District, Minnesota|2754|93.54%|$25642|
+|Martins Ferry City School District, Ohio|10343|91.75%|$25640|
+|Newton Falls Exempted Village School District, Ohio|8185|98.01%|$25638|
+|Lynchburg-Clay Local School District, Ohio|6441|96.32%|$25635|
+|Jonesboro Public Schools, Arkansas|37293|64.84%|$25634|
+|Freeport School District 145, Illinois|28703|77.54%|$25630|
+|Port Huron Area School District, Michigan|66688|88.81%|$25628|
+|Oklahoma City Public Schools, Oklahoma|296397|60.57%|$25626|
+|Franklin County School District, Mississippi|7716|62.97%|$25625|
+|Hickman Mills C-1 School District, Missouri|48842|40.43%|$25625|
+|Lesterville R-IV School District, Missouri|1076|94.89%|$25625|
+|Bradford Central School District, New York|1694|97.23%|$25625|
+|Creek Valley Schools, Nebraska|1823|97.37%|$25625|
+|Salmon River Central School District, New York|8042|55.47%|$25625|
+|Parkers Prairie Public School District, Minnesota|3033|98.65%|$25625|
+|Holly School District RE-3, Colorado|1327|92.54%|$25625|
+|Cheney School District, Washington|39067|82.79%|$25622|
+|Olean City School District, New York|14902|91.44%|$25619|
+|Milford Public Schools, Nebraska|4294|96.18%|$25619|
+|Milan Area Schools, Michigan|17037|81.28%|$25619|
+|South Central Calhoun Community School District, Iowa|6127|95.45%|$25615|
+|North East School District, Pennsylvania|10295|93.49%|$25615|
+|Lanier County School District, Georgia|10534|72.55%|$25614|
+|Union County School District, Georgia|23999|95.98%|$25614|
+|Pavilion Central School District, New York|4464|93.3%|$25614|
+|Crestview Local School District (Ashland and Richland Counties), Ohio|7752|96.22%|$25612|
+|North Andrew County R-VI School District, Missouri|2095|98.62%|$25611|
+|School Administrative District 04, Maine|4854|95.69%|$25611|
+|Preston County School District, West Virginia|33610|92.08%|$25611|
+|Burnet Consolidated Independent School District, Texas|24342|90.95%|$25610|
+|Scott County School District, Mississippi|19044|57.82%|$25609|
+|Eastern Local School District (Adams, Brown, and Highland Counties), Ohio|8249|98.0%|$25606|
+|Twin Lakes School Corporation, Indiana|14733|91.72%|$25603|
+|Kenesaw Public Schools, Nebraska|1668|97.48%|$25602|
+|West Carroll Special District, Tennessee|7310|85.77%|$25602|
+|Limestone County School District, Alabama|61192|83.57%|$25602|
+|Greenup County School District, Kentucky|18822|98.0%|$25598|
+|Westbrook-Walnut Grove Schools, Minnesota|2824|85.3%|$25598|
+|Carteret County Schools, North Carolina|69301|89.05%|$25598|
+|Oilton Public Schools, Oklahoma|1359|91.76%|$25595|
+|Hempstead Union Free School District, New York|43821|14.4%|$25595|
+|Osnaburg Local School District, Ohio|5417|97.64%|$25595|
+|Bay City School District, Michigan|69018|93.35%|$25594|
+|Wyoming County School District, West Virginia|20890|97.29%|$25593|
+|Johnson County Central Public Schools, Nebraska|4448|81.41%|$25593|
+|Beeville Independent School District, Texas|27288|78.35%|$25589|
+|Clarendon School District 3, South Carolina|6978|63.56%|$25587|
+|Del Valle Independent School District, Texas|74053|52.64%|$25585|
+|Lake City Area School District, Michigan|8393|94.69%|$25584|
+|Hawkins Independent School District, Texas|5869|77.68%|$25583|
+|Plain Local School District, Ohio|48682|84.49%|$25582|
+|Rawlins County Unified School District 105, Kansas|2067|93.23%|$25581|
+|Republic County-Hillcrest Rural Schools Unified School District 109, Kansas|3360|96.79%|$25581|
+|Juda School District, Wisconsin|1285|99.46%|$25580|
+|Overton County School District, Tennessee|22171|96.89%|$25578|
+|Greenwood School District 50, South Carolina|59554|61.35%|$25572|
+|Chickasaw City School District, Alabama|5757|49.75%|$25572|
+|Calhoun County Independent School District, Texas|21470|78.25%|$25571|
+|Roane County School District, Tennessee|50278|94.0%|$25571|
+|Effingham Community Unit School District 40, Illinois|20314|95.5%|$25570|
+|Albert City-Truesdale Community School District, Iowa|1407|93.89%|$25568|
+|Paragould School District, Arkansas|20888|90.76%|$25567|
+|Glen Rose Independent School District, Texas|8879|90.12%|$25564|
+|Coosa County School District, Alabama|10696|65.93%|$25564|
+|Marshall Independent School District, Texas|32891|57.22%|$25563|
+|Springfield Local School District (Portage and Summit Counties), Ohio|18742|95.39%|$25560|
+|Hansen School District 415, Idaho|2315|91.62%|$25559|
+|North Putnam Community Schools, Indiana|9863|99.61%|$25557|
+|Vandalia Community Unit School District 203, Illinois|11072|89.39%|$25556|
+|Laurel County School District, Kentucky|59197|96.87%|$25552|
+|Jackson County School District, Arkansas|4806|90.05%|$25552|
+|Chillicothe City School District, Ohio|22741|88.15%|$25551|
+|Dalhart Independent School District, Texas|10828|78.91%|$25551|
+|Franklinville Central School District, New York|4602|95.42%|$25549|
+|Yancey County Schools, North Carolina|17870|95.15%|$25545|
+|Salt Fork Community Unit School District 512, Illinois|4586|98.52%|$25545|
+|Garnett Unified School District 365, Kansas|6862|96.78%|$25545|
+|Putnam County School District, Tennessee|78542|92.57%|$25543|
+|Higbee R-VIII School District, Missouri|1536|95.83%|$25542|
+|North White School Corporation, Indiana|5863|84.14%|$25542|
+|Sylacauga City School District, Alabama|12132|66.04%|$25542|
+|Hamlin School District 28-3, South Dakota|3463|96.33%|$25541|
+|Dyer County School District, Tennessee|20830|89.69%|$25539|
+|Connellsville Area School District, Pennsylvania|32971|97.34%|$25537|
+|Johnson County School District, Kentucky|19068|97.9%|$25536|
+|Salisbury R-IV School District, Missouri|3279|96.86%|$25536|
+|Barstow Unified School District, California|33302|59.68%|$25534|
+|Lyon County School District, Kentucky|8226|91.56%|$25533|
+|Turlock Unified School District, California|75644|72.22%|$25532|
+|Bellefontaine City School District, Ohio|15321|91.88%|$25530|
+|Hillsboro R-III School District, Missouri|21789|95.21%|$25527|
+|Shelby-Rising City Public Schools, Nebraska|2192|98.27%|$25526|
+|Spartanburg School District 2, South Carolina|63810|78.75%|$25524|
+|Wilkinson County School District, Georgia|8945|59.14%|$25522|
+|Chippewa Local School District, Ohio|9432|98.06%|$25520|
+|North Branch Area Schools, Michigan|11071|96.68%|$25520|
+|Toledo City School District, Ohio|218215|57.1%|$25517|
+|Tarrant City School District, Alabama|6216|35.34%|$25516|
+|Montgomery County School District, Kentucky|28042|94.23%|$25511|
+|Lenoir City School District, Tennessee|9087|88.56%|$25511|
+|Sebeka Public School District, Minnesota|3163|93.08%|$25511|
+|Clifton Independent School District, Texas|7100|92.21%|$25510|
+|Concord Community Schools, Indiana|26672|84.92%|$25506|
+|Coos Bay School District 9, Oregon|27656|84.85%|$25503|
+|Dalton City School District, Georgia|33515|77.82%|$25500|
+|Marion-Florence Unified School District 408, Kansas|3269|96.27%|$25500|
+|Hannibal Central School District, New York|7344|97.02%|$25496|
+|Hernando County School District, Florida|190700|86.63%|$25495|
+|Alexander County Schools, North Carolina|37271|87.66%|$25494|
+|Blairsville-Saltsburg School District, Pennsylvania|13600|94.18%|$25493|
+|Brookville Area School District, Pennsylvania|11549|97.12%|$25493|
+|La Salle Parish School District, Louisiana|14950|84.08%|$25491|
+|Itawamba County School District, Mississippi|23396|91.02%|$25487|
+|Iowa City Community School District, Iowa|122269|78.05%|$25487|
+|Jackson City School District, Ohio|15669|95.63%|$25485|
+|Toledo School District, Washington|4441|95.16%|$25483|
+|Lafayette County School District, Florida|8576|80.48%|$25483|
+|Willmar Public School District, Minnesota|25685|79.8%|$25483|
+|Columbia 93 School District, Missouri|151071|77.46%|$25480|
+|Mammoth Spring Schools, Arkansas|2899|96.1%|$25477|
+|Whitesboro Independent School District, Texas|9343|95.82%|$25472|
+|Frontier Local School District, Ohio|4789|96.97%|$25471|
+|Kingsley Area Schools, Michigan|7591|95.94%|$25470|
+|Tioga Independent School District, Texas|1286|95.49%|$25469|
+|Fordyce School District, Arkansas|5008|49.3%|$25469|
+|Brimley Area Schools, Michigan|3668|56.22%|$25469|
+|Ithaca School District, Wisconsin|1712|97.9%|$25469|
+|Washakie County School District 1, Wyoming|7157|85.65%|$25469|
+|Emmetsburg Community School District, Iowa|4632|96.44%|$25467|
+|Kilgore Independent School District, Texas|22956|76.96%|$25467|
+|Winn Parish School District, Louisiana|14165|65.55%|$25465|
+|Bloomfield Community Schools, Nebraska|1639|95.49%|$25463|
+|Standish-Sterling Community School District, Michigan|9642|96.56%|$25460|
+|Banks County School District, Georgia|18900|91.12%|$25460|
+|York City School District, Pennsylvania|44019|55.88%|$25459|
+|Jacksboro Independent School District, Texas|6190|90.48%|$25459|
+|Rivercrest School District, Arkansas|5701|68.15%|$25458|
+|Trumann Schools, Arkansas|9801|88.23%|$25458|
+|Los Fresnos Consolidated Independent School District, Texas|49792|82.94%|$25458|
+|Windber Area School District, Pennsylvania|8182|98.66%|$25455|
+|Waukegan Community Unit School District 60, Illinois|81476|43.11%|$25455|
+|Oswayo Valley School District, Pennsylvania|3044|99.28%|$25453|
+|Susquehanna Community School District, Pennsylvania|5199|98.42%|$25453|
+|Hendricks Public School District, Minnesota|1091|96.52%|$25450|
+|Bentworth School District, Pennsylvania|8203|95.94%|$25448|
+|South Haven Public Schools, Michigan|13025|81.96%|$25447|
+|Louisville Municipal School District, Mississippi|18116|50.33%|$25445|
+|Atchison County Community Schools Unified School District 377, Kansas|4288|94.36%|$25445|
+|Clinton Community School District, Iowa|24934|90.49%|$25442|
+|Mountain Home School District, Arkansas|33467|94.62%|$25441|
+|Orofino Joint School District 171, Idaho|8882|92.78%|$25441|
+|Eastbrook Community School Corporation, Indiana|10358|94.94%|$25441|
+|Maysville Local School District, Ohio|10575|96.54%|$25440|
+|River Valley School District, Michigan|8447|92.34%|$25440|
+|Du Quoin Community Unit School District 300, Illinois|8606|91.06%|$25437|
+|Southern Cayuga Central School District, New York|5875|94.06%|$25436|
+|Springfield School District RE-4, Colorado|1940|92.42%|$25435|
+|Washington County School District, Alabama|16336|66.0%|$25434|
+|Edinburgh Community School Corporation, Indiana|5118|93.92%|$25431|
+|Augusta Unified School District 402, Kansas|12530|94.68%|$25430|
+|Morgan County School District, Alabama|50785|90.17%|$25430|
+|Hicksville Exempted Village School District, Ohio|5379|93.51%|$25428|
+|Winnsboro Independent School District, Texas|8891|87.53%|$25426|
+|McBain Rural Agricultural Schools, Michigan|5695|97.24%|$25426|
+|Bristow Public Schools, Oklahoma|9101|74.77%|$25424|
+|Kelseyville Unified School District, California|13080|73.05%|$25422|
+|Hallettsville Independent School District, Texas|6937|77.28%|$25422|
+|Remainder of Missouri, Missouri|101934|94.52%|$25422|
+|Edgerton Local School District, Ohio|3918|94.72%|$25421|
+|Anderson School District 4, South Carolina|22944|85.94%|$25418|
+|Brunswick R-II School District, Missouri|1584|87.75%|$25417|
+|Coon Rapids-Bayard Community School District, Iowa|2428|95.43%|$25417|
+|Nesson Public School District 2, North Dakota|1347|89.46%|$25417|
+|Tripp-Delmont School District 33-5, South Dakota|1157|95.25%|$25417|
+|Chisholm Public School District, Minnesota|5706|96.2%|$25417|
+|Fort Leavenworth Unified School District 207, Kansas|8183|68.53%|$25417|
+|Crawford Central School District, Pennsylvania|29185|92.7%|$25413|
+|Fairbury Public Schools, Nebraska|5274|95.73%|$25411|
+|Tri-County Area School District, Wisconsin|4087|94.52%|$25411|
+|Aplington-Parkersburg Community School District, Iowa|4293|99.09%|$25410|
+|Huntingdon Special School District, Tennessee|5781|84.4%|$25409|
+|Amarillo Independent School District, Texas|169427|78.16%|$25406|
+|Rogue River School District 35, Oregon|9127|94.46%|$25403|
+|Gilman School District, Wisconsin|3318|97.23%|$25402|
+|Kane School District, Utah|7658|93.18%|$25401|
+|Holtville Unified School District, California|8639|61.74%|$25400|
+|Dayton School District 8, Oregon|5659|86.23%|$25400|
+|Braymer C-4 School District, Missouri|1748|96.74%|$25399|
+|Weymouth Township School District, New Jersey|2800|80.79%|$25398|
+|Allegany County Public Schools, Maryland|71002|87.91%|$25396|
+|Cotopaxi School District RE-3, Colorado|2943|94.9%|$25396|
+|Findlay City School District, Ohio|41964|90.69%|$25396|
+|Melba Joint School District 136, Idaho|3585|82.87%|$25395|
+|Jackson Public Schools, Michigan|53418|77.31%|$25395|
+|Cheney Unified School District 268, Kansas|3497|98.03%|$25395|
+|Leavenworth Unified School District 453, Kansas|27706|76.54%|$25395|
+|Panther Creek Consolidated Independent School District, Texas|1066|99.34%|$25395|
+|Spring Grove School District, Minnesota|2236|98.26%|$25391|
+|Cleveland Public Schools, Oklahoma|9312|81.3%|$25389|
+|Deposit Central School District, New York|3230|94.43%|$25388|
+|Hays Unified School District 489, Kansas|24166|91.98%|$25388|
+|Broken Bow Public Schools, Nebraska|4953|96.06%|$25387|
+|Circleville City School District, Ohio|15739|93.91%|$25386|
+|Sandusky Community School District, Michigan|6829|94.92%|$25386|
+|Wadena-Deer Creek School District, Minnesota|8255|94.71%|$25382|
+|Talladega County School District, Alabama|48663|67.15%|$25382|
+|McKeesport Area School District, Pennsylvania|29974|69.56%|$25382|
+|Allamakee Community School District, Iowa|8222|96.96%|$25380|
+|Roberts K-12 Schools, Montana|1060|97.83%|$25380|
+|Tallassee City School District, Alabama|9397|82.29%|$25380|
+|Galesburg Community Unit School District 205, Illinois|33482|80.55%|$25376|
+|Cloverdale Community Schools, Indiana|7213|96.33%|$25375|
+|Pickford Public Schools, Michigan|2191|91.97%|$25375|
+|Alcester-Hudson School District 61-1, South Dakota|2648|94.6%|$25370|
+|Medina Independent School District, Texas|2625|93.56%|$25369|
+|Midd-West School District, Pennsylvania|17066|97.57%|$25366|
+|Rusk Independent School District, Texas|11828|77.2%|$25366|
+|Elyria City School District, Ohio|51716|76.42%|$25363|
+|Point Isabel Independent School District, Texas|14418|92.81%|$25362|
+|Green Lake School District, Wisconsin|2584|98.1%|$25357|
+|Griggsville-Perry Community Unit School District 4, Illinois|2637|92.91%|$25357|
+|Mahanoy Area School District, Pennsylvania|10941|74.03%|$25357|
+|Lawton Public Schools, Oklahoma|89015|58.29%|$25356|
+|Anderson School District 5, South Carolina|83510|68.96%|$25355|
+|Bryan City School District, Ohio|12385|96.16%|$25348|
+|Oil City Area School District, Pennsylvania|14088|95.8%|$25346|
+|Dowagiac Union Schools, Michigan|15062|87.17%|$25343|
+|Cunningham Unified School District 332, Kansas|1140|95.61%|$25341|
+|Superior Public Schools, Nebraska|2998|96.16%|$25339|
+|North Shelby School District, Missouri|1846|95.94%|$25337|
+|Bardstown Independent School District, Kentucky|13268|83.43%|$25336|
+|Bowie Independent School District, Texas|10481|94.83%|$25335|
+|Russell Independent School District, Kentucky|12170|95.19%|$25332|
+|Jacksonville School District 117, Illinois|27289|86.78%|$25332|
+|South Lewis Central School District, New York|6831|96.0%|$25327|
+|Longview Public Schools, Washington|48795|84.68%|$25325|
+|Kearney Public Schools, Nebraska|38999|90.94%|$25325|
+|Marion County School District, Tennessee|27296|93.83%|$25324|
+|Marais des Cygnes Valley Unified School District 456, Kansas|1535|90.29%|$25324|
+|Dickson Public Schools, Oklahoma|5411|76.68%|$25321|
+|Rotan Independent School District, Texas|1706|79.07%|$25320|
+|Vashon Island School District, Washington|10400|92.66%|$25319|
+|Butler R-V School District, Missouri|5692|93.34%|$25315|
+|Chehalis School District, Washington|16989|85.07%|$25315|
+|Hampton School District 1, South Carolina|11836|49.65%|$25314|
+|Drew Central School District, Arkansas|7617|79.18%|$25313|
+|Geneva City School District, Alabama|6251|87.6%|$25313|
+|Lyons-Decatur Northeast Schools, Nebraska|1794|90.64%|$25313|
+|Apache Junction Unified District, Arizona|65306|89.13%|$25312|
+|Clyde-Green Springs Exempted Village School District, Ohio|12645|92.94%|$25310|
+|Allegan Public Schools, Michigan|17207|88.94%|$25309|
+|Lee County School District, South Carolina|17144|33.06%|$25304|
+|Julesburg School District RE-1, Colorado|1621|95.19%|$25304|
+|Northeast Community School District, Iowa|2904|92.84%|$25302|
+|Gordon Independent School District, Texas|1421|93.88%|$25302|
+|Valparaiso Community Schools, Indiana|45439|89.62%|$25302|
+|Carson City-Crystal Area School District, Michigan|10138|84.09%|$25301|
+|York Public Schools, Nebraska|8909|93.64%|$25300|
+|Meade Unified School District 226, Kansas|1744|94.15%|$25299|
+|Putnam County R-I School District, Missouri|4626|97.06%|$25298|
+|Prairie du Chien Area School District, Wisconsin|8178|93.64%|$25297|
+|East Stroudsburg Area School District, Pennsylvania|47802|64.51%|$25295|
+|Perry Community School District, Iowa|9676|89.63%|$25294|
+|Tri-County Community School District, Iowa|1847|97.46%|$25294|
+|Northport Public Schools, Maine|1648|97.57%|$25294|
+|East China School District, Michigan|28916|97.08%|$25289|
+|Union City School District, Tennessee|10426|69.41%|$25289|
+|Inglewood Unified School District, California|113404|23.16%|$25288|
+|Meriwether County School District, Georgia|21080|57.94%|$25287|
+|Fayette County School District, West Virginia|43087|93.29%|$25287|
+|Hondo Valley Public Schools, New Mexico|1171|93.42%|$25285|
+|South O'Brien Community School District, Iowa|4211|93.56%|$25284|
+|School Administrative District 19, Maine|1317|97.04%|$25283|
+|Riverview Gardens School District, Missouri|36525|11.84%|$25281|
+|Taylor County School District, Kentucky|16704|97.14%|$25280|
+|Illinois Valley Central Unit School District 321, Illinois|13263|95.56%|$25279|
+|Madawaska, Maine|3750|99.84%|$25278|
+|Cleveland School District, Mississippi|18662|42.6%|$25277|
+|Akron City School District, Ohio|187833|58.41%|$25275|
+|Belleville Henderson Central School District, New York|3269|95.59%|$25274|
+|Edgerton Public School District, Minnesota|2295|96.25%|$25273|
+|Texico Municipal Schools, New Mexico|1798|70.75%|$25270|
+|Mounds Public Schools, Oklahoma|3513|71.11%|$25268|
+|Miller County R-III School District, Missouri|1437|94.78%|$25268|
+|Moultonborough School District, New Hampshire|4131|98.09%|$25266|
+|Albion Central School District, New York|14484|84.86%|$25265|
+|Lanett City School District, Alabama|6220|33.44%|$25265|
+|Centerville Community School District, Iowa|8802|97.27%|$25263|
+|Easton Valley Community School District, Iowa|4098|98.66%|$25263|
+|Ewen-Trout Creek Consolidated Schools, Michigan|2247|94.97%|$25263|
+|Waverly Central School District, New York|9570|95.55%|$25263|
+|Goldthwaite Consolidated Independent School District, Texas|3461|91.51%|$25259|
+|Margaretta Local School District, Ohio|7799|91.33%|$25259|
+|Wayne County School District, Kentucky|20447|94.2%|$25257|
+|Chilton County School District, Alabama|44147|82.13%|$25251|
+|Plainview Independent School District, Texas|26298|79.45%|$25251|
+|Coalinga-Huron Unified School District, California|25186|50.06%|$25250|
+|New Haven School District, Missouri|3094|87.56%|$25250|
+|Beloit Turner School District, Wisconsin|8565|80.81%|$25250|
+|Spur Independent School District, Texas|1694|89.61%|$25250|
+|Fairfield Community School District, Iowa|16257|81.9%|$25247|
+|Houston School District, Mississippi|9772|53.6%|$25245|
+|Bienville Parish School District, Louisiana|13391|55.26%|$25243|
+|Harvard Community Unit School District 50, Illinois|12877|91.51%|$25242|
+|Douglass Public Schools Unified School District 396, Kansas|3271|93.21%|$25242|
+|Illini Central Community Unit School District 189, Illinois|4699|97.34%|$25240|
+|Yoakum Independent School District, Texas|9243|66.58%|$25237|
+|Bells Independent School District, Texas|4121|95.17%|$25236|
+|Cadillac Area Public Schools, Michigan|22261|94.96%|$25236|
+|Hollow Rock-Bruceton Special School District, Tennessee|3897|85.04%|$25236|
+|Thomas-Fay-Custer Unified Schools, Oklahoma|2603|88.55%|$25236|
+|Corcoran Joint Unified School District, California|22829|58.11%|$25234|
+|West St. Francois County R-IV School District, Missouri|4875|96.64%|$25234|
+|Pomeroy School District, Washington|2214|89.84%|$25234|
+|Liberal Unified School District 480, Kansas|19459|57.04%|$25234|
+|Bell City R-II School District, Missouri|1541|92.86%|$25234|
+|Van Buren County School District, Tennessee|5813|96.39%|$25233|
+|Warren County School District, Tennessee|40971|89.58%|$25231|
+|Palestine Community Unit School District 3, Illinois|2260|99.38%|$25230|
+|Gholson Independent School District, Texas|1346|82.39%|$25227|
+|Saddle Mountain Unified School District, Arizona|11686|78.97%|$25227|
+|Mankato Public School District, Minnesota|67467|88.27%|$25227|
+|Prentice School District, Wisconsin|2822|96.53%|$25227|
+|Marcellus Community Schools, Michigan|4684|95.11%|$25224|
+|Sweet Springs R-VII School District, Missouri|2852|94.53%|$25221|
+|Ortonville Public Schools, Minnesota|3446|96.87%|$25221|
+|St. Paul School District 45, Oregon|1101|91.73%|$25221|
+|Show Low Unified District, Arizona|17614|86.86%|$25220|
+|Anadarko Public Schools, Oklahoma|8929|41.05%|$25218|
+|West Carroll Community Unit School District 314, Illinois|8616|93.88%|$25217|
+|Monroe County School District, Kentucky|10616|95.46%|$25215|
+|Panama Central School District, New York|3469|98.76%|$25213|
+|Fromberg K-12, Montana|1074|98.14%|$25208|
+|Twin Cedars Community School District, Iowa|2419|94.75%|$25208|
+|Milford Independent School District, Texas|1566|77.52%|$25208|
+|Bibb County School District, Alabama|22374|76.6%|$25207|
+|Wellington Unified School District 353, Kansas|8968|90.63%|$25204|
+|Carroll County Public Schools, Virginia|29911|97.04%|$25204|
+|George County School District, Mississippi|24098|89.3%|$25200|
+|Iron County C-4 School District, Missouri|3212|96.23%|$25197|
+|Wayne Highlands School District, Pennsylvania|20077|97.05%|$25197|
+|Wilmington Community Unit School District 209U, Illinois|8945|93.86%|$25197|
+|St. Clair Area School District, Pennsylvania|6295|98.78%|$25196|
+|McCook Public Schools, Nebraska|8690|94.65%|$25192|
+|North Clay Community Unit School District 25, Illinois|3965|98.71%|$25190|
+|Las Vegas City Public Schools, New Mexico|12294|55.74%|$25189|
+|Simpson County School District, Kentucky|18319|85.56%|$25186|
+|New London Local School District, Ohio|6497|97.34%|$25186|
+|Gallipolis City School District, Ohio|13981|90.69%|$25185|
+|Gasconade County R-II School District, Missouri|10856|96.7%|$25184|
+|Citrus County School District, Florida|147938|91.74%|$25182|
+|Fairview Public Schools, Oklahoma|3966|86.91%|$25181|
+|Waurika Public Schools, Oklahoma|2754|88.56%|$25179|
+|Buchanan County Public Schools, Virginia|21374|94.8%|$25176|
+|Pickett County School District, Tennessee|5068|98.05%|$25173|
+|Malvern Special School District, Arkansas|19157|74.01%|$25165|
+|Bessemer Area School District, Michigan|2862|95.32%|$25164|
+|Quitman Independent School District, Texas|8983|93.51%|$25164|
+|Tyler County School District, West Virginia|8736|97.18%|$25162|
+|Boaz City School District, Alabama|9587|91.25%|$25161|
+|Mitchell Public Schools, Nebraska|2954|84.36%|$25159|
+|Oskaloosa Community School District, Iowa|16405|92.87%|$25158|
+|Armour School District 21-1, South Dakota|1103|91.12%|$25156|
+|Greenfield Community Unit School District 10, Illinois|3058|97.97%|$25156|
+|Rabun County School District, Georgia|16859|91.78%|$25154|
+|Defiance City School District, Ohio|16265|84.78%|$25153|
+|Ely Public School District, Minnesota|4830|96.29%|$25152|
+|Snyder Independent School District, Texas|15447|82.11%|$25150|
+|Eastern Local School District (Meigs County), Ohio|5070|98.82%|$25147|
+|Riverside School District, Arkansas|4965|96.88%|$25146|
+|Charleston R-I School District, Missouri|7653|55.34%|$25143|
+|Lyons Unified School District 405, Kansas|3720|87.45%|$25142|
+|Caldwell Exempted Village School District, Ohio|8606|87.94%|$25141|
+|Montgomery County School District, Georgia|8995|66.98%|$25139|
+|Hereford Independent School District, Texas|18518|80.89%|$25139|
+|Goodman-Armstrong School District, Wisconsin|1100|94.0%|$25139|
+|Shepherd Independent School District, Texas|8962|82.12%|$25138|
+|United Local School District, Ohio|7180|97.21%|$25138|
+|Alma Public Schools, Michigan|14867|94.5%|$25134|
+|East Carter County R-II School District, Missouri|3827|92.24%|$25130|
+|Marcus-Meriden-Cleghorn Community School District, Iowa|2810|87.83%|$25127|
+|Caston School Corporation, Indiana|4002|93.5%|$25125|
+|Dongola School Unit District 66, Illinois|1859|97.79%|$25125|
+|Belgrade-Brooten-Elrosa Public School District, Minnesota|4459|95.02%|$25123|
+|Lemmon School District 52-4, South Dakota|2154|89.93%|$25121|
+|Northland Pines School District, Wisconsin|11190|93.14%|$25121|
+|Knob Noster R-VIII School District, Missouri|10161|79.79%|$25118|
+|Lafayette County School District, Arkansas|4897|53.81%|$25118|
+|Oxford Township School District, New Jersey|2508|91.11%|$25118|
+|Lewistown Community Unit School District 97, Illinois|4561|97.06%|$25115|
+|Hamilton R-II School District, Missouri|3738|94.65%|$25114|
+|Macon County School District, Tennessee|24208|94.56%|$25113|
+|Dearborn Heights School District 7, Michigan|11666|88.0%|$25111|
+|Longview Independent School District, Texas|56529|63.28%|$25111|
+|Russellville City School District, Alabama|9803|61.08%|$25107|
+|Forsyth R-III School District, Missouri|8364|94.03%|$25104|
+|Plainfield City School District, New Jersey|50252|25.94%|$25104|
+|North Douglas School District 22, Oregon|2357|93.55%|$25104|
+|Jones County School District, Mississippi|50231|80.2%|$25103|
+|Chetek-Weyerhaeuser Area School District, Wisconsin|8027|97.35%|$25102|
+|Lincoln County School District, Oregon|49646|86.99%|$25101|
+|Smyer Independent School District, Texas|1596|92.92%|$25100|
+|Elkton-Pigeon-Bay Port Schools, Michigan|6448|97.63%|$25100|
+|Owen-Withee School District, Wisconsin|4444|95.75%|$25100|
+|Georgetown County School District, South Carolina|62150|64.87%|$25099|
+|Brantley County School District, Georgia|18924|93.39%|$25097|
+|Larue County School District, Kentucky|14269|93.55%|$25097|
+|Refugio Independent School District, Texas|3625|70.23%|$25096|
+|Slaton Independent School District, Texas|7283|82.41%|$25095|
+|Cass City Public Schools, Michigan|7555|98.41%|$25095|
+|La Grange Independent School District, Texas|12094|88.69%|$25095|
+|Livingston County School District, Kentucky|9172|97.07%|$25094|
+|Madison Parish School District, Louisiana|11137|34.57%|$25089|
+|Dollar Bay-Tamarack City Area Schools, Michigan|1530|97.06%|$25089|
+|Greene County Community School District, Iowa|7411|95.53%|$25086|
+|Beckville Independent School District, Texas|2793|84.03%|$25085|
+|Emerson-Taylor-Bradley School District, Arkansas|5517|79.25%|$25083|
+|Sandwich Community Unit School District 430, Illinois|13911|95.56%|$25083|
+|Boyer Valley Community School District, Iowa|2703|97.82%|$25082|
+|Shelby City School District, Ohio|12721|99.14%|$25081|
+|Buckeye Local School District (Belmont, Harrison, and Jefferson Counties), Ohio|14157|97.37%|$25080|
+|Trigg County School District, Kentucky|14569|89.79%|$25079|
+|Northumberland School District, New Hampshire|1900|96.05%|$25078|
+|Firth School District 59, Idaho|4010|92.32%|$25074|
+|Medicine Valley Public Schools, Nebraska|1221|94.35%|$25074|
+|Pleasanton Unified School District 344, Kansas|2165|96.63%|$25074|
+|Delta County School District 50J, Colorado|31287|93.21%|$25073|
+|Crowder Public Schools, Oklahoma|2223|75.66%|$25069|
+|Cass Lake-Bena Public Schools, Minnesota|4687|33.88%|$25069|
+|Mason Consolidated Schools, Michigan|7212|94.97%|$25067|
+|Enid Public Schools, Oklahoma|45353|76.74%|$25063|
+|Ironton City School District, Ohio|10521|94.7%|$25061|
+|Woodsboro Independent School District, Texas|2640|90.3%|$25060|
+|Burwell Public Schools, Nebraska|2185|95.79%|$25060|
+|Phelps School District, Wisconsin|1329|94.06%|$25060|
+|Transylvania County Schools, North Carolina|34039|91.48%|$25058|
+|Uinta County School District 1, Wyoming|14778|91.85%|$25058|
+|Tazewell County Public Schools, Virginia|41201|93.9%|$25057|
+|Hammond Central School District, New York|1668|96.58%|$25057|
+|Greene County School District, Tennessee|54087|95.39%|$25057|
+|Mineral Springs School District, Arkansas|3560|63.43%|$25056|
+|Hemet Unified School District, California|146578|68.97%|$25055|
+|Abbotsford School District, Wisconsin|3344|89.29%|$25049|
+|Grant Parish School District, Louisiana|22339|79.15%|$25048|
+|Carl Junction R-I School District, Missouri|17093|93.97%|$25047|
+|Walker County School District, Georgia|66153|91.73%|$25046|
+|Ludington Area School District, Michigan|16491|94.6%|$25046|
+|Springfield R-XII School District, Missouri|215546|87.83%|$25042|
+|Lawrence Unified School District 497, Kansas|102131|79.34%|$25042|
+|Watson Chapel School District, Arkansas|16493|45.0%|$25039|
+|South Holt County R-I School District, Missouri|1799|96.78%|$25036|
+|Somerville Independent School District, Texas|4318|72.95%|$25035|
+|Greenville City School District, Ohio|21760|96.46%|$25035|
+|Mississinawa Valley Local School District, Ohio|3612|94.93%|$25034|
+|Fouke School District, Arkansas|6155|93.11%|$25029|
+|Klamath County School District, Oregon|43479|83.77%|$25027|
+|Brodhead School District, Wisconsin|6221|96.72%|$25026|
+|Conneaut School District, Pennsylvania|17114|97.9%|$25020|
+|Clarendon School District 2, South Carolina|18177|48.14%|$25018|
+|Lockney Independent School District, Texas|2097|94.85%|$25015|
+|Sault Ste. Marie Area Schools, Michigan|20292|72.49%|$25008|
+|Lebanon Community School District 9, Oregon|30972|90.69%|$25004|
+|AGWSR Community School District, Iowa|4739|95.15%|$25000|
+|Red River Parish School District, Louisiana|8462|56.62%|$25000|
+|Okemah Public Schools, Oklahoma|6176|61.69%|$25000|
+|Bolivar-Richburg Central School District, New York|4195|98.36%|$25000|
+|Belvidere Town School District, New Jersey|2573|94.99%|$25000|
+|Elmore City-Pernell Schools, Oklahoma|3211|84.4%|$25000|
+|Pettis County R-V School District, Missouri|1775|94.42%|$25000|
+|Bullard Independent School District, Texas|14171|90.77%|$25000|
+|Okeene Public Schools, Oklahoma|1569|93.56%|$25000|
+|Roff Public Schools, Oklahoma|1880|75.74%|$25000|
+|Toppenish School District, Washington|13327|61.61%|$25000|
+|Everman Independent School District, Texas|25223|45.74%|$25000|
+|Waverly-Shell Rock Community School District, Iowa|14055|93.3%|$25000|
+|Pettisville Local School District, Ohio|2302|86.97%|$25000|
+|Clay City Community Unit District 10, Illinois|2226|98.88%|$25000|
+|Bridgeport Public Schools, Nebraska|2447|95.59%|$25000|
+|Kewanee Community Unit School District 229, Illinois|10637|85.6%|$25000|
+|Wausa Public Schools, Nebraska|1124|97.6%|$25000|
+|Sherburne-Earlville Central School District, New York|8603|96.06%|$24993|
+|Southern Kern Unified School District, California|21203|66.38%|$24992|
+|Vernon Independent School District, Texas|12168|72.82%|$24988|
+|Banning Unified School District, California|35706|62.95%|$24988|
+|Union Local School District, Ohio|8685|97.67%|$24987|
+|Preble Shawnee Local School District, Ohio|8802|98.34%|$24987|
+|North Central Area Schools, Michigan|3039|97.89%|$24987|
+|Hutchinson Public Schools Unified School District 308, Kansas|32642|85.56%|$24984|
+|Galena R-II School District, Missouri|3822|94.98%|$24979|
+|Harmony Grove School District (Clark, Dallas, and Ouachita Counties), Arkansas|4925|73.95%|$24979|
+|Willits Unified School District, California|13525|78.4%|$24978|
+|Greenwood School District 52, South Carolina|7166|79.14%|$24978|
+|Hawkins County School District, Tennessee|49403|96.83%|$24975|
+|Centennial Public Schools, Nebraska|3267|94.55%|$24972|
+|Oakfield-Alabama Central School District, New York|5254|92.96%|$24970|
+|Hartford School District, Connecticut|122549|29.6%|$24969|
+|Warren County School District, Pennsylvania|36101|96.7%|$24965|
+|Nooksack Valley School District, Washington|10975|80.9%|$24962|
+|Gordon County School District, Georgia|40668|90.08%|$24959|
+|Hampton School District 2, South Carolina|7387|29.34%|$24958|
+|Archer City Independent School District, Texas|2515|96.5%|$24957|
+|Pascagoula-Gautier School District, Mississippi|38682|55.95%|$24955|
+|Mifflin County School District, Pennsylvania|43093|96.25%|$24954|
+|Lawrence County School District, Alabama|32969|78.25%|$24949|
+|Keota Community School District, Iowa|1886|96.87%|$24948|
+|Pilot Point Independent School District, Texas|8757|88.66%|$24947|
+|Nevada School District, Arkansas|3127|59.48%|$24946|
+|St. George Public Schools, Maine|2580|98.68%|$24946|
+|Pontiac City School District, Michigan|78999|42.42%|$24946|
+|Stephens County School District, Georgia|25934|82.95%|$24945|
+|Pine River-Backus Public School District, Minnesota|8015|92.99%|$24945|
+|Carlinville Community Unit School District 1, Illinois|9027|92.93%|$24944|
+|Buchanan Community School District, Michigan|10914|89.59%|$24943|
+|Assumption Parish School District, Louisiana|22236|67.29%|$24942|
+|Tri-County North Local School District, Ohio|5374|97.54%|$24940|
+|Perkins County Schools, Nebraska|2745|97.85%|$24936|
+|Farmington School District, New Hampshire|6952|95.17%|$24936|
+|Jonesboro Independent School District, Texas|1735|87.09%|$24931|
+|Lake Linden-Hubbell School District, Michigan|3341|97.55%|$24931|
+|Coachella Valley Unified School District, California|81449|36.65%|$24927|
+|El Reno Public Schools, Oklahoma|18210|68.79%|$24927|
+|Aurora East Unit School District 131, Illinois|83907|52.78%|$24926|
+|Greeley School District 6, Colorado|130778|85.27%|$24926|
+|Fredonia-Moccasin Unified District, Arizona|2821|73.31%|$24925|
+|Tucker County School District, West Virginia|6943|97.25%|$24924|
+|Dayton Independent School District, Kentucky|5182|91.39%|$24923|
+|Liberty County School District, Florida|8333|77.5%|$24922|
+|De Soto 73 School District, Missouri|17272|94.48%|$24921|
+|Mount Vernon-Enola School District, Arkansas|2352|99.66%|$24917|
+|Lynden School District, Washington|20968|80.51%|$24912|
+|Wheaton R-III School District, Missouri|2062|86.28%|$24911|
+|Burlington School District RE-6J, Colorado|4283|88.07%|$24911|
+|Prosser School District, Washington|13983|70.99%|$24909|
+|Merkel Independent School District, Texas|6315|92.79%|$24907|
+|Harvey Public School District 38, North Dakota|2672|98.99%|$24904|
+|Hoquiam School District, Washington|11007|88.62%|$24902|
+|Akron School District R-1, Colorado|2577|91.93%|$24900|
+|Stanley-Boyd Area School District, Wisconsin|8138|88.98%|$24900|
+|Elgin School District 23, Oregon|2549|95.02%|$24899|
+|Walker-Hackensack-Akeley School District, Minnesota|6961|84.41%|$24898|
+|Meyersdale Area School District, Pennsylvania|6806|97.3%|$24898|
+|Central R-III School District, Missouri|12339|92.49%|$24896|
+|Beal City Public Schools, Michigan|2702|94.71%|$24894|
+|Garrett-Keyser-Butler Community Schools, Indiana|9605|97.47%|$24893|
+|Fairland Public Schools, Oklahoma|3062|69.27%|$24891|
+|West Haven School District, Connecticut|54666|60.12%|$24890|
+|Union County School District, Tennessee|19678|97.01%|$24890|
+|Lincolnview Local School District, Ohio|4458|97.58%|$24886|
+|Letchworth Central School District, New York|5532|93.82%|$24884|
+|Wabash County Schools Metropolitan School District, Indiana|12807|96.89%|$24880|
+|Central Linn School District 552, Oregon|5611|94.56%|$24877|
+|Cove School District 15, Oregon|1791|94.86%|$24875|
+|Miller Area School District 29-4, South Dakota|2786|97.74%|$24875|
+|Queen City Independent School District, Texas|5444|82.24%|$24874|
+|Calera Public Schools, Oklahoma|5157|68.53%|$24873|
+|Roanoke-Benson Community Unit School District 60, Illinois|3074|98.8%|$24871|
+|Iroquois County Community Unit School District 9, Illinois|6579|95.79%|$24868|
+|Edwards-Knox Central School District, New York|2889|98.44%|$24866|
+|Republic-Michigamme Schools, Michigan|1330|98.65%|$24866|
+|McAllen Independent School District, Texas|120869|65.94%|$24863|
+|Pendleton County School District, West Virginia|6968|95.03%|$24861|
+|Big Horn County School District 1, Wyoming|2722|93.13%|$24856|
+|Windham Southeast Supervisory Union, Vermont|20004|93.37%|$24855|
+|Hitchcock-Tulare School District 56-6, South Dakota|1672|98.39%|$24853|
+|Akron-Fairgrove Schools, Michigan|2684|94.82%|$24850|
+|Tioga Central School District, New York|4929|98.42%|$24850|
+|Greenville R-II School District, Missouri|4919|96.54%|$24849|
+|Pine Tree Independent School District, Texas|26047|74.75%|$24848|
+|Briggsdale School District RE-10, Colorado|1065|94.93%|$24844|
+|Binghamton City School District, New York|44819|71.89%|$24842|
+|Charter Oak-Ute Community School District, Iowa|1889|98.68%|$24839|
+|Wilkes County Schools, North Carolina|68341|90.4%|$24839|
+|Silver Valley Unified School District, California|14578|66.23%|$24837|
+|Cashmere School District, Washington|7762|81.74%|$24836|
+|Cory-Rawson Local School District, Ohio|3854|96.52%|$24833|
+|Green Forest School District, Arkansas|7049|84.75%|$24831|
+|Healdton Public Schools, Oklahoma|3332|86.73%|$24830|
+|Clarke Community School District, Iowa|8055|96.36%|$24828|
+|County Line School District, Arkansas|3476|81.5%|$24828|
+|Canastota Central School District, New York|9794|91.72%|$24827|
+|Marion County School District, Kentucky|19257|89.92%|$24823|
+|Grant Public School District, Michigan|10428|93.26%|$24823|
+|Batesville School District, Arkansas|20663|84.36%|$24822|
+|Rainier School District 13, Oregon|8274|89.29%|$24821|
+|Eustis-Farnam Public Schools, Nebraska|1167|98.11%|$24808|
+|Upper Rio Grande School District C-7, Colorado|4159|91.18%|$24808|
+|Wilmington City School District, Ohio|20080|90.56%|$24807|
+|School Administrative District 74, Maine|4684|95.41%|$24805|
+|South Callaway County R-II School District, Missouri|4277|93.2%|$24799|
+|Pleasant Valley School District, Pennsylvania|33414|90.23%|$24798|
+|West Lyon Community School District, Iowa|4988|96.53%|$24797|
+|Stewart County School District, Tennessee|13553|93.6%|$24797|
+|Perrydale School District 21, Oregon|1447|90.46%|$24792|
+|Keystone School District, Pennsylvania|7393|98.58%|$24792|
+|Henry County Public Schools, Virginia|51032|72.16%|$24790|
+|Morrison Community Unit School District 6, Illinois|6487|96.58%|$24788|
+|Ashley Community Schools, Michigan|2126|96.19%|$24784|
+|Deer River Public School District, Minnesota|5356|79.82%|$24783|
+|Scott County Public Schools, Virginia|21761|97.91%|$24782|
+|Northwestern Area School District 56-7, South Dakota|1455|96.15%|$24779|
+|Marietta Public School, Oklahoma|4685|80.15%|$24778|
+|Walnut Township Local School District, Ohio|4433|97.74%|$24777|
+|River Valley Community School District, Iowa|2772|93.15%|$24776|
+|Fort Supply Public Schools, Oklahoma|1478|68.2%|$24773|
+|Scott Valley Unified School District, California|5358|82.98%|$24767|
+|Windom Public School District, Minnesota|6179|89.4%|$24766|
+|Crestwood Local School District, Ohio|14545|92.86%|$24763|
+|Caro Community Schools, Michigan|11616|95.83%|$24762|
+|Graettinger-Terril Community School District, Iowa|2797|90.78%|$24761|
+|Carrollton R-VII School District, Missouri|4922|94.45%|$24753|
+|Godley Independent School District, Texas|10688|90.14%|$24752|
+|Tussey Mountain School District, Pennsylvania|6848|97.47%|$24750|
+|Tri-County School District, Minnesota|2046|95.01%|$24750|
+|Clarkston School District, Washington|19476|92.27%|$24746|
+|Van Dyke Public Schools, Michigan|19768|53.38%|$24744|
+|Woodland Community Unit School District 5, Illinois|2834|95.91%|$24744|
+|Woodburn School District 103, Oregon|28696|68.2%|$24741|
+|North Huron School District, Michigan|4340|98.69%|$24741|
+|Eureka City Unified School District, California|34648|74.65%|$24740|
+|Sullivan County School District, Tennessee|80145|96.53%|$24738|
+|Goshen Community Schools, Indiana|37993|84.2%|$24737|
+|Ore City Independent School District, Texas|4631|87.58%|$24737|
+|Marion County School District, Alabama|24209|91.69%|$24735|
+|Dollarway School District, Arkansas|11614|33.45%|$24728|
+|Newcomerstown Exempted Village School District, Ohio|6215|98.7%|$24726|
+|Scobey K-12 Schools, Montana|1705|93.49%|$24722|
+|Lakehurst Borough School District, New Jersey|2707|70.3%|$24719|
+|Old Fort Local School District, Ohio|3176|91.75%|$24718|
+|Ponca City Public Schools, Oklahoma|28017|74.96%|$24717|
+|Litchfield Community Schools, Michigan|2884|97.3%|$24714|
+|Edgecomb, Maine|1257|99.28%|$24708|
+|Owosso Public Schools, Michigan|24018|95.34%|$24708|
+|Ogallala Public Schools, Nebraska|6416|94.73%|$24706|
+|Bucyrus City School District, Ohio|10676|96.6%|$24705|
+|Randolph County School District, Alabama|16801|86.44%|$24705|
+|Fruitland School District 373, Idaho|9230|82.02%|$24704|
+|Yarmouth, Maine|8567|93.54%|$24702|
+|Montague Area Public Schools, Michigan|8658|95.01%|$24701|
+|Pike County School District, Kentucky|52130|98.0%|$24700|
+|Gibraltar Area School District, Wisconsin|5719|98.64%|$24700|
+|Huerfano School District RE-1, Colorado|5280|90.59%|$24699|
+|Windsor Community Unit School District 1, Illinois|2195|98.77%|$24698|
+|Ceres Unified School District, California|57891|62.0%|$24697|
+|Watertown School District 14-4, South Dakota|25727|93.67%|$24692|
+|Moulton-Udell Community School District, Iowa|1464|94.54%|$24688|
+|Westwood Community School District, Iowa|3365|98.4%|$24688|
+|High Plains Community Schools, Nebraska|1955|91.25%|$24688|
+|Winter School District, Wisconsin|2802|82.33%|$24688|
+|Kiona-Benton City School District, Washington|8894|81.61%|$24683|
+|Hastings Area School District, Michigan|19423|96.85%|$24683|
+|Burton Independent School District, Texas|3044|87.78%|$24680|
+|West Sioux Community School District, Iowa|4254|78.77%|$24680|
+|La Fargeville Central School District, New York|2973|93.74%|$24679|
+|Garden City Unified School District 457, Kansas|33007|77.39%|$24677|
+|Fredonia Central School District, New York|13702|86.45%|$24674|
+|Ralls County R-II School District, Missouri|5117|92.96%|$24669|
+|Villisca Community School District, Iowa|1941|96.55%|$24662|
+|Corsica-Stickney School District 21-3, South Dakota|2094|98.14%|$24659|
+|Penn Yan Central School District, New York|15133|95.72%|$24658|
+|Charlevoix Public Schools, Michigan|8673|93.49%|$24653|
+|Hemphill Independent School District, Texas|7314|86.92%|$24651|
+|Girard City School District, Ohio|10388|90.91%|$24649|
+|Kingman-Norwich Unified School District 331, Kansas|5618|96.26%|$24649|
+|Sherwood Cass R-VIII School District, Missouri|5042|95.02%|$24647|
+|Lytle Independent School District, Texas|6637|91.7%|$24645|
+|South Vermillion Community School Corporation, Indiana|11234|97.85%|$24643|
+|Bridgeport Independent School District, Texas|13097|93.33%|$24641|
+|Socorro Independent School District, Texas|224015|73.1%|$24639|
+|Clayton Ridge Community School District, Iowa|4869|99.79%|$24639|
+|Fort Madison Community School District, Iowa|16437|94.76%|$24638|
+|Cassville R-IV School District, Missouri|12343|95.18%|$24637|
+|Carbon County School District 2, Wyoming|4665|94.47%|$24635|
+|Loogootee Community School Corporation, Indiana|5928|95.99%|$24631|
+|Ocosta School District, Washington|8172|82.84%|$24630|
+|Lena-Winslow Community Unit School District 202, Illinois|4664|97.34%|$24630|
+|Gillespie Community Unit School District 7, Illinois|7771|95.95%|$24628|
+|Rensselaer Central School Corporation, Indiana|10409|91.09%|$24624|
+|Vermilion Parish School District, Louisiana|59787|81.09%|$24623|
+|South Tippah School District, Mississippi|15241|71.48%|$24623|
+|Española Municipal Schools, New Mexico|34108|56.04%|$24623|
+|Newkirk Public Schools, Oklahoma|3582|81.1%|$24622|
+|Odessa R-VII School District, Missouri|12198|94.6%|$24621|
+|Berrien Springs Public Schools, Michigan|12596|70.06%|$24621|
+|Steelville R-III School District, Missouri|4665|96.03%|$24615|
+|Kelliher Public School District, Minnesota|1275|87.92%|$24615|
+|Russell County Unified School District 407, Kansas|5666|90.65%|$24612|
+|Anson Independent School District, Texas|2555|80.16%|$24611|
+|Pipestone Area School District, Minnesota|7075|91.17%|$24609|
+|Branson R-IV School District, Missouri|30350|89.92%|$24601|
+|Logan County School District, West Virginia|32593|96.48%|$24601|
+|Jamestown Area School District, Pennsylvania|4434|98.78%|$24601|
+|Putnam County Community Unit School District 535, Illinois|5101|96.55%|$24600|
+|Piggott School District, Arkansas|5365|96.79%|$24592|
+|Aberdeen School District, Mississippi|9076|32.16%|$24590|
+|Ionia Public Schools, Michigan|21558|84.41%|$24589|
+|Inter-Lakes School District, New Hampshire|8844|96.51%|$24588|
+|Sibley-Ocheyedan Community School District, Iowa|4306|93.03%|$24583|
+|Onekama Consolidated Schools, Michigan|2935|96.52%|$24583|
+|Charlotte County Public Schools, Virginia|11953|69.97%|$24583|
+|Saranac Community Schools, Michigan|7145|96.99%|$24583|
+|Creswell School District 40, Oregon|8897|92.04%|$24582|
+|Humboldt Unified School District 258, Kansas|3172|95.65%|$24579|
+|Johnsonburg Area School District, Pennsylvania|3991|97.14%|$24576|
+|Galena Unified School District 499, Kansas|3307|83.91%|$24575|
+|Smith-Green Community Schools, Indiana|7671|95.23%|$24568|
+|Waterford Unified School District, California|10263|85.14%|$24568|
+|Miller R-II School District, Missouri|3493|93.19%|$24565|
+|Wayne County School District, Tennessee|16638|90.89%|$24565|
+|Cumberland Community Unit School District 77, Illinois|6165|96.42%|$24565|
+|Southeast Fountain School Corporation, Indiana|6903|97.73%|$24563|
+|Concordia Parish School District, Louisiana|19533|57.19%|$24562|
+|Geary County Schools Unified School District 475, Kansas|41107|65.58%|$24562|
+|Hancock County School District, West Virginia|29118|94.46%|$24560|
+|Beloit Unified School District 273, Kansas|4622|97.4%|$24559|
+|Prairie View Unified School District 362, Kansas|6214|89.97%|$24559|
+|Middle Township School District, New Jersey|18400|83.21%|$24551|
+|Minerva Local School District, Ohio|11295|95.15%|$24548|
+|Crosby-Ironton Public School District, Minnesota|11128|94.23%|$24545|
+|Romulus Central School District, New York|5483|76.27%|$24545|
+|Carmichaels Area School District, Pennsylvania|6706|98.06%|$24542|
+|Wautoma Area School District, Wisconsin|10860|86.77%|$24538|
+|Onalaska School District, Washington|6074|86.57%|$24536|
+|Owensboro Independent School District, Kentucky|29449|85.01%|$24534|
+|Elida Local School District, Ohio|19060|82.19%|$24534|
+|River Falls School District, Wisconsin|24800|94.09%|$24526|
+|School Administrative District 03, Maine|11473|95.34%|$24525|
+|Jay School Corporation, Indiana|20697|96.45%|$24523|
+|Rutherford County Schools, North Carolina|66741|85.61%|$24521|
+|Hickory City Schools, North Carolina|32016|69.97%|$24517|
+|Childress Independent School District, Texas|7227|78.82%|$24517|
+|Wayland-Cohocton Central School District, New York|9399|92.77%|$24516|
+|Summerfield School District, Michigan|3780|95.85%|$24515|
+|Huntington Local School District, Ohio|6199|98.71%|$24503|
+|Coyle Public Schools, Oklahoma|3753|57.98%|$24500|
+|Greenbrier County School District, West Virginia|34893|93.1%|$24498|
+|North Star School District, Pennsylvania|9208|98.63%|$24497|
+|Delhi Unified School District, California|14308|39.24%|$24496|
+|Putnam County School District, Florida|73784|78.43%|$24494|
+|River View Local School District, Ohio|15914|96.71%|$24491|
+|Hardee County School District, Florida|27027|76.77%|$24491|
+|McMinn County School District, Tennessee|35956|95.0%|$24491|
+|Depue Community Unit School District 103, Illinois|1828|71.17%|$24489|
+|Martin County School District, Kentucky|11421|92.84%|$24486|
+|Blanchester Local School District, Ohio|8672|97.84%|$24484|
+|Carthage Central School District, New York|16600|85.13%|$24479|
+|Sandoval Community Unit School District 501, Illinois|2600|94.23%|$24479|
+|Hardin County School District, Tennessee|25665|93.93%|$24477|
+|Bradford School District, Arkansas|2609|89.69%|$24474|
+|Portage Township Schools, Indiana|47354|84.59%|$24474|
+|Williamsport Area School District, Pennsylvania|40328|84.58%|$24473|
+|Horicon School District, Wisconsin|5573|97.24%|$24472|
+|Delta R-V School District, Missouri|1999|97.2%|$24471|
+|Ottumwa Community School District, Iowa|28832|84.61%|$24466|
+|Loudonville-Perrysville Exempted Village School District, Ohio|7928|97.1%|$24464|
+|Mount Calm Independent School District, Texas|1352|77.07%|$24464|
+|Eugene School District 4J, Oregon|165353|83.26%|$24457|
+|Cullman City School District, Alabama|15236|91.93%|$24457|
+|North Greene Unit School District 3, Illinois|5560|95.59%|$24455|
+|Carlisle County School District, Kentucky|4738|95.38%|$24450|
+|Woodward Public Schools, Oklahoma|14639|88.34%|$24449|
+|Hamlin Independent School District, Texas|2327|77.44%|$24448|
+|Victoria Independent School District, Texas|84535|81.48%|$24446|
+|Castleford School District 417, Idaho|1327|89.3%|$24444|
+|Eastland Community Unit School District 308, Illinois|3603|98.08%|$24443|
+|Odessa-Montour Central School District, New York|5448|98.24%|$24438|
+|Eau Claire Area School District, Wisconsin|84582|90.37%|$24435|
+|East Knox Local School District, Ohio|10244|96.39%|$24435|
+|Wapato School District, Washington|13672|47.87%|$24430|
+|Barron Area School District, Wisconsin|8834|87.48%|$24429|
+|Beardstown Community Unit School District 15, Illinois|6953|80.91%|$24423|
+|Webb City R-VII School District, Missouri|22216|90.98%|$24419|
+|Grant County School District, West Virginia|11565|96.91%|$24417|
+|Elbert County School District, Georgia|19164|66.34%|$24416|
+|Fort Bragg Unified School District, California|15200|81.99%|$24413|
+|Colchester School District, Vermont|17256|91.51%|$24410|
+|Harrison School District 2, Colorado|76985|58.9%|$24410|
+|Bloomfield Municipal Schools, New Mexico|17084|55.8%|$24408|
+|Milan Special School District, Tennessee|10372|75.93%|$24406|
+|Hamblen County School District, Tennessee|64479|88.08%|$24404|
+|Riverside Unified School District 114, Kansas|3390|95.28%|$24403|
+|Baileyville, Maine|1510|91.13%|$24395|
+|Hesperia Unified School District, California|105990|76.46%|$24392|
+|Kennett 39 School District, Missouri|10165|76.05%|$24388|
+|Troy Area School District, Pennsylvania|10661|96.43%|$24388|
+|Paducah Independent School District, Kentucky|19158|69.89%|$24387|
+|Stevens Point Area School District, Wisconsin|57659|91.62%|$24382|
+|Allen East Local School District, Ohio|5568|98.04%|$24379|
+|Lake Local School District (Ottawa and Wood Counties), Ohio|11620|92.38%|$24379|
+|Cherokee Community School District, Iowa|6068|92.57%|$24375|
+|Essex Community School District, Iowa|1253|98.24%|$24375|
+|Trona Joint Unified School District, California|2067|83.36%|$24375|
+|Crossett School District, Arkansas|11259|72.76%|$24375|
+|School Administrative District 44, Maine|4776|95.27%|$24375|
+|Otis-Bison Unified School District 403, Kansas|1061|96.23%|$24375|
+|Steeleville Community Unit School District 138, Illinois|2774|96.43%|$24375|
+|Lisbon Regional School District, New Hampshire|2206|96.65%|$24375|
+|Long Branch City School District, New Jersey|30424|68.1%|$24372|
+|North Harrison Community School Corporation, Indiana|14618|96.95%|$24367|
+|Rolla 31 School District, Missouri|31620|87.42%|$24366|
+|Cocke County School District, Tennessee|28932|96.45%|$24364|
+|Dale County School District, Alabama|14639|82.53%|$24364|
+|Sublette Unified School District 374, Kansas|2448|80.07%|$24362|
+|St. Ignace Area Schools, Michigan|3531|61.29%|$24358|
+|Lebanon Community Unit School District 9, Illinois|5207|79.39%|$24358|
+|Valentine Community Schools, Nebraska|4532|87.03%|$24357|
+|Los Lunas Public Schools, New Mexico|49162|74.54%|$24354|
+|Afton Central School District, New York|3730|97.56%|$24353|
+|Western Wayne School District, Pennsylvania|18636|88.04%|$24353|
+|Charlton County School District, Georgia|13032|65.39%|$24351|
+|Selma Unified School District, California|29230|75.74%|$24350|
+|Mitchell County School District, Georgia|18570|50.41%|$24347|
+|Regional School Unit 10, Maine|13448|96.09%|$24347|
+|Elliott County School District, Kentucky|7461|95.98%|$24346|
+|Flambeau School District, Wisconsin|4082|97.21%|$24345|
+|Valdosta City School District, Georgia|56320|39.19%|$24344|
+|Ypsilanti Community Schools, Michigan|59346|59.38%|$24343|
+|River Bend Community Unit District 2, Illinois|6129|96.9%|$24342|
+|North Butler Community School District, Iowa|3720|96.24%|$24338|
+|Port Townsend School District, Washington|15484|93.32%|$24337|
+|Carlisle School District, Arkansas|4141|86.43%|$24335|
+|Fern Ridge School District 28J, Oregon|12679|86.84%|$24335|
+|Baldwin Park Unified School District, California|74849|34.94%|$24334|
+|Crocker R-II School District, Missouri|2575|92.47%|$24333|
+|Twin Valley Community Local School District, Ohio|5910|96.85%|$24333|
+|Mineral County School District, West Virginia|27047|94.23%|$24331|
+|Henderson Independent School District, Texas|23218|73.8%|$24331|
+|St. Elmo Community Unit School District 202, Illinois|2954|99.15%|$24330|
+|New Philadelphia City School District, Ohio|21734|94.92%|$24327|
+|Onamia Public School District, Minnesota|5224|71.31%|$24327|
+|Deckerville Community School District, Michigan|4089|95.13%|$24323|
+|Tonkawa Public Schools, Oklahoma|3933|73.58%|$24321|
+|Gainesville Independent School District, Texas|19089|81.8%|$24321|
+|Three Lakes School District, Wisconsin|4230|99.15%|$24321|
+|Clifton-Fine Central School District, New York|1955|92.43%|$24318|
+|Sparta Community Unit School District 140, Illinois|8921|84.84%|$24315|
+|Albany Independent School District, Texas|2197|93.76%|$24306|
+|Vassar Public Schools, Michigan|8809|93.78%|$24304|
+|Lewis County School District, West Virginia|16024|94.58%|$24300|
+|Haworth Public Schools, Oklahoma|2782|65.82%|$24297|
+|Sharon City School District, Pennsylvania|13101|78.81%|$24295|
+|Bridgeport School District, Connecticut|145014|38.07%|$24292|
+|Liberty Local School District, Ohio|11379|76.69%|$24291|
+|Holley Central School District, New York|7327|90.99%|$24288|
+|Louise Independent School District, Texas|2734|92.61%|$24280|
+|Pamlico County Schools, North Carolina|12673|76.31%|$24275|
+|Allegany-Limestone Central School District, New York|9226|91.46%|$24274|
+|Pilot Grove C-4 School District, Missouri|1663|98.02%|$24274|
+|Scottsboro City School District, Alabama|14452|89.24%|$24273|
+|Paden Public Schools, Oklahoma|1834|74.81%|$24271|
+|Murphysboro Community Unit School District 186, Illinois|14929|83.98%|$24270|
+|Bagley Public School District, Minnesota|6217|81.94%|$24269|
+|Duncan Public Schools, Oklahoma|22442|78.23%|$24267|
+|Yoncalla School District 32, Oregon|2460|88.58%|$24265|
+|Shelbyville Community Unit School District 4, Illinois|7401|96.68%|$24264|
+|Wasatch School District, Utah|33053|91.68%|$24261|
+|Scotland County R-I School District, Missouri|4952|97.25%|$24259|
+|Hesperia Community Schools, Michigan|5125|95.28%|$24258|
+|School Administrative District 59, Maine|5170|97.85%|$24256|
+|Springfield School District 19, Oregon|78571|86.24%|$24253|
+|Keytesville R-III School District, Missouri|1216|94.33%|$24250|
+|Boyne Falls Public School District, Michigan|2032|89.81%|$24250|
+|Brown City Community School District, Michigan|5409|97.19%|$24250|
+|Strong School District, Arkansas|3423|46.39%|$24250|
+|LaPoyner Independent School District, Texas|2751|87.2%|$24250|
+|Fort Morgan School District RE-3, Colorado|17308|76.28%|$24245|
+|Peru Community Schools, Indiana|13151|89.71%|$24243|
+|Osceola School District, Arkansas|6816|38.51%|$24241|
+|Rush Springs Public Schools, Oklahoma|3522|88.13%|$24239|
+|Arthur Community Unit School District 305, Illinois|10097|97.96%|$24239|
+|Kingsville R-I School District, Missouri|2053|96.54%|$24236|
+|Clarendon Independent School District, Texas|2869|88.18%|$24236|
+|Hart County School District, Georgia|25981|76.79%|$24233|
+|Zeeland Public Schools, Michigan|32214|91.16%|$24228|
+|Truman Public School District, Minnesota|2371|89.33%|$24226|
+|Selkirk School District, Washington|2044|90.12%|$24219|
+|Sevier County School District, Tennessee|98007|93.99%|$24217|
+|Nine Mile Falls School District, Washington|8686|95.11%|$24216|
+|Tallapoosa County School District, Alabama|21648|73.72%|$24216|
+|Konocti Unified School District, California|22481|71.51%|$24215|
+|Tishomingo County Schools, Mississippi|19396|93.87%|$24213|
+|Hiawatha Unified School District 415, Kansas|5502|90.69%|$24208|
+|Addison Rutland Supervisory District, Vermont|9975|96.39%|$24207|
+|Windham Southwest Supervisory Union, Vermont|5524|95.11%|$24207|
+|Raleigh County School District, West Virginia|74452|87.63%|$24206|
+|Regional School Unit 50, Maine|3037|93.97%|$24205|
+|Grape Creek Independent School District, Texas|7230|83.71%|$24203|
+|Page County Public Schools, Virginia|23862|94.65%|$24197|
+|Continental Local School District, Ohio|3952|98.91%|$24196|
+|School Administrative District 49, Maine|14974|97.54%|$24193|
+|Long County School District, Georgia|19236|61.07%|$24191|
+|North St. Francis County R-I School District, Missouri|19651|90.97%|$24191|
+|Paulding Exempted Village School District, Ohio|9327|95.72%|$24190|
+|LaBrae Local School District, Ohio|8796|83.71%|$24190|
+|Sheridan School District 2, Colorado|7853|72.3%|$24189|
+|Wray School District RD-2, Colorado|3592|93.71%|$24188|
+|Hamilton County School District, Florida|14397|61.76%|$24177|
+|Shikellamy School District, Pennsylvania|21209|93.95%|$24173|
+|Laverne Public Schools, Oklahoma|2200|87.59%|$24167|
+|Bayfield School District, Wisconsin|2940|51.6%|$24167|
+|Concordia Unified School District 333, Kansas|6431|94.04%|$24167|
+|New Waverly Independent School District, Texas|5219|77.79%|$24167|
+|Rossville-Alvin Community Unit School District 7, Illinois|2233|98.12%|$24167|
+|Custer School District 16-1, South Dakota|8807|92.81%|$24162|
+|North Wasco School District 21, Oregon|21604|89.88%|$24152|
+|Kingsport City School District, Tennessee|53682|91.13%|$24152|
+|Cabell County School District, West Virginia|93328|90.52%|$24147|
+|City View Independent School District, Texas|3761|81.52%|$24145|
+|Lander County School District, Nevada|5565|91.63%|$24145|
+|Bangor Area School District, Pennsylvania|23520|93.47%|$24143|
+|School Administrative District 70, Maine|3676|94.61%|$24141|
+|Wildwood Crest Borough School District, New Jersey|3073|98.08%|$24141|
+|Greeneville City School District, Tennessee|14990|90.31%|$24139|
+|Dunkerton Community School District, Iowa|2771|99.42%|$24135|
+|Locust Grove Public Schools, Oklahoma|7092|59.21%|$24133|
+|Northern Potter School District, Pennsylvania|4029|96.57%|$24130|
+|Monett R-I School District, Missouri|12870|85.13%|$24127|
+|Dupo Community Unit School District 196, Illinois|6460|95.09%|$24127|
+|Reynolds School District, Pennsylvania|8895|95.26%|$24122|
+|Oconee County School District, South Carolina|78314|87.08%|$24122|
+|West Las Vegas Public Schools, New Mexico|10714|55.35%|$24118|
+|D'Hanis Independent School District, Texas|1410|92.62%|$24118|
+|Meeker Public Schools, Oklahoma|4787|83.77%|$24117|
+|Laclede County R-I School District, Missouri|4045|96.02%|$24116|
+|Reed City Area Public Schools, Michigan|10838|94.35%|$24114|
+|Wichita Falls Independent School District, Texas|87710|74.78%|$24111|
+|Wills Point Independent School District, Texas|13286|85.54%|$24111|
+|Hobbs Municipal Schools, New Mexico|48312|77.43%|$24110|
+|Okanogan School District, Washington|5473|72.41%|$24107|
+|East Jordan Public Schools, Michigan|6634|96.67%|$24107|
+|Cherokee County School District, South Carolina|55343|74.66%|$24104|
+|Phillips School District, Wisconsin|5848|94.05%|$24103|
+|Central Lake Public Schools, Michigan|3286|98.48%|$24102|
+|Sheldon Community School District, Iowa|7368|94.37%|$24101|
+|Southern Valley Schools, Nebraska|2224|92.81%|$24097|
+|Mangum Public Schools, Oklahoma|3404|83.02%|$24095|
+|Wendell School District 232, Idaho|5176|83.11%|$24093|
+|Marble Falls Independent School District, Texas|24994|87.44%|$24093|
+|Humboldt City School District, Tennessee|8102|56.54%|$24091|
+|Jefferson Davis Parish School District, Louisiana|31425|79.37%|$24089|
+|Western Line School District, Mississippi|9965|55.11%|$24089|
+|Pierce County School District, Georgia|19336|85.69%|$24089|
+|Belen Consolidated Schools, New Mexico|30662|80.46%|$24086|
+|Wallenpaupack Area School District, Pennsylvania|24838|92.05%|$24085|
+|Windham School District, Connecticut|24618|72.57%|$24078|
+|Towanda Area School District, Pennsylvania|10842|96.5%|$24075|
+|Prairie Central Community Unit School District 8, Illinois|10896|95.04%|$24075|
+|North Fork Local School District, Ohio|9944|94.47%|$24074|
+|West Feliciana Parish School District, Louisiana|15441|53.16%|$24071|
+|Monongalia School District, West Virginia|106196|88.78%|$24071|
+|Tri County Area Schools, Michigan|12692|94.21%|$24065|
+|Stockton Unified School District, California|203631|46.75%|$24065|
+|Grayson County School District, Kentucky|26313|96.39%|$24060|
+|Albertville City School District, Alabama|21620|87.53%|$24059|
+|Benton-Carroll-Salem Local School District, Ohio|10310|95.51%|$24059|
+|Adams County/Ohio Valley Local School District, Ohio|23937|96.92%|$24059|
+|Van Buren School District, Arkansas|35228|85.22%|$24057|
+|Bridgeport-Spaulding Community School District, Michigan|14382|61.83%|$24053|
+|Southern Humboldt Joint Unified School District, California|6591|94.78%|$24047|
+|Laurens-Marathon Community School District, Iowa|1954|97.39%|$24044|
+|Curwensville Area School District, Pennsylvania|7274|96.71%|$24041|
+|Galeton Area School District, Pennsylvania|2643|98.52%|$24041|
+|Metcalfe County School District, Kentucky|10062|95.21%|$24039|
+|Slocum Independent School District, Texas|2356|90.53%|$24038|
+|Uinta County School District 4, Wyoming|2889|95.47%|$24036|
+|Hancock Central School District, New York|2823|94.86%|$24033|
+|Cameron School District, Wisconsin|4728|95.77%|$24031|
+|Hill City Public School District, Minnesota|1571|94.08%|$24031|
+|LeFlore Public Schools, Oklahoma|1868|71.68%|$24028|
+|Ruidoso Municipal Schools, New Mexico|12942|88.34%|$24028|
+|Sampson County Schools, North Carolina|47128|64.99%|$24024|
+|Monroe City R-I School District, Missouri|5758|91.61%|$24023|
+|Somerset Area School District, Pennsylvania|20669|88.37%|$24022|
+|School Administrative District 40, Maine|15322|96.21%|$24022|
+|Osage City Unified School District 420, Kansas|3585|97.66%|$24022|
+|Barberton City School District, Ohio|26006|88.66%|$24021|
+|Scranton School District, Arkansas|2678|91.71%|$24018|
+|Neah-Kah-Nie School District 56, Oregon|8882|94.73%|$24017|
+|Ithaca Public Schools, Michigan|6857|93.8%|$24007|
+|Sebring Local School District, Ohio|4286|97.92%|$24006|
+|Santo Independent School District, Texas|2881|96.77%|$24000|
+|Bedford Area School District, Pennsylvania|16338|96.94%|$23995|
+|El Tejon Unified School District, California|8428|86.44%|$23995|
+|Urbana City School District, Ohio|14854|89.81%|$23993|
+|Lawrence County Community Unit District 20, Illinois|7727|94.07%|$23990|
+|Addison Central Unified School District, Vermont|14511|88.51%|$23990|
+|Pittsburg Independent School District, Texas|13627|75.95%|$23990|
+|Barnes County North Public School District 7, North Dakota|1770|98.64%|$23988|
+|Morongo Unified School District, California|70584|74.69%|$23987|
+|Glasgow Independent School District, Kentucky|12685|86.66%|$23987|
+|Dyersburg City School District, Tennessee|16371|70.07%|$23984|
+|Lordstown Local School District, Ohio|3270|95.44%|$23984|
+|Clayton County School District, Georgia|287560|15.09%|$23982|
+|Crenshaw County School District, Alabama|13826|71.53%|$23981|
+|Central A & M Community Unit School District 21, Illinois|4958|98.18%|$23971|
+|La Farge School District, Wisconsin|2066|96.61%|$23971|
+|Sloan-Hendrix School District, Arkansas|4181|95.34%|$23970|
+|Clyde-Savannah Central School District, New York|5201|94.23%|$23969|
+|Roswell Independent Schools, New Mexico|57880|80.27%|$23967|
+|Thorp School District, Wisconsin|4433|98.22%|$23963|
+|Edmonson County School District, Kentucky|12195|95.42%|$23962|
+|Covington Independent School District, Texas|1610|94.66%|$23958|
+|Plattsburgh City School District, New York|19343|87.56%|$23953|
+|Groesbeck Independent School District, Texas|9710|83.6%|$23952|
+|Mingo County School District, West Virginia|23808|96.05%|$23949|
+|Butler County School District, Kentucky|12756|96.61%|$23944|
+|Hooker Public Schools, Oklahoma|2152|72.58%|$23942|
+|King City R-I School District, Missouri|1826|91.79%|$23942|
+|Quillayute Valley School District, Washington|6564|78.38%|$23941|
+|Coalgate Public Schools, Oklahoma|4291|68.66%|$23939|
+|Niles Community School District, Michigan|23704|85.63%|$23939|
+|Alliance Public Schools, Nebraska|9155|90.68%|$23938|
+|Lucerne Valley Unified School District, California|6683|81.03%|$23936|
+|Sylvan Grove Unified School District 299, Kansas|1758|99.26%|$23926|
+|Leetonia Exempted Village School District, Ohio|4575|98.08%|$23922|
+|Canton Area School District, Pennsylvania|5976|98.58%|$23921|
+|Aztec Municipal Schools, New Mexico|18155|80.04%|$23919|
+|Circle Unified School District 375, Kansas|9485|90.99%|$23917|
+|Liberal R-II School District, Missouri|2938|86.66%|$23917|
+|Sullivan C-2 School District, Missouri|11156|95.54%|$23917|
+|Argos Community Schools, Indiana|3471|97.35%|$23914|
+|Talbot County School District, Georgia|6245|40.78%|$23913|
+|Norton City Public Schools, Virginia|3969|93.5%|$23913|
+|Henry County School District, Kentucky|12897|96.42%|$23904|
+|Morley Stanwood Community Schools, Michigan|9876|93.28%|$23903|
+|Dibble Public Schools, Oklahoma|3869|79.94%|$23899|
+|Bureau Valley Community Unit School District 340, Illinois|6332|97.38%|$23899|
+|Hondo Independent School District, Texas|13718|78.95%|$23897|
+|Shawano School District, Wisconsin|17107|84.53%|$23896|
+|Montezuma-Cortez School District RE-1, Colorado|19120|76.58%|$23893|
+|Camp Point Community Unit School District 3, Illinois|5081|98.66%|$23889|
+|Tecumseh Local School District, Ohio|18332|94.83%|$23888|
+|Moss Point School District, Mississippi|19933|40.75%|$23885|
+|Jaffrey-Rindge Cooperative School District, New Hampshire|11375|92.28%|$23885|
+|Shamokin Area School District, Pennsylvania|20394|86.76%|$23884|
+|Neosho R-V School District, Missouri|25602|86.06%|$23884|
+|Springfield Local School District (Mahoning County), Ohio|7777|98.68%|$23882|
+|Elizabeth City School District, New Jersey|128484|37.14%|$23881|
+|Wisner-Pilger Public Schools, Nebraska|2665|97.64%|$23879|
+|Marissa Community Unit School District 40, Illinois|2176|99.4%|$23879|
+|Macon County Schools, North Carolina|35172|93.1%|$23875|
+|Wellsville-Middletown R-I School District, Missouri|2350|96.51%|$23875|
+|Columbus Unified School District 493, Kansas|6801|92.97%|$23872|
+|Port Aransas Independent School District, Texas|4407|98.84%|$23866|
+|Crestview Local School District (Columbiana County), Ohio|5807|97.64%|$23864|
+|Kearsley Community Schools, Michigan|16442|89.82%|$23858|
+|Arapahoe Public Schools, Nebraska|1948|95.84%|$23854|
+|Keystone Central School District, Pennsylvania|36898|95.92%|$23854|
+|Breckinridge County School District, Kentucky|18817|95.2%|$23847|
+|South Brown County Unified School District 430, Kansas|3492|76.46%|$23846|
+|Hulbert Public Schools, Oklahoma|2455|52.1%|$23839|
+|Indianola Public Schools, Oklahoma|1806|77.3%|$23839|
+|Perth Amboy City School District, New Jersey|51589|70.13%|$23839|
+|Joppa-Maple Grove Unit District 38, Illinois|1438|93.32%|$23839|
+|Dayton Independent School District, Texas|30530|78.97%|$23836|
+|Plainview Public Schools, Nebraska|2107|94.83%|$23835|
+|Eads School District RE-1, Colorado|1184|98.56%|$23833|
+|Tarkio R-I School District, Missouri|1933|97.88%|$23828|
+|Nashville School District, Arkansas|8966|59.36%|$23827|
+|Huntingdon Area School District, Pennsylvania|20889|84.82%|$23827|
+|San Bernardino City Unified School District, California|273199|53.46%|$23825|
+|Picayune School District, Mississippi|22688|71.43%|$23824|
+|Iowa Falls Community School District, Iowa|6463|95.45%|$23819|
+|Newburg R-II School District, Missouri|2590|89.92%|$23804|
+|Dover City School District, Ohio|17018|97.3%|$23803|
+|Muskogee Public Schools, Oklahoma|36934|51.74%|$23803|
+|Maconaquah School Corporation, Indiana|14643|86.72%|$23802|
+|Weakley County School District, Tennessee|33377|88.26%|$23801|
+|Marshall County School District, Alabama|49073|93.01%|$23793|
+|Crow-Applegate-Lorane Sd 66, Oregon|2040|94.12%|$23790|
+|Forest Grove School District 15, Oregon|38923|77.75%|$23782|
+|Eastern Local School District (Jackson, Pike, and Scioto Counties), Ohio|5068|94.32%|$23775|
+|St. Mary Parish School District, Louisiana|50020|58.61%|$23773|
+|Robinson Community Unit School District 2, Illinois|11570|89.93%|$23769|
+|Steuben County Metropolitan School District, Indiana|18224|94.95%|$23766|
+|Randolph County School District, West Virginia|28763|93.96%|$23765|
+|Hastings Public Schools, Nebraska|22917|90.1%|$23761|
+|Washington Parish School District, Louisiana|28907|69.74%|$23757|
+|Whiteford Agricultural School District, Michigan|4213|95.35%|$23750|
+|Chautauqua Lake Central School District, New York|5598|93.14%|$23750|
+|Bleckley County School District, Georgia|12870|70.64%|$23750|
+|Niangua R-V School District, Missouri|2298|97.3%|$23750|
+|Lidgerwood Public School District 28, North Dakota|1237|95.72%|$23750|
+|Harding County School District 31-1, South Dakota|1178|92.78%|$23750|
+|Gettysburg School District 53-1, South Dakota|1358|89.91%|$23750|
+|Odin Public School District 722, Illinois|1627|95.7%|$23750|
+|West Side School District, Arkansas|4103|94.05%|$23750|
+|Chassell Township School District, Michigan|1761|95.91%|$23750|
+|Crawford County Community School Corporation, Indiana|10994|96.88%|$23750|
+|St. David Unified District, Arizona|2965|87.99%|$23750|
+|Meredosia-Chambersburg Community Unit School District 11, Illinois|1628|100.0%|$23750|
+|Clay Local School District, Ohio|3472|99.11%|$23750|
+|Big Horn County School District 4, Wyoming|2583|93.46%|$23750|
+|Quinter Public Schools Unified School District 293, Kansas|1546|94.76%|$23750|
+|Fountain School District 8, Colorado|36790|73.34%|$23740|
+|Oak Park City School District, Michigan|23007|17.13%|$23736|
+|Starmont Community School District, Iowa|3727|97.99%|$23735|
+|Mitchell Community Schools, Indiana|11473|95.82%|$23723|
+|DuBois Area School District, Pennsylvania|29599|97.1%|$23719|
+|Elk City Public Schools, Oklahoma|11764|87.97%|$23715|
+|Red Rock Central School District, Minnesota|3043|95.33%|$23715|
+|Thayer Central Community Schools, Nebraska|2558|96.05%|$23714|
+|Trico Community Unit School District 176, Illinois|6577|93.54%|$23713|
+|Emporia City Public Schools, Virginia|5408|29.46%|$23711|
+|Pershing County School District, Nevada|6591|74.75%|$23710|
+|Keene School District, New Hampshire|22823|92.83%|$23707|
+|Asheboro City Schools, North Carolina|29925|71.82%|$23707|
+|Westside Consolidated School District, Arkansas|8819|96.83%|$23704|
+|Tyrone Area School District, Pennsylvania|12733|98.08%|$23702|
+|Kokomo-Center Township Consolidated School Corporation, Indiana|45018|81.94%|$23701|
+|Alleghany County Schools, North Carolina|11085|94.96%|$23700|
+|North Central Parke Community School Corporation, Indiana|10904|95.1%|$23699|
+|Galatia Community Unit School District 1, Illinois|2504|93.33%|$23696|
+|Las Animas School District RE-1, Colorado|4958|79.49%|$23693|
+|Bristol City School District, Tennessee|26800|91.67%|$23692|
+|Tri-Creek School Corporation, Indiana|20884|95.59%|$23689|
+|South Beloit Community Unit School District 320, Illinois|6357|91.95%|$23689|
+|East Palestine City School District, Ohio|7842|96.86%|$23688|
+|Carrollton Exempted Village School District, Ohio|15355|96.31%|$23688|
+|Milton Area School District, Pennsylvania|16161|95.59%|$23684|
+|Glassboro Borough School District, New Jersey|20069|67.27%|$23684|
+|Florence-Carlton K-12 Schools, Montana|5270|89.39%|$23676|
+|Covington Community School Corporation, Indiana|5373|97.28%|$23676|
+|Fairborn City School District, Ohio|44070|80.77%|$23675|
+|Crosbyton Consolidated Independent School District, Texas|2174|74.84%|$23672|
+|West Branch-Rose City Area Schools, Michigan|16367|96.12%|$23670|
+|Claiborne County School District, Tennessee|31827|96.17%|$23669|
+|Hoisington Unified School District 431, Kansas|3678|93.77%|$23669|
+|McDuffie County School District, Georgia|21404|53.59%|$23668|
+|Haven Public Schools Unified School District 312, Kansas|6110|95.48%|$23668|
+|Toombs County School District, Georgia|16641|74.6%|$23666|
+|Webster County School District, Georgia|2587|54.62%|$23664|
+|Quincy School District, Washington|13133|48.79%|$23661|
+|Coast Unified School District, California|6330|85.59%|$23661|
+|Clovis Municipal Schools, New Mexico|46048|63.98%|$23660|
+|Chisum Independent School District, Texas|5153|87.83%|$23658|
+|Paw Paw Public School District, Michigan|13113|94.18%|$23657|
+|Monroe County School District, West Virginia|13344|97.18%|$23655|
+|Benson Unified School District, Arizona|7115|90.29%|$23654|
+|Finley School District, Washington|4584|88.24%|$23651|
+|Bremen Public Schools, Indiana|8710|94.81%|$23646|
+|Floodwood Public School District, Minnesota|1373|98.62%|$23646|
+|South Shore School District, Wisconsin|1927|96.0%|$23646|
+|Sioux Center Community School District, Iowa|9555|96.63%|$23641|
+|Glades County School District, Florida|13777|78.16%|$23638|
+|Chico Independent School District, Texas|3605|95.37%|$23634|
+|Osceola County School District, Florida|363666|66.44%|$23632|
+|Baraga Area Schools, Michigan|3722|59.43%|$23631|
+|Upson County School District, Georgia|26329|68.0%|$23629|
+|Cotter School District, Arkansas|5030|95.84%|$23628|
+|Colusa Unified School District, California|7568|82.16%|$23618|
+|Southwestern Shelby County Consolidated Schools, Indiana|4315|97.91%|$23611|
+|Wellsville Central School District, New York|8813|97.1%|$23611|
+|Reese Public Schools, Michigan|5475|96.91%|$23609|
+|Mishawaka School City, Indiana|30785|81.07%|$23605|
+|Lakewood Township School District, New Jersey|104186|89.76%|$23597|
+|Victoria Unified School District 432, Kansas|1723|96.98%|$23594|
+|Schuyler County R-I School District, Missouri|4662|96.98%|$23588|
+|Casey-Westfield Community Unit School District 4C, Illinois|5662|97.97%|$23588|
+|Delanco Township School District, New Jersey|4448|72.12%|$23587|
+|Paulsboro Borough School District, New Jersey|5881|48.61%|$23583|
+|Bullock County School District, Alabama|10173|26.18%|$23583|
+|Smackover-Norphlet School District, Arkansas|5872|83.31%|$23569|
+|Luther Public Schools, Oklahoma|5482|85.43%|$23568|
+|Randolph County School District, Georgia|6888|32.13%|$23566|
+|Darrington School District, Washington|3314|90.37%|$23563|
+|San Antonio Independent School District, Texas|332198|69.13%|$23562|
+|Big Horn County School District 3, Wyoming|3327|82.66%|$23558|
+|Mount Union Area School District, Pennsylvania|9035|95.17%|$23548|
+|Brownwood Independent School District, Texas|20775|83.74%|$23547|
+|Candler County School District, Georgia|10834|67.81%|$23546|
+|Benton County School District, Tennessee|16133|97.69%|$23546|
+|Pocola Public Schools, Oklahoma|3980|79.62%|$23542|
+|Ohio County School District, West Virginia|41875|92.42%|$23541|
+|Whitley County School District, Kentucky|22076|98.16%|$23537|
+|Washington County School District, Florida|25094|79.52%|$23537|
+|Laurel-Concord-Coleridge School, Nebraska|2707|98.19%|$23537|
+|Oakley Unified School District 274, Kansas|2540|95.43%|$23534|
+|Joplin School District, Missouri|59501|85.49%|$23533|
+|Salem School District, Arkansas|4340|92.74%|$23532|
+|Nettleton School District, Arkansas|28748|70.0%|$23531|
+|Scioto Valley Local School District, Ohio|8051|94.25%|$23530|
+|Baldwin City Unified School District 348, Kansas|8182|92.86%|$23528|
+|Milan Community Schools, Indiana|6136|97.51%|$23526|
+|Symmes Valley Local School District, Ohio|3247|97.26%|$23525|
+|Hawley Independent School District, Texas|2763|96.74%|$23523|
+|La Crosse School District, Wisconsin|64009|90.62%|$23523|
+|Rialto Unified School District, California|124304|52.17%|$23522|
+|Granville Exempted Village School District, Ohio|14665|92.08%|$23516|
+|Chokio-Alberta Public School District, Minnesota|1338|91.18%|$23516|
+|Sanford-Fritch Independent School District, Texas|5163|93.53%|$23514|
+|Bridgman Public Schools, Michigan|5287|97.2%|$23514|
+|Bruning-Davenport Unified School System, Nebraska|1540|94.42%|$23511|
+|New Miami Local School District, Ohio|4861|92.57%|$23506|
+|Genesee School District, Michigan|3198|88.74%|$23503|
+|North Tama County Community School District, Iowa|3145|90.21%|$23500|
+|Chino Valley Unified District, Arizona|22827|92.23%|$23498|
+|Bald Knob School District, Arkansas|6796|94.78%|$23495|
+|Lebanon R-III School District, Missouri|24983|93.88%|$23494|
+|Connally Independent School District, Texas|16067|72.77%|$23491|
+|Blue River Valley Schools, Indiana|7075|87.7%|$23486|
+|Tahoka Independent School District, Texas|2790|80.29%|$23482|
+|Penobscot Unorganized Territory, Maine|1467|99.05%|$23482|
+|Rockwood Area School District, Pennsylvania|4861|98.13%|$23472|
+|East Poinsett County School District, Arkansas|3305|82.81%|$23472|
+|Crowley County School District RE-1-J, Colorado|5310|79.53%|$23472|
+|Clinton County School District, Kentucky|10175|96.6%|$23469|
+|Madison Consolidated Schools, Indiana|22877|93.98%|$23467|
+|Cambridge Central School District, New York|6370|94.41%|$23466|
+|Leggett Independent School District, Texas|1437|82.32%|$23465|
+|Harmony Area School District, Pennsylvania|2262|99.12%|$23464|
+|Vernon Parish School District, Louisiana|49315|75.38%|$23459|
+|Sheridan School District 48J, Oregon|9504|85.92%|$23457|
+|Smyth County Public Schools, Virginia|30539|95.61%|$23454|
+|Friendship Central School District, New York|1826|98.03%|$23446|
+|Homer-Center School District, Pennsylvania|6057|94.68%|$23441|
+|New London Community School District, Iowa|3784|97.78%|$23438|
+|Superior Unified School District, Arizona|3518|73.14%|$23438|
+|Burlingame Public School Unified School District 454, Kansas|1605|97.94%|$23438|
+|Morgan County School District, Kentucky|13270|93.31%|$23430|
+|Wilkes County School District, Georgia|9797|53.35%|$23423|
+|Brookfield Local School District, Ohio|8429|96.99%|$23422|
+|Lamar County School District, Georgia|18834|66.76%|$23420|
+|Shepherd Public School District, Michigan|8578|93.72%|$23420|
+|Marfa Independent School District, Texas|2491|87.07%|$23418|
+|School Administrative District 72, Maine|8539|95.26%|$23415|
+|New Lima Public Schools, Oklahoma|1548|70.74%|$23409|
+|Harrison Hills City School District, Ohio|12827|94.4%|$23407|
+|Lowellville Local School District, Ohio|1932|98.19%|$23403|
+|Winston County School District, Alabama|16476|96.72%|$23403|
+|Lackawanna City School District, New York|17751|78.11%|$23402|
+|Charles City Community School District, Iowa|10849|91.03%|$23398|
+|Medway, Maine|1258|98.73%|$23393|
+|Georgetown-South Otselic Central School District, New York|2472|97.05%|$23393|
+|Liberty-Eylau Independent School District, Texas|14160|63.51%|$23391|
+|Mercer County School District, West Virginia|59370|90.54%|$23386|
+|Prairie Hills Unified School District 113, Kansas|6667|95.89%|$23382|
+|South Adams Schools, Indiana|10869|94.32%|$23381|
+|Davis Joint Unified School District, California|81108|60.73%|$23377|
+|Valliant Public Schools, Oklahoma|4375|71.18%|$23375|
+|Erie Unified School District 101, Kansas|3400|93.71%|$23372|
+|De Queen School District, Arkansas|13380|61.52%|$23370|
+|Lakeside School District (Ashley and Chicot Counties), Arkansas|7757|44.0%|$23370|
+|Glendale School District, Pennsylvania|5130|96.53%|$23367|
+|Fredericksburg Independent School District, Texas|23262|89.89%|$23358|
+|Foyil Public Schools, Oklahoma|2809|71.98%|$23347|
+|Wayne County School District, Georgia|29959|74.46%|$23345|
+|Kingston Community School District, Michigan|3227|93.59%|$23342|
+|Clark County R-I School District, Missouri|6677|96.71%|$23341|
+|Creston Community School District, Iowa|9981|95.86%|$23340|
+|Cotulla Independent School District, Texas|7540|78.69%|$23337|
+|Edgewood Independent School District (Van Zandt County), Texas|5923|90.66%|$23333|
+|Seligman Unified District, Arizona|1612|88.28%|$23333|
+|Motley County Independent School District, Texas|1367|87.64%|$23333|
+|Farrell Area School District, Pennsylvania|5188|45.88%|$23333|
+|Montgomery County Schools, North Carolina|27223|75.55%|$23329|
+|Mountain View-Birch Tree R-III School District, Missouri|7688|96.66%|$23328|
+|Lake Hamilton School District, Arkansas|27980|92.17%|$23326|
+|Modoc Joint Unified School District, California|5843|86.21%|$23325|
+|Lakeview Community Schools, Nebraska|4599|96.13%|$23325|
+|Artesia Public Schools, New Mexico|18938|84.95%|$23321|
+|Hubbard Exempted Village School District, Ohio|12831|93.68%|$23321|
+|Holland City School District, Michigan|36464|79.73%|$23319|
+|Vigo County School Corporation, Indiana|107305|86.6%|$23318|
+|Fostoria City School District, Ohio|13824|87.76%|$23311|
+|Washington Community School District, Iowa|10020|91.85%|$23308|
+|Hart Public School District, Michigan|7479|90.71%|$23306|
+|North Adams-Jerome Schools, Michigan|3305|98.06%|$23304|
+|Flowing Wells Unified District, Arizona|30466|70.37%|$23302|
+|Ashland School District, Wisconsin|12721|81.17%|$23295|
+|Calais, Maine|3011|97.97%|$23292|
+|Sandusky City School District, Ohio|24651|67.26%|$23286|
+|Girard Unified School District 248, Kansas|5503|94.69%|$23286|
+|Paris-Union School District 95, Illinois|7534|97.68%|$23285|
+|St. Clairsville-Richland City School District, Ohio|16028|89.08%|$23284|
+|Lincoln County School District, Georgia|7929|67.56%|$23281|
+|River Forest Community School Corporation, Indiana|6860|82.54%|$23276|
+|Baxter Springs Unified School District 508, Kansas|4855|87.72%|$23276|
+|Camden City School District, New Jersey|73742|20.7%|$23275|
+|Vidalia City School District, Georgia|10380|51.79%|$23275|
+|Ennis K-12 Schools, Montana|3829|95.72%|$23274|
+|Hamtramck Public Schools, Michigan|21704|56.33%|$23274|
+|West Washington School Corporation, Indiana|5188|96.86%|$23274|
+|Covington County School District, Mississippi|18810|62.16%|$23271|
+|Danville Independent School District, Kentucky|14810|79.47%|$23271|
+|Naselle-Grays River Valley School District, Washington|2258|86.98%|$23269|
+|Culver Community Schools Corporation, Indiana|7603|94.4%|$23269|
+|Skyline Schools Unified School District 438, Kansas|1150|91.91%|$23269|
+|Bulloch County School District, Georgia|77719|64.38%|$23267|
+|Valley Springs School District, Arkansas|4897|97.32%|$23262|
+|Rock County Public Schools, Nebraska|1430|96.64%|$23262|
+|Harlan County School District, Kentucky|23912|95.81%|$23261|
+|Northeast School Corporation, Indiana|8524|94.2%|$23261|
+|Floyd County School District, Georgia|61287|87.18%|$23257|
+|Haskell Public Schools, Oklahoma|7155|67.97%|$23256|
+|Adams Township School District, Michigan|3149|94.25%|$23250|
+|Powell County School District, Kentucky|12283|97.39%|$23248|
+|Oneida Special School District, Tennessee|3030|97.26%|$23246|
+|Appleton City R-II School District, Missouri|2541|98.31%|$23246|
+|Holcomb R-III School District, Missouri|2403|89.89%|$23245|
+|Needles Unified School District, California|6801|73.92%|$23244|
+|Nampa School District 131, Idaho|96080|83.73%|$23242|
+|Summers County School District, West Virginia|12710|93.44%|$23236|
+|South Central Nebraska Unified 5, Nebraska|4089|96.14%|$23236|
+|Wilson Public Schools (Carter and Love Counties), Oklahoma|2820|90.78%|$23229|
+|Wauneta-Palisade Public Schools, Nebraska|1591|97.74%|$23229|
+|Lima City School District, Ohio|28949|65.51%|$23228|
+|Atkins Public Schools, Arkansas|6385|93.52%|$23226|
+|Colbert County School District, Alabama|23208|84.5%|$23224|
+|Mercer County School District 404, Illinois|7883|96.83%|$23221|
+|Osborne County Unified School District 392, Kansas|2141|94.91%|$23221|
+|New Boston Local School District, Ohio|2657|95.6%|$23218|
+|Dublin Independent School District, Texas|6507|87.89%|$23218|
+|Winfield City School District, Alabama|6259|94.9%|$23216|
+|Canton Union School District 66, Illinois|16889|89.66%|$23215|
+|Dawson-Bryant Local School District, Ohio|5954|95.18%|$23214|
+|Carrier Mills-Stonefort Community Unit School District, Illinois|2645|85.6%|$23214|
+|Oakland Community Unit School District 5, Illinois|2359|99.36%|$23214|
+|Marshall County School District, West Virginia|30900|97.05%|$23213|
+|Sedalia 200 School District, Missouri|29720|88.91%|$23212|
+|Springtown Independent School District, Texas|21551|91.49%|$23208|
+|Reserve Independent Schools, New Mexico|1926|90.81%|$23200|
+|Elba City School District, Alabama|4933|65.38%|$23198|
+|Nemo Vista School District, Arkansas|3002|94.74%|$23194|
+|Middletown City School District, Ohio|48950|81.77%|$23192|
+|Horatio School District, Arkansas|3938|65.26%|$23188|
+|Melbourne School District, Arkansas|4884|93.78%|$23188|
+|Chequamegon School District, Wisconsin|6016|96.64%|$23173|
+|South Seneca Central School District, New York|6976|89.84%|$23170|
+|Leake County School District, Mississippi|22791|49.69%|$23168|
+|Neligh-Oakdale Schools, Nebraska|2317|94.73%|$23167|
+|Seiling Public Schools, Oklahoma|2059|83.83%|$23155|
+|Floyd County School District, Kentucky|35931|97.4%|$23151|
+|Red Creek Central School District, New York|5595|92.9%|$23150|
+|South Lane School District 45J, Oregon|19887|88.75%|$23149|
+|Roscommon Area Public Schools, Michigan|12315|95.47%|$23142|
+|Grayson County Public Schools, Virginia|15651|92.12%|$23130|
+|Santa Maria Independent School District, Texas|2444|84.74%|$23125|
+|Au Gres-Sims School District, Michigan|3177|96.25%|$23125|
+|Drummond Area School District, Wisconsin|3814|95.99%|$23125|
+|South Koochiching School District, Minnesota|1350|95.33%|$23125|
+|Holdenville Public Schools, Oklahoma|6950|64.81%|$23119|
+|Forrest County Schools, Mississippi|18841|69.7%|$23118|
+|Kankakee Valley School Corporation, Indiana|20423|93.87%|$23113|
+|Knott County School District, Kentucky|15041|97.29%|$23112|
+|Huntsville School District, Arkansas|15268|92.7%|$23111|
+|Jasper-Troupsburg Central School District, New York|3244|97.72%|$23108|
+|Jefferson Davis County School District, Mississippi|11182|38.05%|$23103|
+|Lopez School District, Washington|2907|91.33%|$23103|
+|Brady Independent School District, Texas|6599|78.57%|$23102|
+|Thatcher Unified District, Arizona|7616|91.12%|$23099|
+|Tonasket School District, Washington|6622|79.4%|$23098|
+|Flagstaff Unified District, Arizona|99562|76.98%|$23098|
+|Port Clinton City School District, Ohio|13185|93.77%|$23093|
+|Gallatin R-V School District, Missouri|3423|97.05%|$23090|
+|San Jacinto Unified School District, California|49586|63.25%|$23088|
+|Orient-Macksburg Community School District, Iowa|1139|97.72%|$23088|
+|Winthrop, Maine|6005|92.64%|$23088|
+|Ironwood Area Schools, Michigan|7522|96.02%|$23088|
+|Park County School District 1, Wyoming|12320|92.89%|$23087|
+|Lincoln R-II School District, Missouri|3901|98.21%|$23086|
+|Seminole Public Schools, Oklahoma|7835|66.13%|$23084|
+|Blissfield Community Schools, Michigan|6943|95.3%|$23083|
+|Rangely School District RE-4, Colorado|2476|87.68%|$23083|
+|Chestnut Ridge School District, Pennsylvania|10120|98.16%|$23082|
+|Sherman Independent School District, Texas|45894|78.08%|$23079|
+|Brandywine Community Schools, Michigan|8527|91.02%|$23076|
+|Grand School District, Utah|10170|92.49%|$23075|
+|Fountain Lake School District, Arkansas|15941|97.06%|$23071|
+|Lyman School District 42-1, South Dakota|3171|49.95%|$23068|
+|Mabel-Canton Public School District, Minnesota|2519|98.65%|$23068|
+|Herington Unified School District 487, Kansas|2507|84.16%|$23068|
+|Appling County School District, Georgia|18428|73.81%|$23065|
+|Salem City School District, Ohio|16258|94.61%|$23064|
+|Junction City School District, Arkansas|3389|73.74%|$23063|
+|Willcox Unified District, Arizona|7719|88.22%|$23057|
+|Ripley Public Schools, Oklahoma|2498|87.11%|$23056|
+|Cahokia Community Unit School District 187, Illinois|18581|26.84%|$23056|
+|Crestline Exempted Village School District, Ohio|5358|92.35%|$23056|
+|North Franklin School District, Washington|11109|65.87%|$23053|
+|St. Charles R-VI School District, Missouri|55091|85.08%|$23051|
+|Malta K-12 Schools, Montana|2879|84.33%|$23050|
+|Atherton Community Schools, Michigan|6222|79.07%|$23049|
+|Quemado Independent Schools, New Mexico|1737|98.16%|$23048|
+|Wabash City Schools, Indiana|8363|95.54%|$23044|
+|Alamogordo Public Schools, New Mexico|45586|78.64%|$23043|
+|Oran R-III School District, Missouri|2179|96.28%|$23036|
+|Haakon School District 27-1, South Dakota|1692|94.44%|$23036|
+|Forrestville Valley Community Unit School District 221, Illinois|5328|96.45%|$23036|
+|Rio Hondo Independent School District, Texas|9788|85.31%|$23036|
+|Mountain Home School District 193, Idaho|23925|82.49%|$23033|
+|Franklin County School District, Tennessee|40198|90.16%|$23033|
+|Cardinal Community School District, Iowa|3612|97.45%|$23031|
+|Ferndale Area School District, Pennsylvania|4580|89.43%|$23031|
+|Lake Station Community Schools, Indiana|8088|73.59%|$23030|
+|Benavides Independent School District, Texas|2608|96.66%|$23026|
+|Northern Bedford County School District, Pennsylvania|6749|96.52%|$23023|
+|Redbank Valley School District, Pennsylvania|7326|99.19%|$23021|
+|Jefferson Schools, Michigan|11922|93.79%|$23021|
+|Galax City Public Schools, Virginia|6402|83.9%|$23021|
+|Garden County Schools, Nebraska|1895|97.63%|$23013|
+|White County School District, Georgia|29962|94.16%|$23011|
+|Littlefield Unified District, Arizona|3815|66.97%|$23008|
+|Ralls Independent School District, Texas|2020|84.21%|$23005|
+|Poolville Independent School District, Texas|2699|87.37%|$23004|
+|Westwood Heights Schools, Michigan|5003|47.33%|$23000|
+|Troup Independent School District, Texas|5656|80.8%|$23000|
+|Birch Run Area School District, Michigan|9227|97.0%|$23000|
+|Marion City School District, Ohio|28955|88.14%|$22999|
+|Pleasants County School District, West Virginia|7457|95.91%|$22996|
+|Portage Area School District, Pennsylvania|6009|98.8%|$22992|
+|Clearwater R-I School District, Missouri|7292|95.53%|$22990|
+|Hillsboro Independent School District, Texas|10462|69.92%|$22981|
+|Garrison Public School District 51, North Dakota|2916|93.55%|$22978|
+|Hill City School District 51-2, South Dakota|3182|93.49%|$22977|
+|Chaffee R-II School District, Missouri|3891|93.22%|$22972|
+|Era Independent School District, Texas|2103|97.81%|$22969|
+|Forest Area Community Schools, Michigan|4798|92.21%|$22969|
+|Whiting School City, Indiana|4430|76.0%|$22969|
+|Van Independent School District, Texas|15436|91.62%|$22968|
+|Breathitt County School District, Kentucky|12119|97.14%|$22967|
+|Gwinn Area Community Schools, Michigan|9843|92.99%|$22967|
+|Harper Woods City Schools, Michigan|8509|27.11%|$22965|
+|Essex North Supervisory Union, Vermont|3231|96.19%|$22963|
+|Patoka Community Unit School District 100, Illinois|1442|97.57%|$22961|
+|Henryetta Public Schools, Oklahoma|6781|69.18%|$22955|
+|Wewoka Public Schools, Oklahoma|4174|60.11%|$22955|
+|Crawford AuSable Schools, Michigan|11821|96.08%|$22955|
+|Fredericksburg City Public Schools, Virginia|29059|61.49%|$22955|
+|Liberty County School District, Georgia|52043|41.61%|$22952|
+|Clay County School District, Kentucky|20110|91.97%|$22951|
+|Bangor Public Schools, Michigan|7641|74.0%|$22949|
+|Ferndale Unified School District, California|3081|83.51%|$22941|
+|Payette Joint School District 371, Idaho|9620|84.89%|$22940|
+|Lockwood R-I School District, Missouri|2447|97.26%|$22938|
+|Winlock School District, Washington|5137|77.55%|$22938|
+|Brewster School District, Washington|4650|47.05%|$22933|
+|Grants Pass School District 7, Oregon|38854|89.86%|$22926|
+|Franklin County School District, Florida|11914|79.79%|$22925|
+|Comanche Public Schools, Oklahoma|5175|87.29%|$22922|
+|Clearfield Area School District, Pennsylvania|18432|98.26%|$22921|
+|Lincoln Parish School District, Louisiana|47118|54.38%|$22917|
+|Hartshorne Public Schools, Oklahoma|3916|64.48%|$22917|
+|Halfway R-III School District, Missouri|2598|93.76%|$22917|
+|South Wasco County School District 1, Oregon|1544|96.31%|$22917|
+|Graham Independent School District, Texas|13275|94.67%|$22917|
+|Burrton Unified School District 369, Kansas|1467|94.82%|$22917|
+|Onslow County Schools, North Carolina|164273|73.93%|$22916|
+|Braxton County School District, West Virginia|14032|91.95%|$22915|
+|Geneva Area City School District, Ohio|16519|94.67%|$22914|
+|Harlandale Independent School District, Texas|68416|77.65%|$22905|
+|Scranton School District, Pennsylvania|76997|80.77%|$22900|
+|Calhoun County School District, Florida|14324|79.57%|$22900|
+|Aquilla Independent School District, Texas|2003|97.7%|$22895|
+|Oblong Community Unit School District 4, Illinois|3891|95.43%|$22895|
+|Stone County School District, Mississippi|18282|78.26%|$22894|
+|Woonsocket School District 55-4, South Dakota|1315|96.96%|$22891|
+|Arcadia Valley R-II School District, Missouri|5867|95.74%|$22891|
+|Garfield County School District 16, Colorado|6862|79.92%|$22886|
+|Aurora R-VIII School District, Missouri|11829|96.01%|$22880|
+|Latexo Independent School District, Texas|2302|92.22%|$22879|
+|Meadow Heights R-II School District, Missouri|4048|98.91%|$22878|
+|Post Falls School District 273, Idaho|43223|90.81%|$22878|
+|Advance R-IV School District, Missouri|3190|96.96%|$22875|
+|Cheboygan Area Schools, Michigan|13829|93.54%|$22874|
+|Mason County Central Schools, Michigan|7911|95.12%|$22870|
+|Southside Independent School District, Texas|25161|76.3%|$22869|
+|Holbrook Unified District, Arizona|9947|31.06%|$22868|
+|Greenville Area School District, Pennsylvania|9709|97.28%|$22866|
+|Buckeye Central Local School District, Ohio|4874|97.72%|$22861|
+|South Newton School Corporation, Indiana|5297|91.45%|$22859|
+|Spearman Independent School District, Texas|3430|88.57%|$22855|
+|Breckenridge Independent School District, Texas|9212|90.54%|$22853|
+|Flat Rock-Hawcreek School Corporation, Indiana|5778|97.53%|$22846|
+|Coffee County School District, Alabama|19497|85.89%|$22845|
+|Penns Grove-Carneys Point Regional School District, New Jersey|12515|63.27%|$22843|
+|Hackett Public Schools, Arkansas|5790|86.32%|$22842|
+|Polk County School District, Tennessee|16807|94.47%|$22842|
+|Woodbine Borough School District, New Jersey|2352|62.88%|$22841|
+|Johannesburg-Lewiston Area School District, Michigan|5830|95.95%|$22837|
+|Roanoke City School District, Alabama|5931|51.26%|$22834|
+|Rockdale Independent School District, Texas|8711|84.64%|$22834|
+|Pine Bluff School District, Arkansas|26453|20.98%|$22833|
+|White Oak Independent School District, Texas|6347|83.09%|$22827|
+|Huntsville Independent School District, Texas|66100|69.85%|$22824|
+|Lakeview School District 7, Oregon|4914|88.85%|$22823|
+|Patterson Joint Unified School District, California|28306|67.0%|$22820|
+|Anderson Community School Corporation, Indiana|69811|80.5%|$22816|
+|Green County School District, Kentucky|11000|95.84%|$22813|
+|North Kossuth Community School District, Iowa|2055|94.79%|$22813|
+|Portageville School District, Missouri|3767|79.45%|$22813|
+|Houston County School District, Alabama|37792|82.57%|$22802|
+|Madison County School District, Kentucky|85178|91.48%|$22801|
+|Union City School District, New Jersey|68073|60.57%|$22799|
+|Rib Lake School District, Wisconsin|3261|95.37%|$22798|
+|North Fond du Lac School District, Wisconsin|8589|95.73%|$22793|
+|Regional School Unit 24, Maine|7577|96.34%|$22790|
+|West Holmes Local School District, Ohio|19153|97.32%|$22787|
+|Orland Joint Unified School District, California|13238|81.67%|$22786|
+|Attala County School District, Mississippi|7564|61.75%|$22784|
+|Boothbay-Boothbay Harbor Community School District, Maine|5203|96.08%|$22778|
+|Hardy County School District, West Virginia|13789|90.65%|$22778|
+|Beauregard Parish School District, Louisiana|37387|83.21%|$22775|
+|Alden-Hebron School District 19, Illinois|3445|98.14%|$22773|
+|North Central Local School District, Ohio|4467|97.09%|$22773|
+|Sandy Valley Local School District, Ohio|8902|98.3%|$22771|
+|Clinton Community Unit School District 15, Illinois|11815|96.03%|$22770|
+|Gideon 37 School District, Missouri|1197|95.66%|$22763|
+|General McLane School District, Pennsylvania|16351|95.39%|$22763|
+|Russell County School District, Alabama|26247|55.67%|$22762|
+|Ithaca City School District, New York|66245|73.03%|$22758|
+|Paterson City School District, New Jersey|145484|27.17%|$22752|
+|Menominee Area Public Schools, Michigan|11621|95.67%|$22750|
+|Rice Independent School District, Texas|3172|74.59%|$22750|
+|Spearfish School District 40-2, South Dakota|17027|93.52%|$22738|
+|Elizabethton City School District, Tennessee|13568|90.96%|$22736|
+|Lufkin Independent School District, Texas|46309|70.68%|$22734|
+|Fairfield Unified School District 310, Kansas|2227|97.67%|$22731|
+|Pellston Public Schools, Michigan|5555|85.31%|$22729|
+|Maddock Public School District 9, North Dakota|1111|90.91%|$22727|
+|Newton County School District, Georgia|109835|48.11%|$22715|
+|Rockcastle County School District, Kentucky|16795|97.86%|$22712|
+|Polk County Schools, North Carolina|20682|90.75%|$22710|
+|Salina Public Schools, Oklahoma|5116|54.73%|$22708|
+|Evadale Independent School District, Texas|1807|88.82%|$22708|
+|Western Community Unit School District 12, Illinois|3743|98.29%|$22708|
+|Kingston Public Schools, Oklahoma|7081|78.79%|$22701|
+|Paris School District, Arkansas|6797|91.08%|$22701|
+|Anthony-Harper Unified School District 361, Kansas|4630|93.87%|$22701|
+|Lebanon School District, Pennsylvania|26789|61.05%|$22699|
+|Barren County School District, Kentucky|27805|95.36%|$22695|
+|Pomona Unified School District, California|169293|38.91%|$22692|
+|Sallisaw Public Schools, Oklahoma|11741|60.8%|$22692|
+|Lake Benton Public School District, Minnesota|1061|99.72%|$22692|
+|Dolores County School District RE-2, Colorado|2027|90.77%|$22692|
+|Laurens County School District, Georgia|31642|71.01%|$22689|
+|Archuleta County School District 50-JT, Colorado|12750|84.32%|$22689|
+|Mifflinburg Area School District, Pennsylvania|16665|97.57%|$22686|
+|Milton-Freewater School District 7, Oregon|12061|83.94%|$22686|
+|Independence Unified School District 446, Kansas|12820|87.49%|$22685|
+|White County School District, Tennessee|27087|94.92%|$22684|
+|Rivercrest Independent School District, Texas|4366|91.14%|$22682|
+|Pulaski County School District, Kentucky|53423|96.4%|$22682|
+|Ontario School District 8, Oregon|18700|83.82%|$22682|
+|Clarion-Limestone Area School District, Pennsylvania|7900|94.76%|$22682|
+|Port Byron Central School District, New York|6320|96.04%|$22674|
+|Chapel Hill-Carrboro Schools, North Carolina|91340|71.43%|$22674|
+|Dover Town School District, New Jersey|19470|56.56%|$22670|
+|Ellicott School District 22, Colorado|4622|91.22%|$22670|
+|Thomasville City Schools, North Carolina|15309|62.11%|$22668|
+|Paoli Community School Corporation, Indiana|8858|98.65%|$22656|
+|Fannin County School District, Georgia|25797|95.78%|$22653|
+|Hoopeston Area Community Unit School District 11, Illinois|6910|93.1%|$22652|
+|Marionville R-IX School District, Missouri|4111|96.67%|$22651|
+|Abilene Independent School District, Texas|102444|71.09%|$22643|
+|Memphis Independent School District, Texas|2627|72.67%|$22639|
+|Porterville Unified School District, California|51024|65.42%|$22637|
+|Hudson Area Schools, Michigan|5914|97.09%|$22631|
+|Anderson School District 3, South Carolina|14903|89.13%|$22627|
+|Ingleside Independent School District, Texas|10926|87.12%|$22625|
+|Lawrence Public School District, Michigan|3827|79.1%|$22625|
+|Chilhowee R-IV School District, Missouri|1151|95.57%|$22619|
+|Harbor Beach Community Schools, Michigan|4587|94.72%|$22616|
+|Chanute Public Schools Unified School District 413, Kansas|10700|95.26%|$22614|
+|Montebello Unified School District, California|165312|50.69%|$22613|
+|Brush School District RE-2J, Colorado|7887|94.73%|$22612|
+|Ashland City School District, Ohio|25883|95.06%|$22611|
+|Oregon Community Unit School District 220, Illinois|10400|96.36%|$22609|
+|Walkerville Rural Community School District, Michigan|1676|91.23%|$22604|
+|Sandy Creek Central School District, New York|5437|97.74%|$22604|
+|Chickasha Public Schools, Oklahoma|16816|80.14%|$22598|
+|Johnson City School District, Tennessee|61273|84.55%|$22598|
+|Clark School District 12-2, South Dakota|2426|96.87%|$22593|
+|Heard County School District, Georgia|11785|86.74%|$22592|
+|Fayette R-III School District, Missouri|5131|89.65%|$22581|
+|Fruitvale Independent School District, Texas|2074|93.44%|$22574|
+|Clymer Central School District, New York|3376|97.54%|$22569|
+|Unionville-Sebewaing Area School District, Michigan|5412|96.78%|$22567|
+|Hillman Community Schools, Michigan|3446|97.45%|$22563|
+|Campbell County School District, Tennessee|39818|97.06%|$22556|
+|Whittemore-Prescott Area Schools, Michigan|6964|96.45%|$22554|
+|Unicoi County School District, Tennessee|17821|95.69%|$22548|
+|Highland Falls Central School District, New York|12252|68.63%|$22541|
+|Imlay City Community Schools, Michigan|12795|92.3%|$22541|
+|Ava R-I School District, Missouri|8256|96.49%|$22535|
+|South Central Community Unit School District 401, Illinois|4278|98.55%|$22533|
+|Grants-Cibola County Schools, New Mexico|26647|45.84%|$22529|
+|Wilder School District 133, Idaho|3940|67.92%|$22527|
+|Fresno Unified School District, California|388474|56.98%|$22525|
+|Boyden-Hull Community School District, Iowa|4171|94.8%|$22525|
+|Watervliet School District, Michigan|6862|88.11%|$22523|
+|Houston County School District, Tennessee|8201|93.21%|$22512|
+|Eminence R-I School District, Missouri|2316|90.07%|$22500|
+|Westwood Independent School District, Texas|13795|72.5%|$22500|
+|Mountain View-Gotebo Schools, Oklahoma|1522|81.54%|$22500|
+|Glen Ullin Public School District 48, North Dakota|1101|96.28%|$22500|
+|White River Valley School District, Indiana|5496|96.11%|$22500|
+|Deshler Public Schools, Nebraska|1260|97.86%|$22500|
+|Mercer School District, Wisconsin|1347|97.18%|$22500|
+|Franklin County School District, Alabama|21784|91.94%|$22500|
+|Aransas County Independent School District, Texas|20798|89.34%|$22489|
+|Iberia Parish School District, Louisiana|70763|59.67%|$22488|
+|Sesser-Valier Community Unit School District 196, Illinois|4381|97.24%|$22488|
+|Jamestown City School District, New York|30895|87.84%|$22486|
+|Neshoba County School District, Mississippi|21036|63.43%|$22481|
+|Lee County Public Schools, Virginia|23723|93.92%|$22478|
+|Alpine Independent School District, Texas|7948|87.98%|$22477|
+|Vallivue School District 139, Idaho|51127|80.99%|$22476|
+|Riverdale Local School District, Ohio|5889|98.22%|$22475|
+|Morgan County School District, Tennessee|21538|91.99%|$22475|
+|Corbin Independent School District, Kentucky|9279|96.01%|$22474|
+|Paris R-II School District, Missouri|3357|93.71%|$22473|
+|Scott County R-IV School District, Missouri|5557|91.56%|$22467|
+|Portsmouth City School District, Ohio|21293|88.25%|$22466|
+|Dover School District, Arkansas|8304|97.11%|$22464|
+|Pine River Area Schools, Michigan|8014|97.07%|$22464|
+|Paramount Unified School District, California|77796|35.48%|$22463|
+|New London School District, Connecticut|27001|57.35%|$22461|
+|Menifee County School District, Kentucky|6463|97.93%|$22460|
+|Hermon-DeKalb Central School District, New York|2596|95.22%|$22454|
+|Prairie Home R-V School District, Missouri|1452|89.26%|$22452|
+|North Knox School Corporation, Indiana|8965|95.62%|$22452|
+|Hydro-Eakly Public Schools, Oklahoma|2994|84.3%|$22452|
+|La Feria Independent School District, Texas|16202|82.48%|$22450|
+|Canadian Public Schools, Oklahoma|4383|85.63%|$22449|
+|Jefferson Independent School District, Texas|9027|71.36%|$22444|
+|Kimball School District 07-2, South Dakota|1354|98.08%|$22443|
+|Lee County School District, Kentucky|7088|95.27%|$22442|
+|Brookings School District 05-1, South Dakota|27632|89.92%|$22440|
+|Hancock County School District, Kentucky|8748|95.72%|$22438|
+|Emanuel County School District, Georgia|22525|61.96%|$22437|
+|North Boone Community Unit School District 200, Illinois|8333|92.5%|$22436|
+|Coffee County School District, Tennessee|26988|94.98%|$22434|
+|Kermit Independent School District, Texas|6752|77.8%|$22433|
+|Doddridge County School District, West Virginia|8499|96.09%|$22431|
+|El Paso Independent School District, Texas|323882|66.65%|$22429|
+|Manchester Community Schools, Indiana|10028|92.61%|$22428|
+|Switzerland of Ohio Local School District, Ohio|17302|97.35%|$22426|
+|Savoy Independent School District, Texas|2037|95.58%|$22425|
+|Seymour R-II School District, Missouri|7071|95.74%|$22419|
+|Peaster Independent School District, Texas|5341|95.67%|$22419|
+|Edison Local School District, Ohio|14280|97.84%|$22416|
+|Flippin School District, Arkansas|7120|94.76%|$22408|
+|Lake County School District, Tennessee|7273|67.06%|$22402|
+|Mount Vernon R-V School District, Missouri|10010|96.74%|$22401|
+|Jackson County School District, Alabama|37313|91.96%|$22401|
+|Allendale Community Consolidated School District 17, Illinois|1433|94.77%|$22400|
+|Postville Community School District, Iowa|3546|86.44%|$22397|
+|Baker School District 5J, Oregon|13261|91.61%|$22396|
+|Beaver Public Schools, Oklahoma|1866|77.49%|$22396|
+|Jacksonville Independent School District, Texas|26783|75.26%|$22395|
+|Cabool R-IV School District, Missouri|6087|92.1%|$22391|
+|Plateau Valley School District 50, Colorado|2047|95.41%|$22391|
+|Knox Community School Corporation, Indiana|10920|98.1%|$22390|
+|Titusville Area School District, Pennsylvania|13375|97.22%|$22388|
+|Empire Public Schools, Oklahoma|2132|87.1%|$22386|
+|Chewelah School District, Washington|5554|92.4%|$22382|
+|Oswego City School District, New York|32023|90.93%|$22381|
+|Abernathy Independent School District, Texas|3811|91.63%|$22381|
+|Milan C-2 School District, Missouri|3696|85.39%|$22380|
+|North Nodaway County R-VI School District, Missouri|1298|98.07%|$22380|
+|Platte Valley School District RE-7, Colorado|5249|94.32%|$22375|
+|Humboldt County School District, Nevada|16834|82.84%|$22374|
+|Woodson Unified School District 366, Kansas|2650|91.89%|$22373|
+|Spartanburg School District 3, South Carolina|16138|75.68%|$22370|
+|Tombstone Unified District, Arizona|7197|82.77%|$22368|
+|Bluffton Exempted Village School District, Ohio|6713|96.19%|$22365|
+|Plato R-V School District, Missouri|3271|92.72%|$22364|
+|Waldron Area Schools, Michigan|2278|97.67%|$22361|
+|Massac Unit School District 1, Illinois|12493|90.1%|$22359|
+|Trotwood-Madison City School District, Ohio|20231|25.12%|$22354|
+|Menard Independent School District, Texas|2093|78.98%|$22349|
+|West Greene School District, Pennsylvania|4874|96.9%|$22347|
+|Central School District 13J, Oregon|23389|80.58%|$22347|
+|Anniston City School District, Alabama|21518|43.81%|$22345|
+|Oberlin Unified School District 294, Kansas|2677|97.72%|$22344|
+|Grove Public Schools, Oklahoma|18665|77.27%|$22343|
+|Richmond Community School Corporation, Indiana|40832|84.71%|$22339|
+|Satanta Unified School District 507, Kansas|1349|85.25%|$22338|
+|Alice Independent School District, Texas|25679|93.47%|$22337|
+|Magazine Schools, Arkansas|2529|93.87%|$22336|
+|Wahpeton Public School District 37, North Dakota|9307|91.49%|$22335|
+|Brocton Central School District, New York|4608|86.0%|$22334|
+|Beatrice Public Schools, Nebraska|14239|96.27%|$22334|
+|Brooke County School District, West Virginia|22162|95.11%|$22331|
+|Benton Community School Corporation, Indiana|11091|95.71%|$22330|
+|Fleming County School District, Kentucky|14519|96.35%|$22329|
+|Rhea County School District, Tennessee|25607|94.94%|$22322|
+|Morgan County R-II School District, Missouri|11018|96.02%|$22320|
+|Levy County School District, Florida|40979|85.6%|$22320|
+|Ashtabula Area City School District, Ohio|26429|88.01%|$22317|
+|Clearview Local School District, Ohio|5690|75.18%|$22315|
+|Cimarron Public Schools, New Mexico|3023|89.32%|$22313|
+|Lawrence County School District, Kentucky|15604|97.51%|$22310|
+|Chase County Unified School District 284, Kansas|2672|94.01%|$22308|
+|Cameron County School District, Pennsylvania|4512|95.01%|$22308|
+|Southern Cloud Unified School District 334, Kansas|1345|98.22%|$22305|
+|Winona-Montgomery County Consolidated School District, Mississippi|9956|52.05%|$22303|
+|Waterville, Maine|16623|93.08%|$22303|
+|DeTour Area Schools, Michigan|1882|91.45%|$22303|
+|Omak School District, Washington|10706|69.75%|$22302|
+|Prophetstown-Lyndon-Tampico Community Unit School District 3, Illinois|5243|98.11%|$22301|
+|Gettysburg Area School District, Pennsylvania|28074|91.0%|$22298|
+|Bristol Local School District, Ohio|5377|95.46%|$22295|
+|Brookesmith Independent School District, Texas|1057|98.58%|$22292|
+|Oxford School District, Mississippi|37988|70.66%|$22286|
+|Pocatello School District 25, Idaho|79053|87.43%|$22286|
+|Augusta Independent School District, Kentucky|1516|99.74%|$22284|
+|Stockdale Independent School District, Texas|5976|92.77%|$22284|
+|Crest Unified School District 479, Kansas|1233|94.4%|$22284|
+|Jefferson Area Local School District, Ohio|10093|95.25%|$22283|
+|Jackson County School District, Kentucky|13368|98.0%|$22281|
+|Enterprise School District 21, Oregon|3147|95.33%|$22279|
+|Wayne City Community Unit School District 100, Illinois|3130|98.63%|$22277|
+|Geronimo Public Schools, Oklahoma|4820|53.82%|$22273|
+|Southwest Independent School District, Texas|63191|73.26%|$22273|
+|Paducah Independent School District, Texas|1589|78.67%|$22273|
+|Wilcox County School District, Alabama|10552|27.18%|$22273|
+|East Prairie R-II School District, Missouri|5675|95.28%|$22269|
+|Lakeville Community Schools, Michigan|11862|95.57%|$22268|
+|Fremont Public School District, Michigan|14050|93.06%|$22267|
+|Lake of the Woods School District, Minnesota|3464|91.4%|$22267|
+|Marinette School District, Wisconsin|15022|96.49%|$22265|
+|Union County School District, South Carolina|27325|65.08%|$22264|
+|Graham County Schools, North Carolina|8501|87.55%|$22260|
+|Barr-Reeve Community School Corporation, Indiana|5789|100.0%|$22255|
+|Webster School District, Wisconsin|5526|92.18%|$22254|
+|Taylor Community School Corporation, Indiana|9278|85.57%|$22252|
+|Jay Public Schools, Oklahoma|9435|52.38%|$22242|
+|Muhlenberg County School District, Kentucky|30815|92.58%|$22241|
+|Leonard Independent School District, Texas|4327|86.78%|$22240|
+|North Fayette Valley Community School District, Iowa|8373|94.96%|$22238|
+|Millington Community Schools, Michigan|9041|93.52%|$22238|
+|West Central Community School District, Iowa|1846|96.97%|$22237|
+|Morenci Area Schools, Michigan|3799|94.68%|$22237|
+|Mabank Independent School District, Texas|20000|94.4%|$22236|
+|Mansfield School District, Arkansas|5251|92.4%|$22234|
+|Alpena Public Schools, Michigan|30026|96.04%|$22233|
+|Allen Parish School District, Louisiana|25572|73.95%|$22232|
+|Brownstown Community Unit School District 201, Illinois|2274|97.1%|$22232|
+|Bovina Independent School District, Texas|1839|83.96%|$22230|
+|Union Gap School District, Washington|3339|79.1%|$22228|
+|Lexington City Schools, North Carolina|20099|57.71%|$22226|
+|Regional School Unit 56, Maine|5136|94.74%|$22224|
+|Peck Community School District, Michigan|2585|95.47%|$22218|
+|Adair County School District, Kentucky|19366|93.88%|$22213|
+|Boundary County School District 101, Idaho|12156|93.53%|$22213|
+|Western Reserve Local School District (Erie and Huron Counties), Ohio|6137|94.53%|$22212|
+|Port Arthur Independent School District, Texas|53009|42.93%|$22210|
+|Lynwood Unified School District, California|68285|49.84%|$22206|
+|Mansfield City School District, Ohio|33104|72.81%|$22201|
+|Washington School District, Pennsylvania|15158|79.12%|$22200|
+|Purcell Public Schools, Oklahoma|7673|83.89%|$22198|
+|Owsley County School District, Kentucky|4416|92.66%|$22194|
+|Western School District, Michigan|13003|93.26%|$22193|
+|Cedar Ridge School District, Arkansas|4567|95.8%|$22193|
+|Cullman County School District, Alabama|68043|94.38%|$22193|
+|New Prairie United School Corporation, Indiana|14742|96.51%|$22191|
+|Plymouth Community School Corporation, Indiana|19318|92.41%|$22191|
+|Calumet Public Schools, Michigan|8033|95.22%|$22188|
+|Pauls Valley Public Schools, Oklahoma|7209|81.58%|$22184|
+|Galena Park Independent School District, Texas|90677|61.39%|$22184|
+|Allen County School District, Kentucky|21065|96.71%|$22183|
+|Ohio County School District, Kentucky|24081|96.37%|$22181|
+|Les Cheneaux Community Schools, Michigan|2084|84.12%|$22173|
+|Battle Creek Public Schools, Michigan|40874|66.31%|$22171|
+|Gustine Independent School District, Texas|1158|94.99%|$22171|
+|Rittman Exempted Village School District, Ohio|7210|94.59%|$22170|
+|Valley School District RE-1, Colorado|19496|87.91%|$22169|
+|Penn Cambria School District, Pennsylvania|14970|93.09%|$22169|
+|Clay Center Unified School District 379, Kansas|7710|96.21%|$22167|
+|Madison-Virgil Unified School District 386, Kansas|1278|94.44%|$22167|
+|Kremlin-Hillsdale Schools, Oklahoma|1325|93.81%|$22163|
+|Tahquamenon Area Schools, Michigan|7390|80.64%|$22162|
+|School Administrative District 32, Maine|1903|98.0%|$22161|
+|Littlefork-Big Falls School District, Minnesota|1597|97.5%|$22159|
+|Dinuba Unified School District, California|27845|66.77%|$22158|
+|Porter Consolidated Schools, Oklahoma|3662|66.96%|$22157|
+|Clarksville School District, Arkansas|14753|88.5%|$22156|
+|South Conway County School District, Arkansas|14789|82.92%|$22156|
+|Middleton School District 134, Idaho|19738|88.58%|$22151|
+|Riverdale School District, Wisconsin|4929|97.67%|$22147|
+|Bluford Unit School District 318, Illinois|2125|95.86%|$22143|
+|Wooster City School District, Ohio|29353|90.71%|$22141|
+|Williams Unified District, Arizona|5293|72.95%|$22138|
+|Jasper County School District, Georgia|14074|75.27%|$22137|
+|Wirt County School District, West Virginia|5764|97.12%|$22134|
+|Warden School District, Washington|3534|51.02%|$22132|
+|North Gibson School Corporation, Indiana|14355|89.53%|$22132|
+|Wheelersburg Local School District, Ohio|8210|99.05%|$22131|
+|Fairless Local School District, Ohio|11819|98.04%|$22127|
+|Grundy County R-V School District, Missouri|1026|97.66%|$22125|
+|Dundee Central School District, New York|6669|96.6%|$22125|
+|Hyde County Schools, North Carolina|5089|63.49%|$22124|
+|Wahluke School District, Washington|9002|25.82%|$22122|
+|Elsberry R-II School District, Missouri|5450|95.61%|$22120|
+|Regional School Unit 34, Maine|10060|92.28%|$22117|
+|Central Valley Public Schools, Nebraska|2254|97.43%|$22115|
+|Capitan Municipal Schools, New Mexico|3967|92.49%|$22112|
+|Washington County Schools, North Carolina|11788|45.95%|$22105|
+|New Franklin R-I School District, Missouri|2680|86.42%|$22102|
+|Alaska Gateway School District, Alaska|2816|53.48%|$22102|
+|Clare Public Schools, Michigan|9033|96.05%|$22100|
+|Parker Unified School District, Arizona|10918|53.96%|$22098|
+|Wayne School District, Utah|2698|97.29%|$22094|
+|Miami Public Schools, Oklahoma|14875|64.79%|$22089|
+|Rock Hill Local School District, Ohio|10479|98.27%|$22086|
+|Central High Public Schools, Oklahoma|2187|85.37%|$22083|
+|Russell County Public Schools, Virginia|26937|97.14%|$22083|
+|Lamar R-I School District, Missouri|6754|97.56%|$22083|
+|McCormick County School District, South Carolina|9495|51.9%|$22083|
+|Owendale-Gagetown Area Schools, Michigan|1711|94.56%|$22083|
+|Lackawanna Trail School District, Pennsylvania|8151|93.4%|$22083|
+|Ishpeming Public School District, Michigan|6797|94.1%|$22081|
+|Macon County R-I School District, Missouri|8467|91.22%|$22073|
+|Arenac Eastern School District, Michigan|2253|91.83%|$22070|
+|Lake Chelan School District, Washington|6593|82.53%|$22069|
+|McGregor Public School District, Minnesota|4016|91.06%|$22069|
+|Trenton City School District, New Jersey|83387|35.27%|$22067|
+|Washington School District, Utah|172127|89.93%|$22067|
+|Troy Public Schools Unified School District 429, Kansas|1810|96.91%|$22065|
+|United Independent School District, Texas|187880|81.18%|$22064|
+|McDowell County School District, West Virginia|18083|89.55%|$22060|
+|South Kingstown School District, Rhode Island|30651|91.1%|$22053|
+|Seaside School District 10, Oregon|12957|92.71%|$22052|
+|Leon Independent School District, Texas|4886|92.92%|$22052|
+|Jackson County Schools, North Carolina|40035|88.83%|$22049|
+|Crawford County R-2 School District, Missouri|9679|96.33%|$22049|
+|Cumberland County School District, Tennessee|60016|96.35%|$22046|
+|DeKalb County School District, Alabama|57367|85.32%|$22045|
+|Tattnall County School District, Georgia|25383|58.0%|$22044|
+|Hampton-Dumont Community School District, Iowa|6419|98.75%|$22042|
+|Twiggs County School District, Georgia|8195|56.46%|$22039|
+|School Administrative District 09, Maine|17963|95.92%|$22039|
+|Mount Pleasant Independent School District, Texas|24562|67.26%|$22036|
+|Pickens County School District, South Carolina|125381|87.55%|$22035|
+|Meyersville Independent School District, Texas|1277|94.44%|$22031|
+|North Judson-San Pierre School Corporation, Indiana|6976|94.54%|$22026|
+|Scott County School District, Tennessee|18990|97.84%|$22026|
+|Washington-Nile Local School District, Ohio|7480|97.98%|$22026|
+|MOC-Floyd Valley Community School District, Iowa|11112|96.21%|$22012|
+|Colebrook School District, New Hampshire|1923|99.17%|$22010|
+|Western Yell County School District, Arkansas|2620|71.56%|$22007|
+|Delphos City School District, Ohio|9670|94.2%|$22006|
+|Western Local School District, Ohio|4919|97.44%|$22006|
+|Cedarville School District, Arkansas|5587|91.91%|$22004|
+|Southeastern Community Unit School District 337, Illinois|3161|96.01%|$22000|
+|Van Buren County Community School District, Iowa|7432|97.09%|$21997|
+|Escambia County School District, Alabama|31565|62.59%|$21996|
+|Glide School District 12, Oregon|6223|94.01%|$21995|
+|Manton Consolidated Schools, Michigan|5258|96.03%|$21995|
+|Maplewood Local School District, Ohio|5365|97.88%|$21995|
+|Fall River Joint Unified School District, California|7939|87.06%|$21990|
+|Randolph Central School District, New York|6024|94.39%|$21985|
+|Ben Hill County School District, Georgia|16889|58.37%|$21984|
+|Shell Lake School District, Wisconsin|3582|96.4%|$21984|
+|Fairview Area School District, Michigan|2792|96.85%|$21983|
+|Gordon-Rushville Public Schools, Nebraska|4184|79.13%|$21979|
+|Gary Community School Corporation, Indiana|71035|10.6%|$21979|
+|McDonald County R-I School District, Missouri|18783|79.84%|$21972|
+|Belle Fourche School District 09-1, South Dakota|8168|92.15%|$21971|
+|Adams-Friendship Area School District, Wisconsin|13779|90.59%|$21968|
+|Erie City School District, Pennsylvania|96616|72.44%|$21968|
+|Cape Girardeau 63 School District, Missouri|40108|81.02%|$21965|
+|Memphis Community Schools, Michigan|5351|94.09%|$21962|
+|Hendry County School District, Florida|41472|73.79%|$21960|
+|Floydada Independent School District, Texas|3566|85.73%|$21957|
+|Searcy School District, Arkansas|33311|87.94%|$21956|
+|Hope School District, Arkansas|14631|50.6%|$21955|
+|Hobart Public Schools, Oklahoma|4056|78.62%|$21953|
+|Brockport Central School District, New York|27786|90.97%|$21949|
+|Middlesex County Public Schools, Virginia|10642|78.54%|$21945|
+|Colcord Public Schools, Oklahoma|2772|55.23%|$21944|
+|Lincoln County School District, Kentucky|24493|94.37%|$21944|
+|Grundy County School District, Tennessee|13371|88.29%|$21944|
+|Richland School District, Pennsylvania|14151|93.5%|$21943|
+|White Township School District, New Jersey|4685|95.11%|$21941|
+|Harrisburg School District 7J, Oregon|6011|88.52%|$21938|
+|Ellsworth Community Schools, Michigan|1460|95.14%|$21927|
+|Morrill Public Schools, Nebraska|2621|94.16%|$21927|
+|Alief Independent School District, Texas|278596|32.01%|$21926|
+|Superior K-12 Schools, Montana|2013|94.34%|$21923|
+|Louisiana R-II School District, Missouri|4318|87.98%|$21923|
+|Platte County School District 1, Wyoming|7280|93.09%|$21922|
+|Randolph Public Schools, Nebraska|1840|95.16%|$21920|
+|Iola Unified School District 257, Kansas|7873|90.68%|$21913|
+|Durham Unified School District, California|5848|83.12%|$21909|
+|Lovelady Independent School District, Texas|5564|72.02%|$21909|
+|Scio Central School District, New York|2093|96.7%|$21905|
+|Marion County R-II School District, Missouri|1562|97.63%|$21897|
+|Levelland Independent School District, Texas|16497|80.31%|$21897|
+|Viola School District, Arkansas|4367|98.37%|$21895|
+|Annville-Cleona School District, Pennsylvania|12496|94.38%|$21892|
+|Worcester Central School District, New York|2192|94.71%|$21891|
+|Red Cloud Community Schools, Nebraska|1464|93.37%|$21889|
+|Mason County Eastern District, Michigan|4629|93.54%|$21882|
+|Creston School District, Washington|1196|96.15%|$21875|
+|East End School District, Arkansas|4100|90.1%|$21875|
+|Kaleva Norman Dickson School District, Michigan|5367|93.44%|$21875|
+|Marion Public Schools, Michigan|4161|95.94%|$21875|
+|Madera Unified School District, California|93670|52.47%|$21870|
+|Colbert Public Schools, Oklahoma|5233|80.91%|$21862|
+|Water Valley School District, Mississippi|6770|60.44%|$21858|
+|Paintsville Independent School District, Kentucky|3359|93.09%|$21857|
+|Fremont County School District 2, Wyoming|1557|98.59%|$21857|
+|North Central-Washington Schools Unified School District 108, Kansas|2297|97.21%|$21844|
+|Southern Reynolds County R-II School District, Missouri|2941|95.55%|$21843|
+|Eustace Independent School District, Texas|9402|88.25%|$21835|
+|Haleyville City School District, Alabama|7651|93.36%|$21835|
+|Washington Court House City School District, Ohio|14028|90.97%|$21835|
+|West Valley Central School District, New York|2046|94.87%|$21833|
+|Screven County School District, Georgia|13977|55.78%|$21831|
+|North Harrison R-III School District, Missouri|1578|96.64%|$21827|
+|Alva Public Schools, Oklahoma|7324|86.39%|$21825|
+|Ecorse Public School District, Michigan|9171|34.95%|$21822|
+|Harlingen Consolidated Independent School District, Texas|86977|85.8%|$21820|
+|Lead-Deadwood School District 40-1, South Dakota|6683|90.39%|$21820|
+|Converse County School District 2, Wyoming|4235|95.7%|$21818|
+|Highlands County School District, Florida|104574|79.31%|$21816|
+|Fort Scott Unified School District 234, Kansas|12183|91.94%|$21816|
+|Oswego Unified School District 504, Kansas|2142|92.62%|$21815|
+|Boone County School District, West Virginia|21897|97.66%|$21809|
+|Central Plains Unified School District 112, Kansas|3482|95.98%|$21809|
+|Wabash Community Unit School District 348, Illinois|9957|95.75%|$21807|
+|South Hackensack Township School District, New Jersey|2670|76.67%|$21806|
+|Christopher Community Unit School District 99, Illinois|4509|98.27%|$21806|
+|South Barber Unified School District 255, Kansas|1391|88.64%|$21806|
+|Chautauqua County Community Unified School District 286, Kansas|2117|88.14%|$21806|
+|Sequatchie County School District, Tennessee|14936|96.67%|$21804|
+|Sharyland Independent School District, Texas|54904|64.22%|$21802|
+|Sheldon Independent School District, Texas|42158|54.61%|$21798|
+|Huffman Independent School District, Texas|16430|93.15%|$21797|
+|Danville Local School District, Ohio|3265|97.64%|$21791|
+|DeSoto County School District, Florida|37371|81.9%|$21790|
+|Gallatin County School District, Kentucky|8760|91.22%|$21788|
+|Zeigler-Royalton Community Unit School District 188, Illinois|4008|95.66%|$21786|
+|Tahlequah Public Schools, Oklahoma|23144|52.95%|$21786|
+|Grayville Community Unit School District 1, Illinois|2028|96.35%|$21786|
+|Kalkaska Public Schools, Michigan|12888|95.93%|$21784|
+|Hartley-Melvin-Sanborn Community School District, Iowa|4065|95.23%|$21780|
+|Otterville R-VI School District, Missouri|1553|94.72%|$21776|
+|Harvard Public Schools, Nebraska|1329|89.62%|$21776|
+|Farwell Independent School District, Texas|2258|93.27%|$21775|
+|Garden Valley School District 71, Idaho|2554|95.3%|$21773|
+|Notus School District 135, Idaho|2795|53.49%|$21771|
+|Clinton Public Schools, Oklahoma|10159|64.99%|$21767|
+|Wellsboro Area School District, Pennsylvania|11606|97.17%|$21767|
+|Warner Public Schools, Oklahoma|3023|66.89%|$21765|
+|Century Community Unit School District 100, Illinois|2233|87.42%|$21765|
+|Northwest Local School District (Scioto County), Ohio|9185|98.26%|$21764|
+|Watonga Public Schools, Oklahoma|4117|68.62%|$21759|
+|Hamilton Independent School District, Texas|4924|94.31%|$21757|
+|Durand Community Unit School District 322, Illinois|3872|98.79%|$21756|
+|Beaverton Rural Schools, Michigan|10103|97.28%|$21755|
+|School Administrative District 30, Maine|1537|92.91%|$21750|
+|Ashland School District 5, Oregon|25173|91.4%|$21750|
+|Tipton R-VI School District, Missouri|5738|91.86%|$21750|
+|Dighton Unified School District 482, Kansas|1175|93.79%|$21750|
+|Navasota Independent School District, Texas|21671|69.03%|$21750|
+|White Lake School District, Wisconsin|1327|94.35%|$21750|
+|Ingram Independent School District, Texas|7712|84.78%|$21745|
+|Vale School District 84, Oregon|4712|91.87%|$21743|
+|Cayuga Independent School District, Texas|10495|61.31%|$21737|
+|Wayne County School District, Mississippi|20344|57.27%|$21736|
+|Potosi R-III School District, Missouri|13656|94.18%|$21728|
+|Clarkton C-4 School District, Missouri|1818|89.66%|$21727|
+|Abilene Unified School District 435, Kansas|8917|96.14%|$21727|
+|Seminole Independent School District, Texas|17612|89.81%|$21720|
+|Livingston Independent School District, Texas|28442|84.19%|$21720|
+|Rudyard Area Schools, Michigan|9073|55.86%|$21719|
+|Skidmore-Tynan Independent School District, Texas|2834|97.21%|$21718|
+|Sumter County School District, Florida|129938|88.72%|$21718|
+|Sunnyside Unified District, Arizona|96831|55.96%|$21716|
+|Tiffin City School District, Ohio|22100|91.74%|$21714|
+|Jackson Parish School District, Louisiana|15822|67.33%|$21713|
+|Geneva City School District, New York|17062|79.89%|$21713|
+|Joseph Badger Local School District, Ohio|6322|93.25%|$21712|
+|Concrete School District, Washington|5042|81.3%|$21708|
+|Haines Borough School District, Alaska|2547|77.11%|$21705|
+|Central Falls School District, Rhode Island|19437|48.78%|$21704|
+|Escanaba Area Public Schools, Michigan|19750|91.74%|$21701|
+|Winston-Dillard School District 116, Oregon|10313|90.15%|$21698|
+|Lakeland R-III School District, Missouri|2968|96.39%|$21696|
+|Pleasant Hill Community Unit School District 3, Illinois|2010|98.76%|$21696|
+|Havana Community Unit School District 126, Illinois|5910|96.31%|$21695|
+|Bay City Independent School District, Texas|20150|55.65%|$21694|
+|Royal School District, Washington|6751|47.77%|$21694|
+|Mount Morris Consolidated School District, Michigan|13199|87.01%|$21694|
+|South Pemiscot County R-V School District, Missouri|3136|80.42%|$21692|
+|Ozark City School District, Alabama|16167|63.35%|$21692|
+|Marietta City School District, Ohio|23235|93.86%|$21692|
+|Lawrence County School District, Arkansas|7956|96.18%|$21687|
+|Storm Lake Community School District, Iowa|12240|62.58%|$21683|
+|Wilburton Public Schools, Oklahoma|4409|67.09%|$21683|
+|Kenton City School District, Ohio|11497|96.55%|$21683|
+|Crivitz School District, Wisconsin|5767|99.01%|$21674|
+|Pocahontas County School District, West Virginia|8382|98.41%|$21673|
+|Lumpkin County School District, Georgia|33009|94.24%|$21671|
+|Dallas County R-I School District, Missouri|12208|95.63%|$21667|
+|Humphreys County School District, Tennessee|18528|92.4%|$21659|
+|Hinckley-Finlayson School District, Minnesota|6717|86.71%|$21657|
+|Compton Unified School District, California|158294|28.62%|$21654|
+|Wise County Public Schools, Virginia|38032|91.75%|$21654|
+|Basin School District 72, Idaho|3113|93.64%|$21653|
+|Highland Joint School District 305, Idaho|1438|92.07%|$21652|
+|Gregory School District 26-4, South Dakota|2024|90.32%|$21649|
+|Wakefield-Marenisco School District, Michigan|3139|86.27%|$21648|
+|White Cloud Public Schools, Michigan|7115|91.37%|$21644|
+|Fitzgerald Public Schools, Michigan|17287|49.74%|$21643|
+|Clay County School District, Alabama|13285|83.31%|$21643|
+|Poth Independent School District, Texas|3608|91.99%|$21641|
+|Bismarck R-V School District, Missouri|3666|93.02%|$21639|
+|Western Heights Public Schools, Oklahoma|16840|61.37%|$21638|
+|Fayette County School Corporation, Indiana|23068|94.94%|$21637|
+|Odem-Edroy Independent School District, Texas|4618|90.49%|$21636|
+|Windham-Ashland-Jewett Central School District, New York|3135|90.14%|$21636|
+|Schroon Lake Central School District, New York|2069|98.45%|$21635|
+|Washington Unified School District (Fresno County), California|9349|49.29%|$21635|
+|Rice Consolidated Independent School District, Texas|7016|54.13%|$21632|
+|Sevastopol School District, Wisconsin|5187|99.69%|$21630|
+|Emmett Independent School District 221, Idaho|17771|88.37%|$21629|
+|Upper Scioto Valley Local School District, Ohio|3948|98.91%|$21627|
+|Central Greene School District, Pennsylvania|14892|87.08%|$21627|
+|Pasadena Independent School District, Texas|263005|68.93%|$21619|
+|Saint Jo Independent School District, Texas|1456|93.13%|$21611|
+|Cleveland City School District, Tennessee|45115|83.29%|$21610|
+|Williamsburg Community School District, Pennsylvania|3505|96.12%|$21607|
+|Allentown City School District, Pennsylvania|118048|57.54%|$21607|
+|Shelby Public Schools, Michigan|7984|91.51%|$21607|
+|Channelview Independent School District, Texas|42814|68.68%|$21606|
+|Painesville City Local School District, Ohio|16679|65.69%|$21603|
+|Union School Corporation, Indiana|2846|97.58%|$21599|
+|Calhoun City School District, Georgia|17088|72.13%|$21597|
+|Wetzel County School District, West Virginia|15291|97.63%|$21597|
+|Beecher City Community Unit School District 20, Illinois|2172|99.68%|$21591|
+|Cross County School District, Arkansas|3778|83.77%|$21589|
+|Three Rivers School District, Oregon|49485|92.18%|$21582|
+|Divide County Public School District 1, North Dakota|2167|94.32%|$21581|
+|Snowflake Unified District, Arizona|13262|88.76%|$21581|
+|Newark City School District, New Jersey|281917|26.81%|$21580|
+|Alvord Independent School District, Texas|3533|96.66%|$21577|
+|Pryor Public Schools, Oklahoma|14060|65.95%|$21567|
+|Watts Public Schools, Oklahoma|1687|62.77%|$21563|
+|Bradford Community Unit School District 1, Illinois|1530|97.52%|$21563|
+|Fairfield Community Schools, Indiana|12473|95.26%|$21563|
+|Rapid River Public Schools, Michigan|2462|92.89%|$21563|
+|Meigs Local School District, Ohio|12184|95.68%|$21561|
+|Randolph Eastern School Corporation, Indiana|4931|92.52%|$21560|
+|Avery County Schools, North Carolina|17510|91.94%|$21559|
+|Jenkins Independent School District, Kentucky|2960|95.54%|$21556|
+|Astoria Community Unit School District 1, Illinois|1825|98.74%|$21553|
+|Fort Knox Dependent Schools, Kentucky|9974|66.44%|$21543|
+|Taos Municipal Schools, New Mexico|25417|77.9%|$21541|
+|Canton City School District, Ohio|60740|63.29%|$21540|
+|Gilchrist County School District, Florida|18245|90.76%|$21537|
+|Idaho Falls School District 91, Idaho|59186|85.83%|$21536|
+|North Lake School District 14, Oregon|2054|96.35%|$21528|
+|Dade County School District, Georgia|16183|93.85%|$21527|
+|Durant Public Schools, Oklahoma|19850|69.57%|$21525|
+|St. Maries Joint School District 41, Idaho|6546|94.91%|$21520|
+|Mojave Unified School District, California|18584|52.87%|$21516|
+|Princeville Community Unit School District 326, Illinois|3812|92.86%|$21514|
+|New Castle Area School District, Pennsylvania|22922|80.69%|$21511|
+|Seagraves Independent School District, Texas|2987|80.88%|$21508|
+|Hancock Public Schools, Michigan|6864|94.55%|$21506|
+|Alexandria Central School District, New York|3655|97.73%|$21504|
+|Southwestern Jefferson County Consolidated Schools, Indiana|9290|95.12%|$21503|
+|Cal Community School District, Iowa|1764|84.69%|$21500|
+|Alamosa School District RE-11J, Colorado|14213|78.86%|$21495|
+|Mayville Community School District, Michigan|6429|96.84%|$21493|
+|Biloxi Public School District, Mississippi|38514|65.42%|$21488|
+|Pima Unified District, Arizona|4026|92.4%|$21484|
+|Fort Rucker School District, Alabama|5715|74.19%|$21481|
+|Star City School District, Arkansas|7134|83.75%|$21475|
+|Pawhuska Public Schools, Oklahoma|4725|61.63%|$21471|
+|Lewis County School District, Kentucky|13345|97.64%|$21467|
+|Ramsey Community Unit School District 204, Illinois|2546|98.15%|$21467|
+|Hermiston School District 8, Oregon|28101|83.1%|$21466|
+|Beaver School District, Utah|6594|92.45%|$21463|
+|Caddo Hills School District, Arkansas|3500|85.77%|$21462|
+|Twin Bridges K-12 Schools, Montana|1491|97.05%|$21458|
+|Minidoka County Joint School District 331, Idaho|21381|89.38%|$21458|
+|Hurley School District, Wisconsin|3971|95.16%|$21458|
+|Florence City School District, Alabama|40652|75.5%|$21457|
+|Ritchie County School District, West Virginia|9747|96.82%|$21456|
+|Glen Lake Community Schools, Michigan|5366|93.85%|$21456|
+|School Administrative District 37, Maine|4632|93.01%|$21453|
+|Truth or Consequences Schools, New Mexico|10988|86.19%|$21448|
+|Knox County School District, Kentucky|27313|96.93%|$21445|
+|Tippecanoe School Corporation, Indiana|101137|82.78%|$21439|
+|Dolores School District RE-4A, Colorado|3817|89.28%|$21438|
+|Pleasantville City School District, New Jersey|20226|26.97%|$21437|
+|Stockton Unified School District 271, Kansas|2139|94.9%|$21435|
+|Leslie County School District, Kentucky|10081|97.1%|$21430|
+|Highland School District, Washington|5754|66.68%|$21429|
+|Polo R-VII School District, Missouri|1903|96.32%|$21429|
+|Fowler School District R-4J, Colorado|2035|92.14%|$21429|
+|Mound City R-II School District, Missouri|1745|96.79%|$21422|
+|Rogers City Area Schools, Michigan|5050|97.13%|$21421|
+|Jackson County School District, Tennessee|11767|95.11%|$21419|
+|Oneida County School District 351, Idaho|4429|97.06%|$21415|
+|Couch R-I School District, Missouri|1193|97.57%|$21413|
+|Slater School District, Missouri|2315|89.46%|$21413|
+|Petersburg Independent School District, Texas|1381|88.63%|$21413|
+|Holyoke School District RE-1J, Colorado|3227|91.73%|$21411|
+|Carroll County School District, Kentucky|10691|91.34%|$21404|
+|Youngstown City School District, Ohio|66421|48.81%|$21404|
+|Colorado City Unified District, Arizona|5996|100.0%|$21397|
+|Weslaco Independent School District, Texas|72708|74.88%|$21395|
+|Hico Independent School District, Texas|3408|93.9%|$21393|
+|Deerfield Unified School District 216, Kansas|1258|86.72%|$21391|
+|Golden City R-III School District, Missouri|1586|88.15%|$21389|
+|South Harrison County R-II School District, Missouri|5201|96.52%|$21386|
+|Bark River-Harris School District, Michigan|3171|80.67%|$21382|
+|Gladstone Area Schools, Michigan|9041|95.77%|$21382|
+|Laurens School District 56, South Carolina|20463|67.47%|$21377|
+|Jefferson County School District, Tennessee|54162|94.96%|$21375|
+|Holton Unified School District 336, Kansas|6264|94.96%|$21373|
+|Winters Independent School District, Texas|3195|85.23%|$21371|
+|Laona School District, Wisconsin|1407|84.58%|$21369|
+|Duplin County Schools, North Carolina|58965|68.93%|$21369|
+|Center Independent School District, Texas|11762|78.12%|$21366|
+|Jasper County Community Unit School District 1, Illinois|9399|97.24%|$21366|
+|Shawnee Community Unit School District 84, Illinois|2005|94.66%|$21360|
+|Clinton School District, Missouri|11079|93.82%|$21357|
+|Eureka Unified School District 389, Kansas|3884|94.98%|$21357|
+|West Orange-Cove Consolidated Independent School District, Texas|17685|56.58%|$21356|
+|Warren Independent School District, Texas|5045|89.93%|$21354|
+|Reeds Spring R-IV School District, Missouri|16756|95.21%|$21354|
+|Passaic City School District, New Jersey|69789|59.11%|$21350|
+|Loon Lake School District, Washington|1686|95.31%|$21349|
+|West Noble School Corporation, Indiana|12903|93.47%|$21349|
+|Stockton R-I School District, Missouri|6850|97.26%|$21344|
+|Sweetwater Independent School District, Texas|12582|84.1%|$21343|
+|Riddle School District 70, Oregon|2697|88.21%|$21341|
+|Fort Huachuca Accommodation District, Arizona|5563|68.74%|$21340|
+|Ouachita River School District, Arkansas|4457|94.79%|$21328|
+|Washington Community School Corporation, Indiana|18037|87.79%|$21328|
+|Union-North United School Corporation, Indiana|7990|91.33%|$21324|
+|Union City Area School District, Pennsylvania|6483|96.75%|$21320|
+|Lovington Public Schools, New Mexico|15348|87.44%|$21320|
+|Marlette Community Schools, Michigan|6709|96.51%|$21313|
+|Shawnee Public Schools, Oklahoma|26836|69.15%|$21312|
+|Raymondville Independent School District, Texas|13698|84.0%|$21311|
+|Quitman School District, Mississippi|11340|54.75%|$21310|
+|Zapata County Independent School District, Texas|14243|80.35%|$21308|
+|Northeast Vernon County R-I School District, Missouri|2121|96.79%|$21307|
+|Forest Area School District, Pennsylvania|7684|75.52%|$21307|
+|Oglethorpe County School District, Georgia|15040|79.44%|$21303|
+|Twin Falls School District 411, Idaho|56545|87.82%|$21301|
+|Tucumcari Public Schools, New Mexico|6392|78.55%|$21300|
+|Kerman Unified School District, California|21436|56.96%|$21297|
+|Letcher County School District, Kentucky|18976|97.89%|$21295|
+|Mulberry Grove Community Unit School District 1, Illinois|2296|96.17%|$21295|
+|Coquille School District 8, Oregon|6521|95.63%|$21290|
+|Manchester Local School District (Adams County), Ohio|4432|97.99%|$21287|
+|Lac Qui Parle Valley School District, Minnesota|6338|91.48%|$21286|
+|Platte County School District 2, Wyoming|1341|97.24%|$21286|
+|Hearne Independent School District, Texas|6781|69.69%|$21276|
+|Menahga Public School District, Minnesota|3608|95.7%|$21276|
+|Grandview School District, Washington|15311|75.68%|$21269|
+|Paris Independent School District, Kentucky|5702|76.15%|$21261|
+|Morgan Local School District, Ohio|14078|92.17%|$21258|
+|Nelsonville-York City School District, Ohio|9070|91.8%|$21255|
+|Seymour Independent School District, Texas|3592|92.43%|$21250|
+|Charlotte Independent School District, Texas|1884|81.48%|$21250|
+|Alsea School District 7J, Oregon|1445|91.49%|$21250|
+|Silver Lake Public Schools, Nebraska|1446|96.68%|$21250|
+|Iroquois West Community Unit School District 10, Illinois|4360|79.11%|$21250|
+|Maries County R-II School District, Missouri|4590|98.76%|$21250|
+|Fowler Unified School District, California|10562|68.94%|$21238|
+|Greenville Public Schools, Michigan|23743|94.78%|$21238|
+|Struthers City School District, Ohio|11194|86.57%|$21236|
+|Colorado Independent School District, Texas|6756|72.66%|$21225|
+|Fayetteville Independent School District, Texas|1735|91.12%|$21225|
+|Stilwell Public Schools, Oklahoma|7493|36.06%|$21219|
+|Hillsboro City School District, Ohio|16211|94.26%|$21218|
+|Altus Public Schools, Oklahoma|19160|72.34%|$21217|
+|Centerpoint School District, Arkansas|4805|88.57%|$21211|
+|Regional School Unit 89, Maine|2273|95.86%|$21207|
+|Brinkley School District, Arkansas|3664|50.3%|$21193|
+|Kalamazoo Public School District, Michigan|109273|68.9%|$21193|
+|Fort Towson Public Schools, Oklahoma|2472|75.53%|$21184|
+|Anderson Valley Unified School District, California|2710|91.25%|$21182|
+|Cutter-Morning Star School District, Arkansas|3372|95.91%|$21181|
+|Jerome Joint School District 261, Idaho|21331|88.4%|$21179|
+|Omaha School District, Arkansas|2627|97.91%|$21175|
+|Lubbock Independent School District, Texas|193266|74.55%|$21175|
+|Mount Vernon City School District, Ohio|31845|94.0%|$21174|
+|Waynoka Public Schools, Oklahoma|1421|92.4%|$21172|
+|Everett Area School District, Pennsylvania|9491|97.31%|$21172|
+|Poplar Bluff R-I School District, Missouri|33214|88.15%|$21171|
+|South Conejos School District RE-10, Colorado|2137|76.56%|$21167|
+|Nicholas County School District, West Virginia|24857|96.96%|$21157|
+|Maricopa Unified School District, California|2821|83.69%|$21156|
+|Bellaire Local School District, Ohio|9550|93.63%|$21156|
+|Campbell City School District, Ohio|7847|63.83%|$21156|
+|Lawrence County School District, Tennessee|43780|94.89%|$21150|
+|Social Circle City School District, Georgia|4514|50.29%|$21146|
+|Eastport, Maine|1300|88.92%|$21146|
+|Peabody-Burns Unified School District 398, Kansas|2024|94.81%|$21146|
+|Mountain Lake Public Schools, Minnesota|2824|82.4%|$21144|
+|Mancelona Public Schools, Michigan|7196|93.77%|$21141|
+|Fort Bragg Schools, North Carolina|25423|63.44%|$21136|
+|Booneville School District, Arkansas|6901|89.71%|$21135|
+|White Pass School District, Washington|3440|94.53%|$21132|
+|Walnut Springs Independent School District, Texas|1204|88.04%|$21131|
+|Southwest School Corporation, Indiana|12123|90.4%|$21130|
+|Canton R-V School District, Missouri|3829|89.66%|$21129|
+|Laytonville Unified School District, California|2375|64.42%|$21128|
+|Eastland Independent School District, Texas|5628|90.07%|$21126|
+|Fayette County School District, Alabama|15341|83.76%|$21126|
+|Cameron Public Schools, Oklahoma|2365|84.19%|$21125|
+|Mio-AuSable Schools, Michigan|5032|96.14%|$21122|
+|Kress Independent School District, Texas|1277|92.4%|$21116|
+|Blacklick Valley School District, Pennsylvania|4933|98.48%|$21115|
+|Dunkirk City School District, New York|13320|79.15%|$21112|
+|Scott County Unified School District 466, Kansas|4911|91.57%|$21111|
+|Hillsdale Community Schools, Michigan|14492|95.25%|$21104|
+|Camp Verde Unified District, Arizona|11868|79.36%|$21102|
+|Jayhawk Unified School District 346, Kansas|3062|96.31%|$21101|
+|Turkeyfoot Valley Area School District, Pennsylvania|2409|96.35%|$21100|
+|Springfield City School District, Ohio|55915|73.59%|$21100|
+|Lone Pine Unified School District, California|1928|87.09%|$21094|
+|Days Creek School District 15, Oregon|1215|93.17%|$21094|
+|Salem City School District, New Jersey|4761|30.33%|$21083|
+|Hollister R-V School District, Missouri|10394|93.45%|$21080|
+|Boise City Public Schools, Oklahoma|1391|96.98%|$21078|
+|Monahans-Wickett-Pyote Independent School District, Texas|10626|85.27%|$21075|
+|Anselmo-Merna Public Schools, Nebraska|1147|95.55%|$21071|
+|Ainsworth Community Schools, Nebraska|2887|96.88%|$21068|
+|Timpson Independent School District, Texas|3846|68.3%|$21053|
+|Mountain View School District 244, Idaho|9727|94.41%|$21049|
+|Calhoun County School District, West Virginia|7185|99.29%|$21043|
+|Vanderbilt Area Schools, Michigan|1916|97.39%|$21042|
+|School Administrative District 33, Maine|1689|99.17%|$21037|
+|Galion City School District, Ohio|12759|98.08%|$21033|
+|Thompsonville Community Unit School District 174, Illinois|1879|96.27%|$21033|
+|West Rusk County Consolidated Independent School District, Texas|5277|76.63%|$21030|
+|Union School District, Pennsylvania|4103|95.52%|$21023|
+|Brookings-Harbor School District 17, Oregon|13813|88.01%|$21022|
+|Claiborne Parish School District, Louisiana|15854|45.12%|$21020|
+|Rattan Public Schools, Oklahoma|2239|70.52%|$21012|
+|Pymatuning Valley Local School District, Ohio|9870|97.92%|$21010|
+|Nebo School District, Utah|139684|92.11%|$21010|
+|Cushing Independent School District, Texas|2456|86.52%|$21008|
+|Punxsutawney Area School District, Pennsylvania|20933|97.92%|$21002|
+|Richland Parish School District, Louisiana|20251|61.79%|$20990|
+|Andover Central School District, New York|1914|99.74%|$20990|
+|Pratt Unified School District 382, Kansas|8067|93.45%|$20978|
+|Como-Pickton Consolidated Independent School District, Texas|3629|72.77%|$20976|
+|Devine Independent School District, Texas|10155|91.03%|$20975|
+|Warren City School District, Ohio|34374|65.1%|$20975|
+|Olney Independent School District, Texas|3939|91.39%|$20974|
+|Los Molinos Unified School District, California|3353|81.96%|$20962|
+|Willow Lake School District 12-3, South Dakota|1229|89.42%|$20944|
+|Milton-Union Exempted Village School District, Ohio|10289|98.8%|$20941|
+|Purchase Line School District, Pennsylvania|6680|97.65%|$20938|
+|Hominy Public Schools, Oklahoma|4181|56.49%|$20938|
+|Hugoton Public Schools Unified School District 210, Kansas|4939|79.96%|$20935|
+|Carrollton City School District, Georgia|26857|58.92%|$20933|
+|Poteet Independent School District, Texas|9691|80.66%|$20930|
+|Weston County School District 1, Wyoming|5141|93.85%|$20929|
+|Santa Paula Unified School District, California|28491|85.37%|$20928|
+|Sharon Springs Central School District, New York|2140|97.15%|$20927|
+|Rising Star Independent School District, Texas|1443|96.05%|$20919|
+|Gadsden City School District, Alabama|35224|56.08%|$20918|
+|Park County School District 16, Wyoming|1248|85.58%|$20917|
+|Waskom Independent School District, Texas|4374|80.2%|$20912|
+|Mansfield R-IV School District, Missouri|4052|97.43%|$20905|
+|Mason County School District, West Virginia|26700|97.0%|$20901|
+|Corrigan-Camden Independent School District, Texas|6306|67.89%|$20900|
+|Conecuh County School District, Alabama|12219|50.54%|$20900|
+|Marion Center Area School District, Pennsylvania|9953|98.62%|$20899|
+|Hancock County School District, Tennessee|6568|98.36%|$20898|
+|Downe Township School District, New Jersey|1183|88.0%|$20893|
+|Mid Peninsula School District, Michigan|1774|94.31%|$20893|
+|Paris Independent School District, Texas|22085|69.02%|$20893|
+|Oelwein Community School District, Iowa|7810|94.2%|$20892|
+|Wausaukee School District, Wisconsin|3773|96.37%|$20889|
+|Sublette County School District 9, Wyoming|3270|86.73%|$20887|
+|Santiam Canyon School District 129J, Oregon|4196|82.7%|$20881|
+|Caverna Independent School District, Kentucky|5989|83.59%|$20876|
+|Gila Bend Unified District, Arizona|2357|52.95%|$20875|
+|Arlington Public Schools, Nebraska|3463|92.52%|$20875|
+|Hartville R-II School District, Missouri|4067|92.89%|$20873|
+|Hot Springs School District, Arkansas|31398|69.3%|$20871|
+|Siren School District, Wisconsin|3102|86.94%|$20870|
+|Nowata Public Schools, Oklahoma|5739|65.88%|$20868|
+|Monte Alto Independent School District, Texas|2716|68.96%|$20865|
+|Arnett Public Schools, Oklahoma|1086|92.82%|$20859|
+|South San Antonio Independent School District, Texas|51988|73.05%|$20854|
+|Lexington School District 4, South Carolina|17132|72.65%|$20851|
+|Iberia R-V School District, Missouri|3719|97.85%|$20827|
+|Community Unit School District 2, Illinois|5821|78.06%|$20827|
+|Wilmington Area School District, Pennsylvania|10904|94.97%|$20825|
+|Clatskanie School District 6J, Oregon|5113|85.57%|$20817|
+|Muskegon City School District, Michigan|36688|60.59%|$20814|
+|Eureka School District 44-1, South Dakota|1475|94.92%|$20813|
+|Bridgeton City School District, New Jersey|24264|42.29%|$20807|
+|Trinity Independent School District, Texas|7879|80.35%|$20804|
+|Peñasco Independent Schools, New Mexico|3271|54.26%|$20804|
+|Greenbush, Maine|1373|92.06%|$20804|
+|Shattuck Public Schools, Oklahoma|1786|90.54%|$20787|
+|Homer Community Schools, Michigan|4483|96.34%|$20787|
+|Ripley Central School District, New York|2103|97.72%|$20787|
+|Gustine Unified School District, California|10383|61.25%|$20781|
+|Bloomington Independent School District, Texas|3060|81.47%|$20781|
+|Corvallis School District 509J, Oregon|69581|81.96%|$20781|
+|Aldine Independent School District, Texas|305105|53.76%|$20781|
+|Adrian City School District, Michigan|29465|91.8%|$20779|
+|Gladwin Community Schools, Michigan|13385|96.2%|$20779|
+|Vestal Central School District, New York|32021|82.53%|$20768|
+|Saltillo Independent School District, Texas|1373|81.57%|$20764|
+|Franklin Public Schools, Nebraska|1658|95.42%|$20761|
+|Bandon School District 54, Oregon|6860|92.62%|$20758|
+|Fort Payne City School District, Alabama|14063|82.56%|$20752|
+|Crittenden County School District, Kentucky|8940|96.78%|$20750|
+|Crockett County Consolidated Common School District, Texas|3393|42.79%|$20750|
+|Elgin Local School District, Ohio|6547|96.69%|$20750|
+|Farmersville Unified School District, California|11375|53.76%|$20749|
+|Camp Lejeune Schools, North Carolina|34104|74.29%|$20749|
+|Ridgewood Local School District, Ohio|8687|98.81%|$20747|
+|Perry County School District, Tennessee|8020|92.73%|$20741|
+|Beulah Public School District 27, North Dakota|4842|94.82%|$20736|
+|Maple Valley Schools, Michigan|7981|95.99%|$20733|
+|Idabel Public Schools, Oklahoma|6852|49.93%|$20732|
+|North Park School District R-1, Colorado|1316|98.56%|$20729|
+|Big Spring Independent School District, Texas|29725|76.87%|$20723|
+|Lackland Independent School District, Texas|7364|59.67%|$20722|
+|Southern Tioga School District, Pennsylvania|15124|96.75%|$20717|
+|Gilmer Independent School District, Texas|18512|81.86%|$20716|
+|South Platte Public Schools, Nebraska|1233|92.94%|$20714|
+|United School District, Pennsylvania|7428|97.47%|$20712|
+|Miami Unified District, Arizona|7067|77.83%|$20711|
+|Dexter R-XI School District, Missouri|13109|97.21%|$20708|
+|Quitman County School District, Mississippi|7038|26.53%|$20708|
+|Bradford Exempted Village School District, Ohio|3415|98.27%|$20707|
+|Delhi Central School District, New York|8523|91.28%|$20698|
+|Barnesville Exempted Village School District, Ohio|7097|94.77%|$20693|
+|Okmulgee Public Schools, Oklahoma|12869|52.63%|$20692|
+|Vestaburg Community Schools, Michigan|3889|98.15%|$20691|
+|Twin River Public Schools, Nebraska|2676|99.33%|$20690|
+|Munising Public Schools, Michigan|5562|79.83%|$20690|
+|Pittsford Area Schools, Michigan|3088|94.27%|$20690|
+|Corry Area School District, Pennsylvania|14744|93.07%|$20687|
+|Crane R-III School District, Missouri|3343|96.83%|$20671|
+|Climax-Scotts Community School District, Michigan|3921|94.24%|$20671|
+|Senath-Hornersville C-8 School District, Missouri|4222|90.76%|$20668|
+|Valley Heights Unified School District 498, Kansas|2232|93.59%|$20667|
+|Irwin County School District, Georgia|9379|69.99%|$20667|
+|Westside School District, Arkansas|4273|84.34%|$20667|
+|LaCrosse Unified School District 395, Kansas|2189|92.37%|$20660|
+|Genoa Central School District, Arkansas|4638|100.0%|$20658|
+|Mammoth-San Manuel Unified District, Arizona|5615|80.45%|$20658|
+|Grainger County School District, Tennessee|23268|97.09%|$20654|
+|Culberson County-Allamoore Independent School District, Texas|2183|67.57%|$20647|
+|City of East Chicago School District, Indiana|28044|24.47%|$20645|
+|Acadia Parish School District, Louisiana|62371|78.91%|$20643|
+|Herman-Norcross School District, Minnesota|1016|99.11%|$20625|
+|Northwood School District, Wisconsin|2843|92.05%|$20625|
+|Solanco School District, Pennsylvania|33270|94.79%|$20620|
+|Bogalusa City School District, Louisiana|17418|61.35%|$20617|
+|New Madrid County R-I School District, Missouri|8622|77.37%|$20614|
+|Hale Area Schools, Michigan|4763|94.96%|$20613|
+|Trimble Local School District, Ohio|4484|96.19%|$20612|
+|Fair Play R-II School District, Missouri|2781|96.51%|$20607|
+|Hoxie School District, Arkansas|3572|89.89%|$20600|
+|McCreary County School District, Kentucky|17333|89.81%|$20588|
+|Frankfort-Elberta Area Schools, Michigan|3339|96.02%|$20580|
+|Llano Independent School District, Texas|19169|90.95%|$20580|
+|Chouteau-Mazie Public Schools, Oklahoma|5700|74.39%|$20567|
+|Gorman Independent School District, Texas|2347|92.5%|$20556|
+|Alcona Community Schools, Michigan|6739|96.05%|$20553|
+|Fayette Local School District, Ohio|2689|93.38%|$20547|
+|Calloway County School District, Kentucky|27653|93.1%|$20545|
+|Pecos Independent Schools, New Mexico|4054|71.41%|$20543|
+|West Prairie Community Unit School District 103, Illinois|4725|97.78%|$20532|
+|Lamesa Independent School District, Texas|11864|67.59%|$20529|
+|Melcher-Dallas Community School District, Iowa|1900|97.26%|$20526|
+|Southwest R-V School District, Missouri|4326|90.45%|$20521|
+|Methow Valley School District, Washington|6028|94.13%|$20510|
+|Clayton Public Schools, New Mexico|3551|80.96%|$20509|
+|Laurel School District, Mississippi|18076|35.03%|$20505|
+|Milford Area Public School District 124, Illinois|4168|96.4%|$20503|
+|Sanford School District 6J, Colorado|1774|82.07%|$20500|
+|Aline-Cleo Public Schools, Oklahoma|1210|94.55%|$20500|
+|Alpine School District, Utah|365387|90.79%|$20489|
+|Rock Hills Unified School District 107, Kansas|2480|94.4%|$20486|
+|Joseph City Unified District, Arizona|2266|69.33%|$20484|
+|Dixie County School District, Florida|16740|85.91%|$20482|
+|Dawson Springs Independent School District, Kentucky|2665|93.47%|$20479|
+|West Bonner County School District 83, Idaho|12048|94.01%|$20478|
+|Houston R-I School District, Missouri|5491|91.97%|$20475|
+|Fort Sam Houston Independent School District, Texas|4946|74.18%|$20473|
+|Union School District 5, Oregon|2304|92.49%|$20471|
+|Onaway Area Community School District, Michigan|5444|93.98%|$20466|
+|Las Cruces Public Schools, New Mexico|153925|80.31%|$20461|
+|West Plains R-VII School District, Missouri|12905|97.36%|$20461|
+|Big Beaver Falls Area School District, Pennsylvania|12840|76.59%|$20461|
+|Heber-Overgaard Unified District, Arizona|3660|92.24%|$20458|
+|Harlan Independent School District, Kentucky|2395|91.98%|$20457|
+|Duchesne School District, Utah|19950|89.2%|$20454|
+|Calico Rock School District, Arkansas|4126|82.43%|$20441|
+|Dayton City School District, Ohio|150970|49.79%|$20437|
+|Cave City School District, Arkansas|8476|94.43%|$20434|
+|Hornell City School District, New York|10569|92.13%|$20433|
+|South Pike County School District, Arkansas|5150|85.24%|$20433|
+|Benton Harbor Area Schools, Michigan|30123|40.78%|$20429|
+|Jenkins County School District, Georgia|8787|58.05%|$20426|
+|Tularosa Municipal Schools, New Mexico|8756|48.29%|$20425|
+|West Branch Local School District, Ohio|12501|98.6%|$20425|
+|Shamrock Independent School District, Texas|2483|84.25%|$20423|
+|Forrest City School District, Arkansas|21143|35.93%|$20413|
+|Goshen County School District 1, Wyoming|13239|91.49%|$20408|
+|Plainville Unified School District 270, Kansas|2395|95.32%|$20408|
+|Hickory County R-I School District, Missouri|5144|93.99%|$20406|
+|Granger School District, Washington|6060|73.8%|$20405|
+|Johnson County School District, Georgia|9717|63.85%|$20400|
+|Cambridge Community Unit School District 227, Illinois|2810|96.37%|$20398|
+|Central Decatur Community School District, Iowa|3826|97.1%|$20391|
+|Bloomburg Independent School District, Texas|1729|90.4%|$20391|
+|Flint City School District, Michigan|95965|38.43%|$20387|
+|Rock Valley Community School District, Iowa|5052|93.39%|$20385|
+|Morgan School District, Utah|11950|95.18%|$20382|
+|Coffeyville Unified School District 445, Kansas|12002|75.35%|$20377|
+|Urbana School District 116, Illinois|52428|61.86%|$20374|
+|Blackwell Public Schools, Oklahoma|7371|85.35%|$20366|
+|Stamford Central School District, New York|2752|95.82%|$20362|
+|Edgewood Independent School District (Bexar County), Texas|64284|78.11%|$20359|
+|Lee Center Community Unit School District 271, Illinois|1631|97.24%|$20357|
+|Pittsburg Unified School District 250, Kansas|22627|88.88%|$20349|
+|Three Rivers Independent School District, Texas|4474|88.35%|$20347|
+|San Felipe-Del Rio Consolidated Independent School District, Texas|48543|84.12%|$20340|
+|Decorah Community School District, Iowa|13061|96.21%|$20339|
+|Meigs County School District, Tennessee|12237|95.09%|$20329|
+|Platteville School District, Wisconsin|15960|93.32%|$20326|
+|Aransas Pass Independent School District, Texas|11690|80.1%|$20321|
+|Santa Anna Independent School District, Texas|1786|87.23%|$20313|
+|Mary M. Knight School District, Washington|2204|97.6%|$20313|
+|West Elk Unified School District 282, Kansas|2063|94.96%|$20313|
+|East Ramapo Central School District (Spring Valley), New York|124172|68.84%|$20311|
+|Carter County School District, Kentucky|26976|97.13%|$20305|
+|Cossatot River School District, Arkansas|6048|83.71%|$20303|
+|Highland School District, Arkansas|12373|93.66%|$20300|
+|Morris Area Public Schools, Minnesota|7719|89.38%|$20295|
+|Menomonie Area School District, Wisconsin|27842|92.84%|$20293|
+|Coulterville Unit School District 1, Illinois|1335|95.21%|$20292|
+|Giddings Independent School District, Texas|10739|78.96%|$20288|
+|School Administrative District 29, Maine|7582|90.89%|$20284|
+|Cleveland Independent School District, Texas|28221|76.32%|$20278|
+|Perrin-Whitt Consolidated Independent School District, Texas|1963|95.72%|$20278|
+|Wheeler Independent School District, Texas|1916|95.82%|$20273|
+|Box Elder School District, Utah|54953|92.5%|$20261|
+|Zanesville City School District, Ohio|26549|82.97%|$20252|
+|Cross Plains Independent School District, Texas|2564|95.98%|$20250|
+|Cambridge Joint School District 432, Idaho|1338|92.6%|$20250|
+|Eureka Springs School District, Arkansas|8078|94.87%|$20250|
+|Plains Independent School District, Texas|2030|87.09%|$20250|
+|Magoffin County School District, Kentucky|12346|98.48%|$20237|
+|Tri-County R-VII School District, Missouri|2344|96.42%|$20234|
+|Riverview School District, Arkansas|7837|83.4%|$20229|
+|Annawan Community Unit School District 226, Illinois|1984|95.16%|$20227|
+|Palestine-Wheatley School District, Arkansas|2549|73.09%|$20222|
+|Altoona-Midway Unified School District 387, Kansas|1540|91.88%|$20219|
+|Camdenton R-III School District, Missouri|33451|95.57%|$20216|
+|San Luis Coastal Unified School District, California|94474|80.1%|$20212|
+|Arapaho Public Schools, Oklahoma|2351|84.81%|$20212|
+|Tenaha Independent School District, Texas|2501|53.26%|$20208|
+|Ash Fork Joint Unified District, Arizona|2437|78.5%|$20208|
+|Winona Area Public School District, Minnesota|39237|93.59%|$20200|
+|Barbour County School District, West Virginia|16543|94.72%|$20198|
+|Live Oak Unified School District, California|10836|63.96%|$20197|
+|Challis Joint School District 181, Idaho|2690|86.99%|$20192|
+|Carman-Ainsworth Community School District, Michigan|31687|65.41%|$20189|
+|Lyford Consolidated Independent School District, Texas|6277|85.69%|$20189|
+|Fargo Public Schools, Oklahoma|1472|90.49%|$20188|
+|Maynard School District, Arkansas|2949|93.15%|$20183|
+|La Grande School District 1, Oregon|17386|90.69%|$20181|
+|Oakridge School District 76, Oregon|4872|92.14%|$20172|
+|Montgomery Area School District, Pennsylvania|7636|90.43%|$20170|
+|Martins Mill Independent School District, Texas|1828|97.65%|$20167|
+|Magnolia School District, Arkansas|20177|56.93%|$20164|
+|Ysleta Independent School District, Texas|191080|69.25%|$20163|
+|Montrose Community Schools, Michigan|7688|93.69%|$20163|
+|Ashton Community Unit School District 275, Illinois|3585|91.85%|$20161|
+|Mapleton School District 32, Oregon|1386|96.25%|$20152|
+|Caruthersville 18 School District, Missouri|5284|54.35%|$20139|
+|La Vega Independent School District, Texas|15264|65.46%|$20137|
+|Macon County School District, Georgia|13107|33.57%|$20135|
+|Wister Public Schools, Oklahoma|2269|76.42%|$20125|
+|Klamath Falls City Schools, Oregon|24127|86.02%|$20125|
+|Fremont County Joint School District 215, Idaho|12141|93.73%|$20121|
+|Littlefield Independent School District, Texas|6371|88.45%|$20121|
+|La Villa Independent School District, Texas|3495|70.67%|$20114|
+|Izard Cty Consolidated Schools, Arkansas|4615|93.56%|$20112|
+|Pharr-San Juan-Alamo Independent School District, Texas|133146|85.81%|$20109|
+|Rowan County School District, Kentucky|24534|95.95%|$20096|
+|Blackfoot School District 55, Idaho|21932|77.24%|$20091|
+|Weatherford Public Schools, Oklahoma|13988|85.01%|$20091|
+|Ozark Mountain School District, Arkansas|5063|95.46%|$20083|
+|Aberdeen School District 58, Idaho|4174|64.06%|$20069|
+|Covington Exempted Village School District, Ohio|5055|96.68%|$20066|
+|Waltonville Community Unit School District 1, Illinois|2260|98.19%|$20063|
+|Salem R-80 School District, Missouri|6565|93.08%|$20062|
+|Premont Independent School District, Texas|3478|86.98%|$20057|
+|El Dorado Springs R-II School District, Missouri|8473|94.29%|$20051|
+|Sunnyside School District, Washington|27204|78.45%|$20051|
+|St. Peter Public School District, Minnesota|15278|90.33%|$20051|
+|Estill County School District, Kentucky|14187|97.1%|$20040|
+|Corsicana Independent School District, Texas|29491|67.54%|$20039|
+|Two Rivers School District, Arkansas|6634|89.04%|$20038|
+|Anthony Independent School District, Texas|5352|79.56%|$20035|
+|Manistique Area Schools, Michigan|7133|86.56%|$20029|
+|Baldwin County School District, Georgia|45072|53.5%|$20011|
+|Cassia County Joint School District 151, Idaho|23379|88.99%|$20008|
+|Keokuk Community School District, Iowa|12527|89.61%|$20000|
+|Shady Point Public School, Oklahoma|1381|80.52%|$20000|
+|Springer Municipal Schools, New Mexico|1698|69.43%|$20000|
+|New Brunswick City School District, New Jersey|55992|60.74%|$20000|
+|Felicity-Franklin Local School District, Ohio|5279|97.71%|$20000|
+|Hoven School District 53-2, South Dakota|1110|95.95%|$20000|
+|Thunder Ridge Unified School District 110, Kansas|1584|96.91%|$20000|
+|Clifton-Clyde Unified School District 224, Kansas|2189|98.9%|$20000|
+|McKenzie Special School District, Tennessee|8208|86.03%|$19990|
+|Covert Public Schools, Michigan|3086|59.79%|$19981|
+|Bledsoe County School District, Tennessee|14961|89.96%|$19975|
+|La Veta School District RE-2, Colorado|1489|93.82%|$19975|
+|Crete Public Schools, Nebraska|10418|85.87%|$19974|
+|Carmi-White County Community Unit School District 5, Illinois|8365|96.47%|$19970|
+|Fordland R-III School District, Missouri|4029|95.68%|$19966|
+|Heber Springs School District, Arkansas|12666|94.98%|$19961|
+|Greene County School District, Mississippi|13619|72.87%|$19958|
+|Sutherlin School District 130, Oregon|9994|96.14%|$19948|
+|Muldrow Public Schools, Oklahoma|6585|66.27%|$19940|
+|Jourdanton Independent School District, Texas|7280|92.29%|$19930|
+|East Guernsey Local School District, Ohio|7918|96.88%|$19929|
+|Centre Unified School District 397, Kansas|1186|91.74%|$19917|
+|Kellogg Joint School District 391, Idaho|8020|95.51%|$19878|
+|Marvell School District, Arkansas|3487|42.07%|$19875|
+|Berkshire Hills School District, Massachusetts|9939|88.92%|$19866|
+|North Pemiscot County R-I School District, Missouri|1531|90.66%|$19865|
+|Buhl Joint School District 412, Idaho|8849|90.08%|$19859|
+|Vinita Public Schools, Oklahoma|9189|61.0%|$19851|
+|Montgomery County Public Schools, Virginia|98495|85.21%|$19851|
+|Lakeport Unified School District, California|11046|72.41%|$19849|
+|Somerset Independent School District, Texas|14671|79.94%|$19842|
+|Glencoe Public Schools, Oklahoma|1633|88.43%|$19837|
+|Poteau Public Schools, Oklahoma|11493|77.44%|$19819|
+|San Elizario Independent School District, Texas|12081|56.44%|$19815|
+|Hart County School District, Kentucky|16380|95.62%|$19801|
+|Elcho School District, Wisconsin|2811|97.69%|$19798|
+|Roscoe Collegiate Independent School District, Texas|1886|92.1%|$19792|
+|Azusa Unified School District, California|68481|51.04%|$19791|
+|Waco Independent School District, Texas|108988|63.96%|$19789|
+|Ellensburg School District, Washington|30279|83.8%|$19782|
+|Mercedes Independent School District, Texas|21472|74.0%|$19776|
+|Ontonagon Area Schools, Michigan|3619|96.49%|$19773|
+|Athens Independent School District, Texas|22345|80.72%|$19768|
+|Hay Springs Public Schools, Nebraska|1225|93.47%|$19766|
+|Snake River School District 52, Idaho|7762|89.49%|$19757|
+|Gadsden Independent Schools, New Mexico|67709|73.35%|$19753|
+|Oscoda Area Schools, Michigan|12646|95.71%|$19753|
+|Trout Lake School District, Washington|1144|88.29%|$19750|
+|Medora Community School Corporation, Indiana|1884|98.99%|$19750|
+|Natchitoches Parish School District, Louisiana|38505|51.7%|$19741|
+|Tornillo Independent School District, Texas|2282|47.24%|$19737|
+|Yorktown Independent School District, Texas|3387|75.08%|$19730|
+|Evangeline Parish School District, Louisiana|33491|67.14%|$19725|
+|Chadwick R-I School District, Missouri|1950|99.74%|$19722|
+|O'Donnell Independent School District, Texas|1231|84.97%|$19714|
+|Lewis County School District, Tennessee|12131|94.63%|$19711|
+|Corning Public Schools, Arkansas|6249|94.78%|$19710|
+|Edcouch-Elsa Independent School District, Texas|20275|85.81%|$19702|
+|Gurdon School District, Arkansas|4326|69.09%|$19697|
+|Climax Springs R-IV School District, Missouri|1830|93.55%|$19694|
+|Nyssa School District 26, Oregon|4573|88.45%|$19688|
+|Nebraska Unified District 1, Nebraska|2863|93.96%|$19688|
+|Hillcrest School District, Arkansas|3764|96.52%|$19671|
+|Houghton Lake Community School District, Michigan|14842|96.27%|$19654|
+|Pawnee City Public Schools, Nebraska|1672|96.71%|$19650|
+|Gainesville R-V School District, Missouri|3472|96.83%|$19643|
+|Castle Rock School District, Washington|9684|90.24%|$19616|
+|Radnor Township School District, Pennsylvania|31833|79.86%|$19604|
+|Cherokee Public Schools, Oklahoma|1888|91.79%|$19600|
+|Leeton R-X School District, Missouri|1877|96.59%|$19597|
+|Covington City Public Schools, Virginia|5653|81.87%|$19597|
+|Boyd County Schools, Nebraska|2001|95.75%|$19583|
+|Greensburg Unified School District 422, Kansas|1614|96.72%|$19583|
+|Northeast Bradford School District, Pennsylvania|5071|97.59%|$19577|
+|Mary Walker School District, Washington|3228|83.49%|$19571|
+|Sweet Home School District 55, Oregon|17029|90.69%|$19568|
+|Shakamak Schools Metropolitan School District, Indiana|4792|96.56%|$19565|
+|Brownsville Independent School District, Texas|192423|85.33%|$19559|
+|Minco Public Schools, Oklahoma|2827|89.32%|$19554|
+|Palestine Independent School District, Texas|19928|65.32%|$19554|
+|Soap Lake School District, Washington|3600|85.94%|$19545|
+|Hermitage School District, Arkansas|2775|80.83%|$19545|
+|La Monte R-IV School District, Missouri|1727|83.03%|$19543|
+|Fentress County School District, Tennessee|18405|97.01%|$19543|
+|Commerce Independent School District, Texas|12569|64.71%|$19537|
+|Clinton School District, Arkansas|7998|96.51%|$19531|
+|Tuscaloosa City School District, Alabama|99037|50.57%|$19523|
+|Cumberland County School District, Kentucky|6660|92.48%|$19522|
+|Wolverine Community Schools, Michigan|2665|92.68%|$19520|
+|Neoga Community Unit School District 3, Illinois|4614|97.1%|$19519|
+|Lamar School District, Arkansas|6897|92.46%|$19514|
+|Alton R-IV School District, Missouri|4469|94.56%|$19497|
+|Weaubleau R-III School District, Missouri|3381|91.66%|$19493|
+|School Administrative District 58, Maine|3456|97.48%|$19492|
+|Commercial Township School District, New Jersey|4936|77.17%|$19491|
+|Edinburg Consolidated Independent School District, Texas|164739|76.22%|$19488|
+|Big Bay de Noc School District, Michigan|2325|83.44%|$19482|
+|Agra Public Schools, Oklahoma|1725|90.78%|$19476|
+|East St. Louis School District 189, Illinois|36480|6.27%|$19472|
+|Farwell Area Schools, Michigan|10370|95.32%|$19472|
+|Denali Borough School District, Alaska|2502|81.18%|$19464|
+|Clay County School District, Tennessee|7640|94.59%|$19441|
+|Borger Independent School District, Texas|13820|84.54%|$19437|
+|Afton Public Schools, Oklahoma|2665|74.11%|$19432|
+|Wessington Springs School District 36-2, South Dakota|1609|96.4%|$19422|
+|Pierce Joint Unified School District, California|7193|75.28%|$19403|
+|Burns Flat-Dill City Schools, Oklahoma|2761|80.15%|$19400|
+|Mayfield Independent School District, Kentucky|9680|75.62%|$19380|
+|Darby K-12 Schools, Montana|3811|94.36%|$19375|
+|Booker Independent School District, Texas|1579|73.27%|$19375|
+|Scott City R-I School District, Missouri|5110|96.63%|$19375|
+|St. Edward Public Schools, Nebraska|1049|95.9%|$19375|
+|College Station Independent School District, Texas|123410|76.43%|$19367|
+|Roland Public Schools, Oklahoma|5574|71.12%|$19365|
+|Evart Public Schools, Michigan|6736|94.28%|$19360|
+|Halstead Unified School District 440, Kansas|4935|94.02%|$19356|
+|St. Francis Community Schools Unified School District 297, Kansas|1835|96.19%|$19350|
+|Glascock County School District, Georgia|2984|88.87%|$19348|
+|Remainder of Oregon, Oregon|1379|91.73%|$19347|
+|Claymont City School District, Ohio|11373|96.81%|$19341|
+|Franklin Monroe Local School District, Ohio|3178|99.18%|$19340|
+|Coulee-Hartline School District, Washington|1682|93.4%|$19333|
+|Reading School District, Pennsylvania|88333|47.47%|$19332|
+|Stockton Community Unit School District 206, Illinois|3233|94.87%|$19329|
+|Caldwell School District 132, Idaho|37243|68.18%|$19322|
+|Saginaw City School District, Michigan|58429|46.81%|$19319|
+|Calexico Unified School District, California|39930|68.22%|$19317|
+|West Sabine Independent School District, Texas|2908|89.72%|$19298|
+|Knappa School District 4, Oregon|3903|86.5%|$19292|
+|East Newton County R-VI School District, Missouri|8874|92.0%|$19292|
+|Hubbard Independent School District (Hill, Limestone, and Navarro Counties), Texas|2297|88.86%|$19286|
+|Tishomingo Public Schools, Oklahoma|4523|70.0%|$19278|
+|Shirley School District, Arkansas|4855|94.29%|$19271|
+|Sabine Parish School District, Louisiana|23915|68.15%|$19261|
+|Douglas Unified District, Arizona|21215|80.87%|$19254|
+|School Administrative District 53, Maine|5909|95.89%|$19253|
+|North Chicago School District 187, Illinois|28606|42.68%|$19252|
+|Carrizo Springs Consolidated Independent School District, Texas|10232|70.19%|$19248|
+|Potter Valley Community Unified School District, California|1985|83.63%|$19245|
+|Webster Parish School District, Louisiana|38813|63.51%|$19242|
+|East Jackson Community Schools, Michigan|8146|93.31%|$19242|
+|Scott County School District 1, Indiana|6446|94.97%|$19241|
+|Ellinwood Public Schools Unified School District 355, Kansas|2745|98.8%|$19231|
+|Morton School District, Washington|2787|82.88%|$19229|
+|Chattahoochee County School District, Georgia|2425|57.86%|$19226|
+|Arkadelphia School District, Arkansas|15984|68.14%|$19194|
+|Mabton School District, Washington|3408|69.63%|$19177|
+|Morrisville-Eaton Central School District, New York|6074|89.51%|$19177|
+|Falls City Public Schools, Nebraska|5732|91.57%|$19177|
+|Shandon Joint Unified School District, California|1621|75.82%|$19167|
+|Cobre Consolidated Schools, New Mexico|7731|81.89%|$19167|
+|Brooks County Independent School District, Texas|7100|80.56%|$19145|
+|Bisbee Unified District, Arizona|6673|89.7%|$19136|
+|Baird Independent School District, Texas|2972|90.38%|$19127|
+|Bevier C-4 School District, Missouri|1228|97.07%|$19125|
+|Commerce Public Schools, Oklahoma|3781|62.58%|$19103|
+|Reef-Sunset Unified School District, California|14855|42.36%|$19101|
+|Antlers Public Schools, Oklahoma|5026|71.93%|$19098|
+|Raton Public Schools, New Mexico|6840|83.58%|$19095|
+|Springlake-Earth Independent School District, Texas|1605|85.36%|$19087|
+|Jacksonville City School District, Alabama|12796|70.02%|$19085|
+|Chelsea Public Schools, Oklahoma|6618|66.17%|$19083|
+|Walton Central School District, New York|6149|97.02%|$19076|
+|Columbia School District, Mississippi|10615|61.91%|$19063|
+|Butte County Joint School District 111, Idaho|2499|99.48%|$19063|
+|Winona R-III School District, Missouri|2203|93.92%|$19063|
+|Monroe County Community School Corporation, Indiana|128700|84.17%|$19051|
+|Juab School District, Utah|10771|93.46%|$19038|
+|West Central School Corporation, Indiana|4703|95.66%|$19028|
+|New England Public School District 9, North Dakota|1826|92.22%|$19024|
+|Perryton Independent School District, Texas|9812|80.76%|$19023|
+|Norwood R-I School District, Missouri|2362|94.67%|$19000|
+|Millsap Independent School District, Texas|5420|89.13%|$19000|
+|Southeast Local School District (Holmes, Stark, and Wayne Counties), Ohio|18114|97.96%|$18992|
+|Hartford Public School District, Michigan|6484|78.95%|$18980|
+|Mesick Consolidated Schools, Michigan|5019|92.89%|$18977|
+|Grove City Area School District, Pennsylvania|16835|95.18%|$18950|
+|Carrollton Community Unit School District 1, Illinois|4094|97.44%|$18946|
+|Northfield Public School District, Minnesota|28842|88.3%|$18940|
+|Commodore Perry School District, Pennsylvania|4181|97.37%|$18934|
+|Sinton Independent School District, Texas|9701|90.3%|$18923|
+|Frost Independent School District, Texas|1812|84.82%|$18920|
+|Randolph Southern School Corporation, Indiana|3344|91.24%|$18917|
+|Harrisburg School District, Arkansas|7192|90.98%|$18909|
+|Yosemite Unified School District, California|11456|85.95%|$18901|
+|Superior Central Schools, Michigan|2110|93.27%|$18894|
+|Fort Campbell Schools, Tennessee|7004|72.77%|$18889|
+|Pearl River County School District, Mississippi|19390|96.26%|$18886|
+|Northville Central School District, New York|3368|96.47%|$18883|
+|Monmouth-Roseville Community Unit School District 238, Illinois|10166|83.11%|$18880|
+|Grand Saline Independent School District, Texas|6444|94.15%|$18877|
+|Posen Consolidated School District, Michigan|1873|96.64%|$18875|
+|Burkeville Independent School District, Texas|2301|73.88%|$18864|
+|Bowlegs Public Schools, Oklahoma|1627|72.65%|$18841|
+|Eastern Lancaster County School District, Pennsylvania|33136|96.77%|$18829|
+|Pearsall Independent School District, Texas|12982|78.4%|$18828|
+|Campbell Independent School District, Texas|2675|86.39%|$18827|
+|Yantis Independent School District, Texas|3773|92.87%|$18808|
+|Eureka County School District, Nevada|1839|94.73%|$18790|
+|Lincoln K-12 Schools, Montana|1175|89.7%|$18750|
+|Macomb Public Schools, Oklahoma|1778|78.23%|$18750|
+|Crawford Public Schools, Nebraska|1405|92.95%|$18750|
+|Plains K-12 Schools, Montana|3517|95.31%|$18726|
+|Noble Local School District, Ohio|5908|98.61%|$18726|
+|Cazenovia Central School District, New York|10478|95.41%|$18718|
+|North Wildwood City School District, New Jersey|3794|96.39%|$18707|
+|Eminence Independent School District, Kentucky|3102|77.63%|$18696|
+|Opp City School District, Alabama|6405|78.78%|$18694|
+|Doniphan R-I School District, Missouri|10235|95.79%|$18678|
+|DeKalb Community Unit School District 428, Illinois|51883|72.45%|$18674|
+|Ringling Public Schools, Oklahoma|1933|82.62%|$18661|
+|Cache School District, Utah|75070|92.72%|$18655|
+|Bell County School District, Kentucky|15250|98.42%|$18649|
+|Gooding Joint School District 231, Idaho|6676|92.2%|$18649|
+|Kingsville Independent School District, Texas|25154|79.69%|$18640|
+|Naylor R-II School District, Missouri|1667|95.5%|$18625|
+|Forest Municipal School District, Mississippi|9244|52.04%|$18623|
+|Heavener Public Schools, Oklahoma|4750|70.06%|$18614|
+|Machias, Maine|2085|92.33%|$18598|
+|Emporia Unified School District 253, Kansas|27081|85.11%|$18597|
+|Eagle Pass Independent School District, Texas|58098|81.01%|$18592|
+|Ranger Independent School District, Texas|3357|91.39%|$18583|
+|Taft Independent School District, Texas|5129|78.09%|$18580|
+|Quanah Independent School District, Texas|2975|83.16%|$18578|
+|Mackay Joint School District 182, Idaho|1717|85.56%|$18565|
+|Parma School District 137, Idaho|5304|85.39%|$18553|
+|Weleetka Public Schools, Oklahoma|2064|57.56%|$18542|
+|Casey County School District, Kentucky|15968|96.22%|$18526|
+|Marquette Area Public Schools, Michigan|31591|91.37%|$18525|
+|Kamiah Joint School District 304, Idaho|4316|82.02%|$18520|
+|Republic School District, Washington|3049|90.0%|$18516|
+|Keene Independent School District, Texas|5527|79.77%|$18494|
+|State College Area School District, Pennsylvania|96470|82.73%|$18476|
+|San Benito Consolidated Independent School District, Texas|44773|82.38%|$18470|
+|Garfield School District, Utah|5000|92.76%|$18457|
+|Lamoni Community School District, Iowa|3152|89.28%|$18446|
+|Butte Valley Unified School District, California|1694|84.06%|$18438|
+|Kimball Public Schools, Nebraska|3109|93.21%|$18433|
+|Parlier Unified School District, California|16351|76.28%|$18417|
+|Frankfort Community Unit School District 168, Illinois|11536|97.16%|$18407|
+|Keota Public Schools, Oklahoma|2706|69.55%|$18398|
+|Magnet Cove School District, Arkansas|3127|96.93%|$18398|
+|Ness City Unified School District 303, Kansas|1716|95.63%|$18393|
+|Alanson Public Schools, Michigan|4068|84.96%|$18378|
+|McCall-Donnelly Joint School District 421, Idaho|9019|98.57%|$18367|
+|White Sulphur Springs K-12, Montana|1795|91.81%|$18365|
+|Willows Unified School District, California|8863|79.47%|$18365|
+|Charleston Community Unit School District 1, Illinois|25922|89.26%|$18357|
+|Summersville R-II School District, Missouri|2326|99.14%|$18339|
+|Wallace County Schools Unified School District 241, Kansas|1445|93.15%|$18333|
+|Warsaw R-IX School District, Missouri|10368|93.77%|$18324|
+|Southeast Island School District, Alaska|1836|86.82%|$18313|
+|Lake Pend Oreille School District 84, Idaho|32408|93.92%|$18303|
+|Norwood School District R-2J, Colorado|2238|98.26%|$18295|
+|Aspermont Independent School District, Texas|1369|90.21%|$18289|
+|School Administrative District 13, Maine|1329|95.18%|$18264|
+|Millinocket, Maine|4280|97.43%|$18261|
+|Rector School District, Arkansas|4030|95.09%|$18241|
+|Warrensburg R-VI School District, Missouri|26244|87.52%|$18240|
+|Kemp Independent School District, Texas|9736|92.8%|$18235|
+|West Oso Independent School District, Texas|9125|73.08%|$18229|
+|Woodland R-IV School District, Missouri|5392|93.95%|$18220|
+|Clay County School District, West Virginia|8599|99.15%|$18206|
+|Northport Public School District, Michigan|2017|94.15%|$18182|
+|Jefferson County Joint School District 251, Idaho|25372|90.28%|$18178|
+|Pequea Valley School District, Pennsylvania|22769|95.57%|$18176|
+|Silver City Consolidated Schools, New Mexico|19660|86.67%|$18173|
+|Hemingford Public Schools, Nebraska|1904|95.59%|$18150|
+|Campbellsville Independent School District, Kentucky|8868|79.93%|$18137|
+|Everton R-III School District, Missouri|1236|96.52%|$18125|
+|Clarion Area School District, Pennsylvania|9225|93.28%|$18125|
+|Sierra Grande School District R-30, Colorado|2156|83.16%|$18073|
+|Gladewater Independent School District, Texas|11074|83.47%|$18066|
+|Willow Springs R-IV School District, Missouri|7578|92.43%|$18047|
+|Martinsville Community Unit School District 3C, Illinois|2556|96.91%|$18047|
+|Edna Independent School District, Texas|8054|80.84%|$18041|
+|Uvalde Consolidated Independent School District, Texas|24519|87.2%|$18036|
+|East Machias, Maine|1307|98.09%|$18036|
+|Atoka Public Schools, Oklahoma|4146|65.41%|$18023|
+|Sunburst K-12 Schools, Montana|1367|94.59%|$18018|
+|South Umpqua School District 19, Oregon|12362|89.05%|$17989|
+|Northland Community Schools, Minnesota|4475|83.64%|$17989|
+|Anton Independent School District, Texas|1403|84.18%|$17969|
+|Turpin Public Schools, Oklahoma|1733|71.44%|$17969|
+|Fannindel Independent School District, Texas|1340|82.99%|$17955|
+|Quinton Public Schools, Oklahoma|1955|70.23%|$17939|
+|South Pike School District, Mississippi|11662|42.1%|$17931|
+|Nicholas County School District, Kentucky|7189|96.38%|$17928|
+|Grapeland Independent School District, Texas|4597|75.96%|$17926|
+|Southwest Public Schools, Nebraska|2221|91.31%|$17917|
+|Williams Unified School District, California|5992|80.57%|$17878|
+|Remainder of Georgia, Georgia|17959|69.5%|$17874|
+|Russellville Schools, Arkansas|39399|86.55%|$17832|
+|Richton School District, Mississippi|3583|82.89%|$17826|
+|Morris Central School District, New York|2355|98.17%|$17798|
+|Linden-Kildare Consolidated Independent School District, Texas|5533|74.61%|$17778|
+|Emery School District, Utah|10099|97.16%|$17778|
+|Big Horn County School District 2, Wyoming|3213|95.24%|$17763|
+|Nogales Unified District, Arizona|21132|73.86%|$17746|
+|Clarke County School District, Georgia|126952|62.0%|$17733|
+|Wellington Independent School District, Texas|2919|69.96%|$17731|
+|Marsing Joint School District 363, Idaho|4909|84.11%|$17731|
+|Linton-Stockton School Corporation, Indiana|8180|97.69%|$17693|
+|Council School District 13, Idaho|2145|96.83%|$17692|
+|Kings Canyon Joint Unified School District, California|46443|73.15%|$17657|
+|Richland R-I School District, Missouri|1427|88.72%|$17656|
+|Cutler-Orosi Joint Unified School District, California|19725|56.19%|$17576|
+|Knox County R-I School District, Missouri|3936|96.44%|$17574|
+|Nocona Independent School District, Texas|4595|87.16%|$17574|
+|Blue Ridge Unified District, Arizona|13470|90.81%|$17566|
+|Poplarville Separate School District, Mississippi|12139|82.44%|$17536|
+|Auburn Public Schools, Nebraska|5621|92.28%|$17524|
+|San Juan School District, Utah|14823|47.55%|$17517|
+|Glenns Ferry Joint School District 192, Idaho|2635|87.89%|$17500|
+|Hancock Public School District, Minnesota|1474|93.35%|$17500|
+|Beecher-Dunbar-Pembine School District, Wisconsin|2239|95.0%|$17500|
+|Arkoma Public Schools, Oklahoma|1924|78.33%|$17500|
+|Albany County School District 1, Wyoming|38664|88.2%|$17496|
+|Alliance City School District, Ohio|20776|87.24%|$17494|
+|Linden City School District, Alabama|3766|62.27%|$17472|
+|Lewisburg Area School District, Pennsylvania|18958|87.21%|$17465|
+|Trinidad School District 1, Colorado|9769|82.59%|$17463|
+|Stephenville Independent School District, Texas|28137|87.17%|$17463|
+|Duncan Unified District, Arizona|2861|89.72%|$17462|
+|Huntington Independent School District, Texas|9249|93.2%|$17453|
+|Westwood Community Schools, Michigan|18939|44.5%|$17448|
+|South Carroll Special School District, Tennessee|2645|93.95%|$17447|
+|Smithville Public Schools, Oklahoma|1747|64.45%|$17431|
+|Dalton Local School District, Ohio|7291|98.13%|$17424|
+|School Administrative District 67, Maine|6179|97.28%|$17416|
+|Campbell R-II School District, Missouri|3112|93.44%|$17412|
+|North Conejos School District RE-1J, Colorado|4463|85.53%|$17409|
+|Cardinal Local School District, Ohio|15287|97.99%|$17402|
+|Gresham School District, Wisconsin|2026|74.09%|$17396|
+|Ferris Independent School District, Texas|10704|69.21%|$17387|
+|Santa Rosa Consolidated Schools, New Mexico|4608|69.97%|$17381|
+|Cross County Community Schools, Nebraska|2157|94.3%|$17378|
+|Millard School District, Utah|12963|88.28%|$17377|
+|Vandercook Lake Public Schools, Michigan|4762|96.85%|$17376|
+|Checotah Public Schools, Oklahoma|9484|67.86%|$17342|
+|Carrollton School District, Michigan|5685|87.28%|$17339|
+|Greencastle Community School Corporation, Indiana|14336|89.77%|$17323|
+|Shelby County R-IV School District, Missouri|4229|94.94%|$17321|
+|Belfield Public School District 13, North Dakota|1328|96.23%|$17321|
+|Yellville-Summit School District, Arkansas|6303|96.08%|$17303|
+|Salisbury-Elk Lick School District, Pennsylvania|3033|92.81%|$17287|
+|Thayer R-II School District, Missouri|4224|95.9%|$17259|
+|Bolivar R-I School District, Missouri|17139|94.98%|$17254|
+|Licking R-VIII School District, Missouri|6308|89.71%|$17248|
+|Golden Plains Unified School District, California|6662|51.86%|$17244|
+|Lyle School District, Washington|2633|91.34%|$17237|
+|Prague Public Schools, Oklahoma|4820|86.0%|$17237|
+|East Holmes Local School District, Ohio|21187|99.21%|$17236|
+|Southern Local School District (Columbiana and Jefferson Counties), Ohio|5462|98.46%|$17231|
+|Clint Independent School District, Texas|40780|75.73%|$17222|
+|Centennial School District R-1, Colorado|1654|68.38%|$17212|
+|Sedgwick, Maine|1380|96.52%|$17199|
+|Cole Camp R-I School District, Missouri|5436|98.07%|$17184|
+|Leland Community Unit School District 1, Illinois|1993|95.18%|$17176|
+|Bradford Special School District, Tennessee|3293|93.59%|$17171|
+|Mendocino Unified School District, California|5381|89.93%|$17170|
+|Middlesboro Independent School District, Kentucky|9362|91.74%|$17170|
+|Barnwell School District 19, South Carolina|4556|46.64%|$17153|
+|Hagerman Municipal Schools, New Mexico|1937|83.63%|$17150|
+|Mountain Grove R-III School District, Missouri|8902|95.28%|$17145|
+|Westview School Corporation, Indiana|20169|98.15%|$17131|
+|Dexter Consolidated Schools, New Mexico|4012|80.98%|$17118|
+|Bronte Independent School District, Texas|1605|88.85%|$17105|
+|Smith Center Unified School District 237, Kansas|2696|95.66%|$17098|
+|Calipatria Unified School District, California|8713|39.32%|$17097|
+|Cortland City School District, New York|24101|91.87%|$17071|
+|American Falls Joint School District 381, Idaho|6800|77.76%|$17069|
+|Ketchum Public Schools, Oklahoma|3565|73.32%|$17064|
+|Soda Springs Joint School District 150, Idaho|3946|96.25%|$17064|
+|Hamilton K-12 Schools, Montana|11932|95.13%|$17063|
+|Sevier School District, Utah|21475|94.4%|$17036|
+|Knox City-O'Brien Consolidated Independent School District, Texas|1565|87.73%|$17031|
+|Harleton Independent School District, Texas|3372|94.87%|$17026|
+|Troy City School District, Alabama|18995|55.89%|$17015|
+|Fulton Independent School District, Kentucky|2491|60.18%|$17000|
+|Pe Ell School District, Washington|1783|91.48%|$17000|
+|Van Buren R-I School District, Missouri|3057|95.78%|$16986|
+|Chadron Public Schools, Nebraska|7145|87.29%|$16977|
+|Caruthers Unified School District, California|4819|50.07%|$16958|
+|Paxton Consolidated Schools, Nebraska|1129|95.66%|$16927|
+|Drumright Public Schools, Oklahoma|3171|86.44%|$16920|
+|Barbourville Independent School District, Kentucky|2797|94.53%|$16909|
+|Dos Palos-Oro Loma Joint Unified School District, California|9551|57.31%|$16906|
+|San Diego Independent School District, Texas|5852|91.44%|$16904|
+|Overton Independent School District, Texas|4015|83.69%|$16893|
+|Hempstead Independent School District, Texas|11401|32.81%|$16887|
+|Greenfield R-IV School District, Missouri|2938|92.41%|$16875|
+|Colonial Beach Town Public Schools, Virginia|3307|78.62%|$16865|
+|Gilmer County School District, West Virginia|7970|83.07%|$16863|
+|Perry County Schools, Mississippi|8398|77.52%|$16853|
+|Myrtle Point School District 41, Oregon|4835|89.0%|$16845|
+|Coffeeville School District, Mississippi|5506|59.72%|$16818|
+|Junction Independent School District, Texas|4033|85.15%|$16817|
+|Engadine Consolidated Schools, Michigan|2135|83.47%|$16815|
+|Chase County Schools, Nebraska|2894|92.16%|$16801|
+|Oregon-Howell R-III School District, Missouri|1478|95.81%|$16779|
+|Bloomfield-Mespo Local School District, Ohio|4016|97.61%|$16743|
+|Bandera Independent School District, Texas|18532|88.15%|$16738|
+|Mountain View School District, Arkansas|12608|94.69%|$16721|
+|Alto Independent School District, Texas|3275|67.21%|$16682|
+|Cascade School District 422, Idaho|2186|96.25%|$16667|
+|Ray Unified District, Arizona|4742|84.25%|$16667|
+|North Sanpete School District, Utah|11984|92.31%|$16642|
+|Talihina Public Schools, Oklahoma|2390|62.09%|$16630|
+|Adrian School District 61, Oregon|1157|88.25%|$16612|
+|Robstown Independent School District, Texas|15069|87.93%|$16596|
+|Worth County R-III School District, Missouri|2006|98.31%|$16563|
+|Wolfe County School District, Kentucky|7188|97.65%|$16551|
+|Towns County School District, Georgia|11815|94.81%|$16549|
+|Lindsay Unified School District, California|16651|70.22%|$16528|
+|Lake Ridge Schools, Indiana|11387|71.84%|$16489|
+|Carbon School District, Utah|20401|90.92%|$16486|
+|Hermitage R-IV School District, Missouri|3190|99.09%|$16482|
+|Brownfield Independent School District, Texas|10360|92.07%|$16476|
+|Buffalo Public Schools, Oklahoma|1813|92.88%|$16450|
+|Jewell School District 8, Oregon|1374|87.55%|$16435|
+|Mission Consolidated Independent School District, Texas|62969|79.82%|$16427|
+|Daleville City School District, Alabama|11348|67.52%|$16426|
+|Lordsburg Municipal Schools, New Mexico|3251|85.64%|$16417|
+|Mena Public Schools, Arkansas|11823|93.75%|$16412|
+|Marion Community Schools, Indiana|34744|80.42%|$16407|
+|Earlville Community Unit School District 9, Illinois|3097|90.86%|$16402|
+|Chester-Upland School District, Pennsylvania|41271|21.0%|$16401|
+|San Marcos Consolidated Independent School District, Texas|79636|80.0%|$16380|
+|Cedar Falls Community School District, Iowa|42602|91.46%|$16375|
+|Port Orford-Langlois School District 2J, Oregon|3342|93.03%|$16375|
+|Harrison Community Schools, Michigan|12877|96.3%|$16375|
+|Miami-Yoder School District 60-JT, Colorado|3028|94.35%|$16364|
+|Camas Valley School District 21J, Oregon|1188|94.36%|$16343|
+|Manhattan Unified School District 383, Kansas|62211|82.82%|$16329|
+|Starkville Oktibbeha Consolidated School District, Mississippi|49593|56.91%|$16307|
+|Bonneville Joint School District 93, Idaho|55441|91.69%|$16305|
+|McFarland Unified School District, California|14670|76.49%|$16301|
+|Webster County School District, West Virginia|8289|98.4%|$16297|
+|Donna Independent School District, Texas|67341|79.92%|$16292|
+|Mora Independent Schools, New Mexico|3613|54.86%|$16284|
+|North Tippah School District, Mississippi|6735|90.16%|$16283|
+|Van-Far R-I School District, Missouri|5351|84.97%|$16281|
+|Valley School District 262, Idaho|2751|90.48%|$16280|
+|Kiryas Joel Village Union Free School District, New York|25910|98.79%|$16250|
+|Sharon-Mutual Public Schools, Oklahoma|1664|89.06%|$16250|
+|Wallace School District 393, Idaho|4490|90.8%|$16231|
+|Marsh Valley Joint School District 21, Idaho|7689|94.1%|$16193|
+|Rose Bud School District, Arkansas|4198|93.62%|$16188|
+|Bray-Doyle Public Schools, Oklahoma|2214|85.55%|$16181|
+|Freer Independent School District, Texas|2703|90.94%|$16175|
+|Kirbyville Consolidated Independent School District, Texas|8795|80.82%|$16156|
+|Neelyville R-IV School District, Missouri|2711|96.86%|$16141|
+|Fort Stewart School District, Georgia|10005|54.62%|$16120|
+|Weiser School District 431, Idaho|8297|83.46%|$16118|
+|Newton Independent School District, Texas|7493|65.7%|$16110|
+|Cusick School District, Washington|2334|77.63%|$16094|
+|Bridger K-12 Schools, Montana|1469|93.74%|$16060|
+|Uintah School District, Utah|35736|86.75%|$16027|
+|Preston Joint School District 201, Idaho|10620|93.28%|$16026|
+|Sterling Unified School District 376, Kansas|3220|92.45%|$16014|
+|Laredo Independent School District, Texas|85983|81.21%|$16003|
+|Corvallis K-12 Schools, Montana|8507|92.77%|$16000|
+|Fort Campbell Dependent Schools, Kentucky|14363|69.34%|$15962|
+|Sumter County School District, Alabama|12595|25.33%|$15961|
+|Moscow School District 281, Idaho|29193|89.8%|$15958|
+|Kutztown Area School District, Pennsylvania|18854|88.73%|$15920|
+|Bear Lake County School District 33, Idaho|5914|94.18%|$15875|
+|California Area School District, Pennsylvania|10738|87.54%|$15870|
+|Buena Vista City Public Schools, Virginia|6477|88.45%|$15816|
+|Norfork Schools, Arkansas|2927|96.69%|$15809|
+|Southland C-9 School District, Missouri|2008|88.55%|$15777|
+|Cloverport Independent School District, Kentucky|1466|97.68%|$15774|
+|Hot Springs K-12, Montana|1657|81.23%|$15750|
+|Muleshoe Independent School District, Texas|6497|93.46%|$15709|
+|Nacogdoches Independent School District, Texas|46360|68.56%|$15674|
+|Doniphan West Unified School District 111, Kansas|2440|83.16%|$15644|
+|Community R-VI School District, Missouri|2708|97.12%|$15608|
+|Muskegon Heights School District, Michigan|10735|17.08%|$15603|
+|Cottonwood Joint School District 242, Idaho|2829|94.24%|$15602|
+|Rocksprings Independent School District, Texas|1724|99.88%|$15593|
+|Center School District 26-JT, Colorado|3627|84.23%|$15586|
+|Porum Public Schools, Oklahoma|2169|71.14%|$15580|
+|New Summerfield Independent School District, Texas|1608|84.89%|$15556|
+|Goldendale School District, Washington|7574|92.37%|$15542|
+|Philipsburg K-12 Schools, Montana|2007|95.37%|$15536|
+|Terry K-12 Schools, Montana|1162|96.47%|$15536|
+|Hitchcock County School System, Nebraska|1808|94.25%|$15521|
+|Greenville, Maine|1507|99.14%|$15504|
+|Broaddus Independent School District, Texas|2871|100.0%|$15479|
+|Watauga County Schools, North Carolina|55669|93.45%|$15446|
+|Konawa Public Schools, Oklahoma|3170|66.09%|$15444|
+|Valley View Independent School District (Hidalgo County), Texas|17637|55.62%|$15361|
+|Niobrara County School District 1, Wyoming|2390|92.97%|$15357|
+|Baldwin Community Schools, Michigan|7903|81.88%|$15335|
+|Atchison Public Schools Unified School District 409, Kansas|11715|86.88%|$15322|
+|Rio Grande City Consolidated Independent School District, Texas|38889|82.18%|$15282|
+|Lynchburg City Public Schools, Virginia|80970|64.16%|$15272|
+|Auburn City School District, Alabama|65508|71.03%|$15269|
+|Montezuma Unified School District 371, Kansas|1576|99.75%|$15250|
+|New Paltz Central School District, New York|19834|84.12%|$15243|
+|Firebaugh-Las Deltas Unified School District, California|8802|52.39%|$15211|
+|North Daviess Community Schools, Indiana|9451|97.52%|$15181|
+|Sugar-Salem Joint School District 322, Idaho|4788|97.26%|$15179|
+|Dewey Public Schools, Oklahoma|4951|79.05%|$15176|
+|Beecher Community School District, Michigan|8614|29.13%|$15156|
+|Progreso Independent School District, Texas|8124|62.94%|$15155|
+|Stillwater Public Schools, Oklahoma|57743|77.35%|$15140|
+|Deer Isle-Stonington Community School District, Maine|3094|98.64%|$15139|
+|Burlington School District, Vermont|42645|84.8%|$15139|
+|Roma Independent School District, Texas|24356|85.7%|$15094|
+|Onalaska Independent School District, Texas|7575|95.42%|$15045|
+|La Joya Independent School District, Texas|104756|80.56%|$15044|
+|Salmon School District 291, Idaho|7244|94.08%|$15016|
+|Plemons-Stinnett-Phillips Consolidated Independent School District, Texas|2179|69.44%|$15000|
+|Varnum Public Schools, Oklahoma|1499|66.71%|$15000|
+|Platte-Geddes School District 11-5, South Dakota|2866|97.31%|$14973|
+|Victor K-12 Schools, Montana|3296|90.23%|$14947|
+|Wayne Community Schools, Nebraska|7069|94.7%|$14903|
+|Maxwell Public Schools, Nebraska|1138|95.43%|$14875|
+|Deming Public Schools, New Mexico|24022|84.17%|$14855|
+|Portales Municipal Schools, New Mexico|16870|71.98%|$14852|
+|Homedale Joint School District 370, Idaho|5945|77.29%|$14782|
+|Wyandanch Union Free School District, New York|11436|13.1%|$14777|
+|Eastern Cherokee Reservation, North Carolina|7582|14.49%|$14764|
+|Lead Hill School District, Arkansas|3520|95.77%|$14740|
+|Big Rapids Public Schools, Michigan|19760|89.09%|$14719|
+|Newport School District, Arkansas|10549|69.45%|$14713|
+|Mayer Unified District, Arizona|7831|81.79%|$14700|
+|Jim Hogg County Independent School District, Texas|5187|91.75%|$14685|
+|Bloomfield R-XIV School District, Missouri|4505|97.71%|$14682|
+|Moffat School District 2, Colorado|1718|88.13%|$14663|
+|Muncie Community Schools, Indiana|67261|82.51%|$14636|
+|Lutie R-VI School District, Missouri|1345|96.36%|$14634|
+|Valley R-VI School District, Missouri|3110|92.09%|$14623|
+|Brookeland Independent School District, Texas|1665|91.35%|$14618|
+|Logan School District, Utah|51266|85.99%|$14586|
+|Steubenville City School District, Ohio|15022|75.03%|$14507|
+|Shoshone Joint School District 312, Idaho|3240|83.95%|$14500|
+|Cannelton City Schools, Indiana|1353|96.67%|$14500|
+|East Tallahatchie School District, Mississippi|7900|49.96%|$14444|
+|Hattiesburg Public School District, Mississippi|38187|39.78%|$14406|
+|Murray Independent School District, Kentucky|11338|86.77%|$14353|
+|Bryn Athyn School District, Pennsylvania|1217|94.33%|$14350|
+|Somerset Independent School District, Kentucky|8664|91.7%|$14349|
+|Iron School District, Utah|53148|90.74%|$14343|
+|Jessieville School District, Arkansas|6367|95.65%|$14336|
+|Van Vleck Independent School District, Texas|5848|64.95%|$14316|
+|Chawanakee Unified School District, California|4641|76.08%|$14297|
+|Fort Hancock Independent School District, Texas|2734|66.24%|$14252|
+|Boling Independent School District, Texas|4160|72.74%|$14223|
+|Bendle Public Schools, Michigan|5341|94.27%|$14222|
+|Kirksville R-III School District, Missouri|21712|89.73%|$14183|
+|Atlanta Community Schools, Michigan|3457|97.11%|$14182|
+|Hart Independent School District, Texas|1476|91.06%|$14125|
+|Nueces Canyon Consolidated Independent School District, Texas|1760|98.24%|$14095|
+|South Haven Unified School District 509, Kansas|1068|94.01%|$14083|
+|Madison Community Unit School District 12, Illinois|3702|28.82%|$14073|
+|Fillmore Central School District, New York|5507|94.53%|$14036|
+|Santa Rosa Independent School District, Texas|4893|84.22%|$13982|
+|South Iron County R-I School District, Missouri|2006|96.76%|$13977|
+|Uniondale Union Free School District, New York|44732|31.11%|$13925|
+|Ririe Joint School District 252, Idaho|2322|95.18%|$13902|
+|Clarksville Independent School District, Texas|5068|59.25%|$13750|
+|West Jefferson School District 253, Idaho|2336|85.23%|$13565|
+|South Sanpete School District, Utah|18437|84.35%|$13472|
+|Hamilton Central School District, New York|7315|88.79%|$13425|
+|Mendota Unified School District, California|13610|38.03%|$13244|
+|Indiana Area School District, Pennsylvania|31763|89.35%|$13232|
+|Kent City School District, Ohio|34849|81.35%|$13198|
+|Grace Joint School District 148, Idaho|2695|89.28%|$13175|
+|Prince Edward County Public Schools, Virginia|22892|62.77%|$13143|
+|Macomb Community Unit School District 185, Illinois|20412|85.91%|$13111|
+|Estancia Municipal Schools, New Mexico|4048|86.12%|$13005|
+|Hayti R-II School District, Missouri|3290|53.28%|$12697|
+|Castine, Maine|1189|91.76%|$12667|
+|Maryville R-II Schools, Missouri|15256|92.03%|$12604|
+|Carlisle Independent School District, Texas|2388|83.08%|$12478|
+|Harrisonburg City Public Schools, Virginia|53558|77.22%|$12338|
+|Wheatland R-II School District, Missouri|2360|97.46%|$12321|
+|West Bolivar Consolidated School District, Mississippi|7694|24.97%|$12319|
+|West Side Joint School District 202, Idaho|2824|96.14%|$12241|
+|Crooked Oak Public Schools, Oklahoma|3324|70.07%|$12221|
+|Vermillion School District 13-1, South Dakota|12526|87.11%|$12209|
+|Tulia Independent School District, Texas|5279|80.02%|$12208|
+|Cloudcroft Municipal Schools, New Mexico|3177|97.23%|$12169|
+|Houghton-Portage Township Schools, Michigan|10593|86.96%|$12165|
+|Hidalgo Independent School District, Texas|5986|61.58%|$12107|
+|Round Valley Unified School District, California|2920|55.72%|$12095|
+|Talawanda City School District, Ohio|36900|85.44%|$12050|
+|Rich Hill R-IV School District, Missouri|2344|94.84%|$11964|
+|Slippery Rock Area School District, Pennsylvania|21299|95.1%|$11953|
+|Remainder of South Carolina, South Carolina|17669|59.99%|$11923|
+|Allendale Public School District, Michigan|26287|90.01%|$11834|
+|Ames Community School District, Iowa|62845|80.8%|$11820|
+|Whitewater School District, Wisconsin|20241|87.68%|$11788|
+|Spurger Independent School District, Texas|2502|95.2%|$11786|
+|Durham-Hillsboro-Lehigh Unified School District 410, Kansas|4284|93.3%|$11771|
+|Potsdam Central School District, New York|15037|88.22%|$11769|
+|Pine-Eagle School District 61, Oregon|1940|94.74%|$11711|
+|Provo School District, Utah|116435|85.58%|$11627|
+|Crystal City Independent School District, Texas|8790|86.36%|$11525|
+|West Hardin County Consolidated Independent School District, Texas|3384|99.85%|$11515|
+|Oneonta City School District, New York|19948|86.94%|$11217|
+|Ada Exempted Village School District, Ohio|7513|88.41%|$11114|
+|Prospect School District 59, Oregon|1151|90.88%|$10694|
+|Radford City Public Schools, Virginia|17833|84.97%|$10613|
+|Williamsburg City Public Schools, Virginia|15034|71.66%|$10547|
+|Mount Pleasant City School District, Michigan|46441|84.28%|$10471|
+|Berea Independent School District, Kentucky|6912|86.26%|$10244|
+|West Lafayette Community School Corporation, Indiana|31254|69.14%|$10173|
+|Pullman School District, Washington|36489|76.37%|$10099|
+|Bowling Green City School District, Ohio|36889|86.27%|$9974|
+|Oberlin City School District, Ohio|10501|77.26%|$9919|
+|Falls City School District 57, Oregon|1830|83.06%|$9877|
+|Bruneau-Grand View Joint School District 365, Idaho|2482|80.86%|$9622|
+|Bowling Green Independent School District, Kentucky|30446|76.39%|$9499|
+|Regional School Unit 26, Maine|10751|88.32%|$8772|
+|Madison School District 321, Idaho|35907|91.35%|$8082|
+|East Lansing School District, Michigan|54098|75.42%|$7397|
+|Athens City School District, Ohio|35952|87.36%|$7390|
+|Oyster River Cooperative School District, New Hampshire|23245|89.82%|$7330|
+|Remainder of Virginia, Virginia|7205|82.04%|$7316|
+|Alfred-Almond Central School District, New York|7109|85.67%|$7031|
+|Riverdale School District 51J, Oregon|3307|77.68%|$6886|
+|Rocky Ford School District R-2, Colorado|5222|84.91%|$6857|
+|Mountain Valley Unified School District, California|2986|84.59%|$6804|
+|Geneseo Central School District, New York|11432|89.63%|$6588|
+|Cedar Cliff Local School District, Ohio|6312|89.7%|$6085|
+|Williamsburg Independent School District, Kentucky|6075|92.03%|$6025|
