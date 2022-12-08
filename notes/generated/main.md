@@ -8,6 +8,7 @@ White women: [link](whiteWomenMedianAnnualEarnings/main)
 
 ## Median household income by race
 Black household: [link](medianHouseholdIncomeBlackHouseholds/main)
+White household: [link](medianHouseholdIncomeWhiteHouseholds/main)
 
 ### Notes
 All data is queried from the UC Census 2020 American Community Survey 5 year estimates API
