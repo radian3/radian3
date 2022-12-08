@@ -1,8 +1,8 @@
-This page is an analysis and visualization of data I queried from the US Census' American Community Survey 2020 5 year estimates API. To see the original, raw data that I retrieved from the API before analyzing it, navigate here: <a href="https://api.census.gov/data/2020/acs/acs5?get=NAME,B19013A_001E,B02001_002E,B01003_001E&for=region:*">https://api.census.gov/data/2020/acs/acs5?get=NAME,B19013A_001E,B02001_002E,B01003_001E&for=region:*</a>
+This page is an analysis and visualization of data I queried from the US Census' American Community Survey 2020 5 year estimates API. To see the original, raw data that I retrieved from the API before analyzing it, navigate here: <a href="https://api.census.gov/data/2020/acs/acs5?get=NAME,B19013D_001E,B02001_005E,B01003_001E&for=region:*">https://api.census.gov/data/2020/acs/acs5?get=NAME,B19013D_001E,B02001_005E,B01003_001E&for=region:*</a>
 
-|Region|Population|% White|Median household income of white households|
+|Region|Population|% Asian|Median household income of Asian households|
 |---|---|---|---|
-|Northeast Region|56016911|71.35%|$77681|
-|West Region|77726849|65.36%|$74322|
-|Midwest Region|68219726|79.47%|$65662|
-|South Region|124605822|68.2%|$64578|
+|West Region|77726849|10.4%|$96613|
+|Northeast Region|56016911|6.62%|$93378|
+|South Region|124605822|3.51%|$88018|
+|Midwest Region|68219726|3.31%|$82253|

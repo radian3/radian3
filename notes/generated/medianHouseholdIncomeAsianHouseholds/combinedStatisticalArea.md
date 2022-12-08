@@ -1,179 +1,157 @@
-This page is an analysis and visualization of data I queried from the US Census' American Community Survey 2020 5 year estimates API. To see the original, raw data that I retrieved from the API before analyzing it, navigate here: <a href="https://api.census.gov/data/2020/acs/acs5?get=NAME,B19013A_001E,B02001_002E,B01003_001E&for=combined%20statistical%20area:*">https://api.census.gov/data/2020/acs/acs5?get=NAME,B19013A_001E,B02001_002E,B01003_001E&for=combined%20statistical%20area:*</a>
+This page is an analysis and visualization of data I queried from the US Census' American Community Survey 2020 5 year estimates API. To see the original, raw data that I retrieved from the API before analyzing it, navigate here: <a href="https://api.census.gov/data/2020/acs/acs5?get=NAME,B19013D_001E,B02001_005E,B01003_001E&for=combined%20statistical%20area:*">https://api.census.gov/data/2020/acs/acs5?get=NAME,B19013D_001E,B02001_005E,B01003_001E&for=combined%20statistical%20area:*</a>
 
-|Combined Statistical Area|Population|% White|Median household income of white households|
+|Combined Statistical Area|Population|% Asian|Median household income of Asian households|
 |---|---|---|---|
-|Washington-Baltimore-Arlington, DC-MD-VA-WV-PA CSA|9781219|56.36%|$107705|
-|San Jose-San Francisco-Oakland, CA CSA|9619738|50.3%|$104107|
-|New York-Newark, NY-NJ-CT-PA CSA|22633633|58.18%|$94979|
-|Seattle-Tacoma, WA CSA|4838526|69.26%|$88830|
-|Boston-Worcester-Providence, MA-RI-NH-CT CSA|8260105|78.3%|$88435|
-|Denver-Aurora, CO CSA|3568508|79.66%|$86488|
-|Minneapolis-St. Paul, MN-WI CSA|3991091|78.43%|$85734|
-|Hartford-East Hartford, CT CSA|1472710|74.65%|$84405|
-|Philadelphia-Reading-Camden, PA-NJ-DE-MD CSA|7198025|66.39%|$84101|
-|Raleigh-Durham-Cary, NC CSA|2043867|63.84%|$83528|
-|Chicago-Naperville, IL-IN-WI CSA|9846347|64.42%|$83063|
-|Edwards-Glenwood Springs, CO CSA|132545|86.23%|$81440|
-|Los Angeles-Long Beach, CA CSA|18657022|52.69%|$80983|
-|Salt Lake City-Provo-Orem, UT CSA|2596765|84.3%|$80225|
-|Atlanta--Athens-Clarke County--Sandy Springs, GA-AL CSA|6770764|54.59%|$78956|
-|Virginia Beach-Norfolk, VA-NC CSA|1858942|58.77%|$78210|
-|Sacramento-Roseville, CA CSA|2612122|64.09%|$77762|
-|Dallas-Fort Worth, TX-OK CSA|7928445|65.75%|$77750|
-|Midland-Odessa, TX CSA|338981|75.59%|$76936|
-|Houston-The Woodlands, TX CSA|7165646|60.4%|$76706|
-|Rochester-Austin, MN CSA|259779|86.3%|$75642|
-|Portland-Vancouver-Salem, OR-WA CSA|3229029|80.15%|$74735|
-|Memphis-Forrest City, TN-MS-AR CSA|1368627|45.32%|$73188|
-|Burlington-South Burlington-Barre, VT CSA|278100|91.63%|$72558|
-|Omaha-Council Bluffs-Fremont, NE-IA CSA|976728|82.81%|$72498|
-|Kansas City-Overland Park-Kansas City, MO-KS CSA|2486180|78.33%|$72413|
-|Charlotte-Concord, NC-SC CSA|2754842|66.14%|$72401|
-|Albany-Schenectady, NY CSA|1169019|84.09%|$72337|
-|St. Louis-St. Charles-Farmington, MO-IL CSA|2910526|75.51%|$72337|
-|Madison-Janesville-Beloit, WI CSA|886896|85.56%|$72192|
-|Des Moines-Ames-West Des Moines, IA CSA|869865|86.45%|$71757|
-|Milwaukee-Racine-Waukesha, WI CSA|2048181|74.62%|$71751|
-|Nashville-Davidson--Murfreesboro, TN CSA|2030611|77.09%|$71657|
-|Kennewick-Richland-Walla Walla, WA CSA|355181|76.43%|$71617|
-|Cincinnati-Wilmington-Maysville, OH-KY-IN CSA|2273387|81.23%|$71614|
-|Steamboat Springs-Craig, CO CSA|38467|92.7%|$71016|
-|Portland-Lewiston-South Portland, ME CSA|644272|92.27%|$70768|
-|Jackson-Vicksburg-Brookhaven, MS CSA|676514|47.54%|$70763|
-|Harrisburg-York-Lebanon, PA CSA|1265356|83.65%|$70048|
-|Detroit-Warren-Ann Arbor, MI CSA|5340849|70.29%|$69995|
-|Phoenix-Mesa, AZ CSA|4914184|74.06%|$69124|
-|Fargo-Wahpeton, ND-MN CSA|266475|87.48%|$68975|
-|Reno-Carson City-Fernley, NV CSA|627665|76.35%|$68842|
-|Huntsville-Decatur, AL CSA|616928|71.88%|$68797|
-|Bend-Prineville, OR CSA|215482|92.16%|$68598|
-|Columbus-Marion-Zanesville, OH CSA|2504267|77.1%|$68547|
-|Cedar Rapids-Iowa City, IA CSA|444653|86.35%|$68545|
-|Jacksonville-St. Marys-Palatka, FL-GA CSA|1661540|68.24%|$68018|
-|Bloomington-Pontiac, IL CSA|207921|84.25%|$67494|
-|Indianapolis-Carmel-Muncie, IN CSA|2433430|77.61%|$67348|
-|Appleton-Oshkosh-Neenah, WI CSA|407758|90.39%|$66600|
-|Grand Rapids-Kentwood-Muskegon, MI CSA|1403960|83.55%|$66576|
-|Rochester-Batavia-Seneca Falls, NY CSA|1163633|80.8%|$66295|
-|Macon-Bibb County--Warner Robins, GA CSA|412384|53.46%|$66284|
-|Columbus-West Point, MS CSA|78411|48.92%|$66244|
-|Salisbury-Cambridge, MD-DE CSA|443131|74.7%|$65983|
-|Green Bay-Shawano, WI CSA|366206|85.28%|$65783|
-|New Orleans-Metairie-Hammond, LA-MS CSA|1507241|58.32%|$65587|
-|Montgomery-Selma-Alexander City, AL CSA|462882|49.7%|$65555|
-|Savannah-Hinesville-Statesboro, GA CSA|579164|58.5%|$65495|
-|Birmingham-Hoover-Talladega, AL CSA|1315561|67.09%|$65393|
-|Mankato-New Ulm, MN CSA|126620|91.12%|$65195|
-|Las Vegas-Henderson, NV CSA|2274380|57.08%|$65093|
-|Syracuse-Auburn, NY CSA|727169|84.12%|$65045|
-|Columbia-Orangeburg-Newberry, SC CSA|958207|56.71%|$64732|
-|Oklahoma City-Shawnee, OK CSA|1469551|72.43%|$64563|
-|Lincoln-Beatrice, NE CSA|354741|86.39%|$64494|
-|Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN CSA|1484262|79.44%|$64371|
-|Boise City-Mountain Home-Ontario, ID-OR CSA|811863|86.37%|$64084|
-|Buffalo-Cheektowaga-Olean, NY CSA|1205768|79.65%|$64066|
-|Cape Coral-Fort Myers-Naples, FL CSA|1177387|82.05%|$63888|
-|San Antonio-New Braunfels-Pearsall, TX CSA|2530224|73.88%|$63766|
-|Ithaca-Cortland, NY CSA|149855|84.14%|$63455|
-|Miami-Port St. Lucie-Fort Lauderdale, FL CSA|6843293|65.53%|$63407|
-|Pittsburgh-New Castle-Weirton, PA-OH-WV CSA|2612281|86.69%|$63249|
-|Moses Lake-Othello, WA CSA|116350|64.41%|$63233|
-|Cleveland-Akron-Canton, OH CSA|3593468|78.21%|$63184|
-|Cleveland-Indianola, MS CSA|57012|28.76%|$63061|
-|Springfield-Jacksonville-Lincoln, IL CSA|308741|85.26%|$62909|
-|Pensacola-Ferry Pass, FL-AL CSA|533053|72.75%|$62555|
-|Mobile-Daphne-Fairhope, AL CSA|648602|67.44%|$62545|
-|Eau Claire-Menomonie, WI CSA|213336|92.54%|$61659|
-|Rockford-Freeport-Rochelle, IL CSA|432404|80.52%|$61466|
-|Fresno-Madera-Hanford, CA CSA|1297219|60.74%|$61377|
-|Lexington-Fayette--Richmond--Frankfort, KY CSA|740800|83.13%|$61232|
-|Tyler-Jacksonville, TX CSA|282525|75.5%|$61193|
-|Rapid City-Spearfish, SD CSA|166459|85.14%|$61121|
-|Columbus-Auburn-Opelika, GA-AL CSA|483104|55.48%|$61072|
-|Dayton-Springfield-Kettering, OH CSA|1079196|80.75%|$61054|
-|Davenport-Moline, IA-IL CSA|469711|85.15%|$61025|
-|Spokane-Spokane Valley-Coeur d'Alene, WA-ID CSA|720311|88.24%|$60823|
-|Little Rock-North Little Rock, AR CSA|908791|68.99%|$60793|
-|Wichita-Winfield, KS CSA|674758|79.58%|$60771|
-|Orlando-Lakeland-Deltona, FL CSA|4081921|70.21%|$60736|
-|North Port-Sarasota, FL CSA|1044910|86.79%|$60627|
-|Kerrville-Fredericksburg, TX CSA|78863|86.4%|$60347|
-|Fort Wayne-Huntington-Auburn, IN CSA|634748|84.96%|$60280|
-|Lima-Van Wert-Celina, OH CSA|217764|89.45%|$60207|
-|Wausau-Stevens Point-Wisconsin Rapids, WI CSA|306886|91.72%|$60179|
-|Tulsa-Muskogee-Bartlesville, OK CSA|1116587|69.55%|$59945|
-|Harrisonburg-Staunton, VA CSA|257410|87.26%|$59876|
-|Idaho Falls-Rexburg-Blackfoot, ID CSA|247893|88.48%|$59832|
-|South Bend-Elkhart-Mishawaka, IN-MI CSA|806967|82.32%|$59543|
-|Greenville-Spartanburg-Anderson, SC CSA|1455892|74.59%|$59537|
-|Albuquerque-Santa Fe-Las Vegas, NM CSA|1156289|70.95%|$59300|
-|Toledo-Findlay-Tiffin, OH CSA|833541|81.18%|$59012|
-|Dixon-Sterling, IL CSA|89787|91.89%|$58927|
-|Victoria-Port Lavaca, TX CSA|121092|81.67%|$58702|
-|New Bern-Morehead City, NC CSA|193717|76.78%|$58579|
-|Lafayette-Opelousas-Morgan City, LA CSA|623026|67.01%|$58371|
-|Lake Charles-Jennings, LA CSA|241246|71.38%|$58316|
-|Fayetteville-Sanford-Lumberton, NC CSA|850403|53.1%|$58016|
-|State College-DuBois, PA CSA|241730|89.57%|$58007|
-|Amarillo-Pampa-Borger, TX CSA|308297|82.3%|$57976|
-|Kalamazoo-Battle Creek-Portage, MI CSA|502482|82.5%|$57920|
-|Greensboro--Winston-Salem--High Point, NC CSA|1676671|68.81%|$57876|
-|Myrtle Beach-Conway, SC-NC CSA|543639|79.74%|$57763|
-|Rocky Mount-Wilson-Roanoke Rapids, NC CSA|298285|46.09%|$57407|
-|Tucson-Nogales, AZ CSA|1085070|73.52%|$57401|
-|Columbia-Moberly-Mexico, MO CSA|257353|83.09%|$57279|
-|Spencer-Spirit Lake, IA CSA|33398|96.18%|$56536|
-|Greenville-Kinston-Washington, NC CSA|283471|58.05%|$56430|
-|Redding-Red Bluff, CA CSA|243443|84.85%|$56360|
-|Knoxville-Morristown-Sevierville, TN CSA|1137585|89.65%|$56097|
-|Corpus Christi-Kingsville-Alice, TX CSA|536446|84.21%|$56015|
-|Shreveport-Bossier City-Minden, LA CSA|436403|55.38%|$55939|
-|Bloomington-Bedford, IN CSA|213724|88.83%|$55938|
-|Lafayette-West Lafayette-Frankfort, IN CSA|262539|83.88%|$55896|
-|Elmira-Corning, NY CSA|179958|90.91%|$55788|
-|Lubbock-Plainview-Levelland, TX CSA|376480|78.56%|$55202|
-|Hattiesburg-Laurel, MS CSA|253407|65.94%|$55144|
-|Kokomo-Peru, IN CSA|118170|87.59%|$55091|
-|Jackson-Brownsville, TN CSA|195992|65.37%|$54930|
-|Erie-Meadville, PA CSA|357120|87.89%|$54927|
-|Quincy-Hannibal, IL-MO CSA|114398|92.47%|$54878|
-|Asheville-Marion-Brevard, NC CSA|538785|89.93%|$54872|
-|Williamsport-Lock Haven, PA CSA|152563|92.38%|$54837|
-|Saginaw-Midland-Bay City, MI CSA|378117|83.7%|$54647|
-|Morgantown-Fairmont, WV CSA|196039|90.56%|$54621|
-|Medford-Grants Pass, OR CSA|305878|90.52%|$54301|
-|Chattanooga-Cleveland-Dalton, TN-GA CSA|997635|84.31%|$54289|
-|Dothan-Ozark, AL CSA|198118|71.58%|$53597|
-|Burlington-Fort Madison-Keokuk, IA-IL-MO CSA|104513|92.95%|$53490|
-|Bloomsburg-Berwick-Sunbury, PA CSA|260085|93.31%|$53461|
-|Monroe-Ruston, LA CSA|249256|57.94%|$53339|
-|Cape Girardeau-Sikeston, MO-IL CSA|135564|86.33%|$52590|
-|Pueblo-Cañon City, CO CSA|215137|82.15%|$52590|
-|Tupelo-Corinth, MS CSA|202909|76.0%|$52586|
-|Altoona-Huntingdon, PA CSA|167640|94.13%|$51950|
-|Marinette-Iron Mountain, WI-MI CSA|92899|95.62%|$51481|
-|DeRidder-Fort Polk South, LA CSA|86702|78.76%|$51480|
-|Gainesville-Lake City, FL CSA|398227|71.67%|$51442|
-|Youngstown-Warren, OH-PA CSA|640629|86.01%|$51442|
-|Mansfield-Ashland-Bucyrus, OH CSA|216179|90.65%|$51370|
-|Jonesboro-Paragould, AR CSA|178025|82.96%|$51341|
-|Parkersburg-Marietta-Vienna, WV-OH CSA|150368|95.93%|$50621|
-|Hot Springs-Malvern, AR CSA|132710|84.91%|$50405|
-|Paducah-Mayfield, KY-IL CSA|133737|87.7%|$50189|
-|Bowling Green-Glasgow, KY CSA|230940|86.63%|$50138|
-|Johnstown-Somerset, PA CSA|205455|93.75%|$49754|
-|Joplin-Miami, MO-OK CSA|210099|85.21%|$49547|
-|Clovis-Portales, NM CSA|68225|67.22%|$49537|
-|Pullman-Moscow, WA-ID CSA|89629|85.44%|$49290|
-|El Paso-Las Cruces, TX-NM CSA|1059298|71.12%|$48723|
-|Richmond-Connersville, IN CSA|89244|90.75%|$48693|
-|Mount Pleasant-Alma, MI CSA|111055|87.99%|$48351|
-|Johnson City-Kingsport-Bristol, TN-VA CSA|510414|93.74%|$47208|
-|Charleston-Huntington-Ashland, WV-OH-KY CSA|785130|93.35%|$47093|
-|Scottsboro-Fort Payne, AL CSA|123195|87.48%|$43153|
-|Martin-Union City, TN CSA|63720|86.01%|$43121|
-|McAllen-Edinburg, TX CSA|925169|76.46%|$41782|
-|Brownsville-Harlingen-Raymondville, TX CSA|443554|84.96%|$41308|
-|San Juan-Bayamón, PR CSA|2341054|60.73%|$23840|
-|Mayagüez-San Germán, PR CSA|220517|34.07%|$19370|
-|Ponce-Yauco-Coamo, PR CSA|368881|63.87%|$17950|
+|San Jose-San Francisco-Oakland, CA CSA|9619738|23.63%|$128898|
+|Washington-Baltimore-Arlington, DC-MD-VA-WV-PA CSA|9781219|8.38%|$116646|
+|Midland-Odessa, TX CSA|338981|1.6%|$115072|
+|Victoria-Port Lavaca, TX CSA|121092|1.93%|$111477|
+|Edwards-Glenwood Springs, CO CSA|132545|0.91%|$110481|
+|Raleigh-Durham-Cary, NC CSA|2043867|5.44%|$109649|
+|Seattle-Tacoma, WA CSA|4838526|12.3%|$106668|
+|McAllen-Edinburg, TX CSA|925169|0.91%|$101100|
+|Boston-Worcester-Providence, MA-RI-NH-CT CSA|8260105|6.2%|$100800|
+|Bloomington-Pontiac, IL CSA|207921|4.41%|$100417|
+|New York-Newark, NY-NJ-CT-PA CSA|22633633|10.46%|$98376|
+|Elmira-Corning, NY CSA|179958|1.54%|$97790|
+|Chicago-Naperville, IL-IN-WI CSA|9846347|6.55%|$97756|
+|Dallas-Fort Worth, TX-OK CSA|7928445|6.79%|$97712|
+|Detroit-Warren-Ann Arbor, MI CSA|5340849|4.4%|$97188|
+|Charlotte-Concord, NC-SC CSA|2754842|3.77%|$97064|
+|Saginaw-Midland-Bay City, MI CSA|378117|1.23%|$94185|
+|Houston-The Woodlands, TX CSA|7165646|7.72%|$92378|
+|Cincinnati-Wilmington-Maysville, OH-KY-IN CSA|2273387|2.63%|$91916|
+|Hartford-East Hartford, CT CSA|1472710|4.93%|$91762|
+|Memphis-Forrest City, TN-MS-AR CSA|1368627|2.15%|$91679|
+|Mansfield-Ashland-Bucyrus, OH CSA|216179|0.71%|$91094|
+|Brownsville-Harlingen-Raymondville, TX CSA|443554|0.65%|$89886|
+|Altoona-Huntingdon, PA CSA|167640|0.6%|$88587|
+|Portland-Vancouver-Salem, OR-WA CSA|3229029|5.87%|$88058|
+|Kennewick-Richland-Walla Walla, WA CSA|355181|2.48%|$87984|
+|Green Bay-Shawano, WI CSA|366206|2.38%|$87708|
+|Phoenix-Mesa, AZ CSA|4914184|3.97%|$87649|
+|Nashville-Davidson--Murfreesboro, TN CSA|2030611|2.71%|$87425|
+|Los Angeles-Long Beach, CA CSA|18657022|13.62%|$87270|
+|Johnson City-Kingsport-Bristol, TN-VA CSA|510414|0.83%|$87074|
+|Atlanta--Athens-Clarke County--Sandy Springs, GA-AL CSA|6770764|5.6%|$86916|
+|St. Louis-St. Charles-Farmington, MO-IL CSA|2910526|2.6%|$86598|
+|Denver-Aurora, CO CSA|3568508|4.11%|$86018|
+|Minneapolis-St. Paul, MN-WI CSA|3991091|6.22%|$85929|
+|Philadelphia-Reading-Camden, PA-NJ-DE-MD CSA|7198025|5.6%|$84737|
+|Harrisburg-York-Lebanon, PA CSA|1265356|2.72%|$82634|
+|Jackson-Vicksburg-Brookhaven, MS CSA|676514|1.03%|$82332|
+|Albany-Schenectady, NY CSA|1169019|3.59%|$82286|
+|Pittsburgh-New Castle-Weirton, PA-OH-WV CSA|2612281|2.26%|$81784|
+|Huntsville-Decatur, AL CSA|616928|1.91%|$81742|
+|Cape Coral-Fort Myers-Naples, FL CSA|1177387|1.58%|$81140|
+|Springfield-Jacksonville-Lincoln, IL CSA|308741|1.49%|$80761|
+|Rocky Mount-Wilson-Roanoke Rapids, NC CSA|298285|0.63%|$80716|
+|Columbus-Marion-Zanesville, OH CSA|2504267|3.83%|$80649|
+|Dothan-Ozark, AL CSA|198118|0.9%|$80457|
+|Wausau-Stevens Point-Wisconsin Rapids, WI CSA|306886|3.67%|$80438|
+|Sacramento-Roseville, CA CSA|2612122|13.47%|$80160|
+|Dayton-Springfield-Kettering, OH CSA|1079196|1.83%|$80082|
+|Rochester-Austin, MN CSA|259779|4.49%|$79974|
+|Lima-Van Wert-Celina, OH CSA|217764|0.61%|$79683|
+|Salisbury-Cambridge, MD-DE CSA|443131|1.62%|$79640|
+|Jacksonville-St. Marys-Palatka, FL-GA CSA|1661540|3.59%|$77975|
+|Orlando-Lakeland-Deltona, FL CSA|4081921|3.4%|$77339|
+|Salt Lake City-Provo-Orem, UT CSA|2596765|2.59%|$77300|
+|Montgomery-Selma-Alexander City, AL CSA|462882|1.89%|$76925|
+|Kalamazoo-Battle Creek-Portage, MI CSA|502482|2.01%|$76894|
+|Milwaukee-Racine-Waukesha, WI CSA|2048181|3.19%|$76817|
+|Knoxville-Morristown-Sevierville, TN CSA|1137585|1.39%|$76806|
+|Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN CSA|1484262|2.04%|$76802|
+|San Antonio-New Braunfels-Pearsall, TX CSA|2530224|2.61%|$76237|
+|Davenport-Moline, IA-IL CSA|469711|1.98%|$75538|
+|Indianapolis-Carmel-Muncie, IN CSA|2433430|3.3%|$74666|
+|Youngstown-Warren, OH-PA CSA|640629|0.68%|$74152|
+|Corpus Christi-Kingsville-Alice, TX CSA|536446|1.74%|$74063|
+|Reno-Carson City-Fernley, NV CSA|627665|4.64%|$73736|
+|Miami-Port St. Lucie-Fort Lauderdale, FL CSA|6843293|2.44%|$73176|
+|Bloomsburg-Berwick-Sunbury, PA CSA|260085|1.09%|$73080|
+|Greenville-Spartanburg-Anderson, SC CSA|1455892|1.86%|$72771|
+|Virginia Beach-Norfolk, VA-NC CSA|1858942|3.83%|$72706|
+|Cleveland-Akron-Canton, OH CSA|3593468|2.12%|$72435|
+|Kansas City-Overland Park-Kansas City, MO-KS CSA|2486180|2.92%|$72125|
+|Rockford-Freeport-Rochelle, IL CSA|432404|2.04%|$71607|
+|South Bend-Elkhart-Mishawaka, IN-MI CSA|806967|1.63%|$70716|
+|Madison-Janesville-Beloit, WI CSA|886896|3.96%|$70524|
+|Rochester-Batavia-Seneca Falls, NY CSA|1163633|2.71%|$70465|
+|Albuquerque-Santa Fe-Las Vegas, NM CSA|1156289|2.16%|$70326|
+|Chattanooga-Cleveland-Dalton, TN-GA CSA|997635|1.38%|$70310|
+|Las Vegas-Henderson, NV CSA|2274380|9.73%|$70186|
+|Grand Rapids-Kentwood-Muskegon, MI CSA|1403960|2.17%|$69923|
+|Birmingham-Hoover-Talladega, AL CSA|1315561|1.28%|$69713|
+|Omaha-Council Bluffs-Fremont, NE-IA CSA|976728|2.96%|$69219|
+|Fresno-Madera-Hanford, CA CSA|1297219|8.81%|$68833|
+|Asheville-Marion-Brevard, NC CSA|538785|1.11%|$68798|
+|Oklahoma City-Shawnee, OK CSA|1469551|2.98%|$68735|
+|Greensboro--Winston-Salem--High Point, NC CSA|1676671|2.69%|$68424|
+|Moses Lake-Othello, WA CSA|116350|0.91%|$67692|
+|Wichita-Winfield, KS CSA|674758|3.56%|$67546|
+|Columbia-Moberly-Mexico, MO CSA|257353|3.19%|$67250|
+|Columbia-Orangeburg-Newberry, SC CSA|958207|1.96%|$67209|
+|Lincoln-Beatrice, NE CSA|354741|3.84%|$66866|
+|Medford-Grants Pass, OR CSA|305878|1.22%|$66250|
+|Joplin-Miami, MO-OK CSA|210099|1.16%|$66075|
+|New Orleans-Metairie-Hammond, LA-MS CSA|1507241|2.51%|$65851|
+|Bend-Prineville, OR CSA|215482|0.98%|$65754|
+|Tulsa-Muskogee-Bartlesville, OK CSA|1116587|2.54%|$65690|
+|Des Moines-Ames-West Des Moines, IA CSA|869865|4.22%|$65541|
+|Little Rock-North Little Rock, AR CSA|908791|1.49%|$64779|
+|Appleton-Oshkosh-Neenah, WI CSA|407758|3.1%|$64715|
+|Columbus-Auburn-Opelika, GA-AL CSA|483104|2.79%|$63927|
+|Lafayette-Opelousas-Morgan City, LA CSA|623026|1.42%|$63899|
+|Lexington-Fayette--Richmond--Frankfort, KY CSA|740800|2.26%|$63834|
+|Portland-Lewiston-South Portland, ME CSA|644272|1.6%|$63775|
+|Eau Claire-Menomonie, WI CSA|213336|2.93%|$63304|
+|Savannah-Hinesville-Statesboro, GA CSA|579164|1.97%|$62891|
+|Charleston-Huntington-Ashland, WV-OH-KY CSA|785130|0.69%|$61629|
+|Jackson-Brownsville, TN CSA|195992|0.7%|$61488|
+|Toledo-Findlay-Tiffin, OH CSA|833541|1.45%|$61417|
+|Macon-Bibb County--Warner Robins, GA CSA|412384|2.16%|$61337|
+|Redding-Red Bluff, CA CSA|243443|2.82%|$61289|
+|North Port-Sarasota, FL CSA|1044910|1.8%|$61065|
+|Boise City-Mountain Home-Ontario, ID-OR CSA|811863|1.93%|$60539|
+|Pueblo-Cañon City, CO CSA|215137|0.88%|$60278|
+|Fayetteville-Sanford-Lumberton, NC CSA|850403|1.69%|$60097|
+|Lubbock-Plainview-Levelland, TX CSA|376480|1.93%|$59815|
+|Tucson-Nogales, AZ CSA|1085070|2.79%|$59774|
+|Hattiesburg-Laurel, MS CSA|253407|0.78%|$59615|
+|Mount Pleasant-Alma, MI CSA|111055|1.2%|$59432|
+|Erie-Meadville, PA CSA|357120|1.52%|$58947|
+|Burlington-South Burlington-Barre, VT CSA|278100|2.56%|$58924|
+|Lake Charles-Jennings, LA CSA|241246|1.29%|$58418|
+|Tupelo-Corinth, MS CSA|202909|0.77%|$58125|
+|Syracuse-Auburn, NY CSA|727169|2.68%|$57690|
+|El Paso-Las Cruces, TX-NM CSA|1059298|1.24%|$57272|
+|Fort Wayne-Huntington-Auburn, IN CSA|634748|2.68%|$56957|
+|Fargo-Wahpeton, ND-MN CSA|266475|2.56%|$56938|
+|Mobile-Daphne-Fairhope, AL CSA|648602|1.51%|$56219|
+|Mankato-New Ulm, MN CSA|126620|1.74%|$55000|
+|Cedar Rapids-Iowa City, IA CSA|444653|3.34%|$53956|
+|Amarillo-Pampa-Borger, TX CSA|308297|2.9%|$53676|
+|Spokane-Spokane Valley-Coeur d'Alene, WA-ID CSA|720311|1.84%|$52969|
+|Gainesville-Lake City, FL CSA|398227|4.36%|$52787|
+|Tyler-Jacksonville, TX CSA|282525|1.44%|$52610|
+|Myrtle Beach-Conway, SC-NC CSA|543639|1.11%|$52216|
+|Shreveport-Bossier City-Minden, LA CSA|436403|1.34%|$51569|
+|Pensacola-Ferry Pass, FL-AL CSA|533053|2.51%|$51208|
+|Harrisonburg-Staunton, VA CSA|257410|1.39%|$51173|
+|Greenville-Kinston-Washington, NC CSA|283471|1.22%|$50542|
+|Buffalo-Cheektowaga-Olean, NY CSA|1205768|3.1%|$48267|
+|Idaho Falls-Rexburg-Blackfoot, ID CSA|247893|0.81%|$46250|
+|Williamsport-Lock Haven, PA CSA|152563|0.77%|$45833|
+|New Bern-Morehead City, NC CSA|193717|2.0%|$44325|
+|Monroe-Ruston, LA CSA|249256|0.98%|$42868|
+|Bowling Green-Glasgow, KY CSA|230940|2.53%|$39224|
+|Ithaca-Cortland, NY CSA|149855|6.74%|$38832|
+|DeRidder-Fort Polk South, LA CSA|86702|1.5%|$38580|
+|Bloomington-Bedford, IN CSA|213724|4.68%|$35924|
+|Pullman-Moscow, WA-ID CSA|89629|5.63%|$35750|
+|Jonesboro-Paragould, AR CSA|178025|0.92%|$34271|
+|Rapid City-Spearfish, SD CSA|166459|1.23%|$33798|
+|State College-DuBois, PA CSA|241730|4.36%|$31812|
+|San Juan-Bayamón, PR CSA|2341054|0.22%|$26875|
+|Lafayette-West Lafayette-Frankfort, IN CSA|262539|6.03%|$25993|
