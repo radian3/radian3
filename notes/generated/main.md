@@ -50,7 +50,7 @@ Poverty Rate: [link](povertyRate/main)
 Unemployment Rate: [link](unemploymentRate/main)  		
 
 ## Miscellaneous
-Median household income of white households minus the median household income of black households: [link](medianHouseholdIncomeRaceGap)  																																																
+Median household income of white households minus the median household income of black households: [link](medianHouseholdIncomeRaceGap/main)  																																																
 
 ### Notes
 All data is queried from the UC Census 2020 American Community Survey 5 year estimates API
