@@ -54,4 +54,5 @@ Median household income of white households minus the median household income of
 
 ### Notes
 - All data is queried from the UC Census 2020 American Community Survey 5 year estimates API
-- The data for each location is an estimate. This means that locations of a smaller population would have more margin of error due to a smaller sample size. For this reason, I have excluded all locations that have less than 1000 people. 
+- The data for each location is an estimate. This means that locations of a smaller population would have more margin of error due to a smaller sample size. For this reason, I have excluded all locations that have less than 1000 people  
+- The largest number the US Census is able to report for income for a location is $250001. This is why there may be multiple locations at the top of some lists that have $250001 listed as the income  
