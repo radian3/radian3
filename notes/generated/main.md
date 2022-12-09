@@ -53,4 +53,5 @@ Unemployment Rate: [link](unemploymentRate/main)
 Median household income of white households minus the median household income of black households: [link](medianHouseholdIncomeRaceGap/main)  																																																
 
 ### Notes
-All data is queried from the UC Census 2020 American Community Survey 5 year estimates API
+- All data is queried from the UC Census 2020 American Community Survey 5 year estimates API
+- The data for each location is an estimate. This means that locations of a smaller population would have more margin of error due to a smaller sample size. For this reason, I have excluded all locations that have less than 1000 people. 
