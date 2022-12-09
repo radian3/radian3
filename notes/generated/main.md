@@ -22,9 +22,9 @@ Asian men: [link](asianMenBachelors/main)
 Asian women: [link](asianWomenBachelors/main)  
 
 ## Percentage of people with a bachelor's degree by race  
-Black: [link](blackPeoplBachelors/main)  
-White: [link](blackPeoplBachelors/main)  
-Asian: [link](blackPeoplBachelors/main)  
+Black: [link](blackPeopleBachelors/main)  
+White: [link](whitePeopleBachelors/main)  
+Asian: [link](asianPeopleBachelors/main)  
 
 ## Homeownership Rate by race
 Black: [link](blackPeopleHomeOwnershipRate/main)  
