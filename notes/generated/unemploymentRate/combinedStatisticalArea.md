@@ -1,7 +1,7 @@
 This page is an analysis and visualization of data I queried from the US Census' American Community Survey 2020 5 year estimates API. To see the original, raw data that I retrieved from the API before analyzing it, navigate here: <a href="https://api.census.gov/data/2020/acs/acs5?get=NAME,B01003_001E,B23025_003E,B23025_005E&for=combined%20statistical%20area:*">https://api.census.gov/data/2020/acs/acs5?get=NAME,B01003_001E,B23025_003E,B23025_005E&for=combined%20statistical%20area:*</a>
 
-|Combined Statistical Area|Population||Unemployment rate|
-|---|---|---|---|
+|Combined Statistical Area|Population|Unemployment rate|
+|---|---|---|
 |Green Bay-Shawano, WI CSA|366206|2.83%|
 |Madison-Janesville-Beloit, WI CSA|886896|2.85%|
 |Appleton-Oshkosh-Neenah, WI CSA|407758|2.97%|

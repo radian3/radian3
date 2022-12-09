@@ -1,7 +1,7 @@
 This page is an analysis and visualization of data I queried from the US Census' American Community Survey 2020 5 year estimates API. To see the original, raw data that I retrieved from the API before analyzing it, navigate here: <a href="https://api.census.gov/data/2020/acs/acs5?get=NAME,B01003_001E,B23025_003E,B23025_005E&for=school%20district%20(unified):*">https://api.census.gov/data/2020/acs/acs5?get=NAME,B01003_001E,B23025_003E,B23025_005E&for=school%20district%20(unified):*</a>
 
-|School District|Population||Unemployment rate|
-|---|---|---|---|
+|School District|Population|Unemployment rate|
+|---|---|---|
 |Syracuse Unified School District 494, Kansas|2552|0.0%|
 |Exeter R-VI School District, Missouri|2379|0.0%|
 |Erick Public Schools, Oklahoma|1005|0.0%|

@@ -1,7 +1,7 @@
 This page is an analysis and visualization of data I queried from the US Census' American Community Survey 2020 5 year estimates API. To see the original, raw data that I retrieved from the API before analyzing it, navigate here: <a href="https://api.census.gov/data/2020/acs/acs5?get=NAME,B01003_001E,B23025_003E,B23025_005E&for=county:*">https://api.census.gov/data/2020/acs/acs5?get=NAME,B01003_001E,B23025_003E,B23025_005E&for=county:*</a>
 
-|County|Population||Unemployment rate|
-|---|---|---|---|
+|County|Population|Unemployment rate|
+|---|---|---|
 |Eureka County, Nevada|1839|0.0%|
 |Garfield County, Montana|1051|0.0%|
 |Crockett County, Texas|3393|0.0%|
