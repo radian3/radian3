@@ -1,4 +1,4 @@
-# Demographics data by location
+# USA Demographics data by location
 
 ## Median annual earnings by race/gender
 Black women: [link](blackWomenMedianAnnualEarnings/main)  
