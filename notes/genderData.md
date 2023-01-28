@@ -11,6 +11,7 @@
 8. [Educational attainment by gender](#educational_attainment)
 9. [Incarceration rate by gender](#incarceration_rate)
 10. [Political Affiliation by gender](#political_affiliation)
+11. [Household type children are growing up in by gender](#household_type_race_ethnicity)
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
@@ -174,3 +175,13 @@ Share of votes in 2020 presidential election by demographic
 |Women|55%|44%|
 
 Source: Pew Research Center. [https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/pp_2021-06-30_validated-voters_00-02/](https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/pp_2021-06-30_validated-voters_00-02/)
+
+### Household type children are growing up in by race/ethnicity <a name = "household_type_race_ethnicity"></a>
+
+Children under 18 years of age in households
+
+Out of all children that live in one parent households:
+- 25% of these children live with a male householder
+- 75% of these children live with a female householder
+
+Source: Us Census ACS. 2021. S0901 Children Characteristics. [https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901](https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901)
