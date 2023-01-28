@@ -118,8 +118,10 @@ Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.
 
 ### Felons by gender <a name = "felons"></a>
 
-12.81% of adult men are felons  
-3.41% of adult women are felons
+|Gender|Percent of adults of this gender who are felons|
+|---|---|
+|Men|12.81%|
+|Women|3.41%|
 
 Source: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5996985/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5996985/)
 
