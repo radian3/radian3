@@ -107,7 +107,7 @@ Note: The FBI reports crime data by gender in 3 categories: male, female, and un
 
 Source: FBI. [https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend)
 
-### Incarceration Rate by race/ethnicity/gender <a name = "incarceration_rate"></a>
+### Incarceration Rate by gender <a name = "incarceration_rate"></a>
 
 |Gender|Percent of state or federal prisoners in 2020|
 |---|---|
@@ -147,7 +147,7 @@ Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https
 
 Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf)
 
-### Educational attainment by race/ethnicity/gender <a name = "educational_attainment"> </a>
+### Educational attainment by gender <a name = "educational_attainment"> </a>
 
 |Gender|Percent with a Bachelor’s degree (of people ages 25+. 2021 data)|
 |---|---|
