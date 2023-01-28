@@ -10,7 +10,7 @@
 7. [Life Expectancy at birth by gender](#life_expectancy)
 8. [Educational attainment by gender](#educational_attainment)
 9. [Incarceration rate by gender](#incarceration_rate)
-10. [Political Affiliation](#political_affiliation)
+10. [Political Affiliation by gender](#political_affiliation)
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
