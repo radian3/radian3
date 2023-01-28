@@ -14,7 +14,7 @@
 11. [Political Affiliation by gender](#political_affiliation)
 12. [Household type children are growing up in by gender](#household_type)
 
-### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
+### Median annual earnings by gender <a name="median_annual_earnings"></a>
 <table>
   <tr><th>Gender</th><th>Median annual earnings (2021)</th></tr>
   <tr><td>Men</td><td>$61,180</td></tr>
