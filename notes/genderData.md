@@ -8,6 +8,7 @@
 5. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
 6. [Obesity rate among adults by gender](#obesity_rate)
 7. [Life Expectancy at birth by gender](#life_expectancy)
+8. [Educational attainment by gender](#educational_attainment)
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
@@ -125,3 +126,34 @@ Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https
 |Women|81.4|
 
 Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf)
+
+### Educational attainment by race/ethnicity/gender <a name = "educational_attainment"> </a>
+
+|Gender|Percent with a Bachelor’s degree (of people ages 25+. 2021 data)|
+|---|---|
+|Men|34%|
+|Women|36%|
+
+Source: [https://data.census.gov/cedsci/table?t=Educational%20Attainment&tid=ACSST1Y2021.S1501](https://data.census.gov/cedsci/table?t=Educational%20Attainment&tid=ACSST1Y2021.S1501)
+
+|Demographic|% of Bachelor’s Degree recipients from 2018-2019|
+|---|---|
+|Men|42%|
+|Women|58%|
+
+|Demographic|% of Master’s Degree recipients from 2018-2019|
+|---|---|
+|Men|36%|
+|Women|64%|
+
+|Demographic|% of Master’s Degree recipients from 2018-2019|
+|---|---|
+|Men|36%|
+|Women|64%|
+
+|Demographic|% of Dcotor’s Degree recipients from 2018-2019|
+|---|---|
+|Men|44%|
+|Women|56%|
+
+Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts/display.asp?id=72](https://nces.ed.gov/fastfacts/display.asp?id=72)
