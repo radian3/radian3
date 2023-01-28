@@ -35,25 +35,35 @@ Source for the table: US BLS. [https://www.bls.gov/emp/tables/civilian-labor-for
 
 
 ### Violent Crime <a name = "violent_crime"></a>
-|Gender|% of violent crime victims (2021)|
-|---|---|
-|Men|50.7%|
-|Women|49.3%|
-
 |Gender|% of violent crime offenders (2021)|
 |---|---|
 |Men|81%|
 |Women|19%|
 
-|Gender|% of property crime victims (2021)|
+|Gender|% of violent crime victims (2021)|
 |---|---|
-|Men|55%|
-|Women|45%|
+|Men|50.7%|
+|Women|49.3%|
+
+|Gender|% of homicide offenders (2021)|
+|---|---|
+|Men|87%|
+|Women|13%|
+
+|Gender|% of homicide victims (2021)|
+|---|---|
+|Men|78%|
+|Women|23%|
 
 |Gender|% of property crime offenders (2021)|
 |---|---|
 |Men|70%|
 |Women|30%|
+
+|Gender|% of property crime victims (2021)|
+|---|---|
+|Men|55%|
+|Women|45%|
 
 Note: The FBI reports crime data by gender in 3 categories: male, female, and unknown. This is because the gender of the victim/offender is not always known. The tables above with the victim data are the percent of victims by gender in scenarios in which the gender of the victim is known. The tables above with the offender data are the percent of offenders by gender in scenarios in which the gender of the offender is known.
 
