@@ -12,7 +12,7 @@
 9. [Life Expectancy at birth by gender](#life_expectancy)
 10. [Educational attainment by gender](#educational_attainment)
 11. [Political Affiliation by gender](#political_affiliation)
-12. [Household type children are growing up in by gender](#household_type)
+12. [Household type children are growing up in by gender of householder (among one parent households)](#household_type)
 
 ### Median annual earnings by gender <a name="median_annual_earnings"></a>
 <table>
@@ -43,50 +43,50 @@ Source for the table: US BLS. [https://www.bls.gov/emp/tables/civilian-labor-for
 
 
 ### Crime victim/offender data by gender <a name = "crime"></a>
-|Gender|% of violent crime offenders (2021)|
-|---|---|
-|Men|81%|
-|Women|19%|
+|Gender|% of violent crime offenders (2021)|# of violent crimes committed (2021)|
+|---|---|---|
+|Men|81%|582,497|
+|Women|19%|133,283|
 
 |Gender|% of violent crime victims (2021)|
 |---|---|
 |Men|50.7%|
 |Women|49.3%|
 
-|Gender|% of homicide offenders (2021)|
-|---|---|
-|Men|87%|
-|Women|13%|
+|Gender|% of homicide offenders (2021)|# of homicides committed (2021)|
+|---|---|---|
+|Men|87%|11,709|
+|Women|13%|1,695|
 
 |Gender|% of homicide victims (2021)|
 |---|---|
 |Men|78%|
 |Women|23%|
 
-|Gender|% of rape offenders (2021)|
-|---|---|
-|Men|96%|
-|Women|4%|
+|Gender|% of rape offenders (2021)|# of rape incidents committed (2021)|
+|---|---|---|
+|Men|96%|84,160|
+|Women|4%|3,785|
 
 |Gender|% of rape victims (2021)|
 |---|---|
 |Men|10%|
 |Women|90%|
 
-|Gender|% of robbery offenders (2021)|
-|---|---|
-|Men|87%|
-|Women|13%|
+|Gender|% of robbery offenders (2021)|# of robberies committed (2021)|
+|---|---|---|
+|Men|87%|128,644|
+|Women|13%|19,447|
 
 |Gender|% of robbery victims (2021)|
 |---|---|
 |Men|64%|
 |Women|36%|
 
-|Gender|% of Aggravated Assault offenders (2021)|
-|---|---|
-|Men|77%|
-|Women|23%|
+|Gender|% of Aggravated Assault offenders (2021)|# of Aggraved Assaults committed (2021)|
+|---|---|---|
+|Men|77%|357,984|
+|Women|23%|108,356|
 
 |Gender|% of Aggravated Assault victims (2021)|
 |---|---|
@@ -98,10 +98,10 @@ Source for the table: US BLS. [https://www.bls.gov/emp/tables/civilian-labor-for
 |Men|70%|
 |Women|30%|
 
-|Gender|% of property crime victims (2021)|
-|---|---|
-|Men|55%|
-|Women|45%|
+|Gender|% of property crime victims (2021)|# of property crimes committed (2021)|
+|---|---|---|
+|Men|55%|1,245,128|
+|Women|45%|523,906|
 
 Note: The FBI reports crime data by gender in 3 categories: male, female, and unknown. This is because the gender of the victim/offender is not always known. The tables above with the victim data are the percent of victims by gender in scenarios in which the gender of the victim is known. The tables above with the offender data are the percent of offenders by gender in scenarios in which the gender of the offender is known.
 
@@ -188,13 +188,14 @@ Share of votes in 2020 presidential election by demographic
 
 Source: Pew Research Center. [https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/pp_2021-06-30_validated-voters_00-02/](https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/pp_2021-06-30_validated-voters_00-02/)
 
-### Household type children are growing up in by gender <a name = "household_type"></a>
+### Household type children are growing up in by gender of householder (among one parent households)<a name = "household_type"></a>
 
-Children under 18 years of age in households
+|Gender of householder (among one parent households)|# of one parent households|% of one parent househholds|
+|---|---|---|
+|Male|5,972,752|25%|
+|Female|17,878,884|75%|
 
-Out of all children that live in one parent households:
-- 25% of these children live with a male householder
-- 75% of these children live with a female householder
+In other words, 75% of children who live in a one parent household are living with a woman.
 
 Source: Us Census ACS. 2021. S0901 Children Characteristics. [https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901](https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901)
 
