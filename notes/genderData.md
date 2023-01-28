@@ -6,7 +6,7 @@
 3. [Labor force participation rate by gender](#labor_force_participation)
 4. [Crime victim/offender data by gender](#crime)
 5. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
-
+6. [Obesity rate among adults by race/ethnicity/gender](#obesity_rate)
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
@@ -106,3 +106,12 @@ Source: FBI. [https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crim
 Percent of births to unmarried women (2020): 41%
   
 Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf)
+
+### Obesity rate among adults by race/ethnicity/gender <a name = "obesity_rate"></a>
+
+|Gender|Obesity Rate (2017-2020 data)|
+|---|---|
+|Men|41.8%|
+|Women|41.8%|
+
+Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https://stacks.cdc.gov/view/cdc/106273](https://stacks.cdc.gov/view/cdc/106273)
