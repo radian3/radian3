@@ -154,7 +154,7 @@ Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nv
 
 ### Educational attainment by gender <a name = "educational_attainment"> </a>
 
-|Gender|Percent with a Bachelor’s degree (of people ages 25+. 2021 data)|
+|Gender|Percent of people of this gender with a Bachelor’s degree (of people ages 25+. 2021 data)|
 |---|---|
 |Men|34%|
 |Women|36%|
