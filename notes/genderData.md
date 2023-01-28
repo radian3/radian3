@@ -55,6 +55,36 @@ Source for the table: US BLS. [https://www.bls.gov/emp/tables/civilian-labor-for
 |Men|78%|
 |Women|23%|
 
+|Gender|% of rape offenders (2021)|
+|---|---|
+|Men|96%|
+|Women|4%|
+
+|Gender|% of rape victims (2021)|
+|---|---|
+|Men|10%|
+|Women|90%|
+
+|Gender|% of robbery offenders (2021)|
+|---|---|
+|Men|87%|
+|Women|13%|
+
+|Gender|% of robbery victims (2021)|
+|---|---|
+|Men|64%|
+|Women|36%|
+
+|Gender|% of Aggravated Assault offenders (2021)|
+|---|---|
+|Men|77%|
+|Women|23%|
+
+|Gender|% of Aggravated Assault victims (2021)|
+|---|---|
+|Men|53%|
+|Women|47%|
+
 |Gender|% of property crime offenders (2021)|
 |---|---|
 |Men|70%|
