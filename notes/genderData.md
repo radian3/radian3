@@ -109,10 +109,10 @@ Source: FBI. [https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crim
 
 ### Incarceration Rate by gender <a name = "incarceration_rate"></a>
 
-|Gender|Percent of state or federal prisoners in 2020|
-|---|---|
-|Men|93%|
-|Women|7%|
+|Gender|Percent of state or federal prisoners in 2020|# of state or federal prisoners in 2020|
+|---|---|---|
+|Men|93%|1,132,767|
+|Women|7%|83,054|
 
 Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.gov/content/pub/pdf/p20st.pdf)
 
@@ -190,10 +190,10 @@ Source: Pew Research Center. [https://www.pewresearch.org/politics/2021/06/30/be
 
 ### Household type children are growing up in by gender of householder (among one parent households)<a name = "household_type"></a>
 
-|Gender of householder (among one parent households)|# of one parent households|% of one parent househholds|
+|Gender of householder (among one parent households)|% of one parent househholds|# of one parent households|
 |---|---|---|
-|Male|5,972,752|25%|
-|Female|17,878,884|75%|
+|Male|25%|5,972,752|
+|Female|75%|17,878,884|
 
 In other words, 75% of children who live in a one parent household are living with a woman.
 
