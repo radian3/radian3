@@ -12,6 +12,7 @@
 9. [Incarceration rate by gender](#incarceration_rate)
 10. [Political Affiliation by gender](#political_affiliation)
 11. [Household type children are growing up in by gender](#household_type)
+12. [Felons by gender](#felons)
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
@@ -185,3 +186,10 @@ Out of all children that live in one parent households:
 - 75% of these children live with a female householder
 
 Source: Us Census ACS. 2021. S0901 Children Characteristics. [https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901](https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901)
+
+### Felons by gender <a name = "felons"></a>
+
+12.81% of adult men are felons  
+3.41% of adult women are felons
+
+Source: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5996985/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5996985/)
