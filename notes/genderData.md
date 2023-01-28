@@ -127,7 +127,9 @@ Source: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5996985/](https://www.ncbi
 
 ### Percent of births to unmarried women <a name = "percent_of_births_to_unmarried_women"></a>
 
-Percent of births to unmarried women (2020): 41%
+|Percent of births to unmarried women (2020)|
+|---|
+|41%|
   
 Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf)
 
