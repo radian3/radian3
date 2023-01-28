@@ -6,7 +6,8 @@
 3. [Labor force participation rate by gender](#labor_force_participation)
 4. [Crime victim/offender data by gender](#crime)
 5. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
-6. [Obesity rate among adults by race/ethnicity/gender](#obesity_rate)
+6. [Obesity rate among adults by gender](#obesity_rate)
+7. [Life Expectancy at birth by gender](#life_expectancy)
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
@@ -107,7 +108,7 @@ Percent of births to unmarried women (2020): 41%
   
 Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf)
 
-### Obesity rate among adults by race/ethnicity/gender <a name = "obesity_rate"></a>
+### Obesity rate among adults by gender <a name = "obesity_rate"></a>
 
 |Gender|Obesity Rate (2017-2020 data)|
 |---|---|
@@ -115,3 +116,12 @@ Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-
 |Women|41.8%|
 
 Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https://stacks.cdc.gov/view/cdc/106273](https://stacks.cdc.gov/view/cdc/106273)
+
+### Life Expectancy at birth by gender <a name = "life_expectancy"></a>
+
+|Gender|Life Expectancy (2019 data)|
+|---|---|
+|Men|76.3|
+|Women|81.4|
+
+Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf)
