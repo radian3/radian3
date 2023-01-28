@@ -4,7 +4,9 @@
 1. [Median annual earnings by gender](#median_annual_earnings)
 2. [Unemployment rates by gender](#unemployment_rate)
 3. [Labor force participation rate by gender](#labor_force_participation)
-4. [Violent crime victim/offender data by gender](#violent_crime)
+4. [Crime victim/offender data by gender](#crime)
+5. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
+
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
@@ -34,7 +36,7 @@ Source: [https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rate
 Source for the table: US BLS. [https://www.bls.gov/emp/tables/civilian-labor-force-participation-rate.htm](https://www.bls.gov/emp/tables/civilian-labor-force-participation-rate.htm)
 
 
-### Violent Crime <a name = "violent_crime"></a>
+### Crime victim/offender data by gender <a name = "crime"></a>
 |Gender|% of violent crime offenders (2021)|
 |---|---|
 |Men|81%|
@@ -98,3 +100,9 @@ Source for the table: US BLS. [https://www.bls.gov/emp/tables/civilian-labor-for
 Note: The FBI reports crime data by gender in 3 categories: male, female, and unknown. This is because the gender of the victim/offender is not always known. The tables above with the victim data are the percent of victims by gender in scenarios in which the gender of the victim is known. The tables above with the offender data are the percent of offenders by gender in scenarios in which the gender of the offender is known.
 
 Source: FBI. [https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend)
+
+### Percent of births to unmarried women <a name = "percent_of_births_to_unmarried_women"></a>
+
+Percent of births to unmarried women (2020): 41%
+  
+Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf)
