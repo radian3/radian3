@@ -9,6 +9,7 @@
 6. [Obesity rate among adults by gender](#obesity_rate)
 7. [Life Expectancy at birth by gender](#life_expectancy)
 8. [Educational attainment by gender](#educational_attainment)
+9. [Incarceration rate by gender](#incarceration_rate)
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
@@ -157,3 +158,12 @@ Source: [https://data.census.gov/cedsci/table?t=Educational%20Attainment&tid=ACS
 |Women|56%|
 
 Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts/display.asp?id=72](https://nces.ed.gov/fastfacts/display.asp?id=72)
+
+### Incarceration Rate by race/ethnicity/gender <a name = "incarceration_rate"></a>
+
+|Gender|Percent of state or federal prisoners in 2020|
+|---|---|
+|Men|93%|
+|Women|7%|
+
+Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.gov/content/pub/pdf/p20st.pdf)
