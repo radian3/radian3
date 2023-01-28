@@ -5,14 +5,14 @@
 2. [Unemployment rates by gender](#unemployment_rate)
 3. [Labor force participation rate by gender](#labor_force_participation)
 4. [Crime victim/offender data by gender](#crime)
-5. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
-6. [Obesity rate among adults by gender](#obesity_rate)
-7. [Life Expectancy at birth by gender](#life_expectancy)
-8. [Educational attainment by gender](#educational_attainment)
-9. [Incarceration rate by gender](#incarceration_rate)
-10. [Political Affiliation by gender](#political_affiliation)
-11. [Household type children are growing up in by gender](#household_type)
-12. [Felons by gender](#felons)
+5. [Incarceration rate by gender](#incarceration_rate)
+6. [Felons by gender](#felons)
+7. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
+8. [Obesity rate among adults by gender](#obesity_rate)
+9. [Life Expectancy at birth by gender](#life_expectancy)
+10. [Educational attainment by gender](#educational_attainment)
+11. [Political Affiliation by gender](#political_affiliation)
+12. [Household type children are growing up in by gender](#household_type)
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
@@ -107,6 +107,22 @@ Note: The FBI reports crime data by gender in 3 categories: male, female, and un
 
 Source: FBI. [https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend)
 
+### Incarceration Rate by race/ethnicity/gender <a name = "incarceration_rate"></a>
+
+|Gender|Percent of state or federal prisoners in 2020|
+|---|---|
+|Men|93%|
+|Women|7%|
+
+Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.gov/content/pub/pdf/p20st.pdf)
+
+### Felons by gender <a name = "felons"></a>
+
+12.81% of adult men are felons  
+3.41% of adult women are felons
+
+Source: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5996985/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5996985/)
+
 ### Percent of births to unmarried women <a name = "percent_of_births_to_unmarried_women"></a>
 
 Percent of births to unmarried women (2020): 41%
@@ -157,15 +173,6 @@ Source: [https://data.census.gov/cedsci/table?t=Educational%20Attainment&tid=ACS
 
 Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts/display.asp?id=72](https://nces.ed.gov/fastfacts/display.asp?id=72)
 
-### Incarceration Rate by race/ethnicity/gender <a name = "incarceration_rate"></a>
-
-|Gender|Percent of state or federal prisoners in 2020|
-|---|---|
-|Men|93%|
-|Women|7%|
-
-Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.gov/content/pub/pdf/p20st.pdf)
-
 ### Political Affiliation <a name = "political_affiliation"></a>
 
 Share of votes in 2020 presidential election by demographic
@@ -187,9 +194,3 @@ Out of all children that live in one parent households:
 
 Source: Us Census ACS. 2021. S0901 Children Characteristics. [https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901](https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901)
 
-### Felons by gender <a name = "felons"></a>
-
-12.81% of adult men are felons  
-3.41% of adult women are felons
-
-Source: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5996985/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5996985/)
