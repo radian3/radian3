@@ -13,6 +13,7 @@
 10. [Educational attainment by gender](#educational_attainment)
 11. [Political Affiliation by gender](#political_affiliation)
 12. [Household type children are growing up in by gender of householder (among one parent households)](#household_type)
+13. [Mental health treatment by gender](#mental_health)
 
 ### Median annual earnings by gender <a name="median_annual_earnings"></a>
 <table>
@@ -199,3 +200,11 @@ In other words, 75% of children who live in a one parent household are living wi
 
 Source: Us Census ACS. 2021. S0901 Children Characteristics. [https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901](https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901)
 
+### Mental health treatment by gender<a name = "mental_health"></a>
+
+|Gender|% of people of this gender that took any mental health treatment in 2019|% of people of this gender that took medication for mental health in 2019|% of people of this gender that received counseling/therapy for mental health in 2019|
+|---|---|---|---|
+|Men|13.4%|10.7%|7.2%|
+|Women|24.7%|20.6%|11.7%|
+
+Source: CDC. [https://www.cdc.gov/nchs/products/databriefs/db380.htm](https://www.cdc.gov/nchs/products/databriefs/db380.htm)
