@@ -10,6 +10,7 @@
 7. [Life Expectancy at birth by gender](#life_expectancy)
 8. [Educational attainment by gender](#educational_attainment)
 9. [Incarceration rate by gender](#incarceration_rate)
+10. [Political Affiliation](#political_affiliation)
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
@@ -147,11 +148,6 @@ Source: [https://data.census.gov/cedsci/table?t=Educational%20Attainment&tid=ACS
 |Men|36%|
 |Women|64%|
 
-|Demographic|% of Master’s Degree recipients from 2018-2019|
-|---|---|
-|Men|36%|
-|Women|64%|
-
 |Demographic|% of Dcotor’s Degree recipients from 2018-2019|
 |---|---|
 |Men|44%|
@@ -167,3 +163,14 @@ Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts
 |Women|7%|
 
 Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.gov/content/pub/pdf/p20st.pdf)
+
+### Political Affiliation <a name = "political_affiliation"></a>
+
+Share of votes in 2020 presidential election by demographic
+
+|Demographic|Voted Dem|Voted Rep|
+|---|---|---|
+|Men|48%|50%|
+|Women|55%|44%|
+
+Source: Pew Research Center. [https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/pp_2021-06-30_validated-voters_00-02/](https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/pp_2021-06-30_validated-voters_00-02/)
