@@ -44,6 +44,7 @@ Source for the table: US BLS. [https://www.bls.gov/emp/tables/civilian-labor-for
 
 
 ### Crime victim/offender data by gender <a name = "crime"></a>
+
 |Gender|% of violent crime offenders (2021)|# of violent crimes committed (2021)|
 |---|---|---|
 |Men|81%|582,497|
