@@ -4,6 +4,7 @@
 1. [Median annual earnings by gender](#median_annual_earnings)
 2. [Unemployment rates by gender](#unemployment_rate)
 3. [Labor force participation rate by gender](#labor_force_participation)
+4. [Violent crime victim/offender data by gender](#violent_crime)
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
@@ -31,3 +32,21 @@ Source: [https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rate
 |Women|56.1%|
 
 Source for the table: US BLS. [https://www.bls.gov/emp/tables/civilian-labor-force-participation-rate.htm](https://www.bls.gov/emp/tables/civilian-labor-force-participation-rate.htm)
+
+
+### Violent Crime <a name = "violent_crime"></a>
+|Gender|% of violent crime victims (2020)|
+|---|---|
+|Men|50.7%|
+|Women|49.3%|
+
+Note: data above is for when the gender of the victim is known
+
+|Gender|% of violent crime offenders (2020)|
+|---|---|
+|Men|81%|
+|Women|19%|
+
+Note: data above is for when the gender of the offender is known
+
+Source: FBI. [https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend)
