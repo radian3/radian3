@@ -160,6 +160,11 @@ Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nv
 |Men|34%|
 |Women|36%|
 
+|Gender|Percent of people of this gender with a Bachelor’s degree (of people ages 25-34. 2021 data)|
+|---|---|
+|Men|35%|
+|Women|44%|
+
 Source: [https://data.census.gov/cedsci/table?t=Educational%20Attainment&tid=ACSST1Y2021.S1501](https://data.census.gov/cedsci/table?t=Educational%20Attainment&tid=ACSST1Y2021.S1501)
 
 |Demographic|% of Bachelor’s Degree recipients from 2018-2019|
