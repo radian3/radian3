@@ -84,14 +84,14 @@ Source: [https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hi
 
 ### Median household net worth by race/ethnicity <a name = "median_household_net_worth"></a>
 <table>
-  <tr><th>Demographic</th><th>Median household net worth (2019)</th></tr>
-  <tr><td>Asian</td><td>$206k</td></tr>
-  <tr><td>NH White</td><td>$187k</td></tr>
-  <tr><td>Hispanic</td><td>$32k</td></tr>
-  <tr><td>Black</td><td>$14k</td></tr>
+  <tr><th>Demographic</th><th>Median household net worth (2022)</th></tr>
+  <tr><td>Asian</td><td>$536k</td></tr>
+  <tr><td>White</td><td>$285k</td></tr>
+  <tr><td>Hispanic</td><td>$61.6k</td></tr>
+  <tr><td>Black</td><td>$44.9k</td></tr>
 </table>
 
-Source: [https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html](https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html)
+Source: [https://www.federalreserve.gov/econres/notes/feds-notes/greater-wealth-greater-uncertainty-changes-in-racial-inequality-in-the-survey-of-consumer-finances-20231018.html]([https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html](https://www.federalreserve.gov/econres/notes/feds-notes/greater-wealth-greater-uncertainty-changes-in-racial-inequality-in-the-survey-of-consumer-finances-20231018.html))
 
 ### Unemployment rates by race/gender/ethnicity <a name="unemployment_rate"></a>
 
