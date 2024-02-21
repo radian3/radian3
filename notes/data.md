@@ -95,18 +95,18 @@ Source: [https://www.federalreserve.gov/econres/notes/feds-notes/greater-wealth-
 
 ### Unemployment rates by race/gender/ethnicity <a name="unemployment_rate"></a>
 
-|Demographic|Unemployment Rate (2020)|
+|Demographic|Unemployment Rate (2023)|
 |---|---|
-|White Men|7.0%|
-|White Women|7.6%|
-|Asian Men|7.8%|
-|Asian Women|9.6%|
-|Hispanic Men|9.7%|
-|Black Women|10.9%|
-|Hispanic Women|11.4%|
-|Black Men|12.1%|
+|Asian Women|2.7%|
+|White Women|2.9%|
+|White Men|3.4%|
+|Asian Men|3.5%|
+|Hispanic Women|4.3%|
+|Hispanic Men|4.7%|
+|Black Women|5.2%|
+|Black Men|5.6%|
 
-Source: [https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates](https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rates)
+Source: [https://www.bls.gov/web/empsit/cpsee_e16.htm](https://www.bls.gov/web/empsit/cpsee_e16.htm)
 
 ### Labor force participation rate by race/ethnicity/gender <a name = "labor_force_participation"></a>
 
