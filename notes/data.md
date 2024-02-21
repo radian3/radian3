@@ -91,7 +91,7 @@ Source: [https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hi
   <tr><td>Black</td><td>$44.9k</td></tr>
 </table>
 
-Source: [https://www.federalreserve.gov/econres/notes/feds-notes/greater-wealth-greater-uncertainty-changes-in-racial-inequality-in-the-survey-of-consumer-finances-20231018.html]([https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html](https://www.federalreserve.gov/econres/notes/feds-notes/greater-wealth-greater-uncertainty-changes-in-racial-inequality-in-the-survey-of-consumer-finances-20231018.html))
+Source: [https://www.federalreserve.gov/econres/notes/feds-notes/greater-wealth-greater-uncertainty-changes-in-racial-inequality-in-the-survey-of-consumer-finances-20231018.html][https://www.census.gov/library/stories/2022/08/wealth-inequality-by-household-type.html](https://www.federalreserve.gov/econres/notes/feds-notes/greater-wealth-greater-uncertainty-changes-in-racial-inequality-in-the-survey-of-consumer-finances-20231018.html))
 
 ### Unemployment rates by race/gender/ethnicity <a name="unemployment_rate"></a>
 
