@@ -127,14 +127,16 @@ working or actively looking for work. From [https://www.bls.gov/opub/mlr/2016/ar
 
 ### Poverty rate by race <a name="poverty_rate"></a>
 <table>
-  <tr><th>Demographic</th><th>Poverty rate (2019)</th></tr>
-  <tr><td>NH White</td><td>7.3%</td></tr>
-  <tr><td>Asian</td><td>7.3%</td></tr>
-  <tr><td>Hispanic (any race)</td><td>15.7%</td></tr>
-  <tr><td>Black</td><td>18.8%</td></tr>
+  <tr><th>Demographic</th><th>Poverty rate (2022)</th></tr>
+  <tr><td>Asian</td><td>8.6%</td></tr>
+  <tr><td>NH White</td><td>8.6%</td></tr>
+  <tr><td>White</td><td>10.5%</td></tr>
+  <tr><td>Hispanic (any race)</td><td>16.9%</td></tr>
+  <tr><td>Black</td><td>17.1%</td></tr>
+  <tr><td>American Indian and Alaska Native</td><td>25.0%</td></tr>
 </table>
 
-Source: [https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html](https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html)
+Source: [https://www.census.gov/library/publications/2023/demo/p60-280.html](https://www.census.gov/library/publications/2023/demo/p60-280.html)
 
 ### Chance of being a murder victim by race/ethnicity/gender <a name = "chance_of_being_murder_victim"></a>
 
