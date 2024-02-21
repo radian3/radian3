@@ -65,17 +65,18 @@ Source: [https://www.census.gov/quickfacts/fact/table/US/PST045221](https://www.
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 <table>
-  <tr><th>Demographic</th><th>Median annual earnings (2021)</th></tr>
-  <tr><td>Asian men</td><td>$81,794</td></tr>
-  <tr><td>NH White men</td><td>$69,235</td></tr>
-  <tr><td>Asian women</td><td>$63,867</td></tr>
-  <tr><td>White men</td><td>$61,740</td></tr>
-  <tr><td>NH White women</td><td>$55,320</td></tr>
-  <tr><td>White women</td><td>$51,451</td></tr>
-  <tr><td>Black men</td><td>$50,187</td></tr>
-  <tr><td>Black women</td><td>$46,543</td></tr>
-  <tr><td>Hispanic men</td><td>$45,822</td></tr>
-  <tr><td>Hispanic women</td><td>$39,511</td></tr>
+  <tr><th>Demographic</th><th>Median annual earnings (2022)</th></tr>
+  <tr><td>Asian men</td><td>$87,410</td></tr>
+  <tr><td>NH White men</td><td>$71,590</td></tr>
+  <tr><td>Asian women</td><td>$70,580</td></tr>
+  <tr><td>White men</td><td>$65,110</td></tr>
+  <tr><td>Men</td><td>$62,350</td></tr>
+  <tr><td>NH White women</td><td>$57,250</td></tr>
+  <tr><td>White women</td><td>$53,120</td></tr>
+  <tr><td>Black men</td><td>$51,640</td></tr>
+  <tr><td>Black women</td><td>$49,470</td></tr>
+  <tr><td>Hispanic men</td><td>$47,420</td></tr>
+  <tr><td>Hispanic women</td><td>$41,140</td></tr>
 </table>
   
 Source: [https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispanic-ethnicity](https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispanic-ethnicity)
