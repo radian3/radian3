@@ -110,14 +110,14 @@ Source: [https://www.dol.gov/agencies/wb/data/latest-annual-data/employment-rate
 
 ### Labor force participation rate by race/ethnicity/gender <a name = "labor_force_participation"></a>
 
-|Demographic|Labor Force Participation Rate (2020)|
+|Demographic|Labor Force Participation Rate (2022)|
 |---|---|
-|Hispanic Men|75.4%|
-|White Men|67.9%|
-|Black Men|63.5%|
-|Black Women|58.8%|
-|Hispanic Women|55.8%|
-|White Women|55.4%|
+|Hispanic Men|75.2%|
+|White Men|68.1%|
+|Black Men|65.2%|
+|Black Women|59.7%|
+|Hispanic Women|57.3%|
+|White Women|56.1%|
 
 Source for the table: US BLS. [https://www.bls.gov/emp/tables/civilian-labor-force-participation-rate.htm](https://www.bls.gov/emp/tables/civilian-labor-force-participation-rate.htm)
 
