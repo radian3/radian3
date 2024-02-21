@@ -73,6 +73,7 @@ Source: [https://www.census.gov/quickfacts/fact/table/US/PST045221](https://www.
   <tr><td>Men</td><td>$62,350</td></tr>
   <tr><td>NH White women</td><td>$57,250</td></tr>
   <tr><td>White women</td><td>$53,120</td></tr>
+  <tr><td>Women</td><td>$52,360</td></tr>
   <tr><td>Black men</td><td>$51,640</td></tr>
   <tr><td>Black women</td><td>$49,470</td></tr>
   <tr><td>Hispanic men</td><td>$47,420</td></tr>
