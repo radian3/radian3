@@ -143,7 +143,7 @@ Source: [https://www.census.gov/library/publications/2023/demo/p60-280.html](htt
 <table>
   <tr>
     <th>Demographic</th>
-    <th>Homicide victims per 100k in 2020</th>
+    <th>Homicide victims per 100k in 2021</th>
     <th>Chance of being a victim in 1 year</th>
     <th>Chance of being a victim in 70 years</th>
   </tr>
