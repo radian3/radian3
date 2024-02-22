@@ -222,6 +222,7 @@ Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(co
 The CDC ommitted data for Native Hawaiian/Pacific Islander women due to too small of a sample size.
 
 ### Number of homicides committed by each demographic <a name = "number_of_homicides_committed_by_each_demographic"></a>
+
 |Demographic|Homicides committed per 100k in 2020|
 |---|---|
 |White Men|4.6|
