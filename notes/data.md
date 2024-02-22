@@ -10,20 +10,21 @@
 7. [Labor force participation rate by race/ethnicity/gender](#labor_force_participation)
 8. [Poverty rate by race](#poverty_rate)
 9. [Chance of being a murder victim by race/ethnicity/gender](#chance_of_being_murder_victim)
-10. [Which demographic is murdering which demographic](#which_demographic_is_murdering_which_demographic)
-11. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
-12. [Obesity rate among adults by race/ethnicity/gender](#obesity_rate)
-13. [Life Expectancy at birth by race/ethnicity/gender](#life_expectancy)
-14. [Educational attainment by race/ethnicity/gender](#educational_attainment)
-15. [Incarceration Rate by race/ethnicity/gender](#incarceration_rate)
-16. [Maternal mortality rates by race/ethnicity](#maternal_mortality_rate)
-17. [Political Affiliation](#political_affiliation)
-18. [Homeownership rate by race/ethnicity](#homeownership_rate)
-19. [Disability rate by race/ethnicity](#disability_rate)
-20. [Urban vs Suburban vs Rural demographics](#urban_vs_suburban_vs_rural)
-21. [Marriage and Divorce statistics by race/ethnicity/gender](#marriage_and_divorce)
-22. [Foreign Born Data](#foreign_born_data)
-23. [Household type children are growing up in by race/ethnicity](#household_type_race_ethnicity)
+10. [Number of homicides committed by each demographic](#number_of_homicides_committed_by_each_demographic)
+11. [Which demographic is murdering which demographic](#which_demographic_is_murdering_which_demographic)
+12. [Percent of births to unmarried women](#percent_of_births_to_unmarried_women)
+13. [Obesity rate among adults by race/ethnicity/gender](#obesity_rate)
+14. [Life Expectancy at birth by race/ethnicity/gender](#life_expectancy)
+15. [Educational attainment by race/ethnicity/gender](#educational_attainment)
+16. [Incarceration Rate by race/ethnicity/gender](#incarceration_rate)
+17. [Maternal mortality rates by race/ethnicity](#maternal_mortality_rate)
+18. [Political Affiliation](#political_affiliation)
+19. [Homeownership rate by race/ethnicity](#homeownership_rate)
+20. [Disability rate by race/ethnicity](#disability_rate)
+21. [Urban vs Suburban vs Rural demographics](#urban_vs_suburban_vs_rural)
+22. [Marriage and Divorce statistics by race/ethnicity/gender](#marriage_and_divorce)
+23. [Foreign Born Data](#foreign_born_data)
+24. [Household type children are growing up in by race/ethnicity](#household_type_race_ethnicity)
 
 ### Conventions used in this document <a name = "conventions"></a>
 
@@ -192,16 +193,43 @@ Source: [https://www.census.gov/library/publications/2023/demo/p60-280.html](htt
   <tr>
     <td>Black men</td>
     <td>57.5</td>
-    <td>1 in 1739</td>
+    <td>1 in 1,739</td>
     <td>1 in 25</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>American Indian/Alaska Native Women</td>
+    <td>3.4</td>
+    <td>1 in 29,412</td>
+    <td>1 in 421</td>
+  </tr>
+  <tr>
+    <td>American Indian/Alaska Native Men</td>
+    <td>12.8</td>
+    <td>1 in 7,812</td>
+    <td>1 in 112</td>
+  </tr>
+  <tr>
+    <td>Native Hawaiian/Pacific Islander Men</td>
+    <td>10.5</td>
+    <td>1 in 9,524</td>
+    <td>1 in 137</td>
   </tr>
 </table>
 
 Column 2 (Homicides per 100k in 2020) source: [https://wonder.cdc.gov/ucd-icd10-expanded.html](https://wonder.cdc.gov/ucd-icd10-expanded.html)<br>
 Column 3 (Chance of being a victim in 1 year) is 100k divided by the value in column 2<br>
 Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(column_3_value))^70))
+The CDC ommitted data for Native Hawaiian/Pacific Islander women due to too small of a sample size.
 
+### Number of homicides committed by each demographic <a name = "number_of_homicides_committed_by_each_demographic"></a>
+|Demographic|Homicides committed per 100k|
+|---|---|
+|White Men|4.6|
+|White Women|0.6|
+|Black Men|34.9|
+|Black Women|2.8|
+|American Indian/Alaska Native|
 ### Which demographic is murdering which demographic <a name = "which_demographic_is_murdering_which_demographic"></a>
 
 Data for this section is from 2019.
