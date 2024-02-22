@@ -233,7 +233,7 @@ Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https
 
 ### Life Expectancy at birth by race/ethnicity/gender <a name = "life_expectancy"></a>
 
-|Demographic|Life Expectancy (2019 data)|
+|Demographic|Life Expectancy (2021 data)|
 |---|---|
 |NH Asian Women|85.6|
 |NH Asian Men|81.2|
@@ -246,7 +246,7 @@ Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https
 |NH Black Men|67.6|
 |American Indian/Alaska Native Men|62.2|
 
-Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf)
+Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nvsr72/nvsr72-12.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr72/nvsr72-12.pdf)
 
 ### Educational attainment by race/ethnicity/gender <a name = "educational_attainment"> </a>
 
