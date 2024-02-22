@@ -67,6 +67,7 @@ Source: [https://www.census.gov/quickfacts/fact/table/US/PST045221](https://www.
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
 
 |Demographic|Median annual earnings (2022)|
+|---|---|
 |Asian Men|$87,410|
 |NH White Men|$71,590|
 |Asian Women|$70,580|
@@ -83,13 +84,13 @@ Source: [https://www.census.gov/quickfacts/fact/table/US/PST045221](https://www.
 Source: [https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispanic-ethnicity](https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispanic-ethnicity)
 
 ### Median household net worth by race/ethnicity <a name = "median_household_net_worth"></a>
-<table>
-  <tr><th>Demographic</th><th>Median household net worth (2022)</th></tr>
-  <tr><td>Asian</td><td>$536k</td></tr>
-  <tr><td>White</td><td>$285k</td></tr>
-  <tr><td>Hispanic</td><td>$61.6k</td></tr>
-  <tr><td>Black</td><td>$44.9k</td></tr>
-</table>
+
+|Demographic|Median household net worth (2022)|
+|---|---|
+|Asian|$536k|
+|White|$285k|
+|Hispanic|$61.6k|
+|Black|$44.9k|
 
 Source: [https://www.federalreserve.gov/econres/notes/feds-notes/greater-wealth-greater-uncertainty-changes-in-racial-inequality-in-the-survey-of-consumer-finances-20231018.html](https://www.federalreserve.gov/econres/notes/feds-notes/greater-wealth-greater-uncertainty-changes-in-racial-inequality-in-the-survey-of-consumer-finances-20231018.html)
 
