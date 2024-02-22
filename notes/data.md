@@ -148,44 +148,56 @@ Source: [https://www.census.gov/library/publications/2023/demo/p60-280.html](htt
     <th>Chance of being a victim in 70 years</th>
   </tr>
   <tr>
+    <td>NH White Men</td>
+    <td>4.4</td>
+    <td>1 in 22,727</td>
+    <td>1 in 325</td>
+  </tr>
+  <tr>
+    <td>NH White Women</td>
+    <td>1.9</td>
+    <td>1 in 52,631</td>
+    <td>1 in 752</td>
+  </tr>
+  <tr>
     <td>White women</td>
-    <td>2</td>
+    <td>2.0</td>
     <td>1 in 50,000</td>
     <td>1 in 715</td>
   </tr>
   <tr>
     <td>Hispanic women</td>
-    <td>2.1</td>
-    <td>1 in 47,619</td>
-    <td>1 in 681</td>
+    <td>2.5</td>
+    <td>1 in 40,000</td>
+    <td>1 in 572</td>
   </tr>
   <tr>
     <td>White men</td>
-    <td>4.7</td>
-    <td>1 in 21,277</td>
-    <td>1 in 304</td>
+    <td>6.2</td>
+    <td>1 in 16,129</td>
+    <td>1 in 231</td>
   </tr>
   <tr>
     <td>Black women</td>
-    <td>8</td>
-    <td>1 in 12,500</td>
-    <td>1 in 179</td>
+    <td>8.9</td>
+    <td>1 in 11,236</td>
+    <td>1 in 161</td>
   </tr>
   <tr>
     <td>Hispanic men</td>
-    <td>11.1</td>
-    <td>1 in 9,009</td>
-    <td>1 in 129</td>
+    <td>11.6</td>
+    <td>1 in 8,621</td>
+    <td>1 in 124</td>
   </tr>
   <tr>
     <td>Black men</td>
-    <td>57.3</td>
-    <td>1 in 1,745</td>
+    <td>57.5</td>
     <td>1 in 25</td>
+    <td></td>
   </tr>
 </table>
 
-Column 2 (Homicides per 100k in 2020) source: [https://www.theguardian.com/us-news/2022/jun/30/black-women-murder-rate-data-stats-study](https://www.theguardian.com/us-news/2022/jun/30/black-women-murder-rate-data-stats-study)<br>
+Column 2 (Homicides per 100k in 2020) source: [https://wonder.cdc.gov/ucd-icd10-expanded.html](https://wonder.cdc.gov/ucd-icd10-expanded.html)<br>
 Column 3 (Chance of being a victim in 1 year) is 100k divided by the value in column 2<br>
 Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(column_3_value))^70))
 
