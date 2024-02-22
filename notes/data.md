@@ -218,7 +218,7 @@ Source: [https://www.census.gov/library/publications/2023/demo/p60-280.html](htt
 
 Column 2 (Homicides per 100k in 2020) source: [https://wonder.cdc.gov/ucd-icd10-expanded.html](https://wonder.cdc.gov/ucd-icd10-expanded.html)<br>
 Column 3 (Chance of being a victim in 1 year) is 100k divided by the value in column 2<br>
-Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(column_3_value))^70))
+Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(column_3_value))^70))  
 The CDC ommitted data for Native Hawaiian/Pacific Islander women due to too small of a sample size.
 
 ### Number of homicides committed by each demographic <a name = "number_of_homicides_committed_by_each_demographic"></a>
