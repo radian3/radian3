@@ -195,7 +195,6 @@ Source: [https://www.census.gov/library/publications/2023/demo/p60-280.html](htt
     <td>57.5</td>
     <td>1 in 1,739</td>
     <td>1 in 25</td>
-    <td></td>
   </tr>
   <tr>
     <td>American Indian/Alaska Native Women</td>
@@ -229,7 +228,10 @@ The CDC ommitted data for Native Hawaiian/Pacific Islander women due to too smal
 |White Women|0.6|
 |Black Men|34.9|
 |Black Women|2.8|
-|American Indian/Alaska Native|
+|American Indian/Alaska Native Men|12.9|
+|American Indian/Alaska Native Women|4.4|
+|Asian/Native Hawaiian/Pacific Islander Men|0.4|
+|Asian/Native Hawaiian/Pacific Islander Women|0.1|
 ### Which demographic is murdering which demographic <a name = "which_demographic_is_murdering_which_demographic"></a>
 
 Data for this section is from 2019.
