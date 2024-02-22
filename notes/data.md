@@ -127,15 +127,15 @@ civilian noninstitutional population 16 years and older that is
 working or actively looking for work. From [https://www.bls.gov/opub/mlr/2016/article/pdf/labor-force-participation-what-has-happened-since-the-peak.pdf](https://www.bls.gov/opub/mlr/2016/article/pdf/labor-force-participation-what-has-happened-since-the-peak.pdf)
 
 ### Poverty rate by race <a name="poverty_rate"></a>
-<table>
-  <tr><th>Demographic</th><th>Poverty rate (2022)</th></tr>
-  <tr><td>Asian</td><td>8.6%</td></tr>
-  <tr><td>NH White</td><td>8.6%</td></tr>
-  <tr><td>White</td><td>10.5%</td></tr>
-  <tr><td>Hispanic (any race)</td><td>16.9%</td></tr>
-  <tr><td>Black</td><td>17.1%</td></tr>
-  <tr><td>American Indian and Alaska Native</td><td>25.0%</td></tr>
-</table>
+
+|Demographic|Poverty rate (2022)|
+|---|---|
+|Asian|8.6%|
+|NH White|8.6%|
+|White|10.5%|
+|Hispanic (any race)|16.9%|
+|Black|17.1%|
+|American Indian and Alaska Native|25.0%|
 
 Source: [https://www.census.gov/library/publications/2023/demo/p60-280.html](https://www.census.gov/library/publications/2023/demo/p60-280.html)
 
