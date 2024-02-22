@@ -250,22 +250,24 @@ Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nv
 
 ### Educational attainment by race/ethnicity/gender <a name = "educational_attainment"> </a>
 
-|Demographic|Percent with a Bachelor’s degree (of people ages 25+. 2021 data)|
+|Demographic|Percent with a Bachelor’s degree (of people ages 25+. 2022 data)|
 |---|---|
-|Asian Men|58.2%|
-|Asian Women|54.9%|
-|White Women|39%|
-|White Men|37.6%|
-|Black Women|27.7%|
-|Hispanic Women|21.6%|
-|Black Men|21.5%|
-|Native Hawaiian/Pacific Islander Women|19%|
-|American Indian/Alaska Native Women|18.1%|
-|Hispanic Men|17.8%|
-|Native Hawaiian/Pacific Islander Men|17.4%|
-|American Indian/Alaska Native Men|14.1%|
+|Asian Men|59.3%|
+|Asian Women|55.7%|
+|NH White Women|40.2%|
+|White Women|39.7%|
+|NH White Men|38.8%
+|White Men|38.2%|
+|Black Women|28.4%|
+|Hispanic Women|22.4%|
+|Black Men|22.0%|
+|Native Hawaiian/Pacific Islander Women|20.2%|
+|American Indian/Alaska Native Women|19.6%|
+|Native Hawaiian/Pacific Islander Men|19.3%|
+|Hispanic Men|18.4%|
+|American Indian/Alaska Native Men|14.2%|
 
-Source: [https://data.census.gov/cedsci/table?t=Educational%20Attainment&tid=ACSST1Y2021.S1501](https://data.census.gov/cedsci/table?t=Educational%20Attainment&tid=ACSST1Y2021.S1501)
+Source: [https://data.census.gov/table/ACSST1Y2022.S1501?t=Educational Attainment&moe=false](https://data.census.gov/table/ACSST1Y2022.S1501?t=Educational Attainment&moe=false)
 
 |Demographic|Bachelor’s Degrees awarded from 2018-2019 (per 1k people)|
 |---|---|
