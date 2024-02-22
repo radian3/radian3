@@ -50,17 +50,17 @@ People who identify their origin as Hispanic, Latino, or Spanish may be of any r
 Source: [https://www.census.gov/topics/population/race/about.html](https://www.census.gov/topics/population/race/about.html)
 
 ### Percent of people of each race/ethnicity <a name="percent_of_each_race"></a>
-<table>
-  <tr><th>Demographic</th><th>Percent (2023)</th></tr>
-  <tr><td>White</td><td>75.5%</td></tr>
-  <tr><td>NH White</td><td>58.9%</td></tr>
-  <tr><td>Hispanic</td><td>19.1%</td></tr>
-  <tr><td>Black or African American</td><td>13.6%</td></tr>
-  <tr><td>Asian</td><td>6.3%</td></tr>
-  <tr><td>Two or More Races</td><td>3.0%</td></tr>
-  <tr><td>American Indian and Alaska Native</td><td>1.3%</td></tr>
-  <tr><td>Native Hawaiian and Other Pacific Islander</td><td>0.3%</td></tr>
-</table>
+
+|Demographic|Percent (2023)|
+|---|---|
+|White|75.5%|
+|NH White|58.9%|
+|Hispanic|19.1%|
+|Black or African American|13.6%|
+|Asian|6.3%|
+|Two or More Races|3.0%|
+|American Indian and Alaska Native|1.3%|
+|Native Hawaiian and Other Pacific Islander|0.3%|
 
 Source: [https://www.census.gov/quickfacts/fact/table/US/PST045221](https://www.census.gov/quickfacts/fact/table/US/PST045221)
 
