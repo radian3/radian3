@@ -267,7 +267,7 @@ Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nv
 |Hispanic Men|18.4%|
 |American Indian/Alaska Native Men|14.2%|
 
-Source: [https://data.census.gov/table/ACSST1Y2022.S1501?q=S1501](https://data.census.gov/table/ACSST1Y2022.S1501?q=S1501)
+Source: [https://data.census.gov/table/ACSST1Y2022.S1501?q=S1501](https://data.census.gov/table/ACSST1Y2022.S1501?q=S1501)  
 
 |Demographic|Bachelor’s Degrees awarded from 2018-2019 (per 1k people)|
 |---|---|
