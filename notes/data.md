@@ -192,6 +192,7 @@ Source: [https://www.census.gov/library/publications/2023/demo/p60-280.html](htt
   <tr>
     <td>Black men</td>
     <td>57.5</td>
+    <td>1 in 1739</td>
     <td>1 in 25</td>
     <td></td>
   </tr>
