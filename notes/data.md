@@ -225,14 +225,14 @@ The CDC ommitted data for Native Hawaiian/Pacific Islander women due to too smal
 
 |Demographic|Homicides committed per 100k in 2020|
 |---|---|
-|White Men|4.6|
-|White Women|0.6|
-|Black Men|34.9|
-|Black Women|2.8|
-|American Indian/Alaska Native Men|12.9|
-|American Indian/Alaska Native Women|4.4|
+|Asian/Native Hawaiian/Pacific Islander Women|0.1| 
 |Asian/Native Hawaiian/Pacific Islander Men|0.4|
-|Asian/Native Hawaiian/Pacific Islander Women|0.1|  
+|White Women|0.6|
+|Black Women|2.8|
+|American Indian/Alaska Native Women|4.4|
+|White Men|4.6|
+|American Indian/Alaska Native Men|12.9|
+|Black Men|34.9| 
 
 Source: [https://www.ojjdp.gov/ojstatbb/ezashr/asp/vic_selection.asp](https://www.ojjdp.gov/ojstatbb/ezashr/asp/vic_selection.asp)
 
@@ -266,22 +266,20 @@ Source: [https://www.ojjdp.gov/ojstatbb/ezashr/asp/vic_selection.asp](https://ww
 
 
 ### Percent of births to unmarried women <a name = "percent_of_births_to_unmarried_women"></a>
+
 <table>
 <tr>
   <th>Race</th>
-  <th>Percent of births to unmarried women (2020)</th>
+  <th>Percent of births to unmarried women (2021)</th>
   </tr>
-  <tr>
-  <td>Asian</td>
-  <td>12.2%</td>
-  </tr>
-  <tr><td>White</td><td>28.4%</td></tr>
-  <tr><td>Native Hawaiian or Other Pacific Islander</td><td>52%</td></tr>
-  <tr><td>American Indian or Alaska Native</td><td>69.6%</td></tr>
-  <tr><td>Black</td><td>70.4%</td></tr>
+  <tr><td>Asian</td><td>12.6%</td></tr>
+  <tr><td>White</td><td>27.5%</td></tr>
+  <tr><td>Native Hawaiian or Other Pacific Islander</td><td>51.8%</td></tr>
+  <tr><td>American Indian or Alaska Native</td><td>68.5%</td></tr>
+  <tr><td>Black</td><td>70.1%</td></tr>
   </table>
   
-Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-17.pdf)
+Source: CDC NCHS. Table 11 in [https://www.cdc.gov/nchs/data/nvsr/nvsr72/nvsr72-01.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr72/nvsr72-01.pdf)
 
 ### Obesity rate among adults by race/ethnicity/gender <a name = "obesity_rate"></a>
 
@@ -302,14 +300,16 @@ Source: National Health and Nutrition Examination Survey 2017. Table 5 in [https
 
 |Demographic|Life Expectancy (2019 data)|
 |---|---|
-|NH Asian Women|87.4|
-|Hispanic Women|84.4|
-|NH Asian Men|83.5|
-|NH White Women|81.3|
-|NH Men|79.1|
-|NH Black Women|78.1|
-|NH White Men|76.3|
-|NH Black Men|71.3|
+|NH Asian Women|85.6|
+|NH Asian Men|81.2|
+|Hispanic Women|81.1|
+|NH White Women|79.5|
+|NH Black Women|75.0|
+|Hispanic Men|74.6|
+|NH White Men|74.0|
+|American Indian/Alaska Native Women|69.2|
+|NH Black Men|67.6|
+|American Indian/Alaska Native Men|62.2|
 
 Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-19.pdf)
 
