@@ -65,21 +65,20 @@ Source: [https://www.census.gov/topics/population/race/about.html](https://www.c
 Source: [https://www.census.gov/quickfacts/fact/table/US/PST045221](https://www.census.gov/quickfacts/fact/table/US/PST045221)
 
 ### Median annual earnings by race/gender/ethnicity <a name="median_annual_earnings"></a>
-<table>
-  <tr><th>Demographic</th><th>Median annual earnings (2022)</th></tr>
-  <tr><td>Asian men</td><td>$87,410</td></tr>
-  <tr><td>NH White men</td><td>$71,590</td></tr>
-  <tr><td>Asian women</td><td>$70,580</td></tr>
-  <tr><td>White men</td><td>$65,110</td></tr>
-  <tr><td>Men</td><td>$62,350</td></tr>
-  <tr><td>NH White women</td><td>$57,250</td></tr>
-  <tr><td>White women</td><td>$53,120</td></tr>
-  <tr><td>Women</td><td>$52,360</td></tr>
-  <tr><td>Black men</td><td>$51,640</td></tr>
-  <tr><td>Black women</td><td>$49,470</td></tr>
-  <tr><td>Hispanic men</td><td>$47,420</td></tr>
-  <tr><td>Hispanic women</td><td>$41,140</td></tr>
-</table>
+
+|Demographic|Median annual earnings (2022)|
+|Asian Men|$87,410|
+|NH White Men|$71,590|
+|Asian Women|$70,580|
+|White Men|$65,110|
+|Men|$62,350|
+|NH White Women|$57,250|
+|White Women|$53,120|
+|Women|$52,360|
+|Black Men|$51,640|
+|Black Women|$49,470|
+|Hispanic Men|$47,420|
+|Hispanic Women|$41,140|
   
 Source: [https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispanic-ethnicity](https://www.dol.gov/agencies/wb/data/earnings/median-annual-sex-race-hispanic-ethnicity)
 
