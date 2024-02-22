@@ -222,7 +222,7 @@ Column 4 (Chance of being a victim in 70 years) is 1/(1-(((column_3_value-1)/(co
 The CDC ommitted data for Native Hawaiian/Pacific Islander women due to too small of a sample size.
 
 ### Number of homicides committed by each demographic <a name = "number_of_homicides_committed_by_each_demographic"></a>
-|Demographic|Homicides committed per 100k|
+|Demographic|Homicides committed per 100k in 2020|
 |---|---|
 |White Men|4.6|
 |White Women|0.6|
@@ -231,53 +231,26 @@ The CDC ommitted data for Native Hawaiian/Pacific Islander women due to too smal
 |American Indian/Alaska Native Men|12.9|
 |American Indian/Alaska Native Women|4.4|
 |Asian/Native Hawaiian/Pacific Islander Men|0.4|
-|Asian/Native Hawaiian/Pacific Islander Women|0.1|
+|Asian/Native Hawaiian/Pacific Islander Women|0.1|  
+
+Source: [https://www.ojjdp.gov/ojstatbb/ezashr/asp/vic_selection.asp](https://www.ojjdp.gov/ojstatbb/ezashr/asp/vic_selection.asp)
+
 ### Which demographic is murdering which demographic <a name = "which_demographic_is_murdering_which_demographic"></a>
 
-Data for this section is from 2019.
+Data for this section is from 2020.
 
-<table>
-  <th>Race/Ethnicity of murder victim</th>
-  <th>% deaths by White offender</th>
-  <th>% deaths by Black offender</th>
-  <th>% deaths by Hispanic offender</th>
-  <tr>
-    <td>White</td>
-    <td>81%</td>
-    <td>18%</td>
-    <td>23%</td>
-  </tr>
-  <tr>
-    <td>Black</td>
-    <td>9%</td>
-    <td>91%</td>
-    <td>3%</td>
-  </tr>
-  <tr>
-    <td>Hispanic</td>
-    <td>80%</td>
-    <td>19%</td>
-    <td>63%</td>
-  </tr>
-</table>
-Note: The above percentages in the rows will not add up to 100% because someone who is Hispanic may be of any race
-<table>
-  <th>Gender of murder victim</th>
-  <th>% deaths by Male offender</th>
-  <th>% deaths by Female offender</th>
-  <tr>
-    <td>Male</td>
-    <td>90%</td>
-    <td>10%</td>
-  </tr>
-  <tr>
-    <td>Female</td>
-    <td>89%</td>
-    <td>11%</td>
-  </tr>
-</table>
+|Offender|White Man Victim|White Woman Victim|Black Man Victim|Black Woman Victim|American Indian/Alaska Native Man Victim|American Indian/Alaska Native Woman Victim|Asian/Native Hawaiian/Pacific Islander Man Victim|Asian/Native Hawaiian/Pacific Islander Woman Victim|
+|---|---|---|---|---|---|---|---|---|
+|White Men|58.4%|28.4%|9.6%|1.5%|0.7%|0.2%|0.8%|0.5%|
+|White Women|63.3%|21.5%|10.8%|1.9%|0.7%|0.6%|1.2%|0%|
+|Black Men|13.5%|5.4%|65.6%|14.6%|0.2%|0.1%|0.4%|0.2%|
+|Black Women|6.5%|4.1%|63.3%|24.9%|0.2%|0%|0.3%|0.3%|
+|American Indian/Alaska Native Men|20.8%|6.5%|6.5%|0%|40.5%|24.4%|0.6%|0.6%|
+|American Indian/Alaska Native Women|19.3%|0%|7%|0%|59.6%|12.3%|0%|1.8%|
+|Asian/Native Hawaiian/Pacific Islander Men|16.3%|8.7%|16.9%|0.6%|0.6%|1.2%|27.9%|27.3%|
+|Asian/Native Hawaiian/Pacific Islander Women|22.2%|0%|7.4%|0%|0%|0%|48.1%|18.5%|
 
-Source: [https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/expanded-homicide-data-table-6.xls](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/expanded-homicide-data-table-6.xls)
+Source: [https://www.ojjdp.gov/ojstatbb/ezashr/asp/vic_selection.asp](https://www.ojjdp.gov/ojstatbb/ezashr/asp/vic_selection.asp)
 
 
 ### Percent of births to unmarried women <a name = "percent_of_births_to_unmarried_women"></a>
