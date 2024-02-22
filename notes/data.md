@@ -250,6 +250,17 @@ Data for this section is from 2020.
 |Asian/Native Hawaiian/Pacific Islander Men|16.3%|8.7%|16.9%|0.6%|0.6%|1.2%|27.9%|27.3%|
 |Asian/Native Hawaiian/Pacific Islander Women|22.2%|0%|7.4%|0%|0%|0%|48.1%|18.5%|
 
+|Victim|White Man Offender|White Woman Offender|Black Man Offender|Black Woman Offender|American Indian/Alaska Native Man Offender|American Indian/Alaska Native Woman Offender|Asian/Native Hawaiian/Pacific Islander Man Offender|Asian/Native Hawaiian/Pacific Islander Woman Offender|
+|---|---|---|---|---|---|---|---|---|
+|White Men|66.9%|9.6%|20.8%|0.9%|0.8%|0.2%|0.6%|0.1%|
+|White Women|71.8%|7.2%|18.4%|1.2%|0.5%|0%|0.7%|0%|
+|Black Men|8.9%|1.3%|81.9%|7%|0.2%|0.1%|0.5%|0%|
+|Black Women|6.2%|1.1%|80.4%|12.1%|0%|0%|0.1%|0%|
+|American Indian/Alaska Native Men|21.9%|3.1%|10%|0.6%|42.5%|21.3%|0.6%|0%|
+|American Indian/Alaska Native Women|13.7%|5.5%|11%|0%|56.2%|9.6%|2.7%|0%|
+|Asian/Native Hawaiian/Pacific Islander Men|28%|5.6%|20.3%|1.4%|0.7%|0%|33.6%|9.1%|
+|Asian/Native Hawaiian/Pacific Islander Women|25.3%|0%|12.1%|2.2%|1.1%|1.1%|51.6%|5.5%|
+
 Source: [https://www.ojjdp.gov/ojstatbb/ezashr/asp/vic_selection.asp](https://www.ojjdp.gov/ojstatbb/ezashr/asp/vic_selection.asp)
 
 
