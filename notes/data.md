@@ -463,25 +463,25 @@ Source: US Census ACS. B05006. PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN
 
 Source: US Census ACS B06004D. PLACE OF BIRTH (ASIAN ALONE) IN THE UNITED STATES. 2022. [https://data.census.gov/table/ACSDT1Y2022.B06004D?q=Place%20of%20Birth&t=Asian](https://data.census.gov/table/ACSDT1Y2022.B06004D?q=Place%20of%20Birth&t=Asian)
 
-|Place of birth (Black, 2021 data)|Estimate|Percent|
+|Place of birth (Black, 2022 data)|Estimate|Percent|
 |---|---|---|
 |Total|40,194,304|100%|
-|Born in state of residence|25,765,813|64.1%|
-|Born in other state in the US|9,889,051|24.6%|
+|Born in state of residence|25,765,813|63.4%|
+|Born in other state in the US|9,889,051|24.8%|
 |Native; born outside the US|469,174|1.2%|
-|Foreign born|4,070,266|10.1%|
+|Foreign born|4,070,266|10.6%|
 
-Source: US Census ACS. B06004B. PLACE OF BIRTH (BLACK OR AFRICAN AMERICAN ALONE) IN THE UNITED STATES. 2021 ACS 1-year estimates. [https://data.census.gov/cedsci/table?t=Black%20or%20African%20American&tid=ACSDT1Y2021.B06004B](https://data.census.gov/cedsci/table?t=Black%20or%20African%20American&tid=ACSDT1Y2021.B06004B)
+Source: US Census ACS. B06004B. PLACE OF BIRTH (BLACK OR AFRICAN AMERICAN ALONE) IN THE UNITED STATES. 2022 ACS 1-year estimates. [https://data.census.gov/table/ACSDT1Y2022.B06004B?t=Black%20or%20African%20American&tid=ACSDT1Y2021.B06004B](https://data.census.gov/table/ACSDT1Y2022.B06004B?t=Black%20or%20African%20American&tid=ACSDT1Y2021.B06004B)
 
-|Place of birth (White, 2021 data)|Estimate|Percent|
+|Place of birth (White, 2022 data)|Estimate|Percent|
 |---|---|---|
-|Total|202,981,791|100%|
-|Born in state of residence|124,894,526|62%|
-|Born in other state in the US|66,641,814|32.8%|
-|Native; born outside the US|2,016,748|1%|
-|Foreign born|9,428,703|4.6%|
+|Total|202,889,017|100%|
+|Born in state of residence|124,894,526|61.2%|
+|Born in other state in the US|67,299,213|33.2%|
+|Native; born outside the US|2,055,688|1.0%|
+|Foreign born|9,366,727|4.6%|
 
-Source: US Census ACS B06004A. PLACE OF BIRTH (WHITE ALONE) IN THE UNITED STATES. 2021. [https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=White](https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=White)
+Source: US Census ACS B06004A. PLACE OF BIRTH (WHITE ALONE) IN THE UNITED STATES. 2022. [https://data.census.gov/table/ACSDT1Y2022.B06004A?q=Place%20of%20Birth&t=White](https://data.census.gov/table/ACSDT1Y2022.B06004A?q=Place%20of%20Birth&t=White)
 
 |Place of birth (Hispanic, 2021 data)|Estimate|Percent|
 |---|---|---|
