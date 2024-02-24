@@ -449,7 +449,7 @@ Source: Bratter and King. "But Will It Last?": Marital Instability Among Interra
 |Asia|14,349,080|31.1%|
 |Europe|4,728,948|10.2%|
 |Africa|2,752,965|6.0%|
-|Oceania|288,560|0.62%|
+|Oceania|288,560|0.6%|
 
 Source: US Census ACS. B05006. PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN THE UNITED STATES. 2021 ACS 1-Year Estimate. [https://data.census.gov/cedsci/table?q=PLACE%20OF%20BIRTH&tid=ACSDT1Y2021.B05006](https://data.census.gov/cedsci/table?q=PLACE%20OF%20BIRTH&tid=ACSDT1Y2021.B05006)
 
