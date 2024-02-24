@@ -401,7 +401,7 @@ Source: Pew Research Center. [https://www.pewresearch.org/social-trends/2018/05/
 Marital Status of the Population 15 Years Old and Over (2023)
 
 |Demographic|Married|Never married|Widowed|Divorced|
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 |White Men|54.0%|34.2%|3.0%|8.8%|
 |Black Men|37.0%|51.7%|2.7%|8.6%|
 |Asian Men|59.9%|35.9%|1.5%|2.7%|
