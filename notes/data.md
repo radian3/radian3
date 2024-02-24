@@ -288,7 +288,7 @@ Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts
 
 ### Incarceration Rate by race/ethnicity/gender <a name = "incarceration_rate"></a>
 
-|Demographic|People in prison in 2020 (per 100k)|1 in ...|
+|Demographic|People in prison in 2022 (per 100k)|1 in ...|
 |---|---|---|
 |Asian Women|5|1 in 20000|
 |NH White Women|40|1 in 2500|
@@ -304,19 +304,19 @@ Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts
 Note 1: Column 2 includes state and federal prisons
 Note 2: Column 3 is column 2 divided by 100,000
 
-Source: US DOJ. [https://bjs.ojp.gov/content/pub/pdf/p20st.pdf](https://bjs.ojp.gov/content/pub/pdf/p20st.pdf)
+Source: US DOJ. [https://bjs.ojp.gov/document/p22st.pdf](https://bjs.ojp.gov/document/p22st.pdf)
 
 ### Maternal mortality rates by race/ethnicity <a name = "maternal_mortality_rate"></a>
 
-|Demographic|Maternal Mortality Rate in 2020 (per 100k births)|1 in ...|
+|Demographic|Maternal Mortality Rate in 2021 (per 100k births)|1 in ...|
 |---|---|---|
-|Hispanic|18.2|1 in 5,495|
-|NH White|19.1|1 in 5,236|
-|NH Black|55.3|1 in 1,808|
+|NH White|26.6|1 in 3,759|
+|Hispanic|28.0|1 in 3,571|
+|NH Black|69.9|1 in 1,431|
 
 The maternal mortality rate here is defined as the number of deaths per 100,000 live births.
 
-Source: CDC. [https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2020/maternal-mortality-rates-2020.htm](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2020/maternal-mortality-rates-2020.htm)
+Source: CDC. [https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.pdf](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.pdf)
 
 ### Political Affiliation <a name = "political_affiliation"></a>
 
