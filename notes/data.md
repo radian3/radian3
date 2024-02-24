@@ -442,7 +442,7 @@ Source: Bratter and King. "But Will It Last?": Marital Instability Among Interra
 
 ### Foreign Born Data <a name = "foreign_born_data"></a>
 
-|Region|Foreign Born Population (2021)|% of total Foreign Born Population|
+|Region|Foreign Born Population (2022)|% of total Foreign Born Population|
 |---|---|---|
 |All|46,182,089|100%|
 |Americas|24,062,536|52.1%|
@@ -451,7 +451,7 @@ Source: Bratter and King. "But Will It Last?": Marital Instability Among Interra
 |Africa|2,752,965|6.0%|
 |Oceania|288,560|0.6%|
 
-Source: US Census ACS. B05006. PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN THE UNITED STATES. 2021 ACS 1-Year Estimate. [https://data.census.gov/cedsci/table?q=PLACE%20OF%20BIRTH&tid=ACSDT1Y2021.B05006](https://data.census.gov/cedsci/table?q=PLACE%20OF%20BIRTH&tid=ACSDT1Y2021.B05006)
+Source: US Census ACS. B05006. PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN THE UNITED STATES. 2021 ACS 1-Year Estimate. [https://data.census.gov/table/ACSDT1Y2022.B05006?q=PLACE%20OF%20BIRTH](https://data.census.gov/table/ACSDT1Y2022.B05006?q=PLACE%20OF%20BIRTH)
 
 |Place of birth (Asian, 2021 data)|Estimate|Percent|
 |---|---|---|
