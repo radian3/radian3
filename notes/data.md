@@ -290,14 +290,16 @@ Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts
 
 |Demographic|People in prison in 2020 (per 100k)|1 in ...|
 |---|---|---|
-|NH Asian Women|6|1 in 16,667|
-|NH White Women|39|1 in 2,564|
-|Hispanic Women|48|1 in 2,083|
-|NH Black Women|71|1 in 1,408|
-|NH Asian Men|142|1 in 704|
-|NH White Men|336|1 in 298|
-|Hispanic Men|840|1 in 119|
-|NH Black Men|1877|1 in 53|
+|NH White Men|337|1 in 297|
+|NH Black Men|1826|1 in 55|
+|Hispanic Men|794|1 in 126|
+|American Indian/Alaska Native|1443|1 in 69|
+|Asian|141|1 in 709|
+|NH White Women|40|1 in 2500|
+|NH Black Women|64|1 in 1562|
+|Hispanic Women|49|1 in 2041|
+|American Indian/Alaska Native Women|173|1 in 578|
+|Asian Women|5|1 in 20000|
 
 Note 1: Column 2 includes state and federal prisons
 Note 2: Column 3 is column 2 divided by 100,000
