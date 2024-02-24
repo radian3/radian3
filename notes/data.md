@@ -335,14 +335,15 @@ Source: Pew Research Center. [https://www.pewresearch.org/politics/2021/06/30/be
 
 ### Homeownership rate by race/ethnicity <a name = "homeownership_rate"></a>
 
-|Demographic|Homeownership Rate (2020)|
+|Demographic|Homeownership Rate (2022)|
 |---|---|
-|White|72.6%|
-|Asian|62.7%|
-|Hispanic|50.1%|
-|Black|44.0%|
+|NH White|73.0%|
+|White|72.2%|
+|Asian|63.3%|
+|Hispanic|51.1%|
+|Black|44.1%|
 
-Source: [https://data.census.gov/cedsci/table?t=Owner%2FRenter%20%28Tenure%29%3ARace%20and%20Ethnicity&tid=ACSDT1Y2021.B25003A](https://data.census.gov/cedsci/table?t=Owner%2FRenter%20%28Tenure%29%3ARace%20and%20Ethnicity&tid=ACSDT1Y2021.B25003A)
+Source: [https://data.census.gov/table/ACSDT1Y2022.B25003H?t=Owner/Renter%20(Tenure):Race%20and%20Ethnicity](https://data.census.gov/table/ACSDT1Y2022.B25003H?t=Owner/Renter%20(Tenure):Race%20and%20Ethnicity)
 
 ### Disability rate by race/ethnicity <a name = "disability_rate"></a>
 
