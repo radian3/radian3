@@ -483,6 +483,15 @@ Source: US Census ACS. B06004B. PLACE OF BIRTH (BLACK OR AFRICAN AMERICAN ALONE)
 
 Source: US Census ACS B06004A. PLACE OF BIRTH (WHITE ALONE) IN THE UNITED STATES. 2022. [https://data.census.gov/table/ACSDT1Y2022.B06004A?q=Place%20of%20Birth&t=White](https://data.census.gov/table/ACSDT1Y2022.B06004A?q=Place%20of%20Birth&t=White)
 
+|Place of birth (NH White, 2022 data)|Estimate|Percent|
+|Total|192,153,076|100%|
+|Born in state of residence|117,687,523|61.2%|
+|Born in other state in the US|65,324,566|34.0%|
+|Native; born outside the US|1,645,291|0.9%|
+|Foreign born|7,495,696|3.9%|
+
+Source: US Census ACS B06004H. PLACE OF BIRTH (WHITE ALONE, NOT HISPANIC OR LATINO) IN THE UNITED STATES. 2022. [https://data.census.gov/table/ACSDT1Y2022.B06004H?q=Place%20of%20Birth&t=White](https://data.census.gov/table/ACSDT1Y2022.B06004H?q=Place%20of%20Birth&t=White)
+
 |Place of birth (Hispanic, 2021 data)|Estimate|Percent|
 |---|---|---|
 |Total|63,553,639|100%|
