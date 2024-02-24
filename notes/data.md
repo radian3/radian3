@@ -143,17 +143,17 @@ Source: [https://www.census.gov/library/publications/2023/demo/p60-280.html](htt
 
 Demographic|Homicide victims per 100k in 2021|Chance of being a victim in 1 year|Chance of being a victim in 70 years|
 |---|---|---|---|
-|NH White Men|4.4|1 in 22,727|1 in 325|
 |NH White Women|1.9|1 in 52,631|1 in 752|
 |White Women|2.0|1 in 50,000|1 in 715|
 |Hispanic Women|2.5|1 in 40,000|1 in 572|
+|American Indian/Alaska Native Women|3.4|1 in 29,412|1 in 421|
+|NH White Men|4.4|1 in 22,727|1 in 325|
 |White Men|6.2|1 in 16,129|1 in 231|
 |Black Women|8.9|1 in 11,236|1 in 161|
-|Hispanic Men|11.6|1 in 8,621|1 in 124|
-|Black Men|57.5|1 in 1,739|1 in 25|
-|American Indian/Alaska Native Women|3.4|1 in 29,412|1 in 421|
-|American Indian/Alaska Native Men|12.8|1 in 7,812|1 in 112|
 |Native Hawaiian/Pacific Islander Men|10.5|1 in 9,524|1 in 137|
+|Hispanic Men|11.6|1 in 8,621|1 in 124|
+|American Indian/Alaska Native Men|12.8|1 in 7,812|1 in 112|
+|Black Men|57.5|1 in 1,739|1 in 25|
 
 Column 2 (Homicides per 100k in 2020) source: [https://wonder.cdc.gov/ucd-icd10-expanded.html](https://wonder.cdc.gov/ucd-icd10-expanded.html)<br>
 Column 3 (Chance of being a victim in 1 year) is 100k divided by the value in column 2<br>
