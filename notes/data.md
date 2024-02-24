@@ -269,16 +269,20 @@ Source: National Vital Statistics Report. [https://www.cdc.gov/nchs/data/nvsr/nv
 
 Source: [https://data.census.gov/table/ACSST1Y2022.S1501?q=S1501](https://data.census.gov/table/ACSST1Y2022.S1501?q=S1501)  
 
-|Demographic|Bachelor’s Degrees awarded from 2018-2019 (per 1k people)|
+|Demographic|Bachelor’s Degrees awarded from 2020-2021 (per 1k people)|
 |---|---|
-|NH White Women|6.8|
-|NH Black Women|6.1|
-|Hispanic Women|5.6|
+|American Indian/Alaska Native Men|2.4|
+|NH Black Men|3.8|
+|Hispanic Men|3.9|
+|American Indian/Alaska Native Men|4.3|
 |NH White Men|5.2|
-|Hispanic Men|3.6|
-|NH Black Men|3.4|
+|Hispanic Women|6.5|
+|NH Black Women|6.6|
+|NH White Women|6.9|
+|Asian/Pacific Islander Men|8.0|
+|Asian/Pacific Islander Women|9.1|
 
-Using Non-Hispanic White Women as an example, this table is saying "for every 1000 non-hispanic white women alive in the USA, 6.8 of them earned a Bachelor’s degree from 2018-2019."
+Using Non-Hispanic White Women as an example, this table is saying "for every 1000 non-hispanic white women alive in the USA, 6.8 of them earned a Bachelor’s degree from 2020-2021."
 
 Source: National Center for Education Statistics. [https://nces.ed.gov/fastfacts/display.asp?id=72](https://nces.ed.gov/fastfacts/display.asp?id=72)
 
