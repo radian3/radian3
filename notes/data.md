@@ -455,21 +455,21 @@ Source: US Census ACS. B05006. PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN
 
 |Place of birth (Asian, 2022 data)|Estimate|Percent|
 |---|---|---|
-|Total|19,157,288|100%|
-|Born in state of residence|4,802,441|25.0%|
-|Born in other state in the US|1,696,987|9.3%|
-|Native; born outside the US|388,954|2.0%|
-|Foreign born|12,268,906|63.8%|
+|Total|19,696,980|100%|
+|Born in state of residence|4,922,626|25.0%|
+|Born in other state in the US|1,825,111|9.3%|
+|Native; born outside the US|391,921|2.0%|
+|Foreign born|12,557,322|63.8%|
 
 Source: US Census ACS B06004D. PLACE OF BIRTH (ASIAN ALONE) IN THE UNITED STATES. 2022. [https://data.census.gov/table/ACSDT1Y2022.B06004D?q=Place%20of%20Birth&t=Asian](https://data.census.gov/table/ACSDT1Y2022.B06004D?q=Place%20of%20Birth&t=Asian)
 
 |Place of birth (Black, 2022 data)|Estimate|Percent|
 |---|---|---|
-|Total|40,194,304|100%|
-|Born in state of residence|25,765,813|63.4%|
-|Born in other state in the US|9,889,051|24.8%|
-|Native; born outside the US|469,174|1.2%|
-|Foreign born|4,070,266|10.6%|
+|Total|40,603,656|100%|
+|Born in state of residence|25,751,707|63.4%|
+|Born in other state in the US|10,074,748|24.8%|
+|Native; born outside the US|493,427|1.2%|
+|Foreign born|4,283,774|10.6%|
 
 Source: US Census ACS. B06004B. PLACE OF BIRTH (BLACK OR AFRICAN AMERICAN ALONE) IN THE UNITED STATES. 2022 ACS 1-year estimates. [https://data.census.gov/table/ACSDT1Y2022.B06004B?t=Black%20or%20African%20American&tid=ACSDT1Y2021.B06004B](https://data.census.gov/table/ACSDT1Y2022.B06004B?t=Black%20or%20African%20American&tid=ACSDT1Y2021.B06004B)
 
@@ -485,13 +485,13 @@ Source: US Census ACS B06004A. PLACE OF BIRTH (WHITE ALONE) IN THE UNITED STATES
 
 |Place of birth (Hispanic, 2021 data)|Estimate|Percent|
 |---|---|---|
-|Total|62,529,064|100%|
-|Born in state of residence|31,960,164|51%|
-|Born in other state in the US|7,965,467|12.7%|
-|Native; born outside the US|2,677,907|4.3%|
-|Foreign born|19,925,526|31.9%|
+|Total|63,553,639|100%|
+|Born in state of residence|32,078,465|50.5%|
+|Born in other state in the US|8,348,674|13.1%|
+|Native; born outside the US|2,747,951|4.3%|
+|Foreign born|20,378,549|32.1%|
 
-Source: US Census ACS B06004. PLACE OF BIRTH (HISPANIC OR LATINO) IN THE UNITED STATES. 2021. [https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=Hispanic%20or%20Latino&tid=ACSDT1Y2021.B06004I](https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=Hispanic%20or%20Latino&tid=ACSDT1Y2021.B06004I)
+Source: US Census ACS B06004. PLACE OF BIRTH (HISPANIC OR LATINO) IN THE UNITED STATES. 2022. [https://data.census.gov/table/ACSDT1Y2022.B06004I?q=Place%20of%20Birth&t=Hispanic%20or%20Latino](https://data.census.gov/table/ACSDT1Y2022.B06004I?q=Place%20of%20Birth&t=Hispanic%20or%20Latino)
 
 
 ### Household type children are growing up in by race/ethnicity <a name = "household_type_race_ethnicity"></a>
