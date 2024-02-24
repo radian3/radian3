@@ -453,15 +453,15 @@ Source: Bratter and King. "But Will It Last?": Marital Instability Among Interra
 
 Source: US Census ACS. B05006. PLACE OF BIRTH FOR THE FOREIGN-BORN POPULATION IN THE UNITED STATES. 2021 ACS 1-Year Estimate. [https://data.census.gov/table/ACSDT1Y2022.B05006?q=PLACE%20OF%20BIRTH](https://data.census.gov/table/ACSDT1Y2022.B05006?q=PLACE%20OF%20BIRTH)
 
-|Place of birth (Asian, 2021 data)|Estimate|Percent|
+|Place of birth (Asian, 2022 data)|Estimate|Percent|
 |---|---|---|
 |Total|19,157,288|100%|
-|Born in state of residence|4,802,441|25%|
-|Born in other state in the US|1,696,987|8.9%|
-|Native; born outside the US|388,954|2%|
-|Foreign born|12,268,906|64%|
+|Born in state of residence|4,802,441|25.0%|
+|Born in other state in the US|1,696,987|9.3%|
+|Native; born outside the US|388,954|2.0%|
+|Foreign born|12,268,906|63.8%|
 
-Source: US Census ACS B06004D. PLACE OF BIRTH (ASIAN ALONE) IN THE UNITED STATES. 2021. [https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=Asian](https://data.census.gov/cedsci/table?q=Place%20of%20Birth&t=Asian)
+Source: US Census ACS B06004D. PLACE OF BIRTH (ASIAN ALONE) IN THE UNITED STATES. 2022. [https://data.census.gov/table/ACSDT1Y2022.B06004D?q=Place%20of%20Birth&t=Asian](https://data.census.gov/table/ACSDT1Y2022.B06004D?q=Place%20of%20Birth&t=Asian)
 
 |Place of birth (Black, 2021 data)|Estimate|Percent|
 |---|---|---|
