@@ -540,9 +540,15 @@ This table was made from doing calculations from the table above it. The chance 
 
 |Race/Ethnicity of child|% of children in a single parent household that live with the father|% of children in a single parent household that live with the mother|
 |---|---|---|
-|Asian|30.7%|69.3%|
-|White|30.3%|69.7%|
-|Hispanic|26.5%|73.5%|
-|Black|13.6%|86.4%|
+|One race|25.6%|74.4%|
+|White|31.3%|68.7%|
+|Black|13.0%|87.0%|
+|American Indian/Alaska Native|29.2%|70.8%|
+|Asian|32.2%|67.8%|
+|Native Hawaiian/Pacific Islander|25.6%|74.4%|
+|Some other race|31.4%|68.6%|
+|Two or more races|25.7%|74.3%|
+|Hispanic or Latino|27.9%|72.1%|
+|NH White|32.5%|67.5%|
 
 This table was also made from doing calculations from the first table in this section. This table is looking at all children who are growing up in a one parent household and mentioning which of these children are growing up with the mother vs the father.
