@@ -510,12 +510,18 @@ Children under 18 years of age in households
 
 |Race/Ethnicity of child|% of children in two parent household|% of children in male household, no spouse present|% of children in female household, no spouse present|
 |---|---|---|---|
-|Asian|85%|4.3%|9.7%|
-|White|75.6%|7.4%|17.0%|
-|Hispanic|60.7%|10.4%|28.9%|
-|Black|38%|8.3%|52.7%|
+|One race|67.5%|8.1%|23.7%|
+|White|74.9%|7.6%|16.8%|
+|Black|39.1%|7.9%|52.7%|
+|American Indian/Alaska Native|54.5%|13.7%|33.2%|
+|Asian|84.6%|4.7%|9.8%|
+|Native Hawaiian/Pacific Islander|66.6%|12.6%|36.5%|
+|Some other race|59.4%|12.5%|27.2%|
+|Two or more races|62.7%|9.4%|27.2%|
+|Hispanic or Latino|60.0%|11.0%|28.4%|
+|NH White|76.3%|7.5%|15.5%|
 
-Source: Us Census ACS. 2021. S0901 Children Characteristics. [https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901](https://data.census.gov/cedsci/table?t=Children&tid=ACSST1Y2021.S0901)
+Source: Us Census ACS. 2022. S0901 Children Characteristics. [https://data.census.gov/table/ACSST1Y2022.S0901?t=Children](https://data.census.gov/table/ACSST1Y2022.S0901?t=Children)
 
 |Race/Ethnicity of child|% of children that have a father in the household|% of children that have a mother in the household|
 |---|---|---|
