@@ -402,14 +402,14 @@ Marital Status of the Population 15 Years Old and Over (2023)
 
 |Demographic|Married|Never married|Widowed|Divorced|
 |---|---|---|---|---|
-|White Men|54.0%|34.2%|3.0%|8.8%|
-|Black Men|37.0%|51.7%|2.7%|8.6%|
-|Asian Men|59.9%|35.9%|1.5%|2.7%|
-|Hispanic Men|45.5%|46.2%|1.9%|6.3%|
-|White Women|52.5%|27.6%|8.7%|11.2%|
-|Black Women|32.9%|47.9%|7.6%|11.6%|
 |Asian Women|62.1%|27.1%|5.7%|5.2%|
+|Asian Men|59.9%|35.9%|1.5%|2.7%|
+|White Men|54.0%|34.2%|3.0%|8.8%|
+|White Women|52.5%|27.6%|8.7%|11.2%|
 |Hispanic Women|47.5%|38.8%|5.1%|8.6%|
+|Hispanic Men|45.5%|46.2%|1.9%|6.3%|
+|Black Men|37.0%|51.7%|2.7%|8.6%|
+|Black Women|32.9%|47.9%|7.6%|11.6%|
 
 Source: US Census ACS. Table MS-1. Marital Status of the Population 15 Years Old and Over, by Sex, Race and Hispanic Origin: 1950 to Present. [https://www.census.gov/data/tables/time-series/demo/families/marital.html](https://www.census.gov/data/tables/time-series/demo/families/marital.html)
 
